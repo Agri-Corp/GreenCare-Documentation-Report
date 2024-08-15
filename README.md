@@ -34,10 +34,12 @@
     Quispe Erasmo, Raul Ronaldo - U20211b682
     <br><br>
   </p>
-  <h3>2024-02</h3>
+  <h3>Agosto, 2024</h3>
 </div>
 
 <br>
+
+<hr>
 
 ## Registro de Versiones del Informe
 
@@ -64,13 +66,4 @@
         </tr>
     </tbody>
 </table>
-
-
-
-
-
-
-
-
-
 
