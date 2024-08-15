@@ -36,3 +36,41 @@
   </p>
   <h3>2024-02</h3>
 </div>
+
+<br>
+
+## Registro de Versiones del Informe
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Versión</th>
+            <th>Fecha</th>
+            <th>Autor</th>
+            <th>Descripción</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="10">TB1</td>
+            <td>14/08/2024</td>
+            <td>José Huamani</td>
+            <td>Desarrollo de la carátula del informe</td>
+        </tr>
+        <tr>
+            <td>29/03/2023</td>
+            <td>Ramiro Villanueva</td>
+            <td>Desarrollo del capítulo II: Competidores</td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+
+
+
+
+
