@@ -272,3 +272,37 @@
         </td>
     </tr>
 </table>
+
+<h2 id="introduction">CAPÍTULO 1: INTRODUCCIÓN</h2>
+
+<h3 id="startupProfile">1.1. Startup Profile</h3>
+
+<h4 id="descriptionStartup">1.1.1. Descripción de la Startup</h4>
+
+<h4 id="teamProfile"> 1.1.2. Perfiles de integrantes del equipo</h4>
+
+<h3 id="solutionProfile">1.2. Solution Profile</h4>
+
+<h4 id="Antecedents">1.2.1. Antecedentes y problemática</h4>
+
+<h4 id="leanUXProcess"> 1.2.2. Lean UX Process</h4>
+
+<h4 id="problemStatement"> 1.2.2.1. Lean UX Problem Statements<h4>
+
+<h4 id="assumptions">1.2.2.2. Lean UX Assumptions<h4>
+
+<h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements<h4>
+
+<h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
+
+<h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
+
+
+
+
+
+
+
+
+
+
