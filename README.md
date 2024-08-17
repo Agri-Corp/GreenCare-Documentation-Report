@@ -324,3 +324,16 @@
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
+
+<h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
+
+<h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h4>
+
+<h3 id="userStories">3.2. User Stories</h4>
+
+<h3 id="impactMapping">3.3. Impact Mapping</h4>
+
+<h3 id="productBacklog">3.4. Product Backlog</h4>
+
+
+
