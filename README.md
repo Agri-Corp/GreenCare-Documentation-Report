@@ -59,11 +59,210 @@
             <td>José Huamani</td>
             <td>Desarrollo de la carátula del informe</td>
         </tr>
-        <tr>
-            <td>29/03/2023</td>
-            <td>Ramiro Villanueva</td>
-            <td>Desarrollo del capítulo II: Competidores</td>
-        </tr>
     </tbody>
 </table>
 
+
+## Contenido
+
+<a href="">CAPÍTULO 1: INTRODUCCIÓN</a>
+
+<a href="">1.1. Startup Profile</a>
+
+<a href="">&nbsp; &nbsp; 1.1.1. Descripción de la Startup</a>
+
+<a href="">&nbsp; &nbsp; 1.1.2. Perfiles de Integrantes del equipo</a>
+
+<a href="">1.2. Solution Profile</a>
+
+<a href="">&nbsp; &nbsp; 1.2.1. Antecedentes y problemática</a>
+
+<a href="">&nbsp; &nbsp; 1.2.2. Lean UX Process</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp; 1.2.2.1. Lean UX Problem Statement</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp; 1.2.2.2. Lean UX Assumptions</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp; 1.2.2.3. Lean UX Hypothesis Statements</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp; 1.2.2.4. Lean UX Canvas</a>
+
+<a href="">1.3. Segmentos objetivos</a>
+
+<a href="">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</a>
+
+<a href="">2.1. Competidores</a>
+
+<a href="">&nbsp; &nbsp; 2.1.1. Análisis Competitivo</a>
+
+<a href="">&nbsp; &nbsp; 2.1.2. Estrategias y tácticas frente a competidores</a>
+
+<a href="">2.2. Entrevistas</a>
+
+<a href="">&nbsp; &nbsp; 2.2.1. Diseño de enetrevistas</a>
+
+<a href="">&nbsp; &nbsp; 2.2.2. Registro de entrevistas</a>
+
+<a href="">&nbsp; &nbsp; 2.2.2. Análisis de entrevistas</a>
+
+<a href="">2.3. Needfinding</a>
+
+<a href="">&nbsp; &nbsp; 2.3.1. User Personas</a>
+
+<a href="">&nbsp; &nbsp; 2.3.2. User Task Matrix</a>
+
+<a href="">&nbsp; &nbsp; 2.3.3. User Journey Mapping</a>
+
+<a href="">&nbsp; &nbsp; 2.3.4. Empathy Mapping</a>
+
+<a href="">&nbsp; &nbsp; 2.3.5. As-is Scenario Mapping</a>
+
+<a href="">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</a>
+
+<a href="">3.1. To-Be Scenario Mapping</a>
+
+<a href="">3.2. User Stories</a>
+
+<a href="">3.3. Impact Mapping</a>
+
+<a href="">3.4. Product Backlog</a>
+
+<a href="">CAPÍTULO 4: PRODUCT DESIGN</a>
+
+<a href="">4.1. Style Guidelines</a>
+
+<a href="">&nbsp; &nbsp; 4.1.1. General Style Guidelines</a>
+
+<a href="">&nbsp; &nbsp; 4.1.2. Web Style Guidelines</a>
+
+<a href="">4.2. Information Architecture</a>
+
+<a href="">&nbsp; &nbsp; 4.2.1. Organization Systems</a>
+
+<a href="">&nbsp; &nbsp; 4.2.2. Labeling Systems</a>
+
+<a href="">&nbsp; &nbsp; 4.2.3. SEO Tags and Meta Tags</a>
+
+<a href="">&nbsp; &nbsp; 4.2.4. Searching Systems</a>
+
+<a href="">&nbsp; &nbsp; 4.2.5. Navigation System</a>
+
+<a href="">4.3. Landing Page UI Design</a>
+
+<a href="">&nbsp; &nbsp; 4.3.1. Landing Page Wireframe</a>
+
+<a href="">&nbsp; &nbsp; 4.3.2. Landing Page Mock-up</a>
+
+<a href="">4.4. Web Applications UX/UI Design</a>
+
+<a href="">&nbsp; &nbsp; 4.4.1. Web Applications Wireframes</a>
+
+<a href="">&nbsp; &nbsp; 4.4.2. Web Applications Wireflow Diagrams</a>
+
+<a href="">&nbsp; &nbsp; 4.4.3. Web Applications Mock-ups</a>
+
+<a href="">&nbsp; &nbsp; 4.4.4. Web Applications User Flow Diagrams</a>
+
+<a href="">4.5. Web Applications Prototyping</a>
+
+<a href="">4.6. Domain-Driven Software Architecture</a>
+
+<a href="">&nbsp; &nbsp; 4.6.1. Software Architecture Context Diagrams</a>
+
+<a href="">&nbsp; &nbsp; 4.6.2. Software Architecture Container Diagrams</a>
+
+<a href="">&nbsp; &nbsp; 4.6.3. Software Architecture Components Diagrams</a>
+
+<a href="">4.7. Software Object-Oriented Design</a>
+
+<a href="">&nbsp; &nbsp; 4.7.1. Class Diagrams</a>
+
+<a href="">&nbsp; &nbsp; 4.7.2. Class Dictionary</a>
+
+<a href="">4.8. Database Design</a>
+
+<a href="">&nbsp; &nbsp; 4.8.1. Database Diagram</a>
+
+<a href="">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</a>
+
+<a href="">5.1. Software Configuration Management</a>
+
+<a href="">&nbsp; &nbsp; 5.1.1. Software Development Environment Configuration</a>
+
+<a href="">&nbsp; &nbsp; 5.1.2. Source Code Management</a>
+
+<a href="">&nbsp; &nbsp; 5.1.3. Source Code Style Guide & Conventions</a>
+
+<a href="">&nbsp; &nbsp; 5.1.4. Software Deployment Configuration</a>
+
+<a href="">5.2. Landing Page, Services & Applications Implementation</a>
+
+<a href="">&nbsp; &nbsp; 5.2.1. Sprint 1</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.1. Sprint Planning 1</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.2. Sprint Backlog 1</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.3. Development Evidence for Sprint Review</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.4. Testing Suite Evidence for Sprint Review</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.5. Execution Evidence for Sprint Review</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.6. Services Documentation Evidence for Sprint Review</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.7. Software Deployment Evidence for Sprint Review</a>
+
+<a href="">&nbsp; &nbsp; &nbsp; &nbsp;  5.2.2.8. Team Collaboration Insights during Sprint</a>
+
+<a href="">CONCLUSIONES</a>
+
+<a href="">Conclusiones y recomendaciones</a>
+
+<a href="">Video About-the-Team</a>
+
+<a href="">BIBLIOGRAFÍA</a>
+
+<a href="">ANEXOS</a>
+
+## Student Outcome
+
+<table>
+    <tr>
+        <th>
+            Criterio específico
+        </th>
+        <th>
+            Acciones realizadas
+        </th>
+        <th>
+            Conclusiones
+        </th>
+    </tr>
+    <tr>
+        <td>
+            Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes
+            especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en
+            ingeniería.
+        </td>
+        <td>
+            TB1:
+        </td>
+        <td>
+            TB1:
+        </td>
+    </tr>
+    <tr>
+        <td>
+            Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes
+            especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en
+            ingeniería.
+        </td>
+        <td>
+            TB1:
+        </td>
+        <td>
+            TB1:
+        </td>
+    </tr>
+</table>
