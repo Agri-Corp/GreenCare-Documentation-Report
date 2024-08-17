@@ -422,3 +422,8 @@
 
 <h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
 
+<h2 id="conclution">CONCLUSIONES</h2>
+
+<h3 id="conclutionAndRecomendation">Conclusiones y recomendaciones</h3>
+
+<h3 id="teamVideo">Video About-the-Team</h3>
