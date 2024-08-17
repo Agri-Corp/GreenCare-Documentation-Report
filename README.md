@@ -57,7 +57,13 @@
             <td rowspan="10">TB1</td>
             <td>14/08/2024</td>
             <td>José Huamani</td>
-            <td>Desarrollo de la carátula del informe</td>
+            <td>Desarrollo de la carátula</td>
+        </tr>
+        <tr>
+            <td rowspan="10">TB1</td>
+            <td>17/08/2024</td>
+            <td>José Huamani</td>
+            <td>Desarrollo de la tabla de contenido</td>
         </tr>
     </tbody>
 </table>
