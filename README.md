@@ -297,30 +297,30 @@
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
-<h2 id="introduction">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</h2>
+<h2 id="requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</h2>
 
-<h3 id="startupProfile">2.1. Competidore</h3>
+<h3 id="competitors">2.1. Competidores</h3>
 
-<h4 id="descriptionStartup">2.1.1. Análisis Competitivo</h4>
+<h4 id="competitiveAnalysis">2.1.1. Análisis Competitivo</h4>
 
-<h4 id="teamProfile">2.1.2. Estrategias y tácticas frente a competidores</h4>
+<h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
 
-<h3 id="solutionProfile">2.2. Entrevistas</h4>
+<h3 id="interviews">2.2. Entrevistas</h4>
 
-<h4 id="Antecedents">2.2.1. Diseño de enetrevistas</h4>
+<h4 id="interviewDesign">2.2.1. Diseño de enetrevistas</h4>
 
-<h4 id="leanUXProcess">2.2.2. Registro de entrevistas</h4>
+<h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-<h4 id="leanUXProcess">2.2.3. Análisis de entrevistas</h4>
+<h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
-<h3 id="problemStatement">2.3. Needfinding<h4>
+<h3 id="needfinding">2.3. Needfinding<h4>
 
-<h4 id="assumptions">2.3.1. User Personas<h4>
+<h4 id="userPersonas">2.3.1. User Personas<h4>
 
-<h4 id="hypohesisStatements">2.3.2. User Task Matrix<h4>
+<h4 id="userTaskMatrix">2.3.2. User Task Matrix<h4>
 
-<h4 id="UXCanvas">2.3.3. User Journey Mapping<h4>
+<h4 id="userJourneyMapping">2.3.3. User Journey Mapping<h4>
 
-<h4 id="objectiveSegment">2.3.4. Empathy Mapping</h4>
+<h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
-<h4 id="objectiveSegment">2.3.5. As-is Scenario Mapping</h4>
+<h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
