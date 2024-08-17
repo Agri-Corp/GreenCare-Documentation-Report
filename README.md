@@ -60,7 +60,6 @@
             <td>Desarrollo de la carátula</td>
         </tr>
         <tr>
-            <td rowspan="10">TB1</td>
             <td>17/08/2024</td>
             <td>José Huamani</td>
             <td>Desarrollo de la tabla de contenido</td>
@@ -334,6 +333,62 @@
 <h3 id="impactMapping">3.3. Impact Mapping</h4>
 
 <h3 id="productBacklog">3.4. Product Backlog</h4>
+
+<h2 id="">CAPÍTULO 4: PRODUCT DESIGN</h2>
+
+<h3 id="">4.1. Style Guidelines</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.1.1. General Style Guidelines</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.1.2. Web Style Guidelines</h4>
+
+<h3 id="">4.2. Information Architecture</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.2.1. Organization Systems</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.2.2. Labeling Systems</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.2.3. SEO Tags and Meta Tags</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.2.4. Searching Systems</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.2.5. Navigation System</h4>
+
+<h3 id="">4.3. Landing Page UI Design</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.3.1. Landing Page Wireframe</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.3.2. Landing Page Mock-up</h4>
+
+<h3 id="">4.4. Web Applications UX/UI Design</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.4.1. Web Applications Wireframes</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.4.2. Web Applications Wireflow Diagrams</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.4.3. Web Applications Mock-ups</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.4.4. Web Applications User Flow Diagrams</h4>
+
+<h3 id="">4.5. Web Applications Prototyping</h3>
+
+<h3 id="">4.6. Domain-Driven Software Architecture</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.6.1. Software Architecture Context Diagrams</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.6.2. Software Architecture Container Diagrams</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.6.3. Software Architecture Components Diagrams</h4>
+
+<h3 id="">4.7. Software Object-Oriented Design</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.7.1. Class Diagrams</h4>
+
+<h4 id="">&nbsp; &nbsp; 4.7.2. Class Dictionary</h4>
+
+<h3 id="">4.8. Database Design</h3>
+
+<h4 id="">&nbsp; &nbsp; 4.8.1. Database Diagram</h4>
 
 
 
