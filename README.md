@@ -278,7 +278,57 @@
 
 <h4 id="descriptionStartup">1.1.1. Descripción de la Startup</h4>
 
+Agricorp es una startup que busca solventar la problemática a la que se enfrentan las personas que tienen noción o alguna falta de conocimiento acerca del cuidado de las plantas en entornos hogareños. Conforme a este criterio vimos una gran oportunidad para brindar una innovadora solución de software que permita a dichas personas, por medio de una aplicación web, llevar a cabo este proceso que conlleva la realización de recordatorios y gestión de las plantas que el usuario desea cultivar.
+
+<strong>Misión:</strong>
+
+Ayudar a las personas a que puedan tener una manera práctica y dinámica al gestionar el cuidado de sus plantas en su día a día.
+
+<strong>Visión:</strong>
+
+Nos segmentamos como uno de los grandes exponentes en el cuidado medio ambiental en entornos pequeños y medianos a nivel Nacional, siendo accesibles a un precio módico en los próximos 2 años.
+
 <h4 id="teamProfile">1.1.2. Perfiles de integrantes del equipo</h4>
+
+<table style="width: 100%; border-collapse: collapse;">
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+            <img src="./src/images/JoseDiego_Photo.png" alt="José Diego Photo" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>José Diego Huamani Sánchez (U202110458)</strong> - Ingeniería de Software<br><br>
+                Tengo 20 años y actualmente ando formandome en la Univeridad Peruana de Ciencias Aplicadas. Soy un tanto curioso en diferentes aspectos tanto tecnologicos como en la gestión y dirección de proyectos; en donde, mis principales experiencias radican en liderazgo y manejo de equipos en marcos de trabajo Ágiles, análisis de datos con Python, creación de RPA con Power Automate y ciertos conocimientos en aspectos de desarrollo con enfoque web con frameworks tales como AngularJs. Espero que mi compromiso y mis ganas de enseñar logren hacer que el proyecto tome un direccionamiento hacia el éxito.
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Manuel Alexis Vargas Quispe - (U202113256)</strong> - Ingeniería de Software<br><br>
+                Tengo experiencia en C++, HTML, CSS, Angular, y Vue.js. He trabajado con Android Studio para el desarrollo de aplicaciones móviles y tengo conocimientos básicos de backend. También he usado Cisco Packet Tracer, y tengo conocimientos en Python y Java a nivel básico.
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Luis Eduardo, Lagos Aguilar - (U202121975)</strong> - Ingeniería de Software<br><br>
+                Tengo 
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Raul Ronaldo Quispe Erasmo - (U20211b682)</strong> - Ingeniería de Software<br><br>
+                Tengo 
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Juan Paul Llamccaya Arone - U201923571</strong> - Ingeniería de Software<br><br>
+                Tengo 
+            </td>
+        </tr>
+</table>
 
 <h3 id="solutionProfile">1.2. Solution Profile</h4>
 
@@ -295,6 +345,28 @@
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
+
+En lo que respecta nuestro segmento objetivo, este está compuesto por los siguientes tipos de usuarios: <br>
+
+* **Expertos en Cuidado de Plantas:** <br>
+
+Son quienes ya cuentan con ciertos conocimientos y experiencia en el cuidado de plantas, de lo cual cuentan con una familiaridad de prácticas sofisticadas ha aplicar dentro de su entorno.
+
+* **Principiantes en Cuidado de Plantas:** <br>
+
+Dicho segmento está enfocado en personas que cuentan con basta experiencia en el cuidado de plantas, de lo cual se encuentran en la busqueda de información u orientación para adentrarse correctamente a dicha actvidad.
+
+<div align="center">
+    <br>
+    <img src="./src/images/Planting_a_plant_Photo.png" alt="Planting_a_Plant_Photo" width="300px"/>
+    <br>
+    <strong>Imagen 1:</strong>
+    <p>
+        <strong>s.f (2024).</strong>
+        Manos de personas plantando un pequeño árbol al atardecer [Fotografía]. 123RF. https://es.123rf.com/photo_187915963_manos-de-personas-plantando-árboles-pequeños-al-atardecer-concepto-salvar-la-tierra.html
+    </p>
+    <br>
+</div>
 
 <h2 id="requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</h2>
 
