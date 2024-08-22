@@ -301,31 +301,39 @@ Nos segmentamos como uno de los grandes exponentes en el cuidado medio ambiental
             </td>
         </tr>
         <tr>
-            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="" alt="Alexis Vargas Photo" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Manuel Alexis Vargas Quispe - (U202113256)</strong> - Ingeniería de Software<br><br>
                 Tengo experiencia en C++, HTML, CSS, Angular, y Vue.js. He trabajado con Android Studio para el desarrollo de aplicaciones móviles y tengo conocimientos básicos de backend. También he usado Cisco Packet Tracer, y tengo conocimientos en Python y Java a nivel básico.
             </td>
         </tr>
         <tr>
-            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="./src/images/LuisLagos_Photo.png" alt="Luis Lagos Photo" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Luis Eduardo, Lagos Aguilar - (U202121975)</strong> - Ingeniería de Software<br><br>
-                Tengo 
+                Tengo 20 años, estudio ingeniería de software en la universidad Peruana de Ciencias Aplicadas. Me considero una estudiante responsable, interesado en el mundo de la redes y comunicaciones. Tengo conocimiento en lenguajes de programación como Java, c++ y Python, además se utilizar frameworks como Angular y Vue.
             </td>
         </tr>
         <tr>
-            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="" alt="Raul Quispe Photo" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Raul Ronaldo Quispe Erasmo - (U20211b682)</strong> - Ingeniería de Software<br><br>
-                Tengo 
+                Me veo a mí mismo como una persona dinámica y creativa, con la habilidad de ofrecer una variedad de ideas y conocimientos valiosos al equipo. Tengo una sólida experiencia en lenguajes de programación como C++, HTML y CSS, y también poseo un alto nivel en redacción. Disfruto interactuar con los demás y siempre estoy en busca de oportunidades para crecer y desarrollarme tanto profesional como personalmente. Además, me esfuerzo por mantener una actitud positiva y abierta a nuevas perspectivas, lo que me permite adaptarme fácilmente a diferentes entornos y desafíos.
             </td>
         </tr>
         <tr>
-            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;"></td>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="" alt="Juan Llamccaya Photo" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Juan Paul Llamccaya Arone - U201923571</strong> - Ingeniería de Software<br><br>
-                Tengo 
+                Tengo experiencia en programación en C++ (CLI), en programación orientada a objetos (POO), y en desarrollo web utilizando HTML, JavaScript y CSS. Además, poseo conocimientos en diseño de UX, en el uso de Packet Tracer, SQL y Python.
             </td>
         </tr>
 </table>
@@ -334,39 +342,139 @@ Nos segmentamos como uno de los grandes exponentes en el cuidado medio ambiental
 
 <h4 id="Antecedents">1.2.1. Antecedentes y problemática</h4>
 
+**Antecedentes**
+
+Desde que que la pandemia del COVID-19 nos puso en confinamiento sanitario a cada uno de nosotros allá por el 2020, empezaron a ocurrir sucesos que dentro de toda esa coyuntura, no todo era tan malo. Si es que uno pudo darse cuenta, ¿No vieron algunos animales caminar por las calles o que algunas especies extintas hallan retornado?
+
+Todo ello se dió gracias a los diversos efectos positivos que el medio ambiente estaba recibiendo al no verse afectado por las emisiones de <em>CO2</em> ni gases de efecto invernadero que nosotros ocasioanamos antes del confinamiento.
+
+Esto fue un desencadenante para que las personas logren cultivar y/o cuidar con mucha más razón el medio ambiente; ya que, para algunos, les da un efecto más vívido a sus entornos de trabajo y hogareños así como el de recibir oxígeno para generar ambientes mucho más ventilados.
+
+Esto queda constancia que, de manera progresiva en el Perú, la cantidad de personas que buscan mejorar y/o aprender a cuidar plantas se está conviertiendo como un estilo de vida para contribuir con el planeta.
+
+**Problemática**
+
+Actualmente, al ya no encontrarnos en estado de confinamiento, muchas personas han dejado de lado el cuidado de las plantas, ya sea por temas de tiempo - ya que la gran mayoría de empleos han retornado a la presencialidad -, o porque no se tiene la suficiente información acerca de que características se requieren para cuidar y/o plantar. Estos factores junto a otros más, son los más influyentes para que esta actividad, con beneficio a futuro, poco a poco cese con el tiempo.
+
+**What?**
+
+En base a la problemática captada por nuestro startup está centrada en el desarrollo del proceso de gestión que utilizará cada uno de los jardineros o agricultores para monitorear sus cultivos. Sin embargo, temas como el costo y la probabilidad que se brinde la información precisa acerca de las plantas monitoreadas, son factores que impactan negativmente en su usabilidad diaria.
+
+**When?**
+
+El problema se origina cuando los jardineros o agricultores se encuentran realizando el proceso de siembra de sus plantas.
+
+**Where?**
+
+Este acontecimiento ocurre principalmente en entornos pequeños (viviendas) o medianos (jardines) en donde se desee cultivar y/o plantar ciertos tipos de plantas acorde al espacio.
+
+**Who?**
+
+Está problemática compromete tanto a los jardineros como agricultores de los cuales están encargados del proceso de cultivo y cuidado de sus plantas.
+
+**Why?**
+
+El problema surge a raiz de la escasez de soluciones software que ofrezcan herramientas para gestionar el tiempo y brindar información acerca del cuidado de ciertos tipos de plantas; es por ello que, al no contar con herramientas eficaces para realizar dichas activadades, genera cierto temor a los jardineros o agricultores que recien están iniciando en su rol.
+
+**How?**
+
+Dichas circunstancias surgen cuando un jardinero o agricultor requiere una solución software para consultar el estado de sus cultivos. Cuando buscan alguna solución, se encuentran con muy pocas aplicaciones que cubran dicha necesidad, o si las encuentran, suelen ser demasiados costosas (por factores de membresía y renovación) que compromoten mucho el presupuesto que tiene previsto cada uno de los usuarios.
+
+**How much?**
+
+Tanto agricultores como jardineros, ya sea que tengan experiencia o recién esten adentradose a este rubro, cumplen un papel fundamental dentro de su entorno, puesto que las actividades de riego, alimentación y otras funciones adicionales, son responsabilidades cruciales en su día a día. Este proceso ayudará a determinar que la calidad de vida se las plantas y cultivos esten rindiendo frutos dentro de sus ambientes de plantación.
+
+Acorde a un estudio llevado a cabo por El Diario El Comercio (2019), refiere que mientras más áreas o ambientes verdes existan, se generarán microclimas mucho más cómodos; donde las plantas o árboles mitigarán la contaminación del aire con mayor frecuencia.
+
+En conclusión, una adecuada gestión del proceso de monitoreo de plantas es vital para obtener resultados prometedores de como está progresando la calidad de vida de dichos cultivos; por lo que, contar con herramientas y soluciones tecnológicas centralizadas, puede marcar una exclusiva diferencia en el cuidado, creación y preservación de los ambientes de plantación a largo plazo.
+
 <h4 id="leanUXProcess">1.2.2. Lean UX Process</h4>
 
 <h4 id="problemStatement">1.2.2.1. Lean UX Problem Statements<h4>
 
+**Problem Statement 1: Jardineros y/o Agricultores experimentados**
+
+Actualmente, los jardineros y agricultores con experiencia tienen un vasto conocimiento sobre el cuidado de plantas y la optimización de recursos para obtener los mejores resultados en sus cultivos. Sin embargo, en un entorno cada vez más digitalizado, la falta de integración de tecnologías avanzadas en sus prácticas tradicionales puede llevar a una subutilización de recursos y una gestión ineficiente del tiempo. Estos profesionales enfrentan desafíos al adoptar nuevas herramientas digitales que puedan complementar y mejorar sus métodos establecidos sin comprometer la calidad de su trabajo.
+
+De este modo, se ha detectado como factor crítico la necesidad de crear una solución que se adapte a las necesidades de los jardineros y agricultores experimentados, permitiéndoles integrar tecnologías modernas de manera intuitiva y eficaz en sus rutinas diarias, para optimizar sus procesos sin que esto represente una curva de aprendizaje empinada o una interrupción en sus prácticas habituales.
+
+¿Cómo se puede desarrollar una herramienta digital que potencie las habilidades de los jardineros y agricultores experimentados, facilitando la transición hacia una gestión más eficiente y tecnológica de sus cultivos sin comprometer la calidad y el conocimiento adquirido a lo largo de los años?
+
+**Problem Statement 2: Jardineros y/o Agricultores con falta de experiencia**
+
+Los jardineros y agricultores con poca experiencia a menudo se encuentran desafiados por la falta de conocimiento especializado para cuidar adecuadamente sus plantas y cultivos. Sin una guía adecuada, pueden cometer errores que resulten en pérdidas significativas de tiempo, dinero y recursos. Además, la abrumadora cantidad de información disponible en línea puede ser confusa y contradictoria, lo que complica aún más la adquisición de conocimientos prácticos y efectivos.
+
+De este modo, se ha identificado como necesidad urgente la creación de una solución que brinde a los jardineros y agricultores novatos las herramientas y conocimientos esenciales de manera accesible y sencilla, para que puedan tomar decisiones informadas sobre el cuidado de sus plantas y cultivos, y mejorar sus habilidades con el tiempo.
+
+¿Cómo se puede desarrollar una plataforma educativa que ofrezca a los jardineros y agricultores principiantes un acceso fácil y comprensible a la información necesaria para cuidar sus plantas de manera efectiva y mejorar progresivamente en sus prácticas de cultivo?
+
 <h4 id="assumptions">1.2.2.2. Lean UX Assumptions<h4>
+
+
 
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements<h4>
 
+* <strong>Creemos que</strong> los jardineros y/o agricultores busquen dejar de utilizar las herramientas tradicionales para llevar a cabo el proceso de gestión del cultivo de plantas. <strong>Sabremos que </strong> tuvimos éxito <strong>cuando</strong> el porcentaje de usuarios que usan la aplicación vaya en aumento y no regresen a utilizar herramientas de índole tradicional después de abandonar nuestra plataforma por algún motivo que no se relacione con aspectos económicos.
+
+<br>
+
+* <strong>Creemos que</strong> los jardineros y/o agricultores busquen dejar de utilizar las herramientas tradicionales para llevar a cabo el proceso de gestión del cultivo de plantas. <strong>Sabremos que </strong> tuvimos éxito <strong>cuando</strong> cuando nuestros usuarios recalquen la enorme facilidad y eficacia de nuestras herramientas en comparación con los métodos tradicionales de apuntes a mano.
+
+<br>
+
+* <strong>Creemos que</strong> establecer un precio módico y/o accesible para nuestro producto será un estímulo crucial para diferenciarnos del resto de nuestros competidores. <strong>Sabremos que</strong> tuvimos éxito <strong>cuando</strong> la gran mayoría de nuestros usuarios provengan de lugares que cuenten con espacios de áreas verdes.
+
+<br>
+
+* <strong>Creemos que</strong> establecer un precio módico y/o accesible para nuestro producto será un estímulo crucial para diferenciarnos del resto de nuestros competidores. <strong>Sabremos que</strong> tuvimos éxito <strong>cuando</strong> recibamos reseñas positivas acerca del precio del producto así como del servicio ofrecido en las encuestas realizadas a nuestros usuarios.
+
+<br>
+
+* <strong>Creemos que</strong> la gestión de las plantas realizadas por los jardineros y/o agricultores con nuestra aplicación será más efectiva que los medios tradicionales. <strong>Sabremos que</strong> tuvimos éxito <strong>cuando</strong> más del 85% de nuestros usuarios utilicen de manera activa la funcionalidad de gestión de plantas en nuestra aplicación.
+
+<br>
+
+* <strong>Creemos que</strong> la gestión de las plantas realizadas por los jardineros y/o agricultores con nuestra aplicación será más efectiva que los medios tradicionales. <strong>Sabremos que</strong> tuvimos éxito <strong>cuando</strong> nuestros usuarios destaquen la eficiencia y reducción del tiempo invertido en la gestión de plantas dentro de nuestra aplicación.
+
+<br>
+
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
+
+
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
-En lo que respecta nuestro segmento objetivo, este está compuesto por los siguientes tipos de usuarios: <br>
+Nuestra software esta focalizado en atender las necesidades que dos de nuestros principales segmentos objetivos: <br>
 
-* **Expertos en Cuidado de Plantas:** <br>
+* **Personas con experiencia en el Cuidado de Plantas:** <br>
 
-Son quienes ya cuentan con ciertos conocimientos y experiencia en el cuidado de plantas, de lo cual cuentan con una familiaridad de prácticas sofisticadas ha aplicar dentro de su entorno.
+<ul style="list-style: none;">
+    <li>
+        Son quienes ya cuentan con ciertos conocimientos acerca del cuidado de plantas, del cual poseen una familiaridad de prácticas sofisticadas para preservar su áreas verdes.
+    </li>
+</ul>
 
-* **Principiantes en Cuidado de Plantas:** <br>
+* **Personas Principiantes que gustan aprender del Cuidado de Plantas:** <br>
 
-Dicho segmento está enfocado en personas que cuentan con basta experiencia en el cuidado de plantas, de lo cual se encuentran en la busqueda de información u orientación para adentrarse correctamente a dicha actvidad.
+<ul style="list-style: none;">
+    <li>
+        Dicho segmento está enfocado en personas que cuentan con basta experiencia en el cuidado de plantas, en lo cual se encuentran en la busqueda de información u orientación para adentrarse correctamente a dicha actividad.
+    </li>
+</ul>
 
-<div align="center">
-    <br>
+Según a un estudio elabora por Insight Hunting SEO en colaboración con Impulso RR y Marketing de Influencia Husqvarna (2020), entre los meses de enero a Octubre, alrededor de 51 mil búsquedas online estuvieron relacionadas con el cuidado de área verdes en país; donde, el 64% de dichas personas fueron adultos mayores entre el rango de edades de 34 a 50 años.
+
+> "De acuerdo al estudio llevado a cabo, el 84% de las búsquedas la realizan usuarios domésticos que tienen propiedades con espacios de áreas verdes y 16% son empresas que tienen que encargarse del mantenimiento de estas. Ese año se pudo observar un crecimiento en el interés por las novedades tecnológicas para mantenimiento de jardines como maquinarias y cortadoras”
+
+<p align="center">
     <img src="./src/images/Planting_a_plant_Photo.png" alt="Planting_a_Plant_Photo" width="300px"/>
-    <br>
-    <strong>Imagen 1:</strong>
-    <p>
-        <strong>s.f (2024).</strong>
-        Manos de personas plantando un pequeño árbol al atardecer [Fotografía]. 123RF. https://es.123rf.com/photo_187915963_manos-de-personas-plantando-árboles-pequeños-al-atardecer-concepto-salvar-la-tierra.html
-    </p>
-    <br>
-</div>
+</p>
+
+<p align="center">
+    <em><strong>Imagen 1:</strong>
+        s.f (2024). Manos de personas plantando un pequeño árbol al atardecer [Fotografía]. 123RF.
+    </em>
+</p>
 
 <h2 id="requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</h2>
 
