@@ -410,7 +410,111 @@ De este modo, se ha identificado como necesidad urgente la creación de una solu
 
 <h4 id="assumptions">1.2.2.2. Lean UX Assumptions<h4>
 
+**Business Assumptions:**
 
+* <strong>Creo que mis usuarios necesitan</strong> una plataforma centralizada que les facilite la gestión diaria del cuidado de sus plantas, incluyendo recordatorios de riego, poda y otros cuidados esenciales.
+
+<br>
+
+* <strong>Estas necesidades se pueden resolver</strong> mediante una aplicación web que ofrezca guías personalizadas, basadas en las características de cada planta, y que además proporcione notificaciones oportunas sobre las tareas de mantenimiento.
+
+<br>
+
+* <strong>Mis clientes iniciales son</strong> jardineros y agricultores hogareños, tanto aquellos con experiencia como aquellos que buscan aprender y mejorar sus habilidades en el cuidado de plantas.
+
+<br>
+
+* <strong>El valor #1 que un cliente requiere de mi servicio</strong> es la simplicidad y accesibilidad de una plataforma que permita a cualquier persona, sin importar su nivel de experiencia, gestionar eficazmente el cuidado de sus plantas.
+
+<br>
+
+* <strong>El cliente también puede obtener estos beneficios adicionales</strong>: una reducción en la tasa de mortalidad de sus plantas al recibir orientación precisa, un mayor conocimiento sobre el cuidado de diferentes especies de plantas, y una mejor organización de sus actividades de jardinería.
+
+<br>
+
+* <strong>Voy a adquirir a mis clientes a través de</strong> estrategias de contenido educativo en blogs y videos de YouTube, además de campañas publicitarias en redes sociales enfocadas en la comunidad de jardineros y entusiastas de las plantas.
+
+<br>
+
+* <strong>La interfaz intuitiva y personalizable de la aplicación</strong> será un factor clave para atraer y retener a los usuarios, permitiéndoles adaptar la experiencia a sus necesidades y niveles de conocimiento específicos.
+
+<br>
+
+**Sabremos que tenido éxito cuando vamos algunos de los siguientes cambios en el comportamiento de nuestros usuarios:**
+
+* Aumento de la productividad de los jardineros y/o agricultores al invertir menor tiempo en la gestión y cuidado de sus cultivos.
+
+<br>
+
+* Mayor satisfacción por parte de las personas con basta experiencia; el cual, la utilización de nuestras herramientas, permitieron que ellos logren gestionar mejor sus procesos de cultivo (guiándolos en cada paso que den).
+
+<br>
+
+**User Assumptions:**
+
+**¿Quién es el usuario?**
+
+* Los jardineros y/o agricultores que cuentan con experiencia en el cuidado de plantas o cultivos en ambientes pequeños u hogareños.
+
+<br>
+
+* Personas que cuentan con nula experiencia en temas de plantación el cual desean aprender acerca de la jardineria y/o agricultura.
+
+<br>
+
+**¿Dónde encaja nuestro producto? ¿En sus actividades labores o en su vida?**
+
+Nuestra aplicación está enfocada para ser utilizado en el ámbito hogareño, tanto por los jardineros y/o agricultores como personas que quisieran aprender acerca del cuidado de las plantas. Adicional a ello, está destinado a facilitar las activiades relacionadas con el proceso de gestión de plantas.
+
+**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+
+**Problemas:**
+
+* Que la plataforma sea demasiado básica y no logre captar el interés tanto de jardineros experimentados como de novatos, lo que podría llevar a que prefieran métodos tradicionales de cuidado de plantas. <br> Que el costo de la suscripción a las funcionalidades avanzadas de la plataforma no sea accesible para todos los usuarios, especialmente para aquellos que solo tienen pequeños jardines hogareños.
+
+<br>
+
+**Solución:**
+
+* Realizar un diseño centrado en el usuario a través de entrevistas con jardineros y agricultores de diferentes niveles de experiencia para comprender sus expectativas y diseñar una experiencia de usuario que sea atractiva y útil para todos los segmentos.<br> Implementar un modelo de precios flexible que permita a los usuarios acceder a funciones básicas de manera gratuita y ofrezca planes accesibles para aquellos que desean funcionalidades adicionales, asegurando que todos puedan beneficiarse de la plataforma sin importar su presupuesto.
+
+<br>
+
+**¿Qué características son importantes?**
+
+Nuestro producto es utilizado en dos momentos clave en la vida diaria de jardineros y agricultores, tanto experimentados como novatos, que buscan mejorar o simplificar el cuidado de sus plantas. Estos momentos incluyen:
+
+1. Planificación del cuidado de las plantas:
+
+* Cuándo: Generalmente, los usuarios utilizan nuestra plataforma al comienzo de la semana o del día, cuando están planificando las tareas de jardinería. Los usuarios experimentados podrían querer optimizar sus métodos de cuidado o explorar nuevas técnicas, mientras que los novatos buscan orientación y recomendaciones sobre cómo mantener sus plantas saludables.
+
+<br>
+
+* Cómo: Los jardineros y agricultores acceden al producto a través de su navegador web o dispositivo móvil, donde pueden ingresar detalles sobre sus plantas y recibir una gama de recomendaciones personalizadas para sus cuidados. Esto incluye recordatorios de riego, fertilización, poda, y otros cuidados específicos según la especie y las condiciones del entorno (luz, humedad, etc.). Los usuarios pueden también hacer seguimiento del crecimiento y salud de sus plantas, recibiendo alertas si alguna planta requiere atención especial.
+
+<br>
+
+**2. Integración en la vida diaria:**
+
+Nuestro producto está diseñado para integrarse sin problemas en la rutina diaria de los usuarios. Para los jardineros experimentados, sirve como una herramienta de optimización y mejora continua de sus técnicas, mientras que para los novatos, actúa como un mentor que guía cada paso del proceso de jardinería. La accesibilidad a través de dispositivos móviles asegura que el producto esté disponible en el momento y lugar que los usuarios lo necesiten, haciendo que el cuidado de las plantas sea una tarea más sencilla, efectiva y disfrutable.
+
+**Features:**
+
+* El jardinero y/o agricultor podrán registrar cada una de sus plantas que tienen dentro de sus entornos. Para ello, se debe proporcionar una experiencia intuitiva y fácil de usar que permitiéndoles asignar tareas de cuidado como riego, poda y fertilización, adaptadas a las necesidades particulares de cada planta.
+
+<br>
+
+* El jardinero y/o agricultor tendrán la capacidad de realizar seguimiento del estado de sus plantas a través de la plataforma, registrando cambios en su crecimiento o apariencia. La aplicación debe permitir una actualización rápida y sencilla de la información del estado de las plantas, ayudando a nuestros usuarios a tomar decisiones informadas acerca del cuidado continuo.
+
+<br>
+
+* La aplicación incluirá una base de datos extensa de diferentes tipos de plantas, con información detallada sobre sus necesidades de cuidado. Los jardineros y/o agricultores podrán buscar y acceder a consejos específicos para optimizar el cuidado de cada especie, según sus características y el entorno en que se encuentran.
+
+<br>
+
+* Los jardineros y/p agricultores podrán visualizar un tablero de registro en donde se visualizará todas las tareas de cuidado de plantas programadas para cada día. Este tablero incluirá recordatorios y alertas para asegurarles de que todas las plantas reciban la atención necesaria en el momento adecuado.
+
+<br>
 
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements<h4>
 
@@ -439,7 +543,6 @@ De este modo, se ha identificado como necesidad urgente la creación de una solu
 <br>
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
-
 
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
@@ -471,7 +574,7 @@ Según a un estudio elabora por Insight Hunting SEO en colaboración con Impulso
 </p>
 
 <p align="center">
-    <em><strong>Imagen 1:</strong>
+    <em><strong>Imagen 2:</strong>
         s.f (2024). Manos de personas plantando un pequeño árbol al atardecer [Fotografía]. 123RF.
     </em>
 </p>
