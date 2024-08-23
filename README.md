@@ -390,11 +390,11 @@ En conclusión, una adecuada gestión del proceso de monitoreo de plantas es vit
 
 <h4 id="leanUXProcess">1.2.2. Lean UX Process</h4>
 
-<h4 id="problemStatement">1.2.2.1. Lean UX Problem Statements<h4>
+<h4 id="problemStatement">1.2.2.1. Lean UX Problem Statements</h4>
 
 **Problem Statement 1: Jardineros y/o Agricultores experimentados**
 
-Actualmente, los jardineros y agricultores con experiencia tienen un vasto conocimiento sobre el cuidado de plantas y la optimización de recursos para obtener los mejores resultados en sus cultivos. Sin embargo, en un entorno cada vez más digitalizado, la falta de integración de tecnologías avanzadas en sus prácticas tradicionales puede llevar a una subutilización de recursos y una gestión ineficiente del tiempo. Estos profesionales enfrentan desafíos al adoptar nuevas herramientas digitales que puedan complementar y mejorar sus métodos establecidos sin comprometer la calidad de su trabajo.
+<p> Actualmente, los jardineros y agricultores con experiencia tienen un vasto conocimiento sobre el cuidado de plantas y la optimización de recursos para obtener los mejores resultados en sus cultivos. Sin embargo, en un entorno cada vez más digitalizado, la falta de integración de tecnologías avanzadas en sus prácticas tradicionales puede llevar a una subutilización de recursos y una gestión ineficiente del tiempo. Estos profesionales enfrentan desafíos al adoptar nuevas herramientas digitales que puedan complementar y mejorar sus métodos establecidos sin comprometer la calidad de su trabajo.<p>
 
 De este modo, se ha detectado como factor crítico la necesidad de crear una solución que se adapte a las necesidades de los jardineros y agricultores experimentados, permitiéndoles integrar tecnologías modernas de manera intuitiva y eficaz en sus rutinas diarias, para optimizar sus procesos sin que esto represente una curva de aprendizaje empinada o una interrupción en sus prácticas habituales.
 
@@ -408,7 +408,7 @@ De este modo, se ha identificado como necesidad urgente la creación de una solu
 
 ¿Cómo se puede desarrollar una plataforma educativa que ofrezca a los jardineros y agricultores principiantes un acceso fácil y comprensible a la información necesaria para cuidar sus plantas de manera efectiva y mejorar progresivamente en sus prácticas de cultivo?
 
-<h4 id="assumptions">1.2.2.2. Lean UX Assumptions<h4>
+<h4 id="assumptions">1.2.2.2. Lean UX Assumptions</h4>
 
 **Business Assumptions:**
 
@@ -516,7 +516,7 @@ Nuestro producto está diseñado para integrarse sin problemas en la rutina diar
 
 <br>
 
-<h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements<h4>
+<h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</h4>
 
 * <strong>Creemos que</strong> los jardineros y/o agricultores busquen dejar de utilizar las herramientas tradicionales para llevar a cabo el proceso de gestión del cultivo de plantas. <strong>Sabremos que </strong> tuvimos éxito <strong>cuando</strong> el porcentaje de usuarios que usan la aplicación vaya en aumento y no regresen a utilizar herramientas de índole tradicional después de abandonar nuestra plataforma por algún motivo que no se relacione con aspectos económicos.
 
