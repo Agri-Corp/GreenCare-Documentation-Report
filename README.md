@@ -544,12 +544,21 @@ Nuestro producto está diseñado para integrarse sin problemas en la rutina diar
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
 
+<p align="center">
+    <img src="" alt="Lean_UX_Canvas_Photo" width="300px"/>
+</p>
+
+<p align="center">
+    <em><strong>Imagen 1:</strong>
+        Imagen Propia. (2024). Elaboración del Lean UX Canvas para el Startup AgriCorp.
+    </em>
+</p>
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
 Nuestra software esta focalizado en atender las necesidades que dos de nuestros principales segmentos objetivos: <br>
 
-* **Personas con experiencia en el Cuidado de Plantas:** <br>
+* **Jardineros y/o Agricultores con experiencia en el Cuidado de Plantas:** <br>
 
 <ul style="list-style: none;">
     <li>
@@ -557,7 +566,7 @@ Nuestra software esta focalizado en atender las necesidades que dos de nuestros 
     </li>
 </ul>
 
-* **Personas Principiantes que gustan aprender del Cuidado de Plantas:** <br>
+* **Personas interesadas en la Agricultura:** <br>
 
 <ul style="list-style: none;">
     <li>
