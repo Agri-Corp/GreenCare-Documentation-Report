@@ -302,7 +302,7 @@ Nos segmentamos como uno de los grandes exponentes en el cuidado medio ambiental
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="Alexis Vargas Photo" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="./src/images/AlexisVargas_Photo.png" alt="Alexis Vargas Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Manuel Alexis Vargas Quispe - (U202113256)</strong> - Ingeniería de Software<br><br>
@@ -320,7 +320,7 @@ Nos segmentamos como uno de los grandes exponentes en el cuidado medio ambiental
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="Raul Quispe Photo" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="./src/images/RaulQuispe_Photo.png" alt="Raul Quispe Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Raul Ronaldo Quispe Erasmo - (U20211b682)</strong> - Ingeniería de Software<br><br>
@@ -329,7 +329,7 @@ Nos segmentamos como uno de los grandes exponentes en el cuidado medio ambiental
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="Juan Llamccaya Photo" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="./src/images/JuanArone_Photo.png" alt="Juan Llamccaya Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Juan Paul Llamccaya Arone - U201923571</strong> - Ingeniería de Software<br><br>
@@ -544,12 +544,22 @@ Nuestro producto está diseñado para integrarse sin problemas en la rutina diar
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
 
+<p align="center">
+    <img src="./src/images/Lean UX Canvas - AgriCorp.jpg" alt="Lean_UX_Canvas_Photo" width="500px"/>
+    <img src="./src/images/Lean UX Canvas - AgriCorp (1).jpg" alt="Lean_UX_Canvas_Photo" width="500px"/>
+</p>
+
+<p align="center">
+    <em><strong>Imagen 1:</strong>
+        Imagen Propia. (2024). Elaboración del Lean UX Canvas para el Startup AgriCorp.
+    </em>
+</p>
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
 Nuestra software esta focalizado en atender las necesidades que dos de nuestros principales segmentos objetivos: <br>
 
-* **Personas con experiencia en el Cuidado de Plantas:** <br>
+* **Jardineros y/o Agricultores con experiencia en el Cuidado de Plantas:** <br>
 
 <ul style="list-style: none;">
     <li>
@@ -557,7 +567,7 @@ Nuestra software esta focalizado en atender las necesidades que dos de nuestros 
     </li>
 </ul>
 
-* **Personas Principiantes que gustan aprender del Cuidado de Plantas:** <br>
+* **Personas interesadas en la Agricultura:** <br>
 
 <ul style="list-style: none;">
     <li>
