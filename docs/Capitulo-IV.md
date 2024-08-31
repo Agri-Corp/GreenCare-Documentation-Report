@@ -104,5 +104,47 @@ En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar 
     <img src="../src/images/PatronZ.png" alt="PatronZ_Photo" width="500px"/>
 
 </p>
+<h3 id="information Architecture">4.2. Information Architecture</h3>
 
+<h4 id="OrganizationSystems">4.2.1. Organization Systems</h4>
+
+<h4 id="OrganizationSystems">4.2.2. Labeling Systems</h4>
+
+<h4 id="SEOTagsandMetaTags">4.2.3. SEO Tags and Meta Tags</h4>
+
+<h4 id="SEOTagsandMetaTags">4.2.4. Searching Systems</h4>
+
+En este apartado, se muestra cómo el usuario puede buscar información en nuestra aplicación web.
+
+Barra de búsqueda para las plantas: El usuario puede buscar  la planta que desea cultivar.
+
+Filtros para buscar plantas:El usuario puede encontrar de manera más rápida y detallada la planta que desee cultivar.
+
+<p align="center">
+    <img src="../src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+<h4 id="NavigationSystems">4.2.5. Navigation Systems</h4>
+
+En este apartado, se muestra cómo el usuario se moverá a través de la aplicación.
+
+Los tipos de navegación que usaremos son dos:
+
+
+**Navegación principal:** La cual se basa en las pestaña las cuales el usuario puede usar para dirigirse a cada sección de la aplicación, estas se encuentran dentro de un navbar vertical.
+
+<p align="center">
+    <img src="../src/images/BusquedaPrincipal.PNG" alt="Searching_Photo" width="150px"/>
+
+</p>
+
+**Navegación secundaria:** La cual se basa en la búsqueda mediante palabras dentro de una sección en específico ya sea “Garden” o ”Lifecycle”.
+
+<p align="center">
+    <img src="../src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+<h3 id="LandingPageUIDesign">4.3. Landing Page UI Design</h3>
 
