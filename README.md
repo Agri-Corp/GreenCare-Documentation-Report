@@ -852,7 +852,146 @@ Para el caso de prueba del software, se empleo las herramienta de desarrollador 
 
 <h4 href="sourceCodeManagement">5.1.2. Source Code Management</h4>
 
+El manejo y la organización de las diversas modificaciones que se llevaran durante todo el ciclo de vida que tendrá nuestra startup, se registrará mediante repositorios de Github.
+
+<strong>Organización:</strong> <a href="https://github.com/Agri-Corp/GreenCare-Documentation-Report">https://github.com/Agri-Corp/GreenCare-Documentation-Report</a>
+
+<strong>Repositorio del Landing Page:</strong> <a href="https://github.com/Agri-Corp/GreenCare-landing">https://github.com/Agri-Corp/GreenCare-landing</a>
+
+Por otra parte, para llevar a cabo un mejor control acerca de comor crear ramas así como realizar cambios en el código fuente, se procedió a utilizar el modelo <q>Gitflow</q>.
+
+De este modo, se tenían 2 ramas por default, las cuales son <em>main</em> y <em>develop</em>.
+
+* <strong>main:</strong> En esta rama, almacenamos todas las versiones puestas en produccióon de nuestro repositorio. <br>
+
+* <strong>develop:</strong> esta rama se utilizará como rama de integración para cada uno de los <q>features branches</q>. Una vez que este se encuetre en el <q>HEAD</q>, alcance un estado estable y el equipo consideré que ya está listo para lanzarlo a producción, esta rama se fusionará con la rama realese.
+
+<br>
+
+**Ramas Auxiliares**
+* <strong>feature:</strong> en esta rama trabajaremos cada uno de los features que se unirán a la rama develop. Dichas características funcionales son las que requieren los usuarios, tanto en el Landing Page como en el Web Application.
+
+* <strong>release:</strong> esta rama será utlizada para alistar el lanzamiento de una nueva versión de nuestra rama <q>main</q>. Aquí se podrán arreglar pequeños bugs y segmentar nuestro historial de versiones. Esta rama liberará la rama <q>develop</q> de estas preparaciones, conllevando a que se mitigue el retraso durante el desarrollo.
+
+* <strong>hotfix:</strong> únicamente esta rama la utilizaremos cuando nuestra última versión en la rama <q>main</q> necesite actualizaciones debido a un bug crítico y que necesite ser arreglado de inmediato.
+
+<br>
+
+**Commit Convetions**
+Las estructuras que siguen cada uno de nuestros commits, están basados mediante la estructura de convensión <q>Conventional Commits</q> en su versión 1.0.0 (<a href="https://www.conventionalcommits.org/en/v1.0.0/">https://www.conventionalcommits.org/en/v1.0.0/</a>) con el propósito de dar una lectura clara acerca de los cambios aplicados dentro de nuestros repositorios. Es por ello que seguimos el siguiente formato:
+
+<strong style="text-align: center">&lt;type&gt;=[optional scope]: &lt;description&gt;</strong>
+
+Donde:
+
+* <strong>type:</strong> especifica el tipo de cambio realizado. Por ejemplo: feat, fix, docs, perf, etc.
+
+* <strong>scope:</strong> define el alcance que tiene nuestro commit.
+
+* <strong>description:</strong> se argumenta un breve resumen acerca de los cambios realizados.
+
+<br>
+
+**Release Versioning Conventions**
+Para la documentación del formato de versiones, se aplicará <q>Semantic Versioning 2.0.0</q>, en donde las versiones siguen el formato de (X,Y,Z).
+
+
+* <strong>X</strong>: indica la versión mayor. Aquí se encuentran cada uno de los cambios que no son compatible con las versiones anteriores. Empezando desde el 0 para el desarrollo inciial y 1 cuando esté disponible al público para ser usado. En caso las convenciones sean Y, Z; estás se reiniciarán a 0 cuando este incremente.
+
+* <strong>Y</strong>: indica si los cambios son compatibles con las versiones anteriores. Adcionalmente, se incluirán commits desde las <q>release branches</q> cada vez que se agreguen nuevas funcionalidades. En caso la convensión sea Z, este se reinicirá a 0 cuando este incremente.
+
+* <strong>Z</strong>: indica tanto los parches como las correciones de carácter menor que se aplicaron a la versión del proyecto. Aquí se incluyen cada uno de los commits realizados desde el <q>hotfix branch</q> que se acaba haciendo merge a la rama <q>main</q>
+
 <h4 href="sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</h4>
+
+Para lo que respecta el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que estos contienen convenciones que se deben tomar en cuenta al momento de trabajar con dichas tecnologías. Para informanos acerca de las buenas prácticas de uso, accederemos mediante el siguiente el enlace: <a href="https://google.github.io/styleguide/htmlcssguide.html">https://google.github.io/styleguide/htmlcssguide.html</a>. Entre algunas de estas convenciones mencionaremos las siguientes:
+
+* Siempre declarar el tipo de documento con **&lt;!DOCTYPE html&gt;**
+
+* Usar siempre letras en minúsculas para los nombres de los elementos (como &lg;h1&gt;, &lg;p&gt;, &lg;footer&gt;, etc).
+
+* Cerrar siempre con los elementos de HTML (por ejemplo: &lg;h1&gt;&lg;/h1&gt;).
+
+* Siempre colocar entre comillas los atributos dentro de un elemento HTML (&lg;h1 class="name"&gt;&lg;/h1&gt;).
+
+* Declarar los atributos alt, width and height para imágenes.
+
+* Estandarizar tanto el espaciado y signo de manera igualitaria.
+
+* Evitar líneas de código extensas.
+
+* No olvidar declarar el &lg;title&gt;&lg;/title&gt; en apartado del &lg;head&gt;&lg;/head&gt; (ubicado al inicio del documento HTML).
+
+* Utilizar meta tags al inicio del documento.
+
+<br>
+
+Para el caso del lenguaje JavaScript, se usará la guía de estilos brindada por nuestros amigos de Google mediante el siguiente repositorio de Github: <a href="https://google.github.io/styleguide/jsguide.html#file-name">https://google.github.io/styleguide/jsguide.html#file-name</a>. Aquí se presentarán las siguientes convenciones:
+
+* Nombrar las variables y funciones con camelcase.
+
+* Usar espaciados después de una coma o dos puntos.
+
+* Utilizar comillas simples para los tipos de datos <q>String</q>.
+
+* Usar el punto y coma al final de cada sentencia.
+
+* Evitar declarar variables <q>var</q>; en su lugar, utilizar let o const para mitigar errores en variables y valores la momento de acceder a ellos.
+
+<br>
+
+Para el lenguaje Gherkin se usará las conveciones <q>Make Your Gherkin Specifications More Readable</q> con el objetivo de utilizar buenas prácticas que nos permitan entender con exactitud lo desarrollado. Los archivos creados tendrán la extensión <q>.feature</q>. Para conocer más acerca de la forma de escribir en el lenguaje Gherkin, utilizaremos el siguiente enlace: <a href="https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/">https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/</a>. A continuación, se presentarán las siguientes convenciones:
+
+* Escribir especificaciones en lenguaje simple y fácil de comprender para todos los miembros del equipo.
+
+* Utilizar las palabras reservadas <q>Given</q>, <q>When</q>, <q>When</q> y <q>And</q> para redactar los pasos del Scenario.
+
+* Usar verbos finitos para las acciones del Scenario.
+
+* Evitar redundancias en el detalle de los pasos en el Scenario.
+
+* Usar un formato consistente en la especificación para todos los Scenarios.
+
+<br>
+
+Para el desarrollo con Angular, se tiene como referencia las convenciones proveidas por el mismo equipo de Angular con la finaliad de mantener el formato legible y que pueda mantenerse en el sistema durante el tiempo. Dichas convenciones lo podemos observar mediante el siguiente enlace: <a href="https://v17.angular.io/guide/styleguide">https://v17.angular.io/guide/styleguide</a>. Se presentará a continuación las principales convenciones de Angular:
+
+
+* Organizar el código utlizando los <q>NgModules</q> relacionados a la funcionaldad correspondiente.
+
+* Utilizar los sufijos <q>Component</q>, <q>Service</q> y <q>Module</q> para establecer el enfoque de <q>Single Responsabilities</q>. 
+
+* Definir interfaces descriptivas para modelar objetos, mejorar la tipificación y mitigar el uso de la palabra reservada <q>any</q>.
+
+* Usar correctamente los decoradores (<q>@Component</q>, <q>@Injectable</q>, entre otros) para declarar y configurar los componentes servicios, etc.
+
+<br>
+
+Para el uso del lenguaje Java, Google ofrece una guía de estilos bastante completa, la cuál nos permitirá aplicar ciertos estándares para mantener la consistencia y legibilidad nuestros proyectos. Para conocer a detalle cada una de las siguientes convenciones, lo podemos visualizar en el siguiente enlace: <a href="https://google.github.io/styleguide/javaguide.html">https://google.github.io/styleguide/javaguide.html</a>. A continuación, se mencinarán algunas convenciones:
+
+* Declarar clases, estructuras o records nombrandolo en <q>Pascal case</q>.
+
+* Definir parámetros nombrándolos con <q>Camel case</q> y utilizar el prefijo con el guión abajo.
+
+* Realizar comentarios en una nueva línea de código y utilizarlo netamente para especificar comportaminetos un tanto complejos de entender.
+
+* Respetar cada uno de las identaciones y espaciados después de un coma u operador.
+
+* Cada una de las llaves deben ir en una línea nueva, ya sea al momento de declarar una clae, estructura, entre otros.
+
+<br>
+
+Por último y no menos importante, para el uso del framework de Spring Boot, utilizaremos algunas **features** importantes que nuestros amigos de Spring Boot nos tiene por ofrecer. Para visualizar de manera más detallada los features, se recomienda visitar el siguiente enlace: <a href="https://docs.spring.io/spring-boot/reference/features/index.html">https://docs.spring.io/spring-boot/reference/features/index.html</a>. Se mencionarán las siguientes características:
+
+* Automatización de muchas dependencias para iniciar con el desarrollo de nuestra aplicación.
+
+* Inclusión de servidores web, tales como <q>Tomcat</q>, <q>Jetty</q> o <q>Undetow</q> para ejecutar nuestra aplicación.
+
+* Dependencias precofiguradas para brindar uso específico de las bibliotecas con las utilidades necesarias para utilizar.
+
+* Brinda ciertos conjuntos de <q>Endpoints</q> para monitorear y gestionar cada uno de las métricas que cuenta nuestra aplicación.
+
+<br>
 
 <h4 href="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
