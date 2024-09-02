@@ -147,4 +147,204 @@ Los tipos de navegación que usaremos son dos:
 </p>
 
 <h3 id="LandingPageUIDesign">4.3. Landing Page UI Design</h3>
+<h4 id="LandingPageWireframe">4.3.1. Landing Page Wireframe</h4>
 
+En esta sección se mostrará el desarrollo final del Wireframe del landing page, que es una representación de baja fidelidad.
+
+**Versión  web:**
+
+<p align="center">
+    <img src="../src/images/LandingWF.png" alt="Landing_Photo" width="500px"/>
+
+</p>
+
+**Versión  Movil:**
+
+
+<p align="center">
+    <img src="../src/images/LandingMobileWF.png" alt="LandingMovile_Photo" width="500px"/>
+
+</p>
+
+
+<h4 id="LandingPageMock-up">4.3.2. Landing Page Mock-up</h4>
+
+En esta sección se mostrará el desarrollo final del Mock-up del landing page, que es una representación de alta fidelidad.
+
+**Versión  web:**
+
+<p align="center">
+    <img src="../src/images/LandingMU.png" alt="Landing_Photo" width="500px"/>
+
+</p>
+
+**Versión  Movil:**
+
+
+<p align="center">
+    <img src="../src/images/LandingMobileMU.png" alt="LandingMovile_Photo" width="500px"/>
+
+</p>
+
+
+<h3 id=" WebApplicationsUX/UIDesign.">4.4.  Web Applications UX/UI Design</h3>
+<h4 id="WebApplicationsWireframes">4.4.1. Web Applications Wireframes</h4>
+
+En esta sección se mostrará el desarrollo final de los Wireframes de la Web Application, que es una representación de baja fidelidad.
+
+**Interfaz para nuevos usuarios y antiguos usuarios**
+
+Estos wireframes muestran las pantallas de inicio de sesión y registro, diseñadas siguiendo las directrices de tipografía y tamaño de fuente establecidas en la documentación.
+
+<p align="center">
+    <img src="../src/images/InicioWf.png" alt="Inicio_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/RegistroWf.png" alt="Registro_Photo" width="500px"/>
+
+</p>
+
+**Interfaz de Personas**
+
+En esta sección se muestra las páginas de en donde el agricultor podrá visualizar y gestionar las distintas plantas que le disponemos.
+
+<p align="center">
+    <img src="../src/images/Home.png" alt="Home_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/Gardensection.png" alt="Garden_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/LifeCyclesection.png" alt="Life_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/Planssection.png" alt="Plans_Photo" width="500px"/>
+
+</p>
+
+**Seleccionar una planta para iniciar el ciclo de vida**
+
+En esta sección se ve como el agricultor registra una planta para iniciar el ciclo de vida.
+
+<p align="center">
+    <img src="../src/images/Gardensection001.png" alt="Gardensection001_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/Gardensection002.png" alt="Gardensection002_Photo" width="500px"/>
+
+</p>
+
+**Visualizar el ciclo de vida de la planta**
+
+En esta sección se ve como las distintas plantas que el agricultor a registrado en el ciclo de vida.
+
+<p align="center">
+    <img src="../src/images/LifeCyclesection.png" alt="Life_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/LifeCyclesection001.png" alt="LifeCyclesection001_Photo" width="500px"/>
+
+</p>
+
+<h4 id="WebApplicationsWireflowDiagrams">4.4.2. Web Applications Wireflow Diagrams</h4>
+
+
+<h4 id="WebApplicationsMock-ups">4.4.4. Web Applications Mock-ups.</h4>
+
+En esta sección se mostrará el desarrollo final de los Mock-ups de la Web Application, que es una representación de alta fidelidad.
+
+**Interfaz para nuevos usuarios y antiguos usuarios**
+
+Estos wireframes muestran las pantallas de inicio de sesión y registro, diseñadas siguiendo las directrices de tipografía y tamaño de fuente establecidas en la documentación.
+
+<p align="center">
+    <img src="../src/images/InicioMU.png" alt="Inicio_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/RegistroMU.png" alt="Registro_Photo" width="500px"/>
+
+</p>
+
+**Interfaz de Personas**
+
+En esta sección se muestra las páginas de en donde el agricultor podrá visualizar y gestionar las distintas plantas que le disponemos.
+
+<p align="center">
+    <img src="../src/images/HomeMU.png" alt="Home_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/GardenMU.png" alt="Garden_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/LifeMU.png" alt="Life_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/PlansMU.png" alt="Plans_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/SettingMU.png" alt="Setting_Photo" width="500px"/>
+
+</p>
+**Seleccionar una planta para iniciar el ciclo de vida**
+
+En esta sección se ve como el agricultor registra una planta para iniciar el ciclo de vida.
+
+<p align="center">
+    <img src="../src/images/GardenMU001.png" alt="Gardensection001_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/GardenMU002.png" alt="Gardensection002_Photo" width="500px"/>
+
+</p>
+
+**Visualizar el ciclo de vida de la planta**
+
+En esta sección se ve como las distintas plantas que el agricultor a registrado en el ciclo de vida.
+
+<p align="center">
+    <img src="../src/images/LifeCycleMU001.png" alt="Life_Photo" width="500px"/>
+
+</p>
+
+<p align="center">
+    <img src="../src/images/LifeCycleMU002.png" alt="LifeCyclesection001_Photo" width="500px"/>
+
+</p>
+
+<h4 id="WebApplicationsUserFlowDiagrams">4.4.3. Web Applications User Flow Diagrams</h4>
+
+<h3 id="WebApplicationsPrototyping">4.5. Web Applications Prototyping</h3>
+
+Se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
+
+[Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/j0sk2ngVIbmvYLJjATBtzu/GreenCare?node-id=134-899&node-type=CANVAS&t=CcWn1LGD767xHAI7-1&scaling=contain&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=134%3A899)
+
+
+<p align="center">
+    <img src="../src/images/PrototipoFigma.PNG" alt="Prototipo_Photo" width="500px"/>
+
+</p>
