@@ -418,6 +418,8 @@
 
 <h3 id="interviews">2.2. Entrevistas</h4>
 
+En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
+
 <h4 id="interviewDesign">2.2.1. Diseño de enetrevistas</h4>
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
