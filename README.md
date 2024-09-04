@@ -328,6 +328,7 @@
 <h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
 <h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h4>
+
 **Ana Paola Diaz Benavides**
 
 ![alt text](<src/images/user 1.jpg>)
@@ -335,6 +336,7 @@
 **Jorge Samir Condor Vera:**
 
 ![alt text](<src/images/user 2.jpg>)
+
 <h3 id="userStories">3.2. User Stories</h4>
 <table>
   <thead>
@@ -349,285 +351,335 @@
   <tbody>
     <tr>
       <td>EPIC-001</td>
-      <td>Gestión de Usuarios</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder registrarme, iniciar sesión, recuperar contraseñas y modificar mis datos personales <strong>para</strong> gestionar mi cuenta en la plataforma.</td>
-      <td><strong>Dado</strong> que un usuario accede a la plataforma, <strong>cuando</strong> registra una cuenta, inicia sesión, recupera su contraseña o modifica sus datos, <strong>entonces</strong> las acciones se realizan con éxito y se reflejan en la cuenta.</td>
+      <td>Autenticación de Usuario</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder autenticar mis credenciales, <strong>para</strong> acceder a la aplicación y gestionar mis plantas.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-002</td>
-      <td>Gestión de Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear, seguir y finalizar ciclos de vida de plantas <strong>para</strong> gestionar el cuidado de mis plantas de manera efectiva.</td>
-      <td><strong>Dado</strong> que un usuario accede a la plataforma, <strong>cuando</strong> agrega una planta, inicia un ciclo de vida o finaliza un ciclo, <strong>entonces</strong> las plantas se gestionan correctamente según los parámetros definidos.</td>
+      <td>Creación de Cuentas de Usuario</td>
+      <td><strong>Como</strong> nuevo usuario, <strong>quiero</strong> poder registrar una cuenta ingresando mi nombre, correo electrónico y contraseña, <strong>para</strong> acceder a la aplicación.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-003</td>
-      <td>Gestión de Actividades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> visualizar, crear y gestionar actividades diarias <strong>para</strong> el cuidado de mis plantas y asegurarme de que se realicen a tiempo.</td>
-      <td><strong>Dado</strong> que un usuario accede a la sección de actividades, <strong>cuando</strong> visualiza, crea o completa una actividad, <strong>entonces</strong> la actividad se refleja correctamente en el ciclo de vida de la planta.</td>
+      <td>Gestión del Jardín</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder visualizar, buscar y seleccionar plantas para mi jardín, <strong>para</strong> gestionar mi huerto de manera eficiente.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-004</td>
-      <td>Gestión de Planes de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> elegir entre diferentes planes de usuario (gratuito y premium) <strong>para</strong> acceder a distintas funcionalidades en la plataforma.</td>
-      <td><strong>Dado</strong> que un usuario selecciona un plan, <strong>cuando</strong> realiza el pago y accede a las funcionalidades, <strong>entonces</strong> las restricciones y accesos se aplican correctamente según el plan elegido.</td>
+      <td>Ciclo de Vida de la Planta</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver y gestionar el ciclo de vida de mis plantas, <strong>para</strong> mantener un seguimiento adecuado de su crecimiento.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-005</td>
-      <td>Recomendaciones y Anotaciones</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> recibir recomendaciones personalizadas y poder hacer anotaciones <strong>para</strong> mejorar el cuidado de mis plantas.</td>
-      <td><strong>Dado</strong> que un usuario accede a las recomendaciones o anotaciones, <strong>cuando</strong> es un usuario premium, <strong>entonces</strong> puede interactuar con estas funciones de manera completa.</td>
+      <td>Funcionalidades Premium</td>
+      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a recomendaciones y anotaciones avanzadas, <strong>para</strong> optimizar el cuidado de mis plantas.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-006</td>
-      <td>Gestión de Plantas Premium</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> acceder a plantas premium y sus características <strong>para</strong> tener más opciones de cultivo y gestionar plantas más desafiantes.</td>
-      <td><strong>Dado</strong> que un usuario accede a la sección de plantas, <strong>cuando</strong> el usuario tiene un plan premium, <strong>entonces</strong> puede visualizar y seleccionar plantas premium.</td>
+      <td>Planes de Suscripción</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar un plan de suscripción, <strong>para</strong> acceder a funcionalidades básicas o avanzadas según mi necesidad.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-007</td>
-      <td>Restricción y Desbloqueo de Funcionalidades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> que ciertas funcionalidades estén restringidas para usuarios gratuitos y desbloqueadas para usuarios premium <strong>para</strong> entender las ventajas del plan premium.</td>
-      <td><strong>Dado</strong> que un usuario gratuito accede a una función restringida, <strong>cuando</strong> intenta usarla, <strong>entonces</strong> se le muestra un mensaje de restricción; si es premium, la función se desbloquea y se utiliza normalmente.</td>
+      <td>Configuración de la Cuenta</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder cambiar mi nombre y correo electrónico, <strong>para</strong> mantener actualizada mi información personal en la aplicación.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-008</td>
-      <td>Gestión de Información del Ciclo de Vida</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver información detallada sobre el ciclo de vida de mis plantas, incluyendo etapas y actividades diarias <strong>para</strong> asegurarme de que realizo los cuidados correctos.</td>
-      <td><strong>Dado</strong> que un usuario accede a la sección de ciclo de vida, <strong>cuando</strong> selecciona una planta, <strong>entonces</strong> se muestra información detallada sobre el ciclo de vida, incluyendo etapas y actividades.</td>
+      <td>Perfil de Usuario</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver mi información de perfil y acceder a opciones de navegación, <strong>para</strong> gestionar mi cuenta de manera conveniente.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-009</td>
-      <td>Búsqueda y Filtros de Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder buscar y filtrar plantas en la sección de jardín <strong>para</strong> encontrar fácilmente las plantas que me interesan según mis necesidades y preferencias.</td>
-      <td><strong>Dado</strong> que un usuario está en la sección de jardín, <strong>cuando</strong> utiliza la búsqueda o los filtros, <strong>entonces</strong> se muestran las plantas correspondientes según los criterios seleccionados.</td>
+      <td>Navegación entre Secciones</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> navegar entre las secciones de la aplicación desde la barra lateral, <strong>para</strong> acceder fácilmente a las distintas funcionalidades.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
     <tr>
       <td>EPIC-010</td>
-      <td>Visualización Detallada de Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver detalles completos de cada planta, incluyendo nombre, dificultad y tiempo de vida <strong>para</strong> tomar decisiones informadas sobre qué plantas cultivar.</td>
-      <td><strong>Dado</strong> que un usuario selecciona una planta en la sección de jardín, <strong>cuando</strong> accede a la visualización detallada, <strong>entonces</strong> se muestra la información completa sobre esa planta.</td>
+      <td>Resumen de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un resumen de mis actividades diarias y pendientes, <strong>para</strong> mantenerme al tanto del cuidado de mis plantas.</td>
+      <td>N/A</td>
       <td>N/A</td>
     </tr>
   </tbody>
 </table>
+
+
 <table>
-    <thead>
-        <tr>
-            <th>ID</th>
-            <th>Título</th>
-            <th>Descripción</th>
-            <th>Criterios de Aceptación</th>
-            <th>Relacionado con (Epic ID)</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>US-001</td>
-            <td>Registro de Usuario</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> registrarme en la plataforma <strong>para</strong> poder gestionar mis plantas.</td>
-            <td>
-                Escenario 01: Registro Exitoso.<br>
-                <strong>Dado</strong> que un usuario accede al formulario de registro,<br>
-                <strong>cuando</strong> completa los campos y envía,<br>
-                <strong>Entonces</strong> se crea una cuenta nueva y se envía un correo de confirmación.
-            </td>
-            <td>EPIC-001</td>
-        </tr>
-        <tr>
-            <td>US-002</td>
-            <td>Inicio de Sesión</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar sesión en la plataforma <strong>para</strong> acceder a mi cuenta y mis plantas.</td>
-            <td>
-                Escenario 01: Inicio de Sesión Exitoso.<br>
-                <strong>Dado</strong> que un usuario accede al formulario de inicio de sesión,<br>
-                <strong>cuando</strong> introduce sus credenciales correctas,<br>
-                <strong>Entonces</strong> puede acceder a su cuenta y ver su jardín.
-            </td>
-            <td>EPIC-001</td>
-        </tr>
-        <tr>
-            <td>US-003</td>
-            <td>Recuperación de Contraseña</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> recuperar mi contraseña <strong>para</strong> poder acceder a mi cuenta si olvido mi contraseña.</td>
-            <td>
-                Escenario 01: Solicitud de Recuperación.<br>
-                <strong>Dado</strong> que un usuario solicita recuperar su contraseña,<br>
-                <strong>cuando</strong> ingresa su correo,<br>
-                <strong>Entonces</strong> recibe un enlace para restablecerla.
-            </td>
-            <td>EPIC-001</td>
-        </tr>
-        <tr>
-            <td>US-004</td>
-            <td>Configuración de Perfil</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> configurar mi perfil <strong>para</strong> personalizar mi experiencia en la plataforma.</td>
-            <td>
-                Escenario 01: Actualización de Perfil.<br>
-                <strong>Dado</strong> que un usuario accede a la configuración del perfil,<br>
-                <strong>cuando</strong> actualiza su información y guarda los cambios,<br>
-                <strong>Entonces</strong> se actualiza su perfil con la nueva información.
-            </td>
-            <td>EPIC-001</td>
-        </tr>
-        <tr>
-            <td>US-005</td>
-            <td>Ver Seccion Garden</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> ver una representación visual de mi jardín <strong>para</strong> gestionar mis plantas de manera efectiva.</td>
-            <td>
-                Escenario 01: Visualización del Jardín.<br>
-                <strong>Dado</strong> que un usuario accede a la vista de jardín,<br>
-                <strong>cuando</strong> visualiza su jardín,<br>
-                <strong>Entonces</strong> puede ver una lista de todas las plantas que ha agregado con sus detalles.
-            </td>
-            <td>EPIC-002</td>
-        </tr>
-        <tr>
-            <td>US-006</td>
-            <td>Añadir Nueva Planta</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> añadir nuevas plantas a mi jardín <strong>para</strong> expandir mi colección.</td>
-            <td>
-                Escenario 01: Registro de Planta.<br>
-                <strong>Dado</strong> que un usuario está en la sección de añadir plantas,<br>
-                <strong>cuando</strong> introduce los detalles y guarda,<br>
-                <strong>Entonces</strong> la nueva planta se añade a su jardín.
-            </td>
-            <td>EPIC-002</td>
-        </tr>
-        <tr>
-            <td>US-007</td>
-            <td>Iniciar/Finalizar Ciclo de Vida de Planta</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar o finalizar el ciclo de vida de una planta <strong>para</strong> gestionar su cuidado adecuadamente.</td>
-            <td>
-                Escenario 01: Gestión del Ciclo de Vida.<br>
-                <strong>Dado</strong> que un usuario accede a la gestión del ciclo de vida de una planta,<br>
-                <strong>cuando</strong> inicia o finaliza un ciclo,<br>
-                <strong>Entonces</strong> el estado de la planta se actualiza.
-            </td>
-            <td>EPIC-002</td>
-        </tr>
-        <tr>
-            <td>US-008</td>
-            <td>Ver Actividades diaras</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> ver actividades diarias <strong>para</strong> revisar las actividades realizadas con mis plantas.</td>
-            <td>
-                Escenario 01: Visualización de las actividades.<br>
-                <strong>Dado</strong> que un usuario está en la sección de actividades,<br>
-                <strong>cuando</strong> consulta,<br>
-                <strong>Entonces</strong> puede ver una lista con todas las actividades completas con sus plantas.
-            </td>
-            <td>EPIC-003</td>
-        </tr>
-        <tr>
-            <td>US-009</td>
-            <td>Visualizar Notificacion de registro de plantas</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> visualizar una un mensaje de registro de una planta <strong>para</strong> recibir un notificacion de registro.</td>
-            <td>
-                Escenario 01: Visualizacion de notificacion.<br>
-                <strong>Dado</strong> que un usuario está registrando su planta,<br>
-                <strong>cuando</strong> lo selecciona ,<br>
-                <strong>Entonces</strong> visualiza una notificaciones su planta ha sido registada.
-            </td>
-            <td>EPIC-009</td>
-        </tr>
-        <tr>
-            <td>US-010</td>
-            <td>Agregar Actividades de Plantas</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> agregar actividades relacionadas con el cuidado de mis plantas <strong>para</strong> mantener un registro organizado.</td>
-            <td>
-                Escenario 01: Registro de Actividades.<br>
-                <strong>Dado</strong> que un usuario está en la sección de actividades de plantas,<br>
-                <strong>cuando</strong> añade una nueva actividad y la guarda,<br>
-                <strong>Entonces</strong> se registra y se muestra en el historial correspondiente.
-            </td>
-            <td>EPIC-010</td>
-        </tr>
-        <tr>
-            <td>US-011</td>
-            <td>Agregar Datos de la Planta</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> agregar datos de planta en un formulario <strong>para</strong> poder organizarlo de manera eficiente. </td>
-            <td>
-                Escenario 01: Agregacion de Datos.<br>
-                <strong>Dado</strong> que un usuario agrega los datos de plantas en la seccion de garden,<br>
-                <strong>cuando</strong> carga llena el formulario en la plataforma,<br>
-                <strong>Entonces</strong> las plantas se se muestran en la seccion.
-            </td>
-            <td>EPIC-010</td>
-        </tr>
-        <tr>
-            <td>US-012</td>
-            <td>Ver Recomendaciones</td>
-            <td><strong>Como</strong> usuario premium, <strong>quiero</strong> ver recomendaciones  <strong>para</strong> recibir consejos específicos para mis plantas.</td>
-            <td>
-                Escenario 01: Recomendaciones.<br>
-                <strong>Dado</strong> que un usuario premium está en la sección de recomendaciones,<br>
-                <strong>cuando</strong> consulta las recomendaciones ,<br>
-                <strong>Entonces</strong> recibe consejos adaptados a las plantas que tiene.
-            </td>
-            <td>EPIC-006</td>
-        </tr>
-        <tr>
-            <td>US-013</td>
-            <td>Ver Información del Plan</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> ver detalles del plan de suscripción <strong>para</strong> entender los beneficios y restricciones del plan elegido.</td>
-            <td>
-                Escenario 01: Consulta de Planes.<br>
-                <strong>Dado</strong> que un usuario selecciona un plan de suscripción en la sección de planes,<br>
-                <strong>cuando</strong> consulta los detalles,<br>
-                <strong>Entonces</strong> se muestra la información completa sobre el plan.
-            </td>
-            <td>EPIC-004</td>
-        </tr>
-        <tr>
-            <td>US-014</td>
-            <td>Comparar Planes</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> comparar diferentes planes de suscripción <strong>para</strong> elegir el más adecuado para mis necesidades.</td>
-            <td>
-                Escenario 01: Comparación de Planes.<br>
-                <strong>Dado</strong> que un usuario está en la sección de comparación de planes,<br>
-                <strong>cuando</strong> selecciona diferentes opciones para comparar,<br>
-                <strong>Entonces</strong> se muestra las características de cada plan.
-            </td>
-            <td>EPIC-004</td>
-        </tr>
-        <tr>
-            <td>US-015</td>
-            <td>Consultar Planes Detallados</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> consultar planes detallados <strong>para</strong> tomar una decisión informada sobre mi suscripción.</td>
-            <td>
-                Escenario 01: Consulta de Planes Detallados.<br>
-                <strong>Dado</strong> que un usuario está en la sección de planes,<br>
-                <strong>cuando</strong> selecciona un plan y consulta los detalles,<br>
-                <strong>Entonces</strong> se muestra toda la información relevante del plan elegido.
-            </td>
-            <td>EPIC-004</td>
-        </tr>
-        <tr>
-            <td>US-016</td>
-            <td>Personalizar Perfil de Usuario</td>
-            <td><strong>Como</strong> usuario, <strong>quiero</strong> personalizar mi perfil en la plataforma <strong>para</strong> reflejar mis preferencias y detalles personales.</td>
-            <td>
-                Escenario 01: Personalización del Perfil.<br>
-                <strong>Dado</strong> que un usuario accede a la configuración del perfil,<br>
-                <strong>cuando</strong> actualiza sus preferencias y guarda los cambios,<br>
-                <strong>Entonces</strong> su perfil se actualiza con la nueva información personalizada.
-            </td>
-            <td>EPIC-004</td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>Epic / Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Criterios de Aceptación</th>
+      <th>Relacionado con (Epic ID)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US-001</td>
+      <td>Registro de Usuario</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> registrarme en la plataforma <strong>para</strong> poder gestionar mis plantas.</td>
+      <td><strong>Escenario 01: Dado</strong> un usuario completa el formulario de registro, <strong>cuando</strong> envía el formulario, <strong>Entonces</strong> se crea una cuenta nueva. Y se envía un correo de confirmación.</td>
+      <td>EPIC-001</td>
+    </tr>
+    <tr>
+      <td>US-002</td>
+      <td>Inicio de Sesión</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar sesión en la plataforma <strong>para</strong> acceder a mis datos y gestionar mis plantas.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario ha registrado una cuenta, <strong>cuando</strong> introduce sus credenciales correctamente, <strong>Entonces</strong> se le permite acceder a su cuenta.</td>
+      <td>EPIC-001</td>
+    </tr>
+    <tr>
+      <td>US-003</td>
+      <td>Recuperación de Contraseña</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> recuperar mi contraseña olvidada <strong>para</strong> poder acceder a mi cuenta nuevamente.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario ha olvidado su contraseña, <strong>cuando</strong> solicita recuperarla, <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.</td>
+      <td>EPIC-001</td>
+    </tr>
+    <tr>
+      <td>US-004</td>
+      <td>Modificación de Datos Personales</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> modificar mis datos personales <strong>para</strong> mantener mi información actualizada.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la configuración de su cuenta, <strong>cuando</strong> modifica sus datos, <strong>Entonces</strong> se guardan los cambios realizados.</td>
+      <td>EPIC-001</td>
+    </tr>
+    <tr>
+      <td>US-005</td>
+      <td>Creación de Plantas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear una planta en mi jardín <strong>para</strong> comenzar a seguir su ciclo de vida.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> crea una planta, <strong>Entonces</strong> se añade una nueva planta a su jardín.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-006</td>
+      <td>Visualización del Jardín</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver todas las plantas en mi jardín <strong>para</strong> tener una visión general de las plantas que estoy gestionando.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> tiene plantas añadidas, <strong>Entonces</strong> se muestran todas las plantas en una lista.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-007</td>
+      <td>Búsqueda de Plantas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> buscar plantas en mi jardín <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> utiliza la función de búsqueda, <strong>Entonces</strong> se muestran las plantas que coinciden con la búsqueda.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-008</td>
+      <td>Selección de Plantas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar una planta específica <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario ha encontrado la planta deseada, <strong>cuando</strong> la selecciona, <strong>Entonces</strong> se muestra su ciclo de vida detallado.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-009</td>
+      <td>Inicio de Ciclo de Vida</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar el ciclo de vida de una planta <strong>para</strong> empezar a registrar sus actividades y cuidados.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario ha añadido una planta nueva, <strong>cuando</strong> inicia su ciclo de vida, <strong>Entonces</strong> el ciclo comienza y se pueden añadir actividades.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-010</td>
+      <td>Finalización de Ciclo de Vida</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> finalizar el ciclo de vida de una planta <strong>para</strong> marcarla como completada y guardar su historial.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario ha completado el ciclo de vida de una planta, <strong>cuando</strong> selecciona finalizar, <strong>Entonces</strong> se guarda y se marca como completada.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-011</td>
+      <td>Creación de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear actividades diarias para mis plantas <strong>para</strong> asegurarme de que reciben el cuidado adecuado.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de actividades, <strong>cuando</strong> crea una nueva actividad, <strong>Entonces</strong> esta se añade al ciclo de vida de la planta.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-012</td>
+      <td>Visualización de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver las actividades diarias pendientes <strong>para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de actividades, <strong>cuando</strong> tiene actividades pendientes, <strong>Entonces</strong> se muestran en la lista de actividades.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-013</td>
+      <td>Completar Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> marcar actividades como completadas <strong>para</strong> mantener un registro de los cuidados realizados.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario tiene una actividad pendiente, <strong>cuando</strong> la marca como completada, <strong>Entonces</strong> esta se registra como realizada en el ciclo de vida.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-014</td>
+      <td>Visualización de Resumen Diario</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un resumen diario de mis actividades <strong>para</strong> revisar rápidamente lo que tengo que hacer.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de inicio, <strong>cuando</strong> hay actividades programadas para el día, <strong>Entonces</strong> se muestran en el resumen diario.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-015</td>
+      <td>Notificaciones de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> recibir notificaciones sobre las actividades programadas <strong>para</strong> no olvidar los cuidados importantes para mis plantas.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario tiene actividades programadas, <strong>cuando</strong> se acerca la fecha, <strong>Entonces</strong> recibe una notificación recordatoria.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-016</td>
+      <td>Creación de Planes de Usuario</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar entre planes gratuitos y premium <strong>para</strong> elegir el que mejor se adapte a mis necesidades.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la página de planes, <strong>cuando</strong> elige un plan y realiza el pago, <strong>Entonces</strong> se actualizan sus privilegios según el plan seleccionado.</td>
+      <td>EPIC-004</td>
+    </tr>
+    <tr>
+      <td>US-017</td>
+      <td>Visualización de Beneficios Premium</td>
+      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> ver los beneficios adicionales disponibles <strong>para</strong> aprovechar al máximo mi suscripción.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario premium accede a la sección de beneficios, <strong>cuando</strong> consulta los beneficios, <strong>Entonces</strong> se muestran todas las ventajas disponibles.</td>
+      <td>EPIC-004</td>
+    </tr>
+    <tr>
+      <td>US-018</td>
+      <td>Acceso a Funcionalidades Premium</td>
+      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a funcionalidades exclusivas <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario premium accede a funciones avanzadas, <strong>cuando</strong> utiliza estas funciones, <strong>Entonces</strong> tienen acceso completo a todas las características premium.</td>
+      <td>EPIC-004</td>
+    </tr>
+    <tr>
+      <td>US-019</td>
+      <td>Actualización de Información de Perfil</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar mi información de perfil <strong>para</strong> reflejar cambios en mis datos personales.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a su perfil, <strong>cuando</strong> actualiza su información, <strong>Entonces</strong> los cambios se guardan y se reflejan en su perfil.</td>
+      <td>EPIC-001</td>
+    </tr>
+    <tr>
+      <td>US-020</td>
+      <td>Gestión de Plantas Favoritas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> marcar plantas como favoritas <strong>para</strong> acceder a ellas fácilmente desde una lista de favoritos.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario visualiza una planta, <strong>cuando</strong> la marca como favorita, <strong>Entonces</strong> esta planta se añade a su lista de favoritas.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-021</td>
+      <td>Visualización de Plantas Favoritas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver una lista de mis plantas favoritas <strong>para</strong> gestionarlas de manera rápida y sencilla.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de favoritas, <strong>cuando</strong> visualiza su lista, <strong>Entonces</strong> se muestran todas las plantas marcadas como favoritas.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-022</td>
+      <td>Edición de Plantas Favoritas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> editar la lista de plantas favoritas <strong>para</strong> añadir o eliminar plantas según lo necesite.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la lista de favoritas, <strong>cuando</strong> edita la lista, <strong>Entonces</strong> las modificaciones se guardan y actualizan en la lista.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-023</td>
+      <td>Configuración de Datos Personales</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar mi nombre y correo electrónico <strong>para</strong> mantener mi perfil al día.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la configuración de su cuenta, <strong>cuando</strong> realiza cambios en su nombre o correo electrónico, <strong>Entonces</strong> se actualizan los datos.</td>
+      <td>EPIC-007</td>
+    </tr>
+    <tr>
+      <td>US-024</td>
+      <td>Visualización de Perfil</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver mi perfil con mi nombre, foto y rol <strong>para</strong> verificar que mi información es correcta.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a su perfil, <strong>cuando</strong> visualiza su información, <strong>Entonces</strong> se muestra correctamente su nombre, foto y rol.</td>
+      <td>EPIC-008</td>
+    </tr>
+    <tr>
+      <td>US-025</td>
+      <td>Resumen de Plantas en el Jardín</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un resumen de todas las plantas en mi jardín <strong>para</strong> tener una visión general de su estado y cuidados.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> visualiza el resumen, <strong>Entonces</strong> se muestran todas las plantas con su información básica.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-026</td>
+      <td>Visualización Detallada de Planta</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver los detalles completos de una planta seleccionada <strong>para</strong> entender mejor sus necesidades y ciclo de vida.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario selecciona una planta, <strong>cuando</strong> accede a la visualización detallada, <strong>Entonces</strong> se muestran la dificultad, nombre y tiempo de vida.</td>
+      <td>EPIC-010</td>
+    </tr>
+    <tr>
+      <td>US-027</td>
+      <td>Adición de Actividades Diarias</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> añadir nuevas actividades diarias para mis plantas <strong>para</strong> programar cuidados específicos.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de actividades, <strong>cuando</strong> añade una nueva actividad, <strong>Entonces</strong> esta se programa y aparece en el calendario.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-028</td>
+      <td>Finalización de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> marcar una actividad como finalizada <strong>para</strong> llevar un registro de lo que ya he realizado.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario completa una actividad, <strong>cuando</strong> la marca como finalizada, <strong>Entonces</strong> esta se mueve a la sección de actividades completadas.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-029</td>
+      <td>Creación de Recordatorios</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear recordatorios para mis actividades diarias <strong>para</strong> asegurarme de no olvidar realizar tareas importantes.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario crea un recordatorio, <strong>cuando</strong> se acerca la fecha y hora del recordatorio, <strong>Entonces</strong> se le envía una notificación.</td>
+      <td>EPIC-003</td>
+    </tr>
+    <tr>
+      <td>US-030</td>
+      <td>Actualización de Información de Planta</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar la información de una planta <strong>para</strong> reflejar cambios en su estado o cuidados.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a los detalles de una planta, <strong>cuando</strong> actualiza la información, <strong>Entonces</strong> los cambios se guardan y se reflejan en la vista detallada.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-031</td>
+      <td>Creación de Etiquetas para Plantas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear etiquetas para mis plantas <strong>para</strong> identificar fácilmente sus características y necesidades.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de etiquetas, <strong>cuando</strong> crea una nueva etiqueta, <strong>Entonces</strong> se asigna a la planta seleccionada.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-032</td>
+      <td>Visualización de Etiquetas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver las etiquetas asociadas a cada planta <strong>para</strong> identificar fácilmente sus características y cuidados necesarios.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a los detalles de una planta, <strong>cuando</strong> visualiza las etiquetas, <strong>Entonces</strong> se muestran todas las etiquetas asociadas a esa planta.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-033</td>
+      <td>Eliminación de Etiquetas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> eliminar etiquetas de mis plantas <strong>para</strong> mantener mi sistema de etiquetado organizado y relevante.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario accede a las etiquetas de una planta, <strong>cuando</strong> elimina una etiqueta, <strong>Entonces</strong> esta se elimina de la planta y de la lista de etiquetas.</td>
+      <td>EPIC-002</td>
+    </tr>
+    <tr>
+      <td>US-034</td>
+      <td>Visualizacion de Notificacion de Registro</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> visualizar una notificacion cuando registro una plata <strong>para</strong> estar seguro de haber registrado.</td>
+      <td><strong>Escenario 01: Dado</strong> que un usuario registra  la planta, <strong>cuando</strong> cuando da en el boton de registro, <strong>Entonces</strong> se visualiza una notrificacion de su planta ha sido registrada.</td>
+      <td>EPIC-003</td>
+    </tr>
+  </tbody>
 </table>
 
-
-
 <h3 id="impactMapping">3.3. Impact Mapping</h4>
+
+**Ana Paola Diaz Benavides**
+![alt text](<src/images/Ana Paola Diaz Benavides_.png>)
+**Jorge Samir Condor Vera:**
 
 <h3 id="productBacklog">3.4. Product Backlog</h4>
 
