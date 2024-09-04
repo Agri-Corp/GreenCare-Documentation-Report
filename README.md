@@ -734,4 +734,14 @@ En esta sección, se detallan los mapas de viaje del usuario para cada persona d
 
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
+Esta sección presenta el mapeo de empatía para los segmentos de personas interesadas en agricultura y persona con experiencia en cuidado de plantas, ofreciendo una visión detallada de las necesidades, preocupaciones y beneficios desde la perspectiva del usuario.
+
+|**`EMPATHY MAPPING: Personas interesadas en agricultura`**|
+|---|
+|<img src="src/images/empathy_mapping_ana.png" alt="empathy-mapping Personas interesadas en agricultura" style="width:100%">|
+
+|**`EMPATHY MAPPING: Persona con experiencia en cuidado de plantas`**|
+|---|
+|<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Persona con experiencia en cuidado de plantas" style="width:100%">|
+
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
