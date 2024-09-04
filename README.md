@@ -478,6 +478,144 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 
 Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás resúmenes de las entrevistas en cuadros:
 
+<ul><strong>Entrevistado 1:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: José Luis Huamani</li>
+            <li>Edad: 57 años</li>
+            <li>Distrito de residencia: Chorrillos</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
+            <li>URL del video subido a Microsoft Stream</li>
+            <li>timing donde inicia la entrevista y su duración</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>José Luis Huamani, de 57 años, se describe como cauteloso y alegre. Valora pasar tiempo con su familia y se dedica con esmero al cuidado de sus plantas, enfrentando desafíos con soluciones prácticas y creativas. Su paciencia y optimismo son evidentes en su enfoque hacia el cuidado de las plantas y su disfrute personal en esta actividad.</li>
+            <li>José Luis no tiene preferencia por marcas específicas de productos para plantas, enfocándose en que sean de buena calidad y libres de químicos. Usa recursos en línea, como navegadores comunes, para buscar información sobre jardinería, dado su enfoque reflexivo. Interactúa con sus plantas principalmente a través de métodos manuales, como el uso de jabón y abono, en lugar de herramientas tecnológicas. Utiliza dispositivos estándar como computadoras y teléfonos móviles para gestionar el cuidado de sus plantas.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 2:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Luis Alberto Martínez Gutiérrez</li>
+            <li>Edad: 28 años</li>
+            <li>Distrito de residencia: Pequeño pueblo en la sierra de Apurímac, en la comunidad de San Pedro</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="src/images/entrevista_luis.png" alt="?" style="width:100%;">
+            <li>URL del video subido a Microsoft Stream</li>
+            <li>timing donde inicia la entrevista y su duración</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Luis Alberto está profundamente motivado por el esfuerzo y dedicación de sus padres en el campo. Vive en un pequeño pueblo en la sierra de Apurímac y trabaja en el campo familiar. Su interés en la agricultura está impulsado por el deseo de mejorar los métodos de cultivo y aplicar tecnología para hacerlo de manera más sostenible.</li>
+            <li>Luis se basa en la influencia de su experiencia familiar y educativa, enfocándose en la agricultura orgánica y urbana y buscando integrar técnicas modernas como el cultivo hidropónico para optimizar la producción. Aunque no menciona marcas específicas, su interés en soluciones innovadoras y sostenibles es evidente. Utiliza libros de texto, materiales en línea, y participa en seminarios y talleres para aprender sobre agricultura, además de seguir plataformas digitales y aplicaciones móviles para mantenerse actualizado. Interactúa con la agricultura a través de la experiencia práctica en el campo familiar y enfrenta desafíos como el control de plagas y la falta de agua, respaldado por su formación académica. Es probable que use navegadores comunes como Google Chrome o Mozilla Firefox y dispositivos estándar como computadoras y teléfonos móviles para acceder a recursos digitales y mejorar la eficiencia en la agricultura.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 3:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Ricardo Torres Quispe</li>
+            <li>Edad: 24 años</li>
+            <li>Distrito de residencia: Andahuaylas, en la sierra de Apurímac</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
+            <li>URL del video subido a Microsoft Stream</li>
+            <li>timing donde inicia la entrevista y su duración</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Ricardo Torres Quispe está motivado por la idea de que la agricultura puede ser una fuente de ingresos sostenible para su familia y comunidad. Vive en Andahuaylas con sus padres y hermana menor, y trabaja medio tiempo en una tienda de insumos agrícolas. Su objetivo es aplicar nuevas tecnologías para hacer la agricultura más eficiente y rentable, reflejando una actitud proactiva y orientada a la innovación.</li>
+            <li>Ricardo Torres no menciona marcas específicas, pero está enfocado en la agricultura convencional con un énfasis en mejorar la productividad y la eficiencia mediante tecnología. Su motivación proviene del deseo de optimizar la calidad de los cultivos en su región sin necesidad de expandir el área cultivada. Su aprendizaje se basa en libros, videos educativos, talleres y conferencias, y utiliza aplicaciones móviles y plataformas digitales como Facebook, Instagram y YouTube para mantenerse actualizado sobre técnicas avanzadas y modernas. Interactúa con la agricultura a través de su trabajo en el campo familiar y enfrenta desafíos como la falta de agua y plagas resistentes. Es probable que use navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre tecnología agrícola.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 4:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Lucia Melendez</li>
+            <li>Edad: 20 años</li>
+            <li>Distrito de residencia: Villa María</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
+            <li>URL del video subido a Microsoft Stream</li>
+            <li>timing donde inicia la entrevista y su duración</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Lucia Melendez, de 20 años, es una estudiante de diseño de interiores que vive con sus padres y su hermano en Villa María. Se muestra interesada en la agricultura principalmente debido a su carrera, ya que aprecia la decoración con plantas y desea incorporarlas en su hogar. Su falta de experiencia en el cuidado de plantas se evidencia en los problemas que ha tenido, pero su curiosidad por aprender más es notable.</li>
+            <li>Lucia Melendez está comenzando a aprender sobre agricultura sin experiencia previa en marcas o recursos específicos. Su interés principal es la agricultura orgánica y está abierta a técnicas avanzadas como el cultivo hidropónico, aunque aún no utiliza plataformas digitales para informarse. Actualmente, cuida las plantas de manera básica y enfrenta dificultades como el riego excesivo. Se infiere que, si empieza a buscar información en línea, usará navegadores comunes y dispositivos estándar como computadoras o teléfonos móviles.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 5:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Marcelo Sebastian Ramirez Ramirez</li>
+            <li>Edad: 19 años</li>
+            <li>Distrito de residencia: Chorrillos</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
+            <li>URL del video subido a Microsoft Stream</li>
+            <li>timing donde inicia la entrevista y su duración</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Marcelo Sebastian Ramirez, de 19 años y estudiante de ingeniería de software, se muestra motivado por un deseo de llevar un estilo de vida más sostenible y saludable. Vive con su madre y hermana en Chorrillos y está soltero. Su interés en la agricultura surge del deseo de cultivar sus propios alimentos y contribuir al medio ambiente, reflejando una actitud proactiva y consciente.</li>
+            <li>Marcelo está interesado en la agricultura urbana y orgánica, buscando integrar prácticas sostenibles en su hogar. Aunque tiene conocimientos básicos en el cuidado de plantas, planea expandir su aprendizaje a través de tutoriales en línea y libros, siguiendo canales de YouTube y redes sociales de expertos en agricultura. Utiliza plataformas digitales para informarse sobre técnicas avanzadas como la hidroponía y enfrenta desafíos como el riego y el control de plagas. Se infiere que usa navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre agricultura.</li>
+        </ul>
+    </li>
+</ul>
+
+<ul><strong>Entrevistado 6:</strong>
+    <li><strong>Información del Entrevistado:</strong>
+        <ul>
+            <li>Nombre completo: Giovanni Ramos</li>
+            <li>Edad: 20 años</li>
+            <li>Distrito de residencia: Santa Anita</li>
+        </ul>
+    </li>
+    <li><strong>Registro en Video:</strong> 
+        <ul>
+            <img src="src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
+            <li>URL del video subido a Microsoft Stream</li>
+            <li>timing donde inicia la entrevista y su duración</li>
+        </ul>
+    </li>
+    <li><strong>Resumen de la Entrevista:</strong> 
+        <ul>
+            <li>Giovani Ramos es una persona inexperta en agricultura pero con un interés genuino en crear huertos en las áreas verdes de su casa. Su motivación proviene de la influencia de sus padres, lo que refleja una actitud positiva hacia el cultivo casero. Sin embargo, enfrenta dificultades con el labrado de la tierra y se siente frustrado por la falta de información clara y accesible sobre cómo hacer germinar plantas específicas.</li>
+            <li>Giovani enfrenta dificultades como la búsqueda de información sobre plantas, lo cual considera tedioso. No menciona marcas específicas para huertos, pero su principal influencia es familiar. Está interesado en una aplicación que facilite la gestión de huertos y proporcione información concisa sobre el cuidado de plantas, lo que refleja su disposición a utilizar tecnología para mejorar su experiencia. Aunque no se especifica el navegador o los dispositivos que usa, es probable que utilice herramientas estándar como navegadores comunes y dispositivos móviles para acceder a información sobre agricultura.</li>
+        </ul>
+    </li>
+</ul>
+
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
 <h3 id="needfinding">2.3. Needfinding<h4>
