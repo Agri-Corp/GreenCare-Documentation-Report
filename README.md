@@ -498,6 +498,90 @@ Esta sección del informe presenta perfiles ficticios basados en grupos de inter
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix<h4>
 
+En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos grupos y hemos analizado la importancia de cada una de estas actividades para cada grupo:
+
+<table>
+    <thead>
+        <tr>
+            <th>Segmento objetivo</th>
+            <th colspan="2">Jorge Samir Condor Vera - Experto en el cuidado de plantas</th>
+            <th colspan="2">Ana Paola Diaz Benavides - Persona interesada en la agricultura</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Tareas</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+        <tr>
+            <td>Investigación de Nuevas Tecnologías Agrícolas.</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>
+        <tr>
+            <td>Leer consejos de un agricultor o jardinero confiable.</td>
+            <td>A veces</td>
+            <td>Media</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+        </tr>   
+        <tr>
+            <td>Aplicación de Técnicas de Riego</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>Rara vez</td>
+            <td>Baja</td>
+        </tr>  
+        <tr>
+            <td>Monitoreo de Condiciones Climáticas</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Revisión de Nuevas Técnicas</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Supervisión del Crecimiento</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+        </tr>  
+        <tr>
+            <td>Diagnóstico de Enfermedades y Plagas</td>
+            <td>Siempre</td>
+            <td>Alta</td>
+            <td>A veces</td>
+            <td>Media</td>
+        </tr>  
+        <tr>
+            <td>Almacenamiento y Conservación de Productos</td>
+            <td>A menudo</td>
+            <td>Media</td>
+            <td>Rara vez</td>
+            <td>Baja</td>
+        </tr>  
+        <tr>
+            <td>Conocimiento sobre el manejo de Cosecha</td>
+            <td>A menudo</td>
+            <td>Alta</td>
+            <td>Rara vez</td>
+            <td>Baja</td>
+        </tr>      
+    </tbody>
+</table>
+
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping<h4>
 
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
