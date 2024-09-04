@@ -482,6 +482,8 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
 
 <h3 id="needfinding">2.3. Needfinding<h4>
 
+En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
+
 <h4 id="userPersonas">2.3.1. User Personas<h4>
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix<h4>
