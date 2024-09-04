@@ -745,3 +745,13 @@ Esta sección presenta el mapeo de empatía para los segmentos de personas inter
 |<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Persona con experiencia en cuidado de plantas" style="width:100%">|
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
+
+En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User Persona, destacando el proceso de preparación, lluvia de ideas individual, revisión y identificación de fases. Se incluyen las filas Phases, Doing, Thinking y Feeling, con áreas positivas, negativas y blank areas para usuarios. El objetivo es proporcionar una visualización detallada del proceso actual y áreas de mejora para cada persona del usuario.
+
+|**`AS-IS SCENARIO MAPPING: Personas interesadas en agricultura`**|
+|---|
+|<img src="src/images/as-is_ana.jpg" alt="as-is Personas interesadas en agricultura" style="width:100%">|
+
+|**`AS-IS SCENARIO MAPPING: Persona con experiencia en cuidado de plantas`**|
+|---|
+|<img src="src/images/as-is_jorge.jpg" alt="as-is Persona con experiencia en cuidado de plantas" style="width:100%">|
