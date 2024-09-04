@@ -722,6 +722,16 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping<h4>
 
+En esta sección, se detallan los mapas de viaje del usuario para cada persona del usuario, personas interesadas en agricultura y persona con experiencia en cuidado de plantas.
+
+|**`USER JOURNEY MAPPING: Personas interesadas en agricultura`**|
+|---|
+|<img src="src/images/journey_mapping_ana.png" alt="as-Personas Interesadas en Agricultura" style="width:100%">|
+
+|**`USER JOURNEY MAPPING: Persona con experiencia en cuidado de plantas`**|
+|---|
+|<img src="src/images/journey_mapping_jorge.png" alt="as-Persona con experiencia en cuidado de plantas" style="width:100%">|
+
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
