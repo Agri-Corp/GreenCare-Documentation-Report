@@ -310,6 +310,110 @@
 
 <h4 id="competitiveAnalysis">2.1.1. Análisis Competitivo</h4>
 
+<table>
+<tr>
+<th colspan="7">Competitive Analysis Landscape</th>
+</tr>
+<tr>
+<td colspan="2" rowspan="2">¿Por qué llevar a cabo este análisis?</td>
+<td colspan="5">Escriba en el recuadro la pregunta que busca responder o el objetivo de este análisis.</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+<td>GreenCare <img src="assets/icon_GreenCare.png" alt="GreenCare" style="width:100%;"> </td>
+<td>Plantix <img src="assets/icon_plantix.png" alt="Plantix" style="width:100%;"> </td>
+<td>Gardening <img src="assets/icon_gadening.png" alt="Gardening" style="width:100%;"> </td>
+<td>Info Jardin <img src="assets/icon_infojardin.png" alt="Info Jardin" style="width:100%;"> </td>
+</tr>
+<tr>
+<td rowspan="2">PERFIL</td>
+<td colspan="2">Overview</td>
+<td>Es una aplicación que ayuda a las personas a que puedan tener una manera práctica y dinámica al gestionar el cuidado de sus plantas en su día a día.</td>
+<td>Es una app que ayuda a los agricultores para resolver dudas y poder cuidar bien sus agriculturas, optimizando la productividad y adquiri valiosos conocimientos agrícolas.</td>
+<td>Es una aplicación donde notifica momentos ideales para trasplantar, adelgazar y cosechar. También avisa sobre condiciones climáticas inusuales o la falta de lluvia que podrían afectar el desarrollo de sus cultivos. </td>
+<td>Es una app donde brinda detalles sobre los requerimientos específicos de cada planta, incluyendo luz, riego, abonado y prevención de enfermedades. </td>
+</tr>
+<tr>
+<td colspan="2">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+<td>Ofrece consejos de agricultores y jardineros con experiencias en esta área, también tutoriales de casos muy ocurrente en el mundo de la agricultura.</td>
+<td>Ofrece ayudas de los agricultores pueden superar desafíos y alcanzar sus metas con mayor facilidad, mejorando significativamente su experiencia y éxito en la agricultura. </td>
+<td>Brinda recomendaciones específicas sobre cómo ajustar su cuidado para enfrentar estos desafíos, garantizando así el mejor resultado posible para sus cosechas.</td>
+<td>Brinda guías sobre cómo preparar el suelo, cuidar el césped y realizar la poda o tala de árboles de manera adecuada.</td>
+</tr>
+<tr>
+<td rowspan="2">PERFIL DE MARKETING</td>
+<td colspan="2">Mercado objetivo</td>
+<td>Usuarios en busca de soluciones para el cuidado de sus plantas, también para los jardineros nuevos.</td>
+<td>Usuarios que tienen un gran terreno de agricultura quienes buscan solucionas a escala mayoristas.</td>
+<td>Propietarios de muchas plantas quienes desean consejos para prevenir problemas.</td>
+<td>Usuarios que necesitan tutoriales, comunicar con una comunidad y que buscan profesionales competentes que los recomienden.</td>
+</tr>
+<tr>
+<td colspan="2">Estrategias de marketing</td>
+<td>Marketing digital a través de redes sociales y blogs especializados.</td>
+<td>Campañas dirigidas a grandes superficies agrícolas y ferias del sector.</td>
+<td>Publicidad en medios especializados en jardinería y redes sociales.</td>
+<td>Colaboraciones con expertos en jardinería y presencia en foros y comunidades en línea.</td>
+</tr>
+<tr>
+<td rowspan="3">PERFIL DE PRODUCTO</td>
+<td colspan="2">Productos & Servicios</td>
+<td>Gestión del cuidado de plantas mediante consejos y tutoriales.</td>
+<td>Asesoramiento y diagnósticos para la optimización de cultivos.</td>
+<td>Recomendaciones para el cuidado de cultivos y alertas climáticas.</td>
+<td>Guías completas para el cuidado de plantas y mantenimiento del jardín.</td>
+</tr>
+<tr>
+<td colspan="2">Precios & Costos</td>
+<td></td>
+<td>Suscripción basada en el tamaño del terreno o el número de usuarios, con tarifas adicionales por consultas.</td>
+<td>Suscripción mensual/anual para acceso a alertas climáticas y asesoramiento especializado.</td>
+<td>Suscripción gratuita con publicidad; opción de pago para eliminar anuncios y acceso a contenido exclusivo.</td>
+</tr>
+<tr>
+<td colspan="2">Canales de distribución (Web y/o Móvil)</td>
+<td>Plataforma web y aplicación móvil.</td>
+<td>Plataforma web y aplicación móvil.</td>
+<td>Plataforma web y aplicación móvil.</td>
+<td>Sitio web y aplicación móvil.</td>
+</tr>
+<tr>
+<td rowspan="5">ANÁLISIS SWOT</td>
+<td colspan="6">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus oportunidades y contribuir a lo que ustedes definen como su posible ventaja competitiva.</td>
+</tr>
+<tr>
+<td colspan="2">Fortalezas</td>
+<td>Interfaz amigable y fácil de usar.</td>
+<td>Amplia base de conocimientos agrícolas y diagnóstico preciso.</td>
+<td>Alertas en tiempo real y recomendaciones personalizadas.</td>
+<td>Guías exhaustivas y alertas personalizadas.</td>
+</tr>
+<tr>
+<td colspan="2">Debilidades</td>
+<td>Falta de integración con otras herramientas agrícolas.</td>
+<td>Dependencia de datos precisos y actualizados.</td>
+<td>Puede ser complejo para usuarios novatos.</td>
+<td>Puede tener una curva de aprendizaje para nuevos usuarios.</td>
+</tr>
+<tr>
+<td colspan="2">Oportunidades</td>
+<td>Expandir funcionalidades y alianzas con otras plataformas.</td>
+<td>Desarrollar nuevas características basadas en la retroalimentación de los usuarios.</td>
+<td>Incorporar tecnologías emergentes como IA para mejorar las recomendaciones.</td>
+<td>Ampliar la base de usuarios mediante marketing y promociones.</td>
+</tr>
+<tr>
+<td colspan="2">Amenazas</td>
+<td>Competencia creciente en el mercado de aplicaciones de jardinería.</td>
+<td>Desafíos en la actualización y mantenimiento de datos agrícolas.</td>
+<td>Riesgo de desactualización de las alertas climáticas.</td>
+<td>Competencia de aplicaciones con características similares o mejoradas.</td>
+</tr>
+</table>
+
 <h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
 
 <h3 id="interviews">2.2. Entrevistas</h4>
