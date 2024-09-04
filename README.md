@@ -420,9 +420,59 @@
 
 En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
 
-<h4 id="interviewDesign">2.2.1. Diseño de enetrevistas</h4>
+<h4 id="interviewDesign">2.2.1. Diseño de entrevistas</h4>
 
 A continuación, encontrarás un diseño de una lista de preguntas principales y adicionales para las entrevistas, adaptadas a cada grupo identificado. Estas preguntas nos ayudarán a recopilar datos importantes sobre las características y comportamientos de las personas:
+
+<p><strong>Preguntas Principales para Expertos en el cuidado de plantas:</strong></p>
+<ul>
+    <li><strong>Preguntas personales:</strong> 
+        <ul>
+            <li>¿Cuál es su nombre completo?</li>
+            <li>¿Cuál es su edad?</li>
+            <li>¿Dónde reside actualmente?</li>
+            <li>¿Cuál es su estado civil?</li>
+            <li>¿Tiene algún miembro de la familia que viva con usted? ¿Cuántos?</li>
+            <li>¿A qué se dedica profesionalmente?</li>
+        </ul>
+    </li>
+    <li><strong>Preguntas centrada al tema:</strong> 
+        <ul>
+            <li>¿Cómo describiría su personalidad en términos de habilidades y preferencias?</li>
+            <li>¿Cuáles son los mayores desafíos que ha enfrentado en el cuidado de plantas y cómo los ha superado?</li>
+            <li>¿Puede compartir alguna experiencia significativa que haya moldeado su enfoque en el cuidado de plantas?</li>
+            <li>¿Qué marcas o productos de cuidado de plantas prefiere y por qué?</li>
+            <li>¿Cuáles son sus principales objetivos para el cuidado de sus plantas o jardín?</li>
+            <li>¿Qué molestias has experimentado al momento de mantener el cuidado de sus plantas o jardín?</li>
+            <li>¿Cuáles son las técnicas más efectivas que utiliza para el cuidado de diferentes tipos de plantas?</li>
+        </ul>
+    </li>
+</ul>
+
+<p><strong>Preguntas Principales para Personas interesadas en la agricultura:</strong></p>
+<ul>
+    <li><strong>Preguntas personales:</strong> 
+        <ul>
+            <li>¿Cuál es su nombre completo?</li>
+            <li>¿Cuál es su edad?</li>
+            <li>¿Dónde reside actualmente?</li>
+            <li>¿Cuál es su estado civil?</li>
+            <li>¿Tiene algún miembro de la familia que viva con usted? ¿Cuántos?</li>
+            <li>¿A qué se dedica profesionalmente?</li>
+        </ul>
+    </li>
+    <li><strong>Preguntas centrada al tema:</strong> 
+        <ul>
+            <li>¿Qué le motivó a interesarse en la agricultura y qué objetivos tiene en mente al respecto?</li>
+            <li>¿Qué tipo de agricultura le interesa más? ejemplo orgánica, convencional, urbana, etc.</li>
+            <li>¿Qué conocimientos previos tiene sobre la agricultura y qué áreas le gustaría aprender más?</li>
+            <li>¿Qué recursos ha utilizado o planea utilizar para aprender más sobre agricultura?</li>
+            <li>¿Qué plataformas digitales sigue para mantenerse informado sobre agricultura?</li>
+            <li>¿Qué molestias has experimentado al momento de mantener el cuidado de sus plantas o jardín?</li>
+            <li>¿Está interesado en técnicas avanzadas para la agricultura como cultivo hidropónico o algo similar?</li>
+        </ul>
+    </li>
+</ul>
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
