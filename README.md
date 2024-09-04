@@ -323,7 +323,7 @@
 </tr>
 <tr>
 <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
-<td>GreenCare <img src="src/images/icon_GreenCare.png" alt="GreenCare" style="width:100%;"> </td>
+<td>GreenCare <img src="src/images/icon_greencare.png" alt="GreenCare" style="width:100%;"> </td>
 <td>Plantix <img src="src/images/icon_plantix.png" alt="Plantix" style="width:100%;"> </td>
 <td>Gardening <img src="src/images/icon_gardening.png" alt="Gardening" style="width:100%;"> </td>
 <td>Info Jardin <img src="src/images/icon_infojardin.png" alt="Info Jardin" style="width:100%;"> </td>
