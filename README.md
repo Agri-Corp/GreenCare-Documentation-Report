@@ -476,6 +476,8 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
+Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás resúmenes de las entrevistas en cuadros:
+
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
 <h3 id="needfinding">2.3. Needfinding<h4>
