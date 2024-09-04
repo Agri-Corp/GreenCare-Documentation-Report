@@ -422,6 +422,8 @@ En esta sección se aborda la investigación tomando como base la recolección d
 
 <h4 id="interviewDesign">2.2.1. Diseño de enetrevistas</h4>
 
+A continuación, encontrarás un diseño de una lista de preguntas principales y adicionales para las entrevistas, adaptadas a cada grupo identificado. Estas preguntas nos ayudarán a recopilar datos importantes sobre las características y comportamientos de las personas:
+
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
