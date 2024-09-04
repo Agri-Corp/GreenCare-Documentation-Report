@@ -301,6 +301,13 @@
 
 <h3 id="competitors">2.1. Competidores</h3>
 
+|EMPRESA|DESCRIPCIÓN|IMAGEN|
+|-----|-----|----|
+|**Plantix**| Plantix ofrece a los agricultores una herramienta eficaz para diagnosticar y tratar problemas en sus cultivos, optimizar la productividad y adquirir valiosos conocimientos agrícolas. Con la ayuda de Plantix, los agricultores pueden superar desafíos y alcanzar sus metas con mayor facilidad, mejorando significativamente su experiencia y éxito en la agricultura. |<img src="assets/icon_plantix.png" alt="Plantix" style="width:100%;">|
+|**Gardening**| Garden Manager está diseñado para maximizar la producción de alimentos al optimizar su plan de cultivo. Esta herramienta le notifica sobre los momentos ideales para trasplantar, adelgazar y cosechar, asegurando que cada etapa del crecimiento de sus plantas se maneje de manera eficiente. Además, Garden Manager le avisa sobre condiciones climáticas inusuales o la falta de lluvia que podrían afectar el desarrollo de sus cultivos. Le ofrece recomendaciones específicas sobre cómo ajustar su cuidado para enfrentar estos desafíos, garantizando así el mejor resultado posible para sus cosechas. |<img src="assets/icon_gardening.png" alt="Gardening" style="width:100%;">|
+|**Info Jardin**| Info Jardín es una aplicación completa diseñada para ofrecer toda la información necesaria para el cuidado de tus plantas y jardín. Brinda detalles sobre los requerimientos específicos de cada planta, incluyendo luz, riego, abonado y prevención de enfermedades. Además, proporciona guías sobre cómo preparar el suelo, cuidar el césped y realizar la poda o tala de árboles de manera adecuada. Una característica destacada de Info Jardín es la posibilidad de configurar alertas para riego, poda y abonado, ayudándote a mantener un seguimiento organizado sin necesidad de estar constantemente pendiente de las tareas de jardinería. |<img src="assets/icon_infojardin.png" alt="Info Jardin" style="width:100%;">|
+
+
 <h4 id="competitiveAnalysis">2.1.1. Análisis Competitivo</h4>
 
 <h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
