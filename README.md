@@ -368,7 +368,7 @@
 </tr>
 <tr>
 <td colspan="2">Precios & Costos</td>
-<td></td>
+<td>Suscripción gratuita y Premium, éste último te da accesibilidad por ejemplo de cómo cultivar y mantener todas especies de plantas, ajustes de riego automático sincronizados a tiempo real, etc.</td>
 <td>Suscripción basada en el tamaño del terreno o el número de usuarios, con tarifas adicionales por consultas.</td>
 <td>Suscripción mensual/anual para acceso a alertas climáticas y asesoramiento especializado.</td>
 <td>Suscripción gratuita con publicidad; opción de pago para eliminar anuncios y acceso a contenido exclusivo.</td>
