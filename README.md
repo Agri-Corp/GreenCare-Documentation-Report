@@ -486,6 +486,16 @@ En esta sección el equipo explica y presenta los artefactos resultantes del pro
 
 <h4 id="userPersonas">2.3.1. User Personas<h4>
 
+Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UxPressia.
+
+|**`USER PERSONA: Jorge Samir Condor Vera`**|
+|---|
+|<img src="src/images/USER_JorgeSamirCondorVera.png" alt="Jorge" style="width:100%">|
+
+|**`USER PERSONA: Ana Paola Diaz Benavides`**|
+|---|
+|<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana" style="width:100%">|
+
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix<h4>
 
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping<h4>
