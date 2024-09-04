@@ -680,8 +680,85 @@
 **Ana Paola Diaz Benavides**
 ![alt text](<src/images/Ana Paola Diaz Benavides_.png>)
 **Jorge Samir Condor Vera:**
+![alt text](<src/images/Impact map 1 (1).png>)
 
 <h3 id="productBacklog">3.4. Product Backlog</h4>
 
+<table>
+  <thead>
+    <tr>
+      <th>Orden</th>
+      <th>User Story Id</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>US-007</td>
+      <td>Búsqueda de Plantas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> buscar plantas en mi jardín, <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>US-008</td>
+      <td>Selección de Plantas</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar una planta específica, <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>US-009</td>
+      <td>Inicio de Ciclo de Vida</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar el ciclo de vida de una planta, <strong>para</strong> registrar sus actividades y cuidados.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>US-010</td>
+      <td>Finalización de Ciclo de Vida</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> finalizar el ciclo de vida de una planta, <strong>para</strong> marcarla como completada y guardar su historial.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>US-011</td>
+      <td>Creación de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear actividades diarias para mis plantas, <strong>para</strong> asegurarme de que reciben el cuidado adecuado.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>6</td>
+      <td>US-012</td>
+      <td>Visualización de Actividades</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver las actividades diarias pendientes, <strong>para</strong> estar al tanto de las tareas de cuidado de mis plantas.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>7</td>
+      <td>US-016</td>
+      <td>Creación de Planes de Usuario</td>
+      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar entre planes gratuitos y premium, <strong>para</strong> elegir el que mejor se adapte a mis necesidades.</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>8</td>
+      <td>US-017</td>
+      <td>Visualización de Beneficios Premium</td>
+      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> ver los beneficios adicionales disponibles, <strong>para</strong> aprovechar al máximo mi suscripción.</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>9</td>
+      <td>US-018</td>
+      <td>Acceso a Funcionalidades Premium</td>
+      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a funcionalidades exclusivas, <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
+      <td>5</td>
+    </tr>
+  </tbody>
+</table>
 
 
