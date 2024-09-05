@@ -292,7 +292,9 @@
         </td>
         <td>
             <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
-            Al momento de indagar información acerca de la importancia de las áreas verdes en nuestro hogares, expandió mi concepto en cómo se puede llevar a cabo una aplicación que brinde orientación y gestión al cuidado de las plantas. Ligando con los labores que realicé, me permitió elaborar la misión y visión del proyecto, elaborar el Lean UX Process, tener la capacidad analítica de pensar acerca de que datos se alojarán (implementación del diagram de Base Datos).
+            Al momento de indagar información acerca de la importancia de las áreas verdes en nuestro hogares, expandió mi concepto en cómo se puede llevar a cabo una aplicación que brinde orientación y gestión al cuidado de las plantas. Ligando con los labores que realicé, me permitió elaborar la misión y visión del proyecto, elaborar el Lean UX Process, tener la capacidad analítica de pensar acerca de que datos se alojarán (implementación del diagram de Base Datos)
+            <br><strong>Lagos Aguilar, Luis Eduardo<br>TB1:<br></strong>
+            Durante mi investigación sobre la implementación de áreas verdes en espacios reducidos, me propuse crear una aplicación que brindara a nuestro usuario objetivo una guía clara y eficiente para la gestión y cuidado de sus plantas. Esta meta me permitió desarrollar tanto el diseño en baja como en alta fidelidad de la aplicación web, además de estructurar la arquitectura del sistema utilizando principios de Domain-Driven Design (DDD).
         </td>
         <td>
             TB1: <br>
@@ -310,6 +312,8 @@
         <td>
         <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
         Realicé entrevistas al segmento de jardineros que, en sí, ya cuentan con cierta experiencia en el rubro; por lo que, dicha información brindada, me sirvió para alinear al equipo en el desarrollo del Product Backlog del Proyecto así como definir de manera más clara el propósito general que nuestro se enfocará. 
+        <br><strong>Lagos Aguilar, Luis Eduardo<br>TB1:<br></strong>
+        Realicé el diseño de la aplicación web, lo cual fue un paso clave para poder alinear al equipo en los próximos sprints, definiendo cómo se implementará nuestro diseño y cómo se enfocará para satisfacer las necesidades del cliente. Este proceso de diseño no solo estableció una base visual sólida, sino que también nos permitió aclarar el propósito general del proyecto, asegurando que todas las futuras iteraciones estén alineadas con los objetivos del cliente y las expectativas del usuario final.
         </td>
         <td>
             TB1: <br>
