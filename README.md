@@ -727,7 +727,7 @@ Se implementa un sitio web responsive, es decir que se puede adaptar a cualquier
 En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar nuestro sitio web  y aplicación web desde el logo, pasando por los opciones que le brindaremos, para luego ver el contenido general.
 
 <p align="center">
-    <img src="../src/images/PatronZ.png" alt="PatronZ_Photo" width="500px"/>
+    <img src="src/images/PatronZ.png" alt="PatronZ_Photo" width="500px"/>
 
 </p>
 
@@ -785,35 +785,35 @@ A continuación se mostrará el etiquetado que tendrá nuestra aplicación web p
 Especifica la codificación de caracteres del documento HTML
 
 <p align="center">
-    <img src="../src/images/etiqueta%201.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/etiqueta%201.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 Indica al navegador que utilice la última versión de Internet Explorer (o el modo de emulación Edge) 
 
 <p align="center">
-    <img src="../src/images/etiqueta%202.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/etiqueta%202.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
  Esencial para el diseño web receptivo (responsive design), optimiza la visualización en dispositivos móviles 
 
 <p align="center">
-    <img src="../src/images/etiqueta%203.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/etiqueta%203.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 Especifica palabras clave relacionadas con el contenido del sitio web
 
 <p align="center">
-    <img src="../src/images/etiqueta%204.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/etiqueta%204.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 Proporciona una breve descripción del contenido de la página 
 <p align="center">
-    <img src="../src/images/etiqueta%205.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/etiqueta%205.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 Define el título de la página, crucial para el SEO 
 <p align="center">
-    <img src="../src/images/seo%201.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/seo%201.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
@@ -825,7 +825,7 @@ Barra de búsqueda para las plantas: El usuario puede buscar  la planta que dese
 Filtros para buscar plantas:El usuario puede encontrar de manera más rápida y detallada la planta que desee cultivar.
 
 <p align="center">
-    <img src="../src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 <h4 id="navigationSystem">4.2.5. Navigation System</h4>
@@ -837,13 +837,13 @@ Los tipos de navegación que usaremos son dos:
 **Navegación principal:** La cual se basa en las pestaña las cuales el usuario puede usar para dirigirse a cada sección de la aplicación, estas se encuentran dentro de un navbar vertical.
 
 <p align="center">
-    <img src="../src/images/BusquedaPrincipal.PNG" alt="Searching_Photo" width="150px"/>
+    <img src="src/images/BusquedaPrincipal.PNG" alt="Searching_Photo" width="150px"/>
 </p>
 
 **Navegación secundaria:** La cual se basa en la búsqueda mediante palabras dentro de una sección en específico ya sea “Garden” o ”Lifecycle”.
 
 <p align="center">
-    <img src="../src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
+    <img src="src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
 </p>
 
 <h3 id="landingDesign">4.3. Landing Page UI Design</h3>
@@ -855,13 +855,13 @@ En esta sección se mostrará el desarrollo final del Wireframe del landing page
 **Versión  web:**
 
 <p align="center">
-    <img src="../src/images/LandingWF.png" alt="Landing_Photo" width="500px"/>
+    <img src="src/images/LandingWF.png" alt="Landing_Photo" width="500px"/>
 </p>
 
 **Versión  Movil:**
 
 <p align="center">
-    <img src="../src/images/LandingMobileWF.png" alt="LandingMovile_Photo" width="500px"/>
+    <img src="src/images/LandingMobileWF.png" alt="LandingMovile_Photo" width="500px"/>
 </p>
 
 <h4 id="landingMockUp">4.3.2. Landing Page Mock-up</h4>
@@ -871,13 +871,13 @@ En esta sección se mostrará el desarrollo final del Mock-up del landing page, 
 **Versión  web:**
 
 <p align="center">
-    <img src="../src/images/LandingMU.png" alt="Landing_Photo" width="500px"/>
+    <img src="src/images/LandingMU.png" alt="Landing_Photo" width="500px"/>
 </p>
 
 **Versión  Movil:**
 
 <p align="center">
-    <img src="../src/images/LandingMobileMU.png" alt="LandingMovile_Photo" width="500px"/>
+    <img src="src/images/LandingMobileMU.png" alt="LandingMovile_Photo" width="500px"/>
 </p>
 
 <h3 id="webAppDesign">4.4. Web Applications UX/UI Design</h3>
@@ -891,12 +891,12 @@ En esta sección se mostrará el desarrollo final de los Wireframes de la Web Ap
 Estos wireframes muestran las pantallas de inicio de sesión y registro, diseñadas siguiendo las directrices de tipografía y tamaño de fuente establecidas en la documentación.
 
 <p align="center">
-    <img src="../src/images/InicioWf.png" alt="Inicio_Photo" width="500px"/>
+    <img src="src/images/InicioWf.png" alt="Inicio_Photo" width="500px"/>
 
 </p>
 
 <p align="center">
-    <img src="../src/images/RegistroWf.png" alt="Registro_Photo" width="500px"/>
+    <img src="src/images/RegistroWf.png" alt="Registro_Photo" width="500px"/>
 
 </p>
 
@@ -905,22 +905,22 @@ Estos wireframes muestran las pantallas de inicio de sesión y registro, diseña
 En esta sección se muestra las páginas de en donde el agricultor podrá visualizar y gestionar las distintas plantas que le disponemos.
 
 <p align="center">
-    <img src="../src/images/Home.png" alt="Home_Photo" width="500px"/>
+    <img src="src/images/Home.png" alt="Home_Photo" width="500px"/>
 
 </p>
 
 <p align="center">
-    <img src="../src/images/Gardensection.png" alt="Garden_Photo" width="500px"/>
+    <img src="src/images/Gardensection.png" alt="Garden_Photo" width="500px"/>
 
 </p>
 
 <p align="center">
-    <img src="../src/images/LifeCyclesection.png" alt="Life_Photo" width="500px"/>
+    <img src="src/images/LifeCyclesection.png" alt="Life_Photo" width="500px"/>
 
 </p>
 
 <p align="center">
-    <img src="../src/images/Planssection.png" alt="Plans_Photo" width="500px"/>
+    <img src="src/images/Planssection.png" alt="Plans_Photo" width="500px"/>
 
 </p>
 
@@ -929,12 +929,12 @@ En esta sección se muestra las páginas de en donde el agricultor podrá visual
 En esta sección se ve como el agricultor registra una planta para iniciar el ciclo de vida.
 
 <p align="center">
-    <img src="../src/images/Gardensection001.png" alt="Gardensection001_Photo" width="500px"/>
+    <img src="src/images/Gardensection001.png" alt="Gardensection001_Photo" width="500px"/>
 
 </p>
 
 <p align="center">
-    <img src="../src/images/Gardensection002.png" alt="Gardensection002_Photo" width="500px"/>
+    <img src="src/images/Gardensection002.png" alt="Gardensection002_Photo" width="500px"/>
 
 </p>
 
@@ -943,12 +943,12 @@ En esta sección se ve como el agricultor registra una planta para iniciar el ci
 En esta sección se ve como las distintas plantas que el agricultor a registrado en el ciclo de vida.
 
 <p align="center">
-    <img src="../src/images/LifeCyclesection.png" alt="Life_Photo" width="500px"/>
+    <img src="src/images/LifeCyclesection.png" alt="Life_Photo" width="500px"/>
 
 </p>
 
 <p align="center">
-    <img src="../src/images/LifeCyclesection001.png" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/LifeCyclesection001.png" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 <h4 id="webAppWireflow">4.4.2. Web Applications Wireflow Diagrams</h4>
@@ -958,7 +958,7 @@ En esta sección se ve como las distintas plantas que el agricultor a registrado
 **User Goal:** Como usuario deseo registrarse dentro de la aplicación web.
 
 <p align="center">
-    <img src="../src/images/flowwf1.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/flowwf1.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario al adentrarse a la aplicación debe llenar ciertos datos: su nombre, su correo y su contraseña la cual debe validarla escribiendola dos veces.
@@ -966,7 +966,7 @@ El usuario al adentrarse a la aplicación debe llenar ciertos datos: su nombre, 
 **User Goal:** Como usuario deseo visualizar todas las plantas disponibles que tengo para germinar.
 
 <p align="center">
-    <img src="../src/images/flowwf2.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/flowwf2.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario tiene una sección llamada “Garden” en la cual visualiza todas las plantas las cuales pueden iniciar un ciclo de vida.
@@ -974,7 +974,7 @@ El usuario tiene una sección llamada “Garden” en la cual visualiza todas la
 **User Goal:** Como usuario deseo visualizar el ciclo de vida de mi planta.
 
 <p align="center">
-    <img src="../src/images/flowwf3.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/flowwf3.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá ver a detalle cada ciclo de vida que haya iniciado previamente, ahí podrá gestionar la planta.
@@ -982,7 +982,7 @@ El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá
 **User Goal:** Como usuario deseo acceder al formato premium de la aplicación.
 
 <p align="center">
-    <img src="../src/images/flowwf4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/flowwf4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”
@@ -996,11 +996,11 @@ En esta sección se mostrará el desarrollo final de los Mock-ups de la Web Appl
 Estos wireframes muestran las pantallas de inicio de sesión y registro, diseñadas siguiendo las directrices de tipografía y tamaño de fuente establecidas en la documentación.
 
 <p align="center">
-    <img src="../src/images/InicioMU.png" alt="Inicio_Photo" width="500px"/>
+    <img src="src/images/InicioMU.png" alt="Inicio_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/RegistroMU.png" alt="Registro_Photo" width="500px"/>
+    <img src="src/images/RegistroMU.png" alt="Registro_Photo" width="500px"/>
 </p>
 
 **Interfaz de Personas**
@@ -1008,23 +1008,23 @@ Estos wireframes muestran las pantallas de inicio de sesión y registro, diseña
 En esta sección se muestra las páginas de en donde el agricultor podrá visualizar y gestionar las distintas plantas que le disponemos.
 
 <p align="center">
-    <img src="../src/images/HomeMU.png" alt="Home_Photo" width="500px"/>
+    <img src="src/images/HomeMU.png" alt="Home_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/GardenMU.png" alt="Garden_Photo" width="500px"/>
+    <img src="src/images/GardenMU.png" alt="Garden_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/LifeMU.png" alt="Life_Photo" width="500px"/>
+    <img src="src/images/LifeMU.png" alt="Life_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/PlansMU.png" alt="Plans_Photo" width="500px"/>
+    <img src="src/images/PlansMU.png" alt="Plans_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/SettingMU.png" alt="Setting_Photo" width="500px"/>
+    <img src="src/images/SettingMU.png" alt="Setting_Photo" width="500px"/>
 </p>
 
 **Seleccionar una planta para iniciar el ciclo de vida**
@@ -1032,11 +1032,11 @@ En esta sección se muestra las páginas de en donde el agricultor podrá visual
 En esta sección se ve como el agricultor registra una planta para iniciar el ciclo de vida.
 
 <p align="center">
-    <img src="../src/images/GardenMU001.png" alt="Gardensection001_Photo" width="500px"/>
+    <img src="src/images/GardenMU001.png" alt="Gardensection001_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/GardenMU002.png" alt="Gardensection002_Photo" width="500px"/>
+    <img src="src/images/GardenMU002.png" alt="Gardensection002_Photo" width="500px"/>
 </p>
 
 **Visualizar el ciclo de vida de la planta**
@@ -1044,11 +1044,11 @@ En esta sección se ve como el agricultor registra una planta para iniciar el ci
 En esta sección se ve como las distintas plantas que el agricultor a registrado en el ciclo de vida.
 
 <p align="center">
-    <img src="../src/images/LifeCycleMU001.png" alt="Life_Photo" width="500px"/>
+    <img src="src/images/LifeCycleMU001.png" alt="Life_Photo" width="500px"/>
 </p>
 
 <p align="center">
-    <img src="../src/images/LifeCycleMU002.png" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/LifeCycleMU002.png" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 <h4 id="webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</h4>
@@ -1058,7 +1058,7 @@ En esta sección se ve como las distintas plantas que el agricultor a registrado
 **User Goal:** Como usuario deseo registrarse dentro de la aplicación web.
 
 <p align="center">
-    <img src="../src/images/FLOWMU1.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/FLOWMU1.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario al adentrarse a la aplicación debe llenar ciertos datos: su nombre, su correo y su contraseña la cual debe validarla escribiendola dos veces.
@@ -1066,7 +1066,7 @@ El usuario al adentrarse a la aplicación debe llenar ciertos datos: su nombre, 
 **User Goal:** Como usuario deseo visualizar todas las plantas disponibles que tengo para germinar.
 
 <p align="center">
-    <img src="../src/images/FLOW2.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/FLOW2.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario tiene una sección llamada “Garden” en la cual visualiza todas las plantas las cuales pueden iniciar un ciclo de vida.
@@ -1074,7 +1074,7 @@ El usuario tiene una sección llamada “Garden” en la cual visualiza todas la
 **User Goal:** Como usuario deseo visualizar el ciclo de vida de mi planta.
 
 <p align="center">
-    <img src="../src/images/FLOW3.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/FLOW3.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá ver a detalle cada ciclo de vida que haya iniciado previamente, ahí podrá gestionar la planta.
@@ -1082,7 +1082,7 @@ El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá
 **User Goal:** Como usuario deseo acceder al formato premium de la aplicación.
 
 <p align="center">
-    <img src="../src/images/FLOW4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+    <img src="src/images/FLOW4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
 El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”.
@@ -1094,7 +1094,7 @@ Se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo 
 [Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/j0sk2ngVIbmvYLJjATBtzu/GreenCare?node-id=134-899&node-type=CANVAS&t=CcWn1LGD767xHAI7-1&scaling=contain&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=134%3A899)
 
 <p align="center">
-    <img src="../src/images/PrototipoFigma.PNG" alt="Prototipo_Photo" width="500px"/>
+    <img src="src/images/PrototipoFigma.PNG" alt="Prototipo_Photo" width="500px"/>
 </p>
 
 <h3 id="DDD">4.6. Domain-Driven Software Architecture</h3>
@@ -1104,7 +1104,7 @@ Se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo 
 A continuación, presentamos el diagrama de contexto de nuestra arquitectura.
 
 <p align="center">
-    <img src="../src/images/structurizr-77768-Contexto.png" alt="Prototipo_Photo" width="500px"/>
+    <img src="src/images/structurizr-77768-Contexto.png" alt="Prototipo_Photo" width="500px"/>
 </p>
 
 <h4 id="containerDiagram">4.6.2. Software Architecture Container Diagrams</h4>
@@ -1112,7 +1112,7 @@ A continuación, presentamos el diagrama de contexto de nuestra arquitectura.
 En esta sección indicamos los contenedores de nuestro diagrama de contexto.
 
 <p align="center">
-    <img src="../src/images/structurizr-77768-Contenedores.png" alt="Prototipo_Photo" width="500px"/>
+    <img src="src/images/structurizr-77768-Contenedores.png" alt="Prototipo_Photo" width="500px"/>
 </p>
 
 <h4 id="componentDiagram">4.6.3. Software Architecture Components Diagrams</h4>
@@ -1122,19 +1122,19 @@ En este apartado se presenta el diagrama de componentes.
 **Garden Component Diagram**
 
 <p align="center">
-    <img src="../src/images/Untitled%20-%20Componente%20Garden.jpg" alt="Prototipo_Photo" width="500px"/>
+    <img src="src/images/Untitled%20-%20Componente%20Garden.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
 **Life cycle Component Diagram**
 
 <p align="center">
-    <img src="../src/images/Untitled%20-%20Componente%20Life%20Cycle.jpg" alt="Prototipo_Photo" width="500px"/>
+    <img src="src/images/Untitled%20-%20Componente%20Life%20Cycle.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
 **Security Component Diagram**
 
 <p align="center">
-    <img src="../src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
+    <img src="src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
 <h3 id="softwareDesign">4.7. Software Object-Oriented Design</h3>
