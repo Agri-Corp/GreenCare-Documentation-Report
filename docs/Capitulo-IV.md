@@ -108,9 +108,94 @@ En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar 
 
 <h4 id="OrganizationSystems">4.2.1. Organization Systems</h4>
 
+Se indica cada estructura visual y tipo de categorización que se usará por cada grupo de información brindada al segmento objetivo.
+
+**Segmento objetivo: Personas que desean gestionar un huerto doméstico.**
+
+
+**Jerarquia:**
+
+Sitio web: Es el sitio web en donde le venderemos al público objetivo nuestra idea, le mostraremos las funcionalidades de la aplicación y  nos presentaremos como start-up
+
+Listado de plantas: Es el apartado en la aplicación en donde el usuario podrá seleccionar la planta de su preferencia para iniciar un ciclo de vida.
+
+Listado de recomendaciones: Este apartado aunque sea para los usuarios premiums se destaca por contener información que los ayudará para la germinación y cuidado de la planta que seleccionaron.
+
+**Secuencial:**
+
+Seleccionar y programar una planta: Una vez seleccionada la planta de preferencia, el usuario podrá iniciar un ciclo de vida, poniendo un nombre a la planta y a la vez poniendo el tiempo de vida que tendrá.
+
+Finalizar la agricultura: Una vez terminado todo el proceso el usuario podrá finalizar con el ciclo de vida en el apartado “lifecycle”
+
+**Matricial:**
+
+Visualizar el progreso de la planta:  El usuario podrá tener a tiempo real el progreso de la planta y ver como avanza a lo largo de los días desde la aplicación.
+
+
 <h4 id="OrganizationSystems">4.2.2. Labeling Systems</h4>
 
+En esta sección, se muestra el etiquetado que tendrá el sitio web:
+
+**Inicio/Home:** Sección preseleccionada que mostrará información acerca de la aplicación, en ese mismo apartado el usuario podrá dirigirse a la aplicación web.
+
+**Planes/Plans:** En esta sección el usuario puede visualizar los planes que tiene a su disposición y la diferencia de ambos planes.
+**Equipo/Team:** El usuario podrá visualizar información de cada uno de nosotros como equipo y que rol cumplimos en nuestro start-up
+**Testimonios/Testimonials:** El usuario visualiza  reseñas/ testimonios de otros usuarios que ya han utilizado nuestra aplicación.
+**Galería/ Gallery:** Esta sección el usuario podrá visualizar las diversas plantas que han crecido gracias a la aplicación.
+**Contactanos/ Contact us:** En esta sección el cliente podrá visualizar la información del equipo y cómo nos puede contactar.
+
+A continuación se mostrará el etiquetado que tendrá nuestra aplicación web para el segmento objetivo:
+
+**Segmento objetivo: Personas que desean gestionar un huerto doméstico.**
+
+**Home:** Es la página predeterminada en donde comenzarán todos los usuarios que se registren en la aplicación, de manera no tan detallada se mostrará información de otras secciones de la aplicación.
+**Garden:** Es el apartado en donde el usuario podrá elegir la planta con la cual desea iniciar el ciclo de vida.
+**Lifecycle:** Es el apartado donde el usuario visualiza todos los ciclos de vida registrados y en esos mismo podrá visualizar a detalle qué debe hacer o realizar para que la planta esté en buen estado.
+**Plans:** Es el apartado en donde el usuario puede ver y unirse al plan premium de nuestra aplicación.
+**Settings:** En este apartado el usuario puede cambiar de nombre o correo.
+
+
 <h4 id="SEOTagsandMetaTags">4.2.3. SEO Tags and Meta Tags</h4>
+
+Especifica la codificación de caracteres del documento HTML
+
+<p align="center">
+    <img src="../src/images/etiqueta%201.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+Indica al navegador que utilice la última versión de Internet Explorer (o el modo de emulación Edge) 
+
+<p align="center">
+    <img src="../src/images/etiqueta%202.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+ Esencial para el diseño web receptivo (responsive design), optimiza la visualización en dispositivos móviles 
+
+<p align="center">
+    <img src="../src/images/etiqueta%203.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+Especifica palabras clave relacionadas con el contenido del sitio web
+
+<p align="center">
+    <img src="../src/images/etiqueta%204.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+Proporciona una breve descripción del contenido de la página 
+<p align="center">
+    <img src="../src/images/etiqueta%205.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
+
+Define el título de la página, crucial para el SEO 
+<p align="center">
+    <img src="../src/images/seo%201.PNG" alt="Searching_Photo" width="500px"/>
+
+</p>
 
 <h4 id="SEOTagsandMetaTags">4.2.4. Searching Systems</h4>
 
@@ -255,10 +340,46 @@ En esta sección se ve como las distintas plantas que el agricultor a registrado
 
 <p align="center">
     <img src="../src/images/LifeCyclesection001.png" alt="LifeCyclesection001_Photo" width="500px"/>
-
 </p>
 
 <h4 id="WebApplicationsWireflowDiagrams">4.4.2. Web Applications Wireflow Diagrams</h4>
+
+**Usuarios:**
+
+
+**User Goal:** Como usuario deseo registrarse dentro de la aplicación web.
+
+<p align="center">
+    <img src="../src/images/flowwf1.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario al adentrarse a la aplicación debe llenar ciertos datos: su nombre, su correo y su contraseña la cual debe validarla escribiendola dos veces.
+
+**User Goal:** Como usuario deseo visualizar todas las plantas disponibles que tengo para germinar.
+
+<p align="center">
+    <img src="../src/images/flowwf2.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario tiene una sección llamada “Garden” en la cual visualiza todas las plantas las cuales pueden iniciar un ciclo de vida.
+
+**User Goal:** Como usuario deseo visualizar el ciclo de vida de mi planta.
+
+<p align="center">
+    <img src="../src/images/flowwf3.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá ver a detalle cada ciclo de vida que haya iniciado previamente, ahí podrá gestionar la planta.
+
+
+
+**User Goal:** Como usuario deseo acceder al formato premium de la aplicación.
+
+<p align="center">
+    <img src="../src/images/flowwf4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”
 
 
 <h4 id="WebApplicationsMock-ups">4.4.4. Web Applications Mock-ups.</h4>
@@ -337,14 +458,98 @@ En esta sección se ve como las distintas plantas que el agricultor a registrado
 
 <h4 id="WebApplicationsUserFlowDiagrams">4.4.3. Web Applications User Flow Diagrams</h4>
 
+**Usuarios:**
+
+
+**User Goal:** Como usuario deseo registrarse dentro de la aplicación web.
+
+<p align="center">
+    <img src="../src/images/FLOWMU1.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario al adentrarse a la aplicación debe llenar ciertos datos: su nombre, su correo y su contraseña la cual debe validarla escribiendola dos veces.
+
+**User Goal:** Como usuario deseo visualizar todas las plantas disponibles que tengo para germinar.
+
+<p align="center">
+    <img src="../src/images/FLOW2.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario tiene una sección llamada “Garden” en la cual visualiza todas las plantas las cuales pueden iniciar un ciclo de vida.
+
+**User Goal:** Como usuario deseo visualizar el ciclo de vida de mi planta.
+
+<p align="center">
+    <img src="../src/images/FLOW3.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá ver a detalle cada ciclo de vida que haya iniciado previamente, ahí podrá gestionar la planta.
+
+
+
+**User Goal:** Como usuario deseo acceder al formato premium de la aplicación.
+
+<p align="center">
+    <img src="../src/images/FLOW4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
+</p>
+
+El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”
+
 <h3 id="WebApplicationsPrototyping">4.5. Web Applications Prototyping</h3>
 
 Se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo los estilos establecidos en los anteriores puntos.
 
 [Link: Visualizar Prototipo en Figma](https://www.figma.com/proto/j0sk2ngVIbmvYLJjATBtzu/GreenCare?node-id=134-899&node-type=CANVAS&t=CcWn1LGD767xHAI7-1&scaling=contain&content-scaling=fixed&page-id=1%3A4&starting-point-node-id=134%3A899)
 
-
 <p align="center">
     <img src="../src/images/PrototipoFigma.PNG" alt="Prototipo_Photo" width="500px"/>
-
 </p>
+
+<h3 id="DomainDrivenSoftwareArchitectur">4.6. Domain-Driven Software Architecture</h3>
+
+Los siguientes diagramas de arquitecturas se  basan  en el enfoque de desarrollo de Domain Driven Design.
+
+<h4 id="OrganizationSystems">4.6.1. Software Architecture Context Diagrams</h4>
+
+A continuación, presentamos el diagrama de contexto de nuestra arquitectura.
+
+<p align="center">
+    <img src="../src/images/structurizr-77768-Contexto.png" alt="Prototipo_Photo" width="500px"/>
+</p>
+
+
+<h4 id="OrganizationSystems">4.6.2. Software Architecture Container Diagrams</h4>
+
+En esta sección indicamos los contenedores de nuestro diagrama de contexto.
+
+<p align="center">
+    <img src="../src/images/structurizr-77768-Contenedores.png" alt="Prototipo_Photo" width="500px"/>
+</p>
+
+
+<h4 id="OrganizationSystems">4.6.3. Software Architecture Components Diagrams</h4>
+
+En este apartado se presenta el diagrama de componentes.
+
+
+**Garden Component Diagram**
+
+<p align="center">
+    <img src="../src/images/Untitled%20-%20Componente%20Garden.jpg" alt="Prototipo_Photo" width="500px"/>
+</p>
+
+**Life cycle Component Diagram**
+
+<p align="center">
+    <img src="../src/images/Untitled%20-%20Componente%20Life%20Cycle.jpg" alt="Prototipo_Photo" width="500px"/>
+</p>
+
+**Security Component Diagram**
+
+<p align="center">
+    <img src="../src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
+</p>
+
+
+
+
