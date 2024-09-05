@@ -1022,6 +1022,75 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
 
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/08/24</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Meet meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Las partes interesadas y el propietario del producto estaban satisfechos con el progreso requerido.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                La primera versión de la página de aterrizaje se ha implementado, aunque al principio se presentó algunas deficiencias en términos de lanzamiento. 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>
+                Finalizar y mejorar las interfaces y secciones del landing page.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                29
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                27
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 <h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
 <h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
