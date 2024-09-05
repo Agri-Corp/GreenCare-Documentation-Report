@@ -102,8 +102,8 @@ En el sitio web se usará el patrón Z, esto hará que el usuario pueda navegar 
 
 <p align="center">
     <img src="../src/images/PatronZ.png" alt="PatronZ_Photo" width="500px"/>
-
 </p>
+
 <h3 id="information Architecture">4.2. Information Architecture</h3>
 
 <h4 id="OrganizationSystems">4.2.1. Organization Systems</h4>
@@ -131,7 +131,6 @@ Finalizar la agricultura: Una vez terminado todo el proceso el usuario podrá fi
 
 Visualizar el progreso de la planta:  El usuario podrá tener a tiempo real el progreso de la planta y ver como avanza a lo largo de los días desde la aplicación.
 
-
 <h4 id="OrganizationSystems">4.2.2. Labeling Systems</h4>
 
 En esta sección, se muestra el etiquetado que tendrá el sitio web:
@@ -154,47 +153,40 @@ A continuación se mostrará el etiquetado que tendrá nuestra aplicación web p
 **Plans:** Es el apartado en donde el usuario puede ver y unirse al plan premium de nuestra aplicación.
 **Settings:** En este apartado el usuario puede cambiar de nombre o correo.
 
-
 <h4 id="SEOTagsandMetaTags">4.2.3. SEO Tags and Meta Tags</h4>
 
 Especifica la codificación de caracteres del documento HTML
 
 <p align="center">
     <img src="../src/images/etiqueta%201.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 Indica al navegador que utilice la última versión de Internet Explorer (o el modo de emulación Edge) 
 
 <p align="center">
     <img src="../src/images/etiqueta%202.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
  Esencial para el diseño web receptivo (responsive design), optimiza la visualización en dispositivos móviles 
 
 <p align="center">
     <img src="../src/images/etiqueta%203.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 Especifica palabras clave relacionadas con el contenido del sitio web
 
 <p align="center">
     <img src="../src/images/etiqueta%204.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 Proporciona una breve descripción del contenido de la página 
 <p align="center">
     <img src="../src/images/etiqueta%205.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 Define el título de la página, crucial para el SEO 
 <p align="center">
     <img src="../src/images/seo%201.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 <h4 id="SEOTagsandMetaTags">4.2.4. Searching Systems</h4>
@@ -207,13 +199,11 @@ Filtros para buscar plantas:El usuario puede encontrar de manera más rápida y 
 
 <p align="center">
     <img src="../src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 <h4 id="NavigationSystems">4.2.5. Navigation Systems</h4>
 
 En este apartado, se muestra cómo el usuario se moverá a través de la aplicación.
-
 Los tipos de navegación que usaremos son dos:
 
 
@@ -221,17 +211,16 @@ Los tipos de navegación que usaremos son dos:
 
 <p align="center">
     <img src="../src/images/BusquedaPrincipal.PNG" alt="Searching_Photo" width="150px"/>
-
 </p>
 
 **Navegación secundaria:** La cual se basa en la búsqueda mediante palabras dentro de una sección en específico ya sea “Garden” o ”Lifecycle”.
 
 <p align="center">
     <img src="../src/images/Searching.PNG" alt="Searching_Photo" width="500px"/>
-
 </p>
 
 <h3 id="LandingPageUIDesign">4.3. Landing Page UI Design</h3>
+
 <h4 id="LandingPageWireframe">4.3.1. Landing Page Wireframe</h4>
 
 En esta sección se mostrará el desarrollo final del Wireframe del landing page, que es una representación de baja fidelidad.
@@ -240,7 +229,6 @@ En esta sección se mostrará el desarrollo final del Wireframe del landing page
 
 <p align="center">
     <img src="../src/images/LandingWF.png" alt="Landing_Photo" width="500px"/>
-
 </p>
 
 **Versión  Movil:**
@@ -248,9 +236,7 @@ En esta sección se mostrará el desarrollo final del Wireframe del landing page
 
 <p align="center">
     <img src="../src/images/LandingMobileWF.png" alt="LandingMovile_Photo" width="500px"/>
-
 </p>
-
 
 <h4 id="LandingPageMock-up">4.3.2. Landing Page Mock-up</h4>
 
@@ -273,6 +259,7 @@ En esta sección se mostrará el desarrollo final del Mock-up del landing page, 
 
 
 <h3 id=" WebApplicationsUX/UIDesign.">4.4.  Web Applications UX/UI Design</h3>
+
 <h4 id="WebApplicationsWireframes">4.4.1. Web Applications Wireframes</h4>
 
 En esta sección se mostrará el desarrollo final de los Wireframes de la Web Application, que es una representación de baja fidelidad.
@@ -372,7 +359,6 @@ El usuario tiene una sección llamada “Garden” en la cual visualiza todas la
 El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá ver a detalle cada ciclo de vida que haya iniciado previamente, ahí podrá gestionar la planta.
 
 
-
 **User Goal:** Como usuario deseo acceder al formato premium de la aplicación.
 
 <p align="center">
@@ -382,7 +368,7 @@ El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá
 El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”
 
 
-<h4 id="WebApplicationsMock-ups">4.4.4. Web Applications Mock-ups.</h4>
+<h4 id="WebApplicationsMock-ups">4.4.3. Web Applications Mock-ups.</h4>
 
 En esta sección se mostrará el desarrollo final de los Mock-ups de la Web Application, que es una representación de alta fidelidad.
 
@@ -392,12 +378,10 @@ Estos wireframes muestran las pantallas de inicio de sesión y registro, diseña
 
 <p align="center">
     <img src="../src/images/InicioMU.png" alt="Inicio_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/RegistroMU.png" alt="Registro_Photo" width="500px"/>
-
 </p>
 
 **Interfaz de Personas**
@@ -406,27 +390,22 @@ En esta sección se muestra las páginas de en donde el agricultor podrá visual
 
 <p align="center">
     <img src="../src/images/HomeMU.png" alt="Home_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/GardenMU.png" alt="Garden_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/LifeMU.png" alt="Life_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/PlansMU.png" alt="Plans_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/SettingMU.png" alt="Setting_Photo" width="500px"/>
-
 </p>
 **Seleccionar una planta para iniciar el ciclo de vida**
 
@@ -434,12 +413,10 @@ En esta sección se ve como el agricultor registra una planta para iniciar el ci
 
 <p align="center">
     <img src="../src/images/GardenMU001.png" alt="Gardensection001_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/GardenMU002.png" alt="Gardensection002_Photo" width="500px"/>
-
 </p>
 
 **Visualizar el ciclo de vida de la planta**
@@ -448,18 +425,15 @@ En esta sección se ve como las distintas plantas que el agricultor a registrado
 
 <p align="center">
     <img src="../src/images/LifeCycleMU001.png" alt="Life_Photo" width="500px"/>
-
 </p>
 
 <p align="center">
     <img src="../src/images/LifeCycleMU002.png" alt="LifeCyclesection001_Photo" width="500px"/>
-
 </p>
 
-<h4 id="WebApplicationsUserFlowDiagrams">4.4.3. Web Applications User Flow Diagrams</h4>
+<h4 id="WebApplicationsUserFlowDiagrams">4.4.4. Web Applications User Flow Diagrams</h4>
 
 **Usuarios:**
-
 
 **User Goal:** Como usuario deseo registrarse dentro de la aplicación web.
 
@@ -486,14 +460,13 @@ El usuario tiene una sección llamada “Garden” en la cual visualiza todas la
 El usuario después de iniciar el ciclo de vida tendrá un apartado donde podrá ver a detalle cada ciclo de vida que haya iniciado previamente, ahí podrá gestionar la planta.
 
 
-
 **User Goal:** Como usuario deseo acceder al formato premium de la aplicación.
 
 <p align="center">
     <img src="../src/images/FLOW4.PNG" alt="LifeCyclesection001_Photo" width="500px"/>
 </p>
 
-El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”
+El usuario puede acceder al formato premium luego haberse suscripto al plan el cual se encuentra en el apartado “Plans”.
 
 <h3 id="WebApplicationsPrototyping">4.5. Web Applications Prototyping</h3>
 
@@ -506,8 +479,6 @@ Se mostrará el prototipo de la aplicación web desarrollado en figma siguiendo 
 </p>
 
 <h3 id="DomainDrivenSoftwareArchitectur">4.6. Domain-Driven Software Architecture</h3>
-
-Los siguientes diagramas de arquitecturas se  basan  en el enfoque de desarrollo de Domain Driven Design.
 
 <h4 id="OrganizationSystems">4.6.1. Software Architecture Context Diagrams</h4>
 
@@ -530,7 +501,6 @@ En esta sección indicamos los contenedores de nuestro diagrama de contexto.
 <h4 id="OrganizationSystems">4.6.3. Software Architecture Components Diagrams</h4>
 
 En este apartado se presenta el diagrama de componentes.
-
 
 **Garden Component Diagram**
 
