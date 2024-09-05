@@ -54,7 +54,7 @@
     </thead>
     <tbody>
         <tr>
-            <td rowspan="10">TB1</td>
+            <td rowspan="14">TB1</td>
             <td>14/08/2024</td>
             <td>José Huamani</td>
             <td>Desarrollo de la carátula</td>
@@ -63,6 +63,46 @@
             <td>17/08/2024</td>
             <td>José Huamani</td>
             <td>Desarrollo de la tabla de contenido</td>
+        </tr>
+        <tr>
+            <td>22/08/2024</td>
+            <td>José Huamani</td>
+            <td>Desarrollo del Capitulo I: Introducción</td>
+        </tr>
+        <tr>
+            <td>26/08/2024</td>
+            <td>Raúl Quispe</td>
+            <td>Desarrollo del Capitulo II: Competidores</td>
+        </tr>
+        <tr>
+            <td>28/08/2024</td>
+            <td>Alexis Vargas / Luis Lagos</td>
+            <td>Desarrollo del Capitulo IV: Style Guidelines, Landing Page UI Design, Web Application UX/UI Design, Web Application Prototyping y Domain Driven Software Architecture</td>
+        </tr>
+        <tr>
+            <td>30/08/2024</td>
+            <td>Juan Llamcaya</td>
+            <td>Desarrollo del Capítulo III:</td>
+        </tr>
+        <tr>
+            <td>01/09/2024</td>
+            <td>José Huamani</td>
+            <td>Desarrollo del Capítulo V: Software Configuration Management</td>
+        </tr>
+        <tr>
+            <td>03/08/2024</td>
+            <td>José Huamani</td>
+            <td>Desarrollo del Capítulo V: Sprint Planning 1</td>
+        </tr>
+        <tr>
+            <td>03/09/2024</td>
+            <td>José Huamani</td>
+            <td>Desarrollo del Capítulo IV: Database Design</td>
+        </tr>
+        <tr>
+            <td>04/08/2024</td>
+            <td>Juan Llamcaya</td>
+            <td>Desarrollo del Capítulo IV: To Be-Scenario Mapping y Product Backlog</td>
         </tr>
     </tbody>
 </table>
