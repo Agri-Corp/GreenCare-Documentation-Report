@@ -1103,6 +1103,11 @@ En el Sprint 1, se completaron únicamente las características relacionadas con
 
 <h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "GreenCare". En esta página de inicio, encontrarás varias secciones creadas para nuestro Landing Page.
+
+|**`REPOSITORIO LANDING PAGE`**|>|[https://github.com/Agri-Corp/GreenCare-landing.git](https://github.com/Agri-Corp/GreenCare-landing.git)|
+|-----|----|----|
+
 <h4 href="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
 <h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
