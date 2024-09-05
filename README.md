@@ -1108,82 +1108,86 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
     <td align="center">main</td>
-    <td align="center"> codigo</td>
-    <td align="center"> ultimo que escribimos</td>
-    <td align="center"> esa si no se xd</td>
-    <td align="center"> fecha de cuando fue</td>
+    <td align="center"> d9badaf</td>
+    <td align="center"> fix(routing): resolve routing issue in team section</td>
+    <td align="center"> fix(routing): resolve routing issue in team section</td>
+    <td align="center"> 2024/09/05</td>
   </tr>
   
   <tr>
     <td align="center">develop</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> 729393f</td>
+    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center"> 2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/Contact-us-Section</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> 06b8784</td>
+    <td align="center"> feat: add Contact-Us Section</td>
+    <td align="center"> feat: add Contact-Us Section</td>
+    <td align="center"> 2024/09/04</td>
   </tr>
   
   <tr>
     <td align="center">feature/Footer-Section</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> acc2f13</td>
+    <td align="center"> feat: add GreenCare footer section</td>
+    <td align="center"> feat: add GreenCare footer section</td>
+    <td align="center"> 2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/Testimonials-section</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> f5dd711</td>
+    <td align="center"> 
+feat: Add Testimonials Section</td>
+    <td align="center"> 
+feat: Add Testimonials Section</td>
+    <td align="center"> 2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/gallery-section</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> fb83c21</td>
+    <td align="center"> feat: add 6 images and modifiy index and css</td>
+    <td align="center"> feat: add 6 images and modifiy index and css</td>
+    <td align="center"> 2024/09/04</td>
   </tr>
 
   <tr>
     <td align="center">feature/home-setcion</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> 42cf53c</td>
+    <td align="center"> feat:add home-setcion</td>
+    <td align="center"> feat:add home-setcion</td>
+    <td align="center"> 2024/09/03</td>
   </tr>
 
   <tr>
     <td align="center">feature/navbar</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> 85dff78</td>
+    <td align="center"> 
+feat:add navbar</td>
+    <td align="center"> 
+feat:add navbar</td>
+    <td align="center"> 2024/09/03</td>
   </tr>
 
   <tr>
     <td align="center">feature/plans-section</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> 99cdad7</td>
+    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
+    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
+    <td align="center"> 2024/09/04</td>
   </tr>
 
   <tr>
     <td align="center">feature/team-section</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
-    <td align="center"> ---</td>
+    <td align="center"> 468787c</td>
+    <td align="center"> feat: add team section with responsive design and Changa typography</td>
+    <td align="center"> feat: add team section with responsive design and Changa typography</td>
+    <td align="center"> 2024/09/04</td>
   </tr>
 
 </table>
