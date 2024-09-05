@@ -995,6 +995,25 @@ Por último y no menos importante, para el uso del framework de Spring Boot, uti
 
 <h4 href="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
+Como mencionamos previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Además, para la publicación y despliegue de la página, aprovecharemos GitHub Pages.
+
+En relación con el desarrollo de la página de inicio de GreenCare, hemos utilizado las siguientes herramientas:
+
+|**`SOFTWARE DEPLOYMENT CONFIGURATION`**|
+|-|
+|**HTML:** Es el lenguaje de marcado que hemos utilizado para estructurar nuestro Landing Page|
+|<img src="src/images/html_5.1.4.png" alt="Html" style="width:100%;">|
+|**CSS:** Nos ayudó con la parte de diseño de interface para que esta sea interactubale con los visitantes de la Landing Page.|
+|<img src="src/images/css_5.1.4.png" alt="Css" style="width:100%;">|
+|**git:** Git es un sistema de control de versiones diseñado para optimizar la eficiencia y la compatibilidad de versiones. Esta herramienta desempeñó un papel fundamental en nuestra colaboración en equipo durante el desarrollo de la Landing Page.|
+|<img src="src/images/logo_git.png" alt="Git" style="width:100%;">|
+
+|**`HERRAMIENTA`**|**`DESCRIPCIÓN`**|**`LOGO`**|
+|-----|-----|----|
+|**GitHub**|Plataforma de desarrollo colaborativo.|<img src="src/images/github.jpg" alt="GitHub" style="width:100%;">|
+|**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="src/images/flow.jpg" alt="GitFlow" style="width:100%;">|
+|**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="src/images/pages.jpg" alt="Github Pages" style="width:100%;">|
+
 <h3 href="landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</h3>
 
 <h4 href="sprint1">5.2.1. Sprint 1</h4>
