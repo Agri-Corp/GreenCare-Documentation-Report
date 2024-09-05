@@ -291,10 +291,14 @@
             ingeniería.
         </td>
         <td>
-            TB1:
+            <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
+            Al momento de indagar información acerca de la importancia de las áreas verdes en nuestro hogares, expandió mi concepto en cómo se puede llevar a cabo una aplicación que brinde orientación y gestión al cuidado de las plantas. Ligando con los labores que realicé, me permitió elaborar la misión y visión del proyecto, elaborar el Lean UX Process, tener la capacidad analítica de pensar acerca de que datos se alojarán (implementación del diagram de Base Datos).
         </td>
         <td>
-            TB1:
+            TB1: <br>
+            La herramienta principal para llevar proyectos de software de calidad se da atravez de una buena comunicación, ya que es el instrumento vital que nos permitirá comprender a cada uno de nuestros segmentos objetivos el cual hemos definido.<br><br>
+            Es primordial conocer nuestro segmento y el objetivo que nosotros como Startup tenemos y queremos alcanzar; por lo que, tener esas sendas claras, nos ayudará a comprender mejorar las necesidades para solventar con nuestra solución y ofrecer mejores experiencia para los usuarios.<br><br>
+            Gracias a la herramienta de facil uso dde diseño, el cual viene a ser Figma, nos ha permtido esquematizar de manera consistente cada uno de los componentes que tendrá tanta nuestra Landing Page como Nuestro Web Application. Además, el hecho de facilitar simulaciones de uso interactivas <em>(Prototyping)</em>, nos da un primer alcance de la funcionalidad e interactividad que este tendrá cuando pase a su fase de desarrollo.
         </td>
     </tr>
     <tr>
@@ -304,10 +308,13 @@
             ingeniería.
         </td>
         <td>
-            TB1:
+        <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
+        Realicé entrevistas al segmento de jardineros que, en sí, ya cuentan con cierta experiencia en el rubro; por lo que, dicha información brindada, me sirvió para alinear al equipo en el desarrollo del Product Backlog del Proyecto así como definir de manera más clara el propósito general que nuestro se enfocará. 
         </td>
         <td>
-            TB1:
+            TB1: <br>
+            El enfoque de recopilación de información, nos ha demostrado que podemos retroalimentarnos de un tema nuevo con la posibilidad de generar diversos puntos de vistas que nos servirán como <em>bases</em> para la construcción de un proyecto más sólido.<br><br>
+            El hecho de construir diferentes plataformas y pensar en diferentes características, mapean de manera objetiva cada una de nuestras capacidades e habilidades que podemos ofrecer para el escalamiento del proyecto.
         </td>
     </tr>
 </table>
