@@ -1018,6 +1018,8 @@ En relación con el desarrollo de la página de inicio de GreenCare, hemos utili
 
 <h4 href="sprint1">5.2.1. Sprint 1</h4>
 
+En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint.
+
 <h4 href="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
 
 <h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
