@@ -1485,6 +1485,14 @@ Por último y no menos importante, para el uso del framework de Spring Boot, uti
 
 <h3 id="conclutionAndRecomendation">Conclusiones y recomendaciones</h3>
 
+* La creación de los problem statements y suposiciones mostró una notable correspondencia con el comportamiento de nuestros segmentos objetivo, tanto jardineros o agricultores como personas interesadas en aprender del rubro del cultivo de plantas. Esto fue posible gracias a un análisis detallado previo a las entrevistas, en el que basamos nuestra comprensión en conocimiento, experiencia e investigación. Después de las primeras entrevistas, logramos ajustar nuestras abstracciones para hacerlas más realistas y, al finalizar las entrevistas de validación, confirmamos que las redacciones de los problem statements y assumptions se alineaban completamente con lo previsto.
+
+* Los hypothesis statements, desarrollados en conjunto con los criterios de éxito del proceso Lean UX, reflejaron en gran medida la realidad durante las entrevistas de validación. Sin embargo, un desafío recurrente fue que algunos de estos statements eran demasiado específicos, lo que dificultaba su validación. En algunos casos, estas preguntas específicas parecían influir en las respuestas de los entrevistados sobre aspectos que no recordaban o desconocían. Para mejorar, sugerimos que en futuras investigaciones se elaboren hypothesis statements más centrados en cómo interactúan los usuarios con la aplicación, en lugar de centrarse tanto en características específicas.
+
+* Creemos firmemente que las fases más cruciales en el desarrollo de productos digitales consisten en realizar entrevistas exhaustivas para conocer a nuestros segmentos clave y validar el producto. Además, es esencial incluir todas las actividades relacionadas con el diseño de la aplicación, como la creación de mockups, wireframes, diagramas C4 y diagramas de bases de datos. Estos elementos forman parte central del desarrollo tanto del informe como del proyecto, y son esenciales para la documentación y la implementación.
+
+* Implementar Domain Driven Design en el desarrollo tanto del frontend como del backend nos facilita crear proyectos más escalables, organizados, y resistentes a los cambios. Al gestionar una aplicación con una complejidad considerable, esta metodología permite realizar modificaciones de manera eficiente. Asimismo, facilita la colaboración al permitir que los cambios en el código se manejen de manera más fluida, utilizando herramientas como GitHub para ramas, commits, etc.
+
 <h3 id="teamVideo">Video About-the-Team</h3>
 
 <h2 id="bibliography">BIBLIOGRAFÍA</h2>
