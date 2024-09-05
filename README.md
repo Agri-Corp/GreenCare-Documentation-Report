@@ -1095,6 +1095,99 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
+    <td align="center">main</td>
+    <td align="center"> codigo</td>
+    <td align="center"> ultimo que escribimos</td>
+    <td align="center"> esa si no se xd</td>
+    <td align="center"> fecha de cuando fue</td>
+  </tr>
+  
+  <tr>
+    <td align="center">develop</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/Contact-us-Section</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+  
+  <tr>
+    <td align="center">feature/Footer-Section</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/Testimonials-section</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/gallery-section</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/home-setcion</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/navbar</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/plans-section</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/team-section</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+    <td align="center"> ---</td>
+  </tr>
+
+</table>
+
 <h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
 En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, llevando a cabo la implementación de los Web Services para adaptar a celulares o distintas dimensiones.
