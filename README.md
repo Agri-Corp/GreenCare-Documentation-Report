@@ -2667,25 +2667,224 @@ Por último y no menos importante, para el uso del framework de Spring Boot, uti
 
 <h4 href="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
+Como mencionamos previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Además, para la publicación y despliegue de la página, aprovecharemos GitHub Pages.
+
+En relación con el desarrollo de la página de inicio de GreenCare, hemos utilizado las siguientes herramientas:
+
+|**`SOFTWARE DEPLOYMENT CONFIGURATION`**|
+|-|
+|**HTML:** Es el lenguaje de marcado que hemos utilizado para estructurar nuestro Landing Page|
+|<img src="src/images/html_5.1.4.png" alt="Html" style="width:100%;">|
+|**CSS:** Nos ayudó con la parte de diseño de interface para que esta sea interactubale con los visitantes de la Landing Page.|
+|<img src="src/images/css_5.1.4.png" alt="Css" style="width:100%;">|
+|**git:** Git es un sistema de control de versiones diseñado para optimizar la eficiencia y la compatibilidad de versiones. Esta herramienta desempeñó un papel fundamental en nuestra colaboración en equipo durante el desarrollo de la Landing Page.|
+|<img src="src/images/logo_git.png" alt="Git" style="width:100%;">|
+
+|**`HERRAMIENTA`**|**`DESCRIPCIÓN`**|**`LOGO`**|
+|-----|-----|----|
+|**GitHub**|Plataforma de desarrollo colaborativo.|<img src="src/images/github.jpg" alt="GitHub" style="width:100%;">|
+|**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="src/images/flow.jpg" alt="GitFlow" style="width:100%;">|
+|**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="src/images/pages.jpg" alt="Github Pages" style="width:100%;">|
+
 <h3 href="landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</h3>
 
 <h4 href="sprint1">5.2.1. Sprint 1</h4>
 
-<h4 href="sprintPlanning1">5.2.2.1. Sprint Planning 1</h4>
+En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint.
 
-<h4 href="sprintBacklog1">5.2.2.2. Sprint Backlog 1</h4>
+<h4 href="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
 
-<h4 href="developmentEvidenceSprint1">5.2.2.3. Development Evidence for Sprint Review</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/08/24</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>21:00 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Meet meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Las partes interesadas y el propietario del producto estaban satisfechos con el progreso requerido.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                La primera versión de la página de aterrizaje se ha implementado, aunque al principio se presentó algunas deficiencias en términos de lanzamiento. 
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Goal</td>
+            <td>
+                Finalizar y mejorar las interfaces y secciones del landing page.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                29
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                27
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<h4 href="testSuiteEvidenceSprint1">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+<h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
-<h4 href="executionEvidenceSprint1">5.2.2.5. Execution Evidence for Sprint Review</h4>
+<h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
-<h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
 
-<h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+  <tr>
+    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
+    <td align="center">main</td>
+    <td align="center"> d9badaf</td>
+    <td align="center"> fix(routing): resolve routing issue in team section</td>
+    <td align="center"> fix(routing): resolve routing issue in team section</td>
+    <td align="center"> 2024/09/05</td>
+  </tr>
+  
+  <tr>
+    <td align="center">develop</td>
+    <td align="center"> 729393f</td>
+    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center"> 2024/09/05</td>
+  </tr>
 
-<h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+  <tr>
+    <td align="center">feature/Contact-us-Section</td>
+    <td align="center"> 06b8784</td>
+    <td align="center"> feat: add Contact-Us Section</td>
+    <td align="center"> feat: add Contact-Us Section</td>
+    <td align="center"> 2024/09/04</td>
+  </tr>
+  
+  <tr>
+    <td align="center">feature/Footer-Section</td>
+    <td align="center"> acc2f13</td>
+    <td align="center"> feat: add GreenCare footer section</td>
+    <td align="center"> feat: add GreenCare footer section</td>
+    <td align="center"> 2024/09/05</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/Testimonials-section</td>
+    <td align="center"> f5dd711</td>
+    <td align="center"> 
+feat: Add Testimonials Section</td>
+    <td align="center"> 
+feat: Add Testimonials Section</td>
+    <td align="center"> 2024/09/05</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/gallery-section</td>
+    <td align="center"> fb83c21</td>
+    <td align="center"> feat: add 6 images and modifiy index and css</td>
+    <td align="center"> feat: add 6 images and modifiy index and css</td>
+    <td align="center"> 2024/09/04</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/home-setcion</td>
+    <td align="center"> 42cf53c</td>
+    <td align="center"> feat:add home-setcion</td>
+    <td align="center"> feat:add home-setcion</td>
+    <td align="center"> 2024/09/03</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/navbar</td>
+    <td align="center"> 85dff78</td>
+    <td align="center"> 
+feat:add navbar</td>
+    <td align="center"> 
+feat:add navbar</td>
+    <td align="center"> 2024/09/03</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/plans-section</td>
+    <td align="center"> 99cdad7</td>
+    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
+    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
+    <td align="center"> 2024/09/04</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/team-section</td>
+    <td align="center"> 468787c</td>
+    <td align="center"> feat: add team section with responsive design and Changa typography</td>
+    <td align="center"> feat: add team section with responsive design and Changa typography</td>
+    <td align="center"> 2024/09/04</td>
+  </tr>
+
+</table>
+
+<h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
+
+En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, llevando a cabo la implementación de los Web Services para adaptar a celulares o distintas dimensiones.
+
+<h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
+
+<h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
+
+En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "GreenCare". En esta página de inicio, encontrarás varias secciones creadas para nuestro Landing Page.
+
+|**`REPOSITORIO LANDING PAGE`**|>|[https://github.com/Agri-Corp/GreenCare-landing.git](https://github.com/Agri-Corp/GreenCare-landing.git)|
+|-----|----|----|
+
+<h4 href="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
+
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones.
+
+|**`LANDING PAGE DESPLEGADO`**|>|[https://agri-corp.github.io/GreenCare-landing/](https://agri-corp.github.io/GreenCare-landing/)|
+|-----|----|----|
+
+<h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
 <h2 id="conclution">CONCLUSIONES</h2>
 
