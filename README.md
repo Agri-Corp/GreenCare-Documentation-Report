@@ -779,7 +779,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <br>
     <li><strong>Registro en Video:</strong> 
         <ul>
-            <img src="../src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
+            <img src="src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
             <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
             <li>00:00 minutos hasta 10:44 minutos.</li>
         </ul>
@@ -802,7 +802,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     </li>
     <li><strong>Registro en Video:</strong> 
         <ul>
-            <img src="../src/images/entrevista_luis.png" alt="?" style="width:100%;">
+            <img src="src/images/entrevista_luis.png" alt="?" style="width:100%;">
             <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
             <li>10:45 minutos hasta 14:01 minutos.</li>
         </ul>
@@ -825,7 +825,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     </li>
     <li><strong>Registro en Video:</strong> 
         <ul>
-            <img src="../src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
+            <img src="src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
             <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
             <li>14:02 minutos hasta 16:59 minutos.</li>
         </ul>
@@ -848,7 +848,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     </li>
     <li><strong>Registro en Video:</strong> 
         <ul>
-            <img src="../src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
+            <img src="src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
             <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
             <li>17:00 minutos hasta 21:09 minutos.</li>
         </ul>
@@ -871,7 +871,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     </li>
     <li><strong>Registro en Video:</strong> 
         <ul>
-            <img src="../src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
+            <img src="src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
             <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
             <li>21:10 minutos hasta 25:02 minutos.</li>
         </ul>
@@ -894,7 +894,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     </li>
     <li><strong>Registro en Video:</strong> 
         <ul>
-            <img src="../src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
+            <img src="src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
             <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
             <li>25:03 minutos hasta 32:46 minutos.</li>
         </ul>
