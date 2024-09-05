@@ -1203,6 +1203,11 @@ En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la p
 
 <h4 href="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
+Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones.
+
+|**`LANDING PAGE DESPLEGADO`**|>|[https://agri-corp.github.io/GreenCare-landing/](https://agri-corp.github.io/GreenCare-landing/)|
+|-----|----|----|
+
 <h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
 <h2 id="conclution">CONCLUSIONES</h2>
