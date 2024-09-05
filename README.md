@@ -1147,6 +1147,8 @@ En este apartado se presenta el diagrama de componentes.
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
 
+<img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto; text-align: center;"/>`
+
 <h2 href="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
 
 <h3 href="softwareConfig">5.1. Software Configuration Management</h3>
