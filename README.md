@@ -1097,6 +1097,8 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
+En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, llevando a cabo la implementación de los Web Services para adaptar a celulares o distintas dimensiones.
+
 <h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
 <h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
