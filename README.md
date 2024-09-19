@@ -2866,9 +2866,11 @@ feat:add navbar</td>
 
 <h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
-En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, llevando a cabo la implementación de los Web Services para adaptar a celulares o distintas dimensiones.
+En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de las <q>features</q> programadas para la construcción del mismo - teniendo como enfoque adicional en hecho que sea adaptativo a las diferentes dimensiones de los dispositivos que cada uno de los usuarios vaya a interactuar -.
 
 <h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
+
+Durante el Sprint 1, se logró un avance notable en la implementación de las principales funcionalidades de la página de inicio del sitio web. El equipo completó satisfactoriamente todas las historias de usuario planificadas, incluyendo la creación de un resumen claro sobre las características y beneficios del sitio, la integración de un acceso destacado a la información detallada de precios, la incorporación de un resumen conciso al final de la página, la adición de un llamado a la acción visible para dirigir a los usuarios hacia la aplicación principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto de fácil acceso en la página. El equipo trabajó de manera colaborativa para asegurar que las características implementadas cumplieran con los requisitos establecidos, mejorando la experiencia del usuario. Capturas de pantalla:
 
 <h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
