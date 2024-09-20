@@ -2781,7 +2781,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
     <td align="center">main</td>
     <td align="center"> d9badaf</td>
-    <td align="center"> fix(routing): resolve routing issue in team section</td>
+    <td align="center"> fix(routing): ...</td>
     <td align="center"> fix(routing): resolve routing issue in team section</td>
     <td align="center"> 2024/09/05</td>
   </tr>
@@ -2789,7 +2789,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td align="center">develop</td>
     <td align="center"> 729393f</td>
-    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center"> merge ...</td>
     <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
     <td align="center"> 2024/09/05</td>
   </tr>
@@ -2797,7 +2797,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td align="center">feature/Contact-us-Section</td>
     <td align="center"> 06b8784</td>
-    <td align="center"> feat: add Contact-Us Section</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add Contact-Us Section</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2805,7 +2805,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td align="center">feature/Footer-Section</td>
     <td align="center"> acc2f13</td>
-    <td align="center"> feat: add GreenCare footer section</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add GreenCare footer section</td>
     <td align="center"> 2024/09/05</td>
   </tr>
@@ -2814,7 +2814,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <td align="center">feature/Testimonials-section</td>
     <td align="center"> f5dd711</td>
     <td align="center"> 
-feat: Add Testimonials Section</td>
+feat: ...</td>
     <td align="center"> 
 feat: Add Testimonials Section</td>
     <td align="center"> 2024/09/05</td>
@@ -2823,7 +2823,7 @@ feat: Add Testimonials Section</td>
   <tr>
     <td align="center">feature/gallery-section</td>
     <td align="center"> fb83c21</td>
-    <td align="center"> feat: add 6 images and modifiy index and css</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add 6 images and modifiy index and css</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2831,7 +2831,7 @@ feat: Add Testimonials Section</td>
   <tr>
     <td align="center">feature/home-setcion</td>
     <td align="center"> 42cf53c</td>
-    <td align="center"> feat:add home-setcion</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat:add home-setcion</td>
     <td align="center"> 2024/09/03</td>
   </tr>
@@ -2840,7 +2840,7 @@ feat: Add Testimonials Section</td>
     <td align="center">feature/navbar</td>
     <td align="center"> 85dff78</td>
     <td align="center"> 
-feat:add navbar</td>
+feat: ...</td>
     <td align="center"> 
 feat:add navbar</td>
     <td align="center"> 2024/09/03</td>
@@ -2849,7 +2849,7 @@ feat:add navbar</td>
   <tr>
     <td align="center">feature/plans-section</td>
     <td align="center"> 99cdad7</td>
-    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add plan section with responsive design and Changa typography</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2857,7 +2857,7 @@ feat:add navbar</td>
   <tr>
     <td align="center">feature/team-section</td>
     <td align="center"> 468787c</td>
-    <td align="center"> feat: add team section with responsive design and Changa typography</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add team section with responsive design and Changa typography</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2871,6 +2871,47 @@ En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, 
 <h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
 Durante el Sprint 1, se logró un avance notable en la implementación de las principales funcionalidades de la página de inicio del sitio web. El equipo completó satisfactoriamente todas las historias de usuario planificadas, incluyendo la creación de un resumen claro sobre las características y beneficios del sitio, la integración de un acceso destacado a la información detallada de precios, la incorporación de un resumen conciso al final de la página, la adición de un llamado a la acción visible para dirigir a los usuarios hacia la aplicación principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto de fácil acceso en la página. El equipo trabajó de manera colaborativa para asegurar que las características implementadas cumplieran con los requisitos establecidos, mejorando la experiencia del usuario. Capturas de pantalla:
+
+* Hero Section:
+
+<img src="./src/images/Hero-Section-GreenCare.png" alt="GreenCare-Hero-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Membership Plans Section:
+
+<img src="./src/images/Plans-Card-GreenCare.png" alt="GreenCare-Plans-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Developer Team Section:
+
+<img src="./src/images/Team-Section-GreenCare.png" alt="GreenCare-Developer-Team-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Testiomonials Section:
+
+<img src="./src/images/Testimonials-Section-GreenCare.png" alt="GreenCare-Testimonial-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Gallery Section:
+
+<img src="./src/images/Gallery-Section-GreenCare.png" alt="GreenCare-Gallery-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Contact Us Section:
+
+<img src="./src/images/Contact-Us-Section-GreenCare.png" alt="GreenCare-Contact-Us-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Footer Section:
+
+<img src="./src/images/Footer-GreenCare.png" alt="GreenCare-Footer-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
 
 <h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
