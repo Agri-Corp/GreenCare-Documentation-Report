@@ -3363,6 +3363,47 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 
 <h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
+<p align="center">
+<img src="./src/images/Collaboration_Insights_Sprint1.png" style="width:auto; height: 250px"/>
+</p>
+
+<p align="center">
+<img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:auto; height: 400px"/>
+</p>
+
+
+<h4 href="sprint1">5.2.2. Sprint 2</h4>
+
+
+
+<h4 href="sprintPlanning1">5.2.2.1. Sprint Planning 2</h4>
+
+
+<h4 href="sprintBacklog1">5.2.2.2. Sprint Backlog 2</h4>
+
+<h4 href="developmentEvidenceSprint1">5.2.2.3. Development Evidence for Sprint Review</h4>
+
+
+
+<h4 href="testSuiteEvidenceSprint1">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+
+
+
+<h4 href="executionEvidenceSprint1">5.2.2.5. Execution Evidence for Sprint Review</h4>
+
+
+
+
+<h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
+
+
+<h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+
+
+
+<h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+
 <h2 id="conclution">CONCLUSIONES</h2>
 
 <h3 id="conclutionAndRecomendation">Conclusiones y recomendaciones</h3>
