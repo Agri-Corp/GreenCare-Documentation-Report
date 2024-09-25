@@ -2344,17 +2344,96 @@ En este apartado se presenta el diagrama de componentes.
     <img src="src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
-<h3 id="softwareDesign">4.7. Software Object-Oriented Design</h3>
+<h3 id="WebApplicationsPrototyping">4.7. Software Object-Oriented Design
+</h3>
 
-<h4 id="classDiagram">4.7.1. Class Diagrams</h4>
+En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
 
-<h4 id="classDiagram">4.7.2. Class Dictionary</h4>
+<h4>4.7.1. Class Diagrams</h4>
+
+<p align="center">
+
+![Diagrama_Clases](<./src/images/Software Object-Oriented Design.png>)
+</p>
+
+<h4>4.7.2. Class Dictionary</h4>
+A continuación se muestra las entidades mas principales en formato markdown con las clases, atributos y métodos correspondientes:
+
+### Usuario
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| id                  | intenger |
+| name                | string   |
+| Email               | string   |
+| password            | string   |
+| Rol                 | string   |
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| login(username, password) | Verifica las credenciales del usuario. Devuelve true si la autenticación es exitosa. |
+| register(username, password) | Registra un nuevo usuario con el nombre de usuario y la contraseña proporcionados. |
+
+### Perfil
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| nombre              | string   |
+| correo              | string   |
+| ImagenPerfil        | string   |
+| Rol                 | string   |
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| editarNombre()   | Edita el nombre del Perfil |
+| editarcorreo() | Edita el correo |
+| actualizarimagepperfil() | Actualiza la imagen. |
+
+### Home
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| ID                  | int      |
+| ProcesoID           | string   |
+| UsuarioID           | string   |
+
+### Garden
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| Plan_name           | boolean  |
+| Plan_time           | char     |
+| About_plan          | boolean  |
+
+### LifeCycle
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| Plant_Search        | boolean  |
+| Status_activites    | char     |
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| GenerateActivites().     |Genera las Actividades
+| EndCycle()    | Opciòn de terminar el ciclo |
+| StartCycle()  | Opciòn de iniciar el ciclo |
+
+### Settings
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| id               | string   |
+| name         | string   |
+| Email         | string   |
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| AddInformation()      | Añade Informacion                 |
+| SaveInformation()      | Guarda Informaciòn                 |
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
 
-<img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto; text-align: center;"/>`
+<p align="center">
+<img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto;"/>`
+</p>
 
 <h2 href="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
 
