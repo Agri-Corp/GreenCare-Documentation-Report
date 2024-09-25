@@ -3213,173 +3213,138 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
-<table>
+<table border="1" cellpadding="5" cellspacing="0">
   <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td   colspan="7"> <strong>Sprint 1</strong> </td>
-  </tr>
-
-   <tr>
-    <td   colspan="2"> <strong>User Story</strong></td>
-    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
   </tr>
   <tr>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>Description</strong></td>
-    <td  > <strong>Estimation (Hours)</strong></td>
-    <td  > <strong>Assigned To</strong></td>
-    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
   </tr>
   <tr>
-    <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >???????? </td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
+    <td rowspan="3">US-027</td>
+    <td rowspan="3">Visualización del Equipo</td>
+    <td>UT-01</td>
+    <td>Agregar Miembros del Equipo</td>
+    <td>Se agregaron todos los miembros del equipo</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
+    <td>UT-02</td>
+    <td>Modificación HTML</td>
+    <td>Modifiqué en un lenguaje nativo, estático</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="4"> ??</td>
-    <td rowspan="4"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-03</td>
+    <td>Agregar fotos de los miembros</td>
+    <td>Se agregaron las fotos de los miembros</td>
+    <td>1</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="4">US-029</td>
+    <td rowspan="4">Sección de Contacto</td>
+    <td>UT-04</td>
+    <td>Agregar el footer "Contact Us"</td>
+    <td>Se agregaron los datos específicos para contactarnos</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-05</td>
+    <td>Agregar formulario de contacto</td>
+    <td>Se implementó el formulario para enviar mensajes de contacto</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>In-Process</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-06</td>
+    <td>Validación de campos del formulario</td>
+    <td>Se añadió validación a los campos del formulario de contacto</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>To-Do</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-07</td>
+    <td>Estilo del formulario</td>
+    <td>Se estilizó el formulario según el diseño aprobado</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>To-Do</td>
   </tr>
   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="2">US-026</td>
+    <td rowspan="2">Visualización de Testimonios</td>
+    <td>UT-08</td>
+    <td>Visualizar testimonios</td>
+    <td>Se implementó una barra iterativa para mostrar testimonios</td>
+    <td>2</td>
+    <td>Juan Paul Llamccaya Arone</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-09</td>
+    <td>Diseñar la sección de testimonios</td>
+    <td>Se diseñó la sección de testimonios según las directrices</td>
+    <td>2</td>
+    <td>Juan Paul Llamccaya Arone</td>
+    <td>In-Process</td>
   </tr>
   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="2">US-028</td>
+    <td rowspan="2">Visualización de Galería</td>
+    <td>UT-10</td>
+    <td>Visualizar Galería</td>
+    <td>Se muestran las fotos de la galería</td>
+    <td>2</td>
+    <td>Raúl Ronaldo Quispe Erasmo</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-11</td>
+    <td>Organización de las fotos</td>
+    <td>Se organizó la disposición de las fotos en la galería</td>
+    <td>3</td>
+    <td>Raúl Ronaldo Quispe Erasmo</td>
+    <td>In-Process</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="2">US-032</td>
+    <td rowspan="2">Visualización de Idioma</td>
+    <td>UT-12</td>
+    <td>Visualizar Botón de Idioma</td>
+    <td>Cambiar idioma con el botón</td>
+    <td>2</td>
+    <td>Manuel Alexis Vargas Quispe</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1"> ??</td>
-    <td rowspan="1"> ?? ??</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-13</td>
+    <td>Guardar Preferencia de Idioma</td>
+    <td>Se guarda la preferencia de idioma del usuario</td>
+    <td>3</td>
+    <td>Manuel Alexis Vargas Quispe</td>
+    <td>In-Process</td>
   </tr>
 </table>
 
