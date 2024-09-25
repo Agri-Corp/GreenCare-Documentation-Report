@@ -3538,10 +3538,13 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 * Vista de Home de la aplicación:
 <br>
-<img src="./src/images/.png" alt="" style="width:auto; height:120px text-align:center"/>
+
+<img src="./src/images/Home_op.jpeg" alt="home" style="width:auto; height:120px text-align:center"/>
 
 * Vista de Garden:
 <br>
+
+<img src="./src/images/Garden.jpeg" alt="garden" style="width:auto; height:120px text-align:center"/>
 
 * Vista de Life Cycle:
 
