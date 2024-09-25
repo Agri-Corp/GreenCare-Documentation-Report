@@ -305,9 +305,7 @@
     </tr>
     <tr>
         <td>
-            Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes
-            especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en
-            ingeniería.
+            Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
         </td>
         <td>
         <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
@@ -831,7 +829,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>00:00 minutos hasta 10:44 minutos.</li>
         </ul>
     </li>
@@ -854,7 +852,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_luis.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>10:45 minutos hasta 14:01 minutos.</li>
         </ul>
     </li>
@@ -877,7 +875,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>14:02 minutos hasta 16:59 minutos.</li>
         </ul>
     </li>
@@ -900,7 +898,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>17:00 minutos hasta 21:09 minutos.</li>
         </ul>
     </li>
@@ -923,7 +921,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>21:10 minutos hasta 25:02 minutos.</li>
         </ul>
     </li>
@@ -946,7 +944,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>25:03 minutos hasta 32:46 minutos.</li>
         </ul>
     </li>
@@ -980,11 +978,11 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
 |**`Giovanni Ramos`**|
 |Giovani es un entusiasta de los huertos caseros, influenciado por sus padres, aunque aún es inexperto en agricultura. Encuentra difícil labrar la tierra y considera tedioso buscar información en línea sobre cómo hacer germinar plantas específicas, lo que consume mucho de su tiempo. Desea una aplicación que le facilite la gestión de sus plantas, brindándole información concisa sobre cada tipo de planta y nuevas técnicas para optimizar la creación de huertos. Su interés se centra en soluciones prácticas y accesibles que mejoren su experiencia en la agricultura casera.|
 
-<h3 id="needfinding">2.3. Needfinding<h4>
+<h3 id="needfinding">2.3. Needfinding</h3>
 
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
 
-<h4 id="userPersonas">2.3.1. User Personas<h4>
+<h4 id="userPersonas">2.3.1. User Personas</h4>
 
 Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UxPressia.
 
@@ -996,7 +994,7 @@ Esta sección del informe presenta perfiles ficticios basados en grupos de inter
 |---|
 |<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana" style="width:100%">|
 
-<h4 id="userTaskMatrix">2.3.2. User Task Matrix<h4>
+<h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
 En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos grupos y hemos analizado la importancia de cada una de estas actividades para cada grupo:
 
@@ -1082,7 +1080,7 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
     </tbody>
 </table>
 
-<h4 id="userJourneyMapping">2.3.3. User Journey Mapping<h4>
+<h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
 
 En esta sección, se detallan los mapas de viaje del usuario para cada persona del usuario, personas interesadas en agricultura y persona con experiencia en cuidado de plantas.
 
@@ -1283,317 +1281,707 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
   <td>N/A</td>
   <td>N/A</td>
 </tr>
+
   </tbody>
 </table>
 
 
 <table>
-  <thead>
-    <tr>
-      <th>Epic / Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>US-001</td>
-      <td>Registro de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> registrarme en la plataforma <strong>para</strong> poder gestionar mis plantas.</td>
-      <td><strong>Escenario 01: Dado</strong> un usuario completa el formulario de registro, <strong>cuando</strong> envía el formulario, <strong>Entonces</strong> se crea una cuenta nueva. Y se envía un correo de confirmación.</td>
-      <td>EPIC-001</td>
-    </tr>
-    <tr>
-      <td>US-002</td>
-      <td>Inicio de Sesión</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar sesión en la plataforma <strong>para</strong> acceder a mis datos y gestionar mis plantas.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario ha registrado una cuenta, <strong>cuando</strong> introduce sus credenciales correctamente, <strong>Entonces</strong> se le permite acceder a su cuenta.</td>
-      <td>EPIC-001</td>
-    </tr>
-    <tr>
-      <td>US-003</td>
-      <td>Recuperación de Contraseña</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> recuperar mi contraseña olvidada <strong>para</strong> poder acceder a mi cuenta nuevamente.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario ha olvidado su contraseña, <strong>cuando</strong> solicita recuperarla, <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.</td>
-      <td>EPIC-001</td>
-    </tr>
-    <tr>
-      <td>US-004</td>
-      <td>Modificación de Datos Personales</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> modificar mis datos personales <strong>para</strong> mantener mi información actualizada.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la configuración de su cuenta, <strong>cuando</strong> modifica sus datos, <strong>Entonces</strong> se guardan los cambios realizados.</td>
-      <td>EPIC-001</td>
-    </tr>
-    <tr>
-      <td>US-005</td>
-      <td>Creación de Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear una planta en mi jardín <strong>para</strong> comenzar a seguir su ciclo de vida.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> crea una planta, <strong>Entonces</strong> se añade una nueva planta a su jardín.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-006</td>
-      <td>Visualización del Jardín</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver todas las plantas en mi jardín <strong>para</strong> tener una visión general de las plantas que estoy gestionando.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> tiene plantas añadidas, <strong>Entonces</strong> se muestran todas las plantas en una lista.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-007</td>
-      <td>Búsqueda de Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> buscar plantas en mi jardín <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> utiliza la función de búsqueda, <strong>Entonces</strong> se muestran las plantas que coinciden con la búsqueda.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-008</td>
-      <td>Selección de Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar una planta específica <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario ha encontrado la planta deseada, <strong>cuando</strong> la selecciona, <strong>Entonces</strong> se muestra su ciclo de vida detallado.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-009</td>
-      <td>Inicio de Ciclo de Vida</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar el ciclo de vida de una planta <strong>para</strong> empezar a registrar sus actividades y cuidados.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario ha añadido una planta nueva, <strong>cuando</strong> inicia su ciclo de vida, <strong>Entonces</strong> el ciclo comienza y se pueden añadir actividades.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-010</td>
-      <td>Finalización de Ciclo de Vida</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> finalizar el ciclo de vida de una planta <strong>para</strong> marcarla como completada y guardar su historial.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario ha completado el ciclo de vida de una planta, <strong>cuando</strong> selecciona finalizar, <strong>Entonces</strong> se guarda y se marca como completada.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-011</td>
-      <td>Visualización de Actividades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver las actividades diarias pendientes <strong>para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de actividades, <strong>cuando</strong> tiene actividades pendientes, <strong>Entonces</strong> se muestran en la lista de actividades.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-012</td>
-      <td>Completar Actividades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> marcar actividades como completadas <strong>para</strong> mantener un registro de los cuidados realizados.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario tiene una actividad pendiente, <strong>cuando</strong> la marca como completada, <strong>Entonces</strong> esta se registra como realizada en el ciclo de vida.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-013</td>
-      <td>Seleccionar Planes de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar entre planes gratuitos y premium <strong>para</strong> elegir el que mejor se adapte a mis necesidades.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la página de planes, <strong>cuando</strong> elige un plan y realiza el pago, <strong>Entonces</strong> se actualizan sus privilegios según el plan seleccionado.</td>
-      <td>EPIC-004</td>
-    </tr>
-    <tr>
-      <td>US-014</td>
-      <td>Visualización de Beneficios Premium</td>
-      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> ver los beneficios adicionales disponibles <strong>para</strong> aprovechar al máximo mi suscripción.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario premium accede a la sección de beneficios, <strong>cuando</strong> consulta los beneficios, <strong>Entonces</strong> se muestran todas las ventajas disponibles.</td>
-      <td>EPIC-004</td>
-    </tr>
-    <tr>
-      <td>US-015</td>
-      <td>Acceso a Funcionalidades Premium</td>
-      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a funcionalidades exclusivas <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario premium accede a funciones avanzadas, <strong>cuando</strong> utiliza estas funciones, <strong>Entonces</strong> tienen acceso completo a todas las características premium.</td>
-      <td>EPIC-004</td>
-    </tr>
-    <tr>
-      <td>US-016</td>
-      <td>Actualización de Información de Perfil</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar mi información de perfil <strong>para</strong> reflejar cambios en mis datos personales.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a su perfil, <strong>cuando</strong> actualiza su información, <strong>Entonces</strong> los cambios se guardan y se reflejan en su perfil.</td>
-      <td>EPIC-001</td>
-    </tr>
-    <tr>
-      <td>US-017</td>
-      <td>Configuración de Datos Personales</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar mi nombre y correo electrónico <strong>para</strong> mantener mi perfil al día.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la configuración de su cuenta, <strong>cuando</strong> realiza cambios en su nombre o correo electrónico, <strong>Entonces</strong> se actualizan los datos.</td>
-      <td>EPIC-007</td>
-    </tr>
-    <tr>
-      <td>US-018</td>
-      <td>Visualización de Perfil</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver mi perfil con mi nombre, foto y rol <strong>para</strong> verificar que mi información es correcta.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a su perfil, <strong>cuando</strong> visualiza su información, <strong>Entonces</strong> se muestra correctamente su nombre, foto y rol.</td>
-      <td>EPIC-008</td>
-    </tr>
-    <tr>
-      <td>US-019</td>
-      <td>Visualizar mis Plantas en el Jardín</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un resumen de todas las plantas en mi jardín <strong>para</strong> tener una visión general de su estado y cuidados.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de jardín, <strong>cuando</strong> visualiza dicha sección, <strong>Entonces</strong> se muestran todas las plantas con su información básica.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-020</td>
-      <td>Visualización Detallada de Planta</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver los detalles completos de una planta seleccionada <strong>para</strong> entender mejor sus necesidades y ciclo de vida.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario selecciona una planta, <strong>cuando</strong> accede a la visualización detallada, <strong>Entonces</strong> se muestran la dificultad, nombre y tiempo de vida.</td>
-      <td>EPIC-010</td>
-    </tr>
-    <tr>
-      <td>US-021</td>
-      <td>Finalización de Actividades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> marcar una actividad como finalizada <strong>para</strong> llevar un registro de lo que ya he realizado.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario completa una actividad, <strong>cuando</strong> la marca como finalizada, <strong>Entonces</strong> esta se mueve a la sección de actividades completadas.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-022</td>
-      <td>Actualización de Información de Planta</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar la información de una planta <strong>para</strong> reflejar cambios en su estado o cuidados.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a los detalles de una planta, <strong>cuando</strong> actualiza la información, <strong>Entonces</strong> los cambios se guardan y se reflejan en la vista detallada.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-023</td>
-      <td>Creación de Etiquetas para Plantas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> crear etiquetas para mis plantas <strong>para</strong> identificar fácilmente sus características y necesidades.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a la sección de etiquetas, <strong>cuando</strong> crea una nueva etiqueta, <strong>Entonces</strong> se asigna a la planta seleccionada.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-024</td>
-      <td>Visualización de Etiquetas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver las etiquetas asociadas a cada planta <strong>para</strong> identificar fácilmente sus características y cuidados necesarios.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a los detalles de una planta, <strong>cuando</strong> visualiza las etiquetas, <strong>Entonces</strong> se muestran todas las etiquetas asociadas a esa planta.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-025</td>
-      <td>Eliminación de Etiquetas</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> eliminar etiquetas de mis plantas <strong>para</strong> mantener mi sistema de etiquetado organizado y relevante.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede a las etiquetas de una planta, <strong>cuando</strong> elimina una etiqueta, <strong>Entonces</strong> esta se elimina de la planta y de la lista de etiquetas.</td>
-      <td>EPIC-002</td>
-    </tr>
-    <tr>
-      <td>US-026</td>
-      <td>Visualizacion de Notificacion de Registro</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> visualizar una notificacion cuando registro una plata <strong>para</strong> estar seguro de haber registrado.</td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario registra  la planta, <strong>cuando</strong> cuando da en el boton de registro, <strong>Entonces</strong> se visualiza una notrificacion de su planta ha sido registrada.</td>
-      <td>EPIC-003</td>
-    </tr>
-    <tr>
-      <td>US-027</td>
-      <td>Visualización del Equipo</td>
-      <td><strong>Como</strong> visitante, <strong>quiero</strong> poder visualizar la sección de <em>Team</em>, <strong>para</strong> conocer al equipo de desarrolladores detrás de Agricorp.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante navega a la sección <em>Team</em>, <strong>cuando</strong> se carga la página, <strong>Entonces</strong> se debe mostrar la lista y perfiles de los desarrolladores, incluyendo su nombre, rol y una breve biografía.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-      <td>US-026</td>
-      <td>Visualización de Testimonios</td>
-      <td><strong>Como</strong> visitante, <strong>quiero</strong> poder ver testimonios de usuarios actuales, <strong>para</strong> entender cómo Agricorp ha ayudado a otras personas.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante navega a la sección <em>Testimonials</em>, <strong>cuando</strong> se carga la página, <strong>Entonces</strong> se deben mostrar al menos tres testimonios con el nombre del usuario y su experiencia.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-      <td>US-027</td>
-      <td>Visualización de Galería</td>
-      <td><strong>Como</strong> visitante, <strong>quiero</strong> ver imágenes de plantas en la sección <em>Gallery</em>, <strong>para</strong> inspirarme y ver ejemplos de lo que puedo lograr con Agricorp.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante navega a la sección <em>Gallery</em>, <strong>cuando</strong> se carga la página, <strong>Entonces</strong> se deben mostrar al menos seis imágenes de alta calidad de plantas o jardines gestionados a través de Agricorp.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-      <td>US-028</td>
-      <td>Navegación del Encabezado</td>
-      <td><strong>Como</strong> visitante, <strong>quiero</strong> poder navegar fácilmente entre las secciones desde el encabezado, <strong>para</strong> acceder a la información de manera rápida.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante interactúa con el menú del encabezado, <strong>cuando</strong> selecciona una opción (e.g., <em>Home</em>, <em>Plans</em>, <em>Team</em>, etc.), <strong>Entonces</strong> debe ser redirigido a la sección correspondiente de la página.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-      <td>US-029</td>
-      <td>Sección de Contacto</td>
-      <td><strong>Como</strong> visitante, <strong>quiero</strong> poder contactar al equipo de Agricorp, <strong>para</strong> hacer preguntas o solicitar asistencia.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante navega a la sección <em>Contact Us</em>, <strong>cuando</strong> llena y envía el formulario de contacto, <strong>Entonces</strong> se debe enviar un correo al equipo de soporte de Agricorp y mostrar un mensaje de confirmación en pantalla.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-      <td>US-030</td>
-      <td>Visualización de Planes Detallados en el landing page</td>
-      <td><strong>Como</strong> usuario interesado, <strong>quiero</strong> ver más detalles sobre los planes disponibles, <strong>para</strong> tomar una decisión informada antes de registrarme.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante selecciona "Get Started" en un plan, <strong>cuando</strong> se carga la página, <strong>Entonces</strong> se debe mostrar una página con detalles completos sobre lo que incluye cada plan y las diferencias entre ellos.</td>
-      <td>EPIC-013</td>
-</tr>
-<tr>
-      <td>US-031</td>
-      <td>Visualización de Idioma</td>
-      <td><strong>Como</strong> visitante, <strong>quiero</strong> poder cambiar el idioma del sitio, <strong>para</strong> navegar en mi idioma preferido.</td>
-      <td><strong>Escenario 01: Dado</strong> que un visitante selecciona el botón "Spanish" en la esquina superior derecha, <strong>cuando</strong> lo activa, <strong>Entonces</strong> todo el contenido de la página debe cambiar a español.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-      <td>US-032</td>
-      <td>Visualizacion de Testimonios</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> visualizar los testimonios de usuarios, <strong>para</strong> enfocarme en la sección <em>Testimonials</em></td>
-      <td><strong>Escenario 01: Dado</strong> que un usuario accede al panel de administración de testimonios, <strong>cuando</strong> un usuario navega en el landing oage en el apartado de testimonios <strong>Entonces</strong> debe poder visualizar los testimonios y comentarios.</td>
-      <td>EPIC-012</td>
-</tr>
-<tr>
-  <td>TS-001</td>
-  <td>Landing Page Responsiva</td>
-  <td><strong>Como</strong> visitante del sitio web,<strong> quiero</strong> que la landing page sea responsiva,<strong> para</strong> poder acceder a la información desde cualquier dispositivo.</td>
-  <td>Escenario 01: Dado que un usuario accede a la landing page desde un dispositivo móvil, cuando cambia el tamaño de la pantalla, entonces el contenido se ajusta automáticamente sin perder funcionalidad ni diseño.</td>
-  <td>EPIC-014</td>
-</tr>
-<tr>
-  <td>TS-002</td>
-  <td>Integración API RESTful</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> integrar la API RESTful con el frontend,<strong> para</strong> permitir la comunicación entre el cliente y el servidor.</td>
-  <td>Escenario 01: Dado que el frontend requiere datos del backend, cuando se realiza una solicitud a la API, entonces se obtiene la respuesta adecuada y se muestra la información en la aplicación.</td>
-  <td>EPIC-015</td>
-</tr>
-<tr>
-  <td>TS-003</td>
-  <td>Configuración del Entorno de Desarrollo</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> configurar un entorno de desarrollo utilizando WebStorm y IntelliJ IDEA,<strong> para</strong> optimizar el flujo de trabajo.</td>
-  <td>Escenario 01: Dado que el proyecto necesita ser desarrollado, cuando se configuran WebStorm e IntelliJ IDEA, entonces el entorno de desarrollo está listo para el uso inmediato con todas las dependencias instaladas.</td>
-  <td>EPIC-016</td>
-</tr>
-<tr>
-  <td>TS-004</td>
-  <td>Pruebas de Compatibilidad</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> realizar pruebas de compatibilidad en navegadores,<strong> para</strong> asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.</td>
-  <td>Escenario 01: Dado que el usuario accede a la aplicación desde diferentes navegadores, cuando se realiza la prueba en Chrome, Edge y Firefox, entonces la aplicación debe funcionar de manera uniforme y sin errores.</td>
-  <td>EPIC-017</td>
-</tr>
-<tr>
-  <td>TS-005</td>
-  <td>Despliegue en GitHub Pages</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> desplegar la aplicación web en GitHub Pages,<strong> para</strong> que esté accesible a los usuarios en cualquier momento.</td>
-  <td>Escenario 01: Dado que se ha completado el desarrollo de la landing page, cuando se despliega en GitHub Pages, entonces el sitio debe estar disponible públicamente con cada actualización reflejada de manera automática.</td>
-  <td>EPIC-018</td>
-</tr>
-<tr>
-  <td>TS-006</td>
-  <td>Implementación de Angular Material</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> utilizar Angular Material en la aplicación,<strong> para</strong> mejorar la accesibilidad y la experiencia del usuario con componentes UI consistentes.</td>
-  <td>Escenario 01: Dado que el proyecto necesita una interfaz de usuario consistente, cuando se implementan componentes de Angular Material, entonces la interfaz debe ser accesible y coherente en toda la aplicación.</td>
-  <td>EPIC-019</td>
-</tr>
-<tr>
-  <td>TS-007</td>
-  <td>Seguridad en API RESTful</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> implementar medidas de seguridad en la API RESTful,<strong> para</strong> proteger los datos y garantizar la integridad de la comunicación entre el frontend y el backend.</td>
-  <td>Escenario 01: Dado que se envían datos sensibles a través de la API, cuando se implementan medidas de seguridad como autenticación y cifrado, entonces la API debe proteger los datos de accesos no autorizados.</td>
-  <td>EPIC-020</td>
-</tr>
-<tr>
-  <td>TS-008</td>
-  <td>Pruebas Automatizadas con Google Lighthouse</td>
-  <td><strong>Como</strong> desarrollador,<strong> quiero</strong> utilizar Google Lighthouse para realizar pruebas automatizadas en la landing page,<strong> para</strong> asegurarme de que el rendimiento y la accesibilidad cumplan con los estándares requeridos.</td>
-  <td>Escenario 01: Dado que la landing page ha sido desplegada, cuando se ejecutan pruebas con Google Lighthouse, entonces se obtienen métricas sobre el rendimiento, accesibilidad y SEO, con recomendaciones para mejoras.</td>
-  <td>EPIC-017</td>
-</tr>
-  </tbody>
+    <thead>
+        <tr>
+            <th>Epic / Story ID</th>
+            <th>Título </th>
+            <th>Descripción</th>
+            <th>Criterios de Aceptación</th>
+            <th>Relacionado con (Epic ID)</th>
+        </tr>
+    </thead>
+    <body  >
+        <tr style="text-align:center">
+            <td>US-001</td>
+            <td>Registro de Usuario</td>
+            <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario, 
+            <strong>quiero</strong> registrarme en la plataforma 
+            <strong>para</strong>, ppoder gestionar mis plantas.
+            </td>
+            <!-- ---------- -->
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01: Registro exitoso.</h5>
+            <strong>Dado</strong> un usuario completa el formulario de registro, 
+            <strong>cuando</strong> envía el formulario, 
+            <strong>Entonces</strong>  se crea una cuenta nueva.
+            <strong>Y</strong> se envía un correo de confirmación.
+            <h5>Escenario 02: Registro fallido</h5>
+            <strong>Dado</strong> que un usuario no completa correctamente el formulario,
+            <strong>cuando</strong>  lo envía, Entonces se muestra un mensaje de error
+            <strong>Entonces</strong> se muestra un mensaje de error y se solicita corrección de los datos.
+            </td>
+            <td>EPIC-001</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>US-002 </td>
+            <td>Inicio de Sesión</td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong> usuario, 
+            <strong>quiero</strong>iniciar sesión en la plataforma
+            <strong>para</strong>  acceder a mis datos y gestionar mis plantas.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td>
+            <h5>Escenario 01:Inicio de sesión exitoso</h5>
+            <strong>Dado</strong> Uque un usuario ha registrado una cuenta,
+            <strong>Cuando</strong> introduce sus credenciales correctamente, 
+            <strong>Entonces</strong> se le permite acceder a su cuenta.
+            <h5>Escenario 02: Inicio de sesión fallido</h5>
+            <strong>Dado</strong> que un usuario introduce credenciales incorrectas, 
+            <strong>Cuando</strong> intenta iniciar sesión, 
+            <strong>Entonces</strong>se muestra un mensaje de error indicando que las credenciales no son válidas.
+            </td>
+            <td>EPIC-001 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td>US-003</td>
+             <td>Recuperación de Contraseña</td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong> usuario,
+            <strong>quiero</strong> recuperar mi contraseña olvidada 
+            <strong>para</strong> poder acceder a mi cuenta nuevamente.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 1: Solicitud de recuperación de contraseña</h5>
+            <strong>Dado</strong> que un usuario ha olvidado su contraseña,
+            <strong>Cuando</strong> solicita recuperarla, 
+            <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.
+            <h5>Escenario 2:  Error al solicitar recuperación</h5>
+            <strong>Dado</strong> que un usuario no encuentra su cuenta asociada al correo, 
+            <strong>Cuando</strong> intenta solicitar recuperación, 
+            <strong>Entonces</strong>  se muestra un mensaje de error.
+            </td>
+            <td> EPIC-001</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>US-004 </td>
+            <td> Modificación de Datos Personales </td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong>  usuario,
+            <strong>quiero</strong> modificar mis datos personales 
+            <strong>para</strong> mantener mi información actualizada.</td>
+            <!-- Criterios de Aceptación -->
+            <td>
+            <h5>Escenario 01: Modificación de datos exitosa</h5>
+            <strong>Dado </strong> que un usuario accede a la configuración de su cuenta,
+            <strong>Cuando</strong> modifica sus datos,
+            <strong>Entonces</strong> se guardan los cambios realizados.
+            </td>
+            <td>EPIC-001 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-005</td>
+            <td> Creación de Plantas</td>
+            <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario,
+            <strong>quiero</strong>  crear una planta en mi jardín  
+            <strong>para</strong> comenzar a seguir su ciclo de vida.
+            </td>
+             <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 1: Creación de planta exitosa</h5>
+            <strong>Dado</strong> que un usuario accede a la sección de jardín,
+            <strong>Cuando</strong> crea una planta,  
+            <strong>Entonces</strong>  se añade una nueva planta a su jardín.
+            </td>
+            <td>EPIC-002 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-006 </td>
+            <td>Visualización del Jardín </td>
+           <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario 
+            <strong> quiero </strong>ver todas las plantas en mi jardín
+            <strong>para</strong> tener una visión general de las plantas que estoy gestionando. 
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01: Visualización exitosa del jardín</h5>
+            <strong>Dado</strong>que un usuario accede a la sección de jardín,
+            <strong>Cuando</strong> tiene plantas añadidas, 
+            <strong>Entonces</strong> se muestran todas las plantas en una lista.
+            <h5>Escenario 02: Jardín vacío</h5>
+            <strong>Dado</strong> que un usuario no tiene plantas añadidas,
+            <strong>Cuando</strong> accede a la sección de jardín, 
+            <strong>Entonces</strong> se muestra un mensaje indicando que no hay plantas.
+            </td>
+            <td>EPIC-002 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-007 </td>
+            <td> Búsqueda de Plantas	</td>
+           <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario,
+            <strong>quiero</strong> buscar plantas en mi jardín
+            <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01: Búsqueda exitosa de planta </h5>
+            <strong>Dado</strong>que un usuario accede a la sección de jardín,
+            <strong>Cuando</strong> utiliza la función de búsqueda,
+            <strong>Entonces</strong> el sistema solo le muestra las remodeladoras que cumplen con los requisitos.
+            <h5>Escenario 02: Búsqueda sin resultados</h5>
+            <strong>Dado</strong> que un usuario busca una planta que no existe, 
+            <strong>Cuando</strong> ingresa la búsqueda, 
+            <strong>Entonces</strong> muestra un mensaje indicando que no se encontraron coincidencias.
+            </td>
+            <td>EPIC-003 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-008 </td>
+            <td> Selección de Plantas </td>
+           <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario,
+            <strong>quiero</strong> seleccionar una planta específica
+            <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01: Selección de planta exitosa</h5>
+            <strong>Dado</strong> que un usuario ha encontrado la planta deseada,
+            <strong>Cuando</strong> la selecciona
+            <strong>Entonces</strong> se muestra su ciclo de vida detallado.
+            </td>
+            <td>EPIC-002 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-009 </td>
+            <td> Inicio de Ciclo de Vida </td>
+           <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario,
+            <strong>quiero</strong> iniciar el ciclo de vida de una planta
+            <strong>para</strong> empezar a registrar sus actividades y cuidados.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01: Inicio exitoso del ciclo de vida </h5>
+            <strong>Dado</strong> que un usuario ha añadido una planta nueva,
+            <strong>Cuando</strong> inicia su ciclo de vida,
+            <strong>Entonces</strong> l ciclo comienza y se pueden añadir actividades.
+            </td>
+            <td>EPIC-003 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-010 </td>
+            <td>Finalización de Ciclo de Vida </td>
+           <!-- Descripción -->
+            <td> 
+            <strong>Como</strong> usuario
+            <strong>quiero</strong>finalizar el ciclo de vida de una planta
+            <strong>para</strong>  marcarla como completada y guardar su historial.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01:Finalización exitosa del ciclo de vida </h5>
+            <strong>Dado</strong>que un usuario ha completado el ciclo de vida de una planta,
+            <strong>Cuando</strong> selecciona finalizar, 
+            <strong>Entonces</strong> e se guarda y se marca como completada.
+            </td>
+            <td>EPIC-003 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-011 </td>
+            <td> Visualización de Actividades	</td>
+           <!-- Descripción -->
+            <td> 
+            <strong>Como</strong>  usuario,
+            <strong>quiero</strong> las actividades diarias pendientes
+            <strong>para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 01:  Visualización de actividades pendientes </h5>
+            <strong>Dado</strong> que un usuario accede a la sección de actividades,
+            <strong>Cuando</strong>  tiene actividades pendientes, 
+            <strong>Entonces</strong> se muestran en la lista de actividades.
+            <h5>Escenario 02: Sin actividades pendientes </h5>
+            <strong>Dado</strong> que un usuario accede a la sección de actividades,
+            <strong>Cuando</strong>  no hay actividades pendientes, 
+            <strong>Entonces</strong> se muestra un mensaje indicando que no hay tareas por realizar.
+            </td>
+            <td>EPIC-003 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-012 </td>
+            <td> Completar Actividades</td>
+            <td> 
+              <strong>Como</strong> usuario 
+              <strong>quiero</strong> marcar actividades como completadas
+              <strong>para</strong> mantener un registro de los cuidados realizados.</td>
+            <td>
+              <h5>Escenario 01:  Completar una actividad </h5> 
+              <strong>Dado</strong> que un usuario tiene una actividad pendiente,
+              <strong>Cuando</strong> la marca como completada, 
+              <strong>Entonces</strong> esta se registra como realizada en el ciclo de vida.
+              </td>
+            <td> EPIC-003</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-013 </td>
+            <td>Seleccionar Planes de Usuario</td>
+            <td> 
+              <strong>Como</strong> usuario,
+              <strong>quiero</strong> seleccionar entre planes gratuitos y premium
+              <strong>para</strong> elegir el que mejor se adapte a mis necesidades</td>
+            <td>
+              <h5>Escenario 01: Selección exitosa de un plan</h5>
+              <strong>Dado</strong> que un usuario accede a la página de planes, 
+              <strong>Cuando</strong> elige un plan y realiza el pago,
+              <strong>Entonces</strong> le aparecera la pantalla de Iniciar Sesion. 
+              <h5>Escenario 02: Error al seleccionar plan</h5> 
+              <strong>Dado</strong> que un usuario intenta seleccionar un plan sin completar los detalles de pago, 
+              <strong>Cuando</strong>  lo hace,
+              <strong>Entonces</strong> se muestra un mensaje de error. </td>
+            <td> EPIC-004</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-014 </td>
+            <td>Visualización de Beneficios Premium</td>
+            <td> 
+              <strong>Como</strong> usuario premium,
+              <strong>quiero</strong> ver los beneficios adicionales disponibles
+              <strong>para</strong> aprovechar al máximo mi suscripción.</td>
+            <td> 
+              <h5>Escenario 01: Visualización de beneficios premium</h5>
+              <strong>Dado</strong> que un usuario premium accede a la sección de beneficios,
+              <strong>Cuando</strong> consulta los beneficios,
+              <strong>Entonces</strong> se muestran todas las ventajas disponibles. 
+            <td>EPIC-004</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-015 </td>
+            <td>Funcionalidades Premium</td>
+            <td> 
+              <strong>Como</strong> usuario premium,
+              <strong>quiero</strong> acceder a funcionalidades exclusivas
+              <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
+            <td> 
+              <h5>Escenario 01: Acceso a funcionalidades premium</h5>
+              <strong>Dado</strong> que un usuario premium accede a funciones avanzadas, 
+              <strong>Cuando</strong> utiliza estas funciones,
+              <strong>Entonces</strong> tienen acceso completo a todas las características premium.
+              <h5>Escenario 02: </h5>
+            <td>EPIC-004</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-016 </td>
+            <td>Actualización de Información de Perfil</td>
+            <td>
+            <strong>Como</strong> usuario,<strong>quiero </strong>actualizar mi información de perfil <strong>para</strong> reflejar cambios en mis datos personales.
+            </td>
+            <td>
+            <h5>Esceneario 01:  Actualización exitosa de información</h5>
+            <strong>Dado</strong> que un usuario accede a su perfil, <strong>Cuando</strong> actualiza su información,  <strong>Entonces</strong>  los cambios se guardan y se reflejan en su perfil.
+            </td>
+            <td>EPIC-001 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-017 </td>
+            <td>Visualización de Perfil</td>
+            <td>
+            <strong>Como</strong> usuario,<strong>quiero </strong>ver mi perfil con mi nombre, foto y rol  <strong>para</strong> verificar que mi información es correcta.
+            </td>
+            <td>
+            <h5>Esceneario 1:Visualización correcta de perfil</h5>
+            <strong>Dado</strong> que un usuario accede a su perfil, <strong>Cuando</strong> visualiza su información, <strong>Entonces</strong> se muestra correctamente su nombre, foto y rol.
+            </td>
+            <td>EPIC-008 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-018 </td>
+            <td>Visualizar mis Plantas en el Jardín</td>
+            <td>
+            <strong>Como</strong> usuario <strong>quiero </strong> ver un resumen de todas las plantas en mi jardín<strong>para</strong> tener una visión general de su estado y cuidados.
+            </td>
+            <td>
+            <h5>Esceneario 1:Visualización exitosa de plantas en el jardín</h5>
+            <strong>Dado</strong> que un usuario accede a la sección de jardín, <strong>Cuando</strong> visualiza dicha sección,<strong>Entonces</strong>  se muestran todas las plantas con su información básica.
+            <h5>Esceneario 2: Jardín sin plantas</h5>
+            <strong>Dado</strong>que un usuario accede a la sección de jardín sin plantas añadidas, <strong>Cuando</strong> lo hace, <strong>Entonces</strong> se muestra un mensaje indicando que no hay plantas en el jardín.
+            </td>
+            <td>EPIC-003 </td>
+        </tr>
+        <tr style="text-align:center">
+            <td>US-019</td>
+            <td>Visualización Detallada de Planta</td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong> usuario, 
+            <strong>quiero</strong> ver los detalles completos de una planta seleccionada
+            <strong>para</strong> entender mejor sus necesidades y ciclo de vida.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 1: Visualización exitosa de detalles de planta</h5>
+            <strong>Dado</strong> que un usuario selecciona una planta, 
+            <strong>Cuando</strong> accede a la visualización detallada,
+            <strong>Entonces</strong>se muestran la dificultad, nombre y tiempo de vida.
+            </td>
+            <td> EPIC-010</td>
+        </tr>
+         <tr style="text-align:center">
+            <td>US-020</td>
+            <td>Finalización de Actividades </td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong> usuario, 
+            <strong>quiero</strong> marcar una actividad como finalizada 
+            <strong>para</strong> llevar un registro de lo que ya he realizado.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 1: Marcar actividad como finalizada</h5>
+            <strong>Dado</strong>  que un usuario completa una actividad, 
+            <strong>Cuando</strong> la marca como finalizada, 
+            <strong>Entonces</strong> esta se mueve a la sección de actividades completadas.
+            </td>
+            <td> EPIC-003</td>
+        </tr> 
+        <tr style="text-align:center">
+            <td>US-021</td>
+            <td>Actualización de Información de Planta </td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong> usuario, 
+            <strong>quiero</strong> actualizar la información de una planta 
+            <strong>para</strong> reflejar cambios en su estado o cuidados.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 1:Actualización exitosa de información de planta</h5>
+            <strong>Dado</strong> que un usuario accede a los detalles de una planta,
+            <strong>Cuando</strong> que un usuario accede a los detalles de una planta,
+            <strong>Entonces</strong>  los cambios se guardan y se reflejan en la vista detallada.
+            </td>
+            <td> EPIC-002</td>
+        </tr> 
+        <tr style="text-align:center">
+            <td>US-022</td>
+            <td>Creación de Etiquetas para Plantas</td>
+            <!-- Descripción -->
+            <td>
+            <strong>Como</strong> usuario de 
+            <strong>quiero</strong> qcrear etiquetas para mis plantas
+            <strong>para</strong>  identificar fácilmente sus características y necesidades.
+            </td>
+            <!-- Criterios de Aceptación -->
+            <td> 
+            <h5>Escenario 1: Creación exitosa de etiqueta</h5>
+            <strong>Dado</strong> que un usuario accede a la sección de etiquetas, 
+            <strong>Cuando</strong> crea una nueva etiqueta
+            <strong>Entonces</strong> se asigna a la planta seleccionada.
+            </td>
+            <td> EPIC-002</td>
+        </tr>    
+        <tr style="text-align:center">
+            <td> US-023 </td>
+            <td>Visualización de Etiquetas </td>
+            <td> 
+            <strong> Como </strong> usuario,
+            <strong> quiero </strong> ver las etiquetas asociadas a cada planta <strong> para </strong> identificar fácilmente sus características y cuidados necesarios. </td>
+            <td> 
+            <h5>Escenario 01: Visualización correcta de etiquetas</h5>
+            <strong> Dado </strong>  que un usuario accede a los detalles de una planta,
+            <strong> Cuando </strong> visualiza las etiquetas,<strong> Entonces </strong>  se muestran todas las etiquetas asociadas a esa planta.</td>
+            <td> EPIC-002</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-024 </td>
+            <td> Eliminación de Etiquetas</td>
+            <td> 
+                <strong> Como </strong> usuario, 
+                <strong> quiero </strong>eliminar etiquetas de mis plantas 
+                <strong> para </strong> mantener mi sistema de etiquetado organizado y relevante.
+            </td>
+            <td> 
+                <h5> Escenario 01:   Eliminación exitosa de etiqueta </h5>
+                <strong> Dado </strong> ue un usuario accede a las etiquetas de una planta,
+                <strong> Cuando </strong> eelimina una etiqueta,
+                <strong> Entonces </strong>  esta se elimina de la planta y de la lista de etiquetas.
+            </td>
+            <td>EPIC-002</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-025 </td>
+            <td>  Visualización de Notificación de Registro </td>
+            <td> 
+                <strong> Como </strong> usuario,
+                <strong> quiero </strong> visualizar una notificación cuando registro una planta
+                <strong> para </strong>  estar seguro de que se ha registrado correctamente.
+            </td>
+            <td> 
+                <h5> Escenario 01:Notificación de registro exitosa</h5>
+                <strong> Dado </strong> que un usuario registra una planta,
+                <strong> Cuando </strong> da en el botón de registro,
+                <strong> Entonces </strong>  se visualiza una notificación indicando que la planta ha sido registrada con éxito.
+            </td>
+            <td> EPIC-003</td>
+        </tr>
+          <tr style="text-align:center">
+            <td> US-026 </td>
+            <td> Visualización del Equipo </td>
+            <td> 
+                <strong> Como </strong> visitante del Landing Page, 
+                <strong> quiero </strong>poder visualizar la sección de Team,
+                <strong> para </strong> conocer al equipo de desarrolladores detrás de Agricorp.
+            </td>
+            <td> 
+                <h5> Escenario 01: Obtener Datos de las Empresas</h5>
+                <strong> Dado </strong> que un visitante navega a la sección Team,
+                <strong> Cuando </strong>se carga la página, 
+                <strong> Entonces </strong>se debe mostrar la sección y perfiles de los desarrolladores, incluyendo su nombre y una breve biografía.
+            </td>
+            <td> EPIC-012</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-027 </td>
+            <td>  Visualización de Testimonios </td>
+            <td> 
+                <strong> Como </strong>  visitante del Landing Page, 
+                <strong> quiero </strong> poder ver testimonios de usuarios actuales
+                <strong> para </strong> entender cómo Agricorp ha ayudado a otras personas.
+            </td>
+            <td> 
+                <h5> Escenario 01: Visualización exitosa de testimonios</h5>
+                <strong> Dado </strong> que un visitante navega a la sección Testimonials,
+                <strong> Cuando </strong>se carga la página, 
+                <strong> Entonces </strong>  se deben mostrar al menos tres testimonios con el nombre del usuario y su experiencia.
+              </td>
+              <td> EPIC-012</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> US-028</td>
+            <td> Visualización de Galería </td>
+            <td> 
+                <strong>Como</strong> visitante del Landing Page, 
+                <strong>Quiero</strong> ver imágenes de plantas en la sección Gallery,
+                <strong>Para</strong> inspirarme y ver ejemplos de lo que puedo lograr con Agricorp.
+            </td>
+            <td> 
+                <h5>Escenario 01: Visualización exitosa de la galería</h5>
+                <strong>Dado</strong> que un visitante navega a la sección Gallery,
+                <strong>Cuando</strong>  se carga la página,
+                <strong>Entonces</strong>se deben mostrar al menos seis imágenes de alta calidad de plantas o jardines gestionados a través de Agricorp.
+            </td>
+            <td>EPIC-012 </td>
+        </tr>
+      <tr style="text-align:center">
+            <td> US-029 </td>
+            <td> Navegación del Encabezado </td>
+            <td> 
+                <strong>Como</strong> visitante del Landing Page, 
+                <strong>Quiero</strong> poder navegar fácilmente entre las secciones desde el encabezado, 
+                <strong>Para</strong> acceder a la información de manera rápida.
+            </td>
+            <td> 
+                <h5>Escenario 01: Navegación exitosa desde el encabezado</h5>
+                <strong>Dado</strong> que un visitante interactúa con el menú del encabezado
+                <strong>Cuando</strong> elecciona una opción (e.g., Home, Plans, Team, etc.),
+                <strong>Entonces</strong> edebe ser redirigido a la sección correspondiente de la página.
+            </td>
+            <td> EPIC-012</td>
+        </tr>
+           <tr style="text-align:center">
+            <td> US-030	 </td>
+            <td> Sección de Contacto	 </td>
+            <td> 
+                <strong>Como</strong> visitante del Landing Page, 
+                <strong>Quiero</strong> ppoder contactar al equipo de Agricorp, 
+                <strong>Para</strong>  hacer preguntas o solicitar asistencia.
+            </td>
+            <td> 
+                <h5>Escenario 01: Envío exitoso de formulario de contacto</h5>
+                <strong>Dado</strong>  que un visitante navega a la sección Contact Us,
+                <strong>Cuando</strong> llena y envía el formulario de contacto,
+                <strong>Entonces</strong> se debe enviar un correo al equipo de soporte y mostrar un mensaje de confirmación.
+            </td>
+            <td> EPIC-012</td>
+        </tr>
+        </tr>
+           <tr style="text-align:center">
+            <td> US-031	 </td>
+            <td> Visualización de Planes Detallados	 </td>
+            <td> 
+                <strong>Como</strong> visitante del Landing Page, 
+                <strong>Quiero</strong>  ver más detalles sobre los planes disponibles, 
+                <strong>Para</strong>   ver más detalles sobre los planes disponibles, 
+            </td>
+            <td> 
+                <h5>Escenario 01: Visualización exitosa de detalles de planes</h5>
+                <strong>Dado</strong>  que un visitante selecciona "Get Started" en un plan, 
+                <strong>Cuando</strong> se carga la página,
+                <strong>Entonces</strong>  se debe mostrar una página con detalles completos sobre lo que incluye cada plan.
+                 <h5>Escenario 02:  Comparación entre planes</h5> 
+               <strong>Dado</strong> que un visitante accede a la página de detalles de planes,
+              <strong>Cuando</strong>  visualiza la comparación,
+              <strong>Entonces</strong>  se deben mostrar claramente las diferencias entre los planes disponibles.</td>
+            </td>
+            <td> EPIC-013</td>
+        </tr>
+             <tr style="text-align:center">
+            <td> US-032	 </td>
+            <td> Visualización de Idioma	 </td>
+            <td> 
+                <strong>Como</strong> visitante del Landing Page, 
+                <strong>Quiero</strong> poder cambiar el idioma del sitio,
+                <strong>Para</strong>   navegar en mi idioma preferido.
+            </td>
+            <td> 
+                <h5>Escenario 01:  Cambio de idioma a español</h5>
+                <strong>Dado</strong> que un visitante selecciona el botón "ES" en la esquina superior derecha,
+                <strong>Cuando</strong> lo activa,
+                <strong>Entonces</strong>   todo el contenido de la página debe cambiar a español.
+                 <h5>Escenario 02:  Cambio de idioma a inglés</h5> 
+               <strong>Dado</strong> que un visitante selecciona el botón "EN" en la esquina superior derecha,
+              <strong>Cuando</strong>   lo activa,
+              <strong>Entonces</strong>  todo el contenido de la página debe cambiar a inglés.</td>
+            </td>
+            <td> EPIC-012</td>
+        </tr>
+            </tr>
+             <tr style="text-align:center">
+            <td> US-033	 </td>
+            <td> Visualización de Testimonios </td>
+            <td> 
+                <strong>Como</strong> visitante del Landing Page, 
+                <strong>Quiero</strong>  visualizar los testimonios de usuarios, 
+                <strong>Para</strong>  enfocarme en la sección Testimonials.
+            </td>
+            <td> 
+                <h5>Escenario 01:  Visualización de testimonios en el panel de administración</h5>
+                <strong>Dado</strong> que un usuario accede al panel de administración de testimonios, 
+                <strong>Cuando</strong> navega en el landing page en el apartado de testimonios,
+                <strong>Entonces</strong>   debe poder visualizar los testimonios y comentarios.
+            </td>
+            <td> EPIC-012</td>
+        </tr>
+            <tr style="text-align:center">
+            <td> TS-001	 </td>
+            <td> Landing Page Responsiva </td>
+            <td> 
+                <strong>Como</strong> visitante del sitio web,
+                <strong>Quiero</strong>   que la landing page sea responsiva, 
+                <strong>Para</strong>  poder acceder a la información desde cualquier dispositivo.
+            </td>
+            <td> 
+                <h5>Escenario 01:  Ajuste en dispositivos móviles</h5>
+                <strong>Dado</strong> que un usuario accede a la landing page desde un dispositivo móvil,  
+                <strong>Cuando</strong> cambia el tamaño de la pantalla, 
+                <strong>Entonces</strong>  el contenido se ajusta automáticamente sin perder funcionalidad ni diseño.
+            </td>
+            <td> EPIC-014</td>
+        </tr>
+            <tr style="text-align:center">
+            <td> TS-002	 </td>
+            <td> Integración API RESTful</td>
+            <td> 
+                <strong>Como</strong> desarrollador, 
+                <strong>Quiero</strong>  integrar la API RESTful con el frontend, 
+                <strong>Para</strong>  permitir la comunicación entre el cliente y el servidor.
+            </td>
+            <td> 
+                <h5>Escenario 01: Solicitud exitosa de datos</h5>
+                <strong>Dado</strong> que el frontend requiere datos del backend,
+                <strong>Cuando</strong> se realiza una solicitud a la API,
+                <strong>Entonces</strong>   se obtiene la respuesta adecuada y se muestra la información en la aplicación.
+            </td>
+            <td> EPIC-015</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> TS-003	 </td>
+            <td> Configuración del Entorno de Desarrollo</td>
+            <td> 
+                <strong>Como</strong> desarrollador, 
+                <strong>Quiero</strong>  configurar un entorno de desarrollo utilizando WebStorm y IntelliJ IDEA,
+                <strong>Para</strong>   optimizar el flujo de trabajo.
+            </td>
+            <td> 
+                <h5>Escenario 01: Configuración completa del entorno</h5>
+                <strong>Dado</strong> que el proyecto necesita ser desarrollado,
+                <strong>Cuando</strong>  se configuran WebStorm e IntelliJ IDEA,
+                <strong>Entonces</strong>   el entorno de desarrollo está listo para el uso inmediato con todas las dependencias instaladas.
+                <h5>Escenario 02:  Verificación de configuración</h5>
+                <strong>Dado</strong> que el entorno ha sido configurado,
+                <strong>Cuando</strong>  se verifica la configuración,
+                <strong>Entonces</strong>   se debe confirmar que todas las herramientas y dependencias están correctamente instaladas.
+            </td>
+            <td> EPIC-016</td>
+        </tr>
+        <tr style="text-align:center">
+            <td> TS-004	 </td>
+            <td> Pruebas de Compatibilidad</td>
+            <td> 
+                <strong>Como</strong> desarrollador, 
+                <strong>Quiero</strong>  realizar pruebas de compatibilidad en navegadores
+                <strong>Para</strong>   asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.
+            </td>
+            <td> 
+                <h5>Escenario 01: Pruebas en diferentes navegadores</h5>
+                <strong>Dado</strong> que el usuario accede a la aplicación desde diferentes navegadores, 
+                <strong>Cuando</strong>  se realiza la prueba en Chrome, Edge y Firefox,
+                <strong>Entonces</strong>  el Sitio Web debe funcionar de manera uniforme y sin errores.
+            </td>
+            <td> EPIC-017</td>
+        </tr>
+         <tr style="text-align:center">
+            <td> TS-005	 </td>
+            <td> Implementación de Angular Material</td>
+            <td> 
+                <strong>Como</strong> desarrollador, 
+                <strong>Quiero</strong>   utilizar Angular Material en la aplicación,
+                <strong>Para</strong>    mejorar la accesibilidad y la experiencia del usuario con componentes UI consistentes.
+            </td>
+            <td> 
+                <h5>Escenario 01:Implementación de componentes Angular Material</h5>
+                <strong>Dado</strong> que el proyecto necesita una interfaz de usuario consistente, 
+                <strong>Cuando</strong>  se implementan componentes de Angular Material,
+                <strong>Entonces</strong>   la interfaz debe ser accesible y coherente en todo el Sitio Web.
+                <h5>Escenario 02:Personalización de componentes</h5>
+                <strong>Dado</strong> que se implementan componentes de Angular Material, 
+                <strong>Cuando</strong>  se personalizan los estilos,
+                <strong>Entonces</strong>   los cambios deben reflejarse adecuadamente en todos los componentes de la aplicación.
+            </td>
+            <td> EPIC-019</td>
+        </tr>
+         <tr style="text-align:center">
+            <td> TS-006	 </td>
+            <td> Seguridad en API RESTful</td>
+            <td> 
+                <strong>Como</strong> desarrollador, 
+                <strong>Quiero</strong>  implementar medidas de seguridad en la API RESTful,
+                <strong>Para</strong> proteger los datos y garantizar la integridad de la comunicación entre el frontend y el backend.
+            </td>
+            <td> 
+                <h5>Escenario 01:Implementación de autenticación</h5>
+                <strong>Dado</strong> qque se envían datos sensibles a través de la API,
+                <strong>Cuando</strong>  se implementan medidas de seguridad como autenticación y cifrado,
+                <strong>Entonces</strong>   la API debe proteger los datos de accesos no autorizados.
+            </td>
+            <td> EPIC-020</td>
+        </tr>
+    </body>
 </table>
+
+
 
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
 
@@ -1627,209 +2015,174 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
     </tr>
     <tr>
       <td>2</td>
-      <td>TS-002</td>
-      <td>Integración API RESTful</td>
-      <td><strong>Como</strong> desarrollador, <strong>quiero</strong> integrar la API RESTful con el frontend, <strong>para</strong> permitir la comunicación entre el cliente y el servidor.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>TS-007</td>
-      <td>Seguridad en API RESTful</td>
-      <td><strong>Como</strong> desarrollador, <strong>quiero</strong> implementar medidas de seguridad en la API RESTful, <strong>para</strong> proteger los datos y garantizar la integridad de la comunicación entre el frontend y el backend.</td>
-      <td>8</td>
-    </tr>
-    <tr>
-      <td>4</td>
       <td>TS-003</td>
       <td>Configuración del Entorno de Desarrollo</td>
       <td><strong>Como</strong> desarrollador, <strong>quiero</strong> configurar un entorno de desarrollo utilizando WebStorm y IntelliJ IDEA, <strong>para</strong> optimizar el flujo de trabajo.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>TS-004</td>
-      <td>Pruebas de Compatibilidad</td>
-      <td><strong>Como</strong> desarrollador, <strong>quiero</strong> realizar pruebas de compatibilidad en navegadores, <strong>para</strong> asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>TS-005</td>
-      <td>Despliegue en GitHub Pages</td>
-      <td><strong>Como</strong> desarrollador, <strong>quiero</strong> desplegar la aplicación web en GitHub Pages, <strong>para</strong> que esté accesible a los usuarios en cualquier momento.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>7</td>
+      <td>3</td>
       <td>TS-006</td>
       <td>Implementación de Angular Material</td>
       <td><strong>Como</strong> desarrollador, <strong>quiero</strong> utilizar Angular Material en la aplicación, <strong>para</strong> mejorar la accesibilidad y la experiencia del usuario con componentes UI consistentes.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>TS-008</td>
-      <td>Pruebas Automatizadas con Google Lighthouse</td>
-      <td><strong>Como</strong> desarrollador, <strong>quiero</strong> utilizar Google Lighthouse para realizar pruebas automatizadas en la landing page, <strong>para</strong> asegurarme de que el rendimiento y la accesibilidad cumplan con los estándares requeridos.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>9</td>
+      <td>4</td>
       <td>US-007</td>
       <td>Búsqueda de Plantas</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> buscar plantas en mi jardín, <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>10</td>
+      <td>6</td>
       <td>US-008</td>
       <td>Selección de Plantas</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar una planta específica, <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>11</td>
+      <td>7</td>
       <td>US-009</td>
       <td>Inicio de Ciclo de Vida</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> iniciar el ciclo de vida de una planta, <strong>para</strong> registrar sus actividades y cuidados.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>12</td>
+      <td>8</td>
       <td>US-010</td>
       <td>Finalización de Ciclo de Vida</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> finalizar el ciclo de vida de una planta, <strong>para</strong> marcarla como completada y guardar su historial.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>13</td>
+      <td>9</td>
       <td>US-019</td>
       <td>Visualizar mis Plantas en el Jardín</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un resumen de todas las plantas en mi jardín, <strong>para</strong> tener una visión general de su estado y cuidados.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>14</td>
+      <td>10</td>
       <td>US-020</td>
       <td>Visualización Detallada de Planta</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> ver los detalles completos de una planta seleccionada, <strong>para</strong> entender mejor sus necesidades y ciclo de vida.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>15</td>
+      <td>11</td>
       <td>US-013</td>
       <td>Selección de Planes de Usuario</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar entre planes gratuitos y premium, <strong>para</strong> elegir el que mejor se adapte a mis necesidades.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>16</td>
+      <td>12</td>
       <td>US-015</td>
       <td>Acceso a Funcionalidades Premium</td>
       <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a funcionalidades exclusivas, <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>17</td>
+      <td>13</td>
       <td>US-014</td>
       <td>Visualización de Beneficios Premium</td>
       <td><strong>Como</strong> usuario premium, <strong>quiero</strong> ver los beneficios adicionales disponibles, <strong>para</strong> aprovechar al máximo mi suscripción.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>18</td>
+      <td>14</td>
       <td>US-017</td>
       <td>Configuración de Datos Personales</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar mi nombre y correo electrónico, <strong>para</strong> mantener mi perfil al día.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>19</td>
+      <td>15</td>
       <td>US-018</td>
       <td>Visualización de Perfil</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> ver mi perfil con mi nombre, foto y rol, <strong>para</strong> verificar que mi información es correcta.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>20</td>
+      <td>16</td>
       <td>US-021</td>
       <td>Finalización de Actividades</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> marcar una actividad como finalizada, <strong>para</strong> llevar un registro de lo que ya he realizado.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>21</td>
+      <td>17</td>
       <td>US-022</td>
       <td>Actualización de Información de Planta</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> actualizar la información de una planta, <strong>para</strong> reflejar cambios en su estado o cuidados.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>22</td>
+      <td>18</td>
       <td>US-023</td>
       <td>Creación de Etiquetas para Plantas</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> crear etiquetas para mis plantas, <strong>para</strong> identificar fácilmente sus características y necesidades.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>23</td>
+      <td>19</td>
       <td>US-024</td>
       <td>Visualización de Etiquetas</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> ver las etiquetas asociadas a cada planta, <strong>para</strong> identificar fácilmente sus características y cuidados necesarios.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>24</td>
+      <td>20</td>
       <td>US-025</td>
       <td>Eliminación de Etiquetas</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> eliminar etiquetas de mis plantas, <strong>para</strong> mantener mi sistema de etiquetado organizado y relevante.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>25</td>
+      <td>21</td>
       <td>US-026</td>
       <td>Visualización de Notificación de Registro</td>
       <td><strong>Como</strong> usuario, <strong>quiero</strong> visualizar una notificación cuando registro una planta, <strong>para</strong> estar seguro de haber registrado.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>26</td>
+      <td>22</td>
       <td>US-027</td>
       <td>Visualización del Equipo</td>
       <td><strong>Como</strong> visitante, <strong>quiero</strong> poder visualizar la sección de Team, <strong>para</strong> conocer al equipo de desarrolladores detrás de Agricorp.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>27</td>
+      <td>23</td>
       <td>US-028</td>
       <td>Visualización de Testimonios</td>
       <td><strong>Como</strong> visitante, <strong>quiero</strong> poder ver testimonios de usuarios actuales, <strong>para</strong> entender cómo Agricorp ha ayudado a otras personas.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>28</td>
+      <td>24</td>
       <td>US-029</td>
       <td>Visualización de Galería</td>
       <td><strong>Como</strong> visitante, <strong>quiero</strong> ver imágenes de plantas en la sección Gallery, <strong>para</strong> inspirarme y ver ejemplos de lo que puedo lograr con Agricorp.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>29</td>
+      <td>25</td>
       <td>US-030</td>
       <td>Navegación del Encabezado</td>
       <td><strong>Como</strong> visitante, <strong>quiero</strong> poder navegar fácilmente entre las secciones desde el encabezado, <strong>para</strong> acceder a la información de manera rápida.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>30</td>
+      <td>26</td>
       <td>US-031</td>
       <td>Sección de Contacto</td>
       <td><strong>Como</strong> visitante, <strong>quiero</strong> poder contactar al equipo de Agricorp, <strong>para</strong> hacer preguntas o solicitar asistencia.</td>
       <td>3</td>
     </tr>
     <tr>
-      <td>31</td>
+      <td>27</td>
       <td>US-032</td>
       <td>Visualización de Idioma</td>
       <td><strong>Como</strong> visitante, <strong>quiero</strong> poder cambiar el idioma del sitio, <strong>para</strong> navegar en mi idioma preferido.</td>
@@ -2348,17 +2701,96 @@ En este apartado se presenta el diagrama de componentes.
     <img src="src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
-<h3 id="softwareDesign">4.7. Software Object-Oriented Design</h3>
+<h3 id="WebApplicationsPrototyping">4.7. Software Object-Oriented Design
+</h3>
 
-<h4 id="classDiagram">4.7.1. Class Diagrams</h4>
+En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
 
-<h4 id="classDiagram">4.7.2. Class Dictionary</h4>
+<h4>4.7.1. Class Diagrams</h4>
+
+<p align="center">
+
+![Diagrama_Clases](<./src/images/Software Object-Oriented Design.png>)
+</p>
+
+<h4>4.7.2. Class Dictionary</h4>
+A continuación se muestra las entidades mas principales en formato markdown con las clases, atributos y métodos correspondientes:
+
+### Usuario
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| id                  | intenger |
+| name                | string   |
+| Email               | string   |
+| password            | string   |
+| Rol                 | string   |
+| Métodos             | Descripción |
+|---------------------|----------------------------------------|
+| login(username, password) | Verifica las credenciales del usuario. Devuelve true si la autenticación es exitosa. |
+| register(username, password) | Registra un nuevo usuario con el nombre de usuario y la contraseña proporcionados. |
+
+### Perfil
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| nombre              | string   |
+| correo              | string   |
+| ImagenPerfil        | string   |
+| Rol                 | string   |
+| Métodos             | Descripción |
+|---------------------|----------------------------------------|
+| editarNombre()   | Edita el nombre del Perfil |
+| editarcorreo() | Edita el correo |
+| actualizarimagepperfil() | Actualiza la imagen. |
+
+### Home
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| ID                  | int      |
+| ProcesoID           | string   |
+| UsuarioID           | string   |
+
+### Garden
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| Plan_name           | boolean  |
+| Plan_time           | char     |
+| About_plan          | boolean  |
+
+### LifeCycle
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| Plant_Search        | boolean  |
+| Status_activites    | char     |
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| GenerateActivites().     |Genera las Actividades
+| EndCycle()    | Opciòn de terminar el ciclo |
+| StartCycle()  | Opciòn de iniciar el ciclo |
+
+### Settings
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| id               | string   |
+| name         | string   |
+| Email         | string   |
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| AddInformation()      | Añade Informacion                 |
+| SaveInformation()      | Guarda Informaciòn                 |
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
 
-<img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto; text-align: center;"/>`
+<p align="center">
+<img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto;"/>`
+</p>
 
 <h2 href="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
 
@@ -2769,6 +3201,141 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-027</td>
+    <td rowspan="3">Visualización del Equipo</td>
+    <td>UT-01</td>
+    <td>Agregar Miembros del Equipo</td>
+    <td>Se agregaron todos los miembros del equipo</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-02</td>
+    <td>Modificación HTML</td>
+    <td>Modifiqué en un lenguaje nativo, estático</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-03</td>
+    <td>Agregar fotos de los miembros</td>
+    <td>Se agregaron las fotos de los miembros</td>
+    <td>1</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">US-029</td>
+    <td rowspan="4">Sección de Contacto</td>
+    <td>UT-04</td>
+    <td>Agregar el footer "Contact Us"</td>
+    <td>Se agregaron los datos específicos para contactarnos</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-05</td>
+    <td>Agregar formulario de contacto</td>
+    <td>Se implementó el formulario para enviar mensajes de contacto</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td>UT-06</td>
+    <td>Validación de campos del formulario</td>
+    <td>Se añadió validación a los campos del formulario de contacto</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td>UT-07</td>
+    <td>Estilo del formulario</td>
+    <td>Se estilizó el formulario según el diseño aprobado</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>To-Do</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-026</td>
+    <td rowspan="2">Visualización de Testimonios</td>
+    <td>UT-08</td>
+    <td>Visualizar testimonios</td>
+    <td>Se implementó una barra iterativa para mostrar testimonios</td>
+    <td>2</td>
+    <td>Juan Paul Llamccaya Arone</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-09</td>
+    <td>Diseñar la sección de testimonios</td>
+    <td>Se diseñó la sección de testimonios según las directrices</td>
+    <td>2</td>
+    <td>Juan Paul Llamccaya Arone</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-028</td>
+    <td rowspan="2">Visualización de Galería</td>
+    <td>UT-10</td>
+    <td>Visualizar Galería</td>
+    <td>Se muestran las fotos de la galería</td>
+    <td>2</td>
+    <td>Raúl Ronaldo Quispe Erasmo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-11</td>
+    <td>Organización de las fotos</td>
+    <td>Se organizó la disposición de las fotos en la galería</td>
+    <td>3</td>
+    <td>Raúl Ronaldo Quispe Erasmo</td>
+    <td>In-Process</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-032</td>
+    <td rowspan="2">Visualización de Idioma</td>
+    <td>UT-12</td>
+    <td>Visualizar Botón de Idioma</td>
+    <td>Cambiar idioma con el botón</td>
+    <td>2</td>
+    <td>Manuel Alexis Vargas Quispe</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-13</td>
+    <td>Guardar Preferencia de Idioma</td>
+    <td>Se guarda la preferencia de idioma del usuario</td>
+    <td>3</td>
+    <td>Manuel Alexis Vargas Quispe</td>
+    <td>In-Process</td>
+  </tr>
+</table>
+
 <h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
 <table>
@@ -2785,7 +3352,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
     <td align="center">main</td>
     <td align="center"> d9badaf</td>
-    <td align="center"> fix(routing): resolve routing issue in team section</td>
+    <td align="center"> fix(routing): ...</td>
     <td align="center"> fix(routing): resolve routing issue in team section</td>
     <td align="center"> 2024/09/05</td>
   </tr>
@@ -2793,7 +3360,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td align="center">develop</td>
     <td align="center"> 729393f</td>
-    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center"> merge ...</td>
     <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
     <td align="center"> 2024/09/05</td>
   </tr>
@@ -2801,7 +3368,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td align="center">feature/Contact-us-Section</td>
     <td align="center"> 06b8784</td>
-    <td align="center"> feat: add Contact-Us Section</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add Contact-Us Section</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2809,7 +3376,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td align="center">feature/Footer-Section</td>
     <td align="center"> acc2f13</td>
-    <td align="center"> feat: add GreenCare footer section</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add GreenCare footer section</td>
     <td align="center"> 2024/09/05</td>
   </tr>
@@ -2818,7 +3385,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <td align="center">feature/Testimonials-section</td>
     <td align="center"> f5dd711</td>
     <td align="center"> 
-feat: Add Testimonials Section</td>
+feat: ...</td>
     <td align="center"> 
 feat: Add Testimonials Section</td>
     <td align="center"> 2024/09/05</td>
@@ -2827,7 +3394,7 @@ feat: Add Testimonials Section</td>
   <tr>
     <td align="center">feature/gallery-section</td>
     <td align="center"> fb83c21</td>
-    <td align="center"> feat: add 6 images and modifiy index and css</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add 6 images and modifiy index and css</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2835,7 +3402,7 @@ feat: Add Testimonials Section</td>
   <tr>
     <td align="center">feature/home-setcion</td>
     <td align="center"> 42cf53c</td>
-    <td align="center"> feat:add home-setcion</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat:add home-setcion</td>
     <td align="center"> 2024/09/03</td>
   </tr>
@@ -2844,7 +3411,7 @@ feat: Add Testimonials Section</td>
     <td align="center">feature/navbar</td>
     <td align="center"> 85dff78</td>
     <td align="center"> 
-feat:add navbar</td>
+feat: ...</td>
     <td align="center"> 
 feat:add navbar</td>
     <td align="center"> 2024/09/03</td>
@@ -2853,7 +3420,7 @@ feat:add navbar</td>
   <tr>
     <td align="center">feature/plans-section</td>
     <td align="center"> 99cdad7</td>
-    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add plan section with responsive design and Changa typography</td>
     <td align="center"> 2024/09/04</td>
   </tr>
@@ -2861,18 +3428,60 @@ feat:add navbar</td>
   <tr>
     <td align="center">feature/team-section</td>
     <td align="center"> 468787c</td>
-    <td align="center"> feat: add team section with responsive design and Changa typography</td>
+    <td align="center"> feat: ...</td>
     <td align="center"> feat: add team section with responsive design and Changa typography</td>
     <td align="center"> 2024/09/04</td>
   </tr>
-
 </table>
 
 <h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
-En el Sprint 1, se completaron únicamente las características relacionadas con el sitio web estático, llevando a cabo la implementación de los Web Services para adaptar a celulares o distintas dimensiones.
+En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de las <q>features</q> programadas para la construcción del mismo - teniendo como enfoque adicional en hecho que sea adaptativo a las diferentes dimensiones de los dispositivos que cada uno de los usuarios vaya a interactuar -.
 
 <h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
+
+Durante el Sprint 1, se logró un avance notable en la implementación de las principales funcionalidades de la página de inicio del sitio web. El equipo completó satisfactoriamente todas las historias de usuario planificadas, incluyendo la creación de un resumen claro sobre las características y beneficios del sitio, la integración de un acceso destacado a la información detallada de precios, la incorporación de un resumen conciso al final de la página, la adición de un llamado a la acción visible para dirigir a los usuarios hacia la aplicación principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto de fácil acceso en la página. El equipo trabajó de manera colaborativa para asegurar que las características implementadas cumplieran con los requisitos establecidos, mejorando la experiencia del usuario. Capturas de pantalla:
+
+* Hero Section:
+
+<img src="./src/images/Hero-Section-GreenCare.png" alt="GreenCare-Hero-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Membership Plans Section:
+
+<img src="./src/images/Plans-Card-GreenCare.png" alt="GreenCare-Plans-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Developer Team Section:
+
+<img src="./src/images/Team-Section-GreenCare.png" alt="GreenCare-Developer-Team-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Testiomonials Section:
+
+<img src="./src/images/Testimonials-Section-GreenCare.png" alt="GreenCare-Testimonial-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Gallery Section:
+
+<img src="./src/images/Gallery-Section-GreenCare.png" alt="GreenCare-Gallery-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Contact Us Section:
+
+<img src="./src/images/Contact-Us-Section-GreenCare.png" alt="GreenCare-Contact-Us-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Footer Section:
+
+<img src="./src/images/Footer-GreenCare.png" alt="GreenCare-Footer-Section-Landing" style="width:auto; height:120px text-align:center"/>
+
 
 <h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
@@ -2890,9 +3499,368 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 
 <h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
+<p align="center">
+<img src="./src/images/Collaboration_Insights_Sprint1.png" style="width:auto; height: 250px"/>
+</p>
+
+<p align="center">
+<img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:auto; height: 400px"/>
+</p>
+
+
+<h4 href="sprint1">5.2.2. Sprint 2</h4>
+
+En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint 2.
+
+<h4 href="sprintPlanning1">5.2.2.1. Sprint Planning 2</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/09/13</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>14:35 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Google Meet</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Mejorar las cards aplicando conceptos más profundos del desiño UX/UI para esquematizar un software de calidad.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                Implementar el desarrollo de la primera versión del web application, incluyendo su despliegue para que sea visualizado por cualquier persona en cualquier dispositivo.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                17
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 href="sprintBacklog1">5.2.2.2. Sprint Backlog 2</h4>
+
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3"> ??</td>
+    <td rowspan="3"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >???????? </td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ?</td>
+    <td  > ?? ??</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ?</td>
+    <td  > ?? ??</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="4"> ??</td>
+    <td rowspan="4"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+   <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <td rowspan="3"> ??</td>
+    <td rowspan="3"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="1"> ??</td>
+    <td rowspan="1"> ?? ??</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+</table>
+
+<h4 href="developmentEvidenceSprint1">5.2.2.3. Development Evidence for Sprint Review</h4>
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCareApp </td>
+    <td align="center">main</td>
+    <td align="center"> e62b38a7ddf19edeb60c5ae21b2fa0db87c4a9fa</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/09/25</td>
+  </tr>
+  
+  <tr>
+    <td align="center">develop</td>
+    <td align="center"> e62b38a7ddf19edeb60c5ae21b2fa0db87c4a9fa</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/09/25</td>
+  </tr>
+
+  <tr>
+    <td align="center">plant-management</td>
+    <td align="center"> 36859f07556163d328c49e8a45cf53508a13ac17</td>
+    <td align="center"> feat(service): add service</td>
+    <td align="center"> feat(service): add service</td>
+    <td align="center"> 2024/09/25</td>
+  </tr>
+  
+  <tr>
+    <td align="center">public</td>
+    <td align="center"> 16d2a4d75d4f4ae015d59a742944c12cc666aa1f</td>
+    <td align="center"> feat(public): add public components</td>
+    <td align="center"> feat(public): add public components</td>
+    <td align="center"> 2024/09/25</td>
+  </tr>
+
+  <tr>
+    <td align="center">shared</td>
+    <td align="center"> 4c608e03c5d3653e66756310517111bd6bdcdb14</td>
+    <td align="center"> feat(shared): add shared components</td>
+    <td align="center"> feat(shared): add shared components</td>
+    <td align="center"> 2024/09/25</td>
+  </tr>
+</table>
+
+<h4 href="testSuiteEvidenceSprint1">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+
+
+
+<h4 href="executionEvidenceSprint1">5.2.2.5. Execution Evidence for Sprint Review</h4>
+
+Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pantalla de home, garden, life cycle,plans y settings. Link de la aplicación:
+<br>
+
+* Vista de Home de la aplicación:
+<br>
+
+<img src="./src/images/Home_op.jpeg" alt="home" style="width:auto; height:120px text-align:center"/>
+
+* Vista de Garden:
+<br>
+
+<img src="./src/images/Garden.jpeg" alt="garden" style="width:auto; height:120px text-align:center"/>
+
+* Vista de Life Cycle:
+
+<img src="./src/images/Lifecycle.jpeg" alt="lifecycle" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Vista de Plans:
+
+<img src="./src/images/Plans.jpeg"  alt="Plans" style="width:auto; height:120px text-align:center"/>
+<br>
+
+* Vista de Settings:
+
+<img src="./src/images/Settings.jpeg"  alt="Settings" style="width:auto; height:120px text-align:center"/>
+<br>
+
+<h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
+|**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
+|-----|----|----|
+
+<h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+
+|**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
+|-----|----|----|
+
+<h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+
 <h2 id="conclution">CONCLUSIONES</h2>
 
 <h3 id="conclutionAndRecomendation">Conclusiones y recomendaciones</h3>
+
+*TB1*
 
 * La creación de los problem statements y suposiciones mostró una notable correspondencia con el comportamiento de nuestros segmentos objetivo, tanto jardineros o agricultores como personas interesadas en aprender del rubro del cultivo de plantas. Esto fue posible gracias a un análisis detallado previo a las entrevistas, en el que basamos nuestra comprensión en conocimiento, experiencia e investigación. Después de las primeras entrevistas, logramos ajustar nuestras abstracciones para hacerlas más realistas y, al finalizar las entrevistas de validación, confirmamos que las redacciones de los problem statements y assumptions se alineaban completamente con lo previsto.
 
@@ -2901,6 +3869,12 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 * Creemos firmemente que las fases más cruciales en el desarrollo de productos digitales consisten en realizar entrevistas exhaustivas para conocer a nuestros segmentos clave y validar el producto. Además, es esencial incluir todas las actividades relacionadas con el diseño de la aplicación, como la creación de mockups, wireframes, diagramas C4 y diagramas de bases de datos. Estos elementos forman parte central del desarrollo tanto del informe como del proyecto, y son esenciales para la documentación y la implementación.
 
 * Implementar Domain Driven Design en el desarrollo tanto del frontend como del backend nos facilita crear proyectos más escalables, organizados, y resistentes a los cambios. Al gestionar una aplicación con una complejidad considerable, esta metodología permite realizar modificaciones de manera eficiente. Asimismo, facilita la colaboración al permitir que los cambios en el código se manejen de manera más fluida, utilizando herramientas como GitHub para ramas, commits, etc.
+
+*TP*
+
+* Aplicar Domain Driven Design en el desarrollo Frontend y backend permite un proyecto más escalable tolerante al cambio, ordenado y fácil de manejar cuando estamos manipulando una aplicación con ciera complejidad. Asimismo, permite delegar y realizar cambios en el código de manera más fácil en lo que se refiere en el trabajo colaborativo.
+
+* En correspondencia a las respuesta, de lo cual obtuvimos en las entrevistas por parte de nuestros dos segmentos, recomendamos amplicamente que en futuros productos de software nos incluyan la posibilidad de que el usuario seleccione un idioma en especifico para que pueda obtener buenas referencias y pueda ser entendible en cada idioma materno.
 
 <h3 id="teamVideo">Video About-the-Team</h3>
 
@@ -2941,3 +3915,59 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 * <p>Tune, N. (2018). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. <a href="https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578">https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578</a></p>
 
 <h2 id="anexos">ANEXOS</h2>
+
+<table>
+<tr>
+<th colspan="17">LINKS DE TODOS LOS CAPÍTULOS</th>
+</tr>
+<tr>
+<td Cowspan="2">CAPITULOS</td>
+<td>ENLACE</td>
+<td>¿De qué trata?</td>
+</tr>
+<tr>
+<td Rowspan="2">CHAPTER 1</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 2</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 3</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 4</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 5</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+</table>

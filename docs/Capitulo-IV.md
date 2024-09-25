@@ -520,6 +520,91 @@ En este apartado se presenta el diagrama de componentes.
     <img src="../src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
+<h3 id="WebApplicationsPrototyping">4.7. Software Object-Oriented Design
+</h3>
+
+En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
+
+<h4>4.7.1. Class Diagrams</h4>
+
+![Diagrama](<../src/images/Software Object-Oriented Design. (2).png>)
+
+<h4>4.7.2. Class Dictionary</h4>
+A continuación se muestra las entidades mas principales en formato markdown con las clases, atributos y métodos correspondientes:
+
+### Usuario
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| id                  | intenger |
+| name                | string   |
+| Email               | string   |
+| password            | string   |
+| Rol                 | string   |
 
 
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| login(username, password) | Verifica las credenciales del usuario. Devuelve true si la autenticación es exitosa. |
+| register(username, password) | Registra un nuevo usuario con el nombre de usuario y la contraseña proporcionados. |
 
+### Perfil
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| nombre              | string   |
+| correo              | string   |
+| ImagenPerfil        | string   |
+| Rol                 | string   |
+
+
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| editarNombre()   | Edita el nombre del Perfil |
+| editarcorreo() | Edita el correo |
+| actualizarimagepperfil() | Actualiza la imagen. |
+
+### Home
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| ID                  | int      |
+| ProcesoID           | string   |
+| UsuarioID           | string   |
+
+### Garden
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| Plan_name           | boolean  |
+| Plan_time           | char     |
+| About_plan          | boolean  |
+
+
+### LifeCycle
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| Plant_Search        | boolean  |
+| Status_activites    | char     |
+
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| GenerateActivites().     |Genera las Actividades
+| EndCycle()    | Opciòn de terminar el ciclo |
+| StartCycle()  | Opciòn de iniciar el ciclo |
+
+
+### Settings
+
+| Atributos           | Tipos    |
+|---------------------|----------|
+| id               | string   |
+| name         | string   |
+| Email         | string   |
+
+
+| Métodos             | Descripción                            |
+|---------------------|----------------------------------------|
+| AddInformation()      | Añade Informacion                 |
+| SaveInformation()      | Guarda Informaciòn                 |
