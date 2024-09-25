@@ -3446,44 +3446,44 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 
   <tr>
-    <td rowspan="16" align="center"> LINK </td>
+    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCareApp </td>
     <td align="center">main</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center"> e62b38a7ddf19edeb60c5ae21b2fa0db87c4a9fa</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
   
   <tr>
     <td align="center">develop</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center"> e62b38a7ddf19edeb60c5ae21b2fa0db87c4a9fa</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
 
   <tr>
     <td align="center">plant-management</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center"> 36859f07556163d328c49e8a45cf53508a13ac17</td>
+    <td align="center"> feat(service): add service</td>
+    <td align="center"> feat(service): add service</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
   
   <tr>
     <td align="center">public</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center"> 16d2a4d75d4f4ae015d59a742944c12cc666aa1f</td>
+    <td align="center"> feat(public): add public components</td>
+    <td align="center"> feat(public): add public components</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
 
   <tr>
     <td align="center">shared</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center"> 4c608e03c5d3653e66756310517111bd6bdcdb14</td>
+    <td align="center"> feat(shared): add shared components</td>
+    <td align="center"> feat(shared): add shared components</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
 </table>
 
@@ -3524,7 +3524,7 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 <h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
-|**`REPOSITORIO FRONTEND`**|>|[LINK](LINK)|
+|**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
 |-----|----|----|
 
 <h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
