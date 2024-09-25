@@ -3199,173 +3199,138 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
-<table>
+<table border="1" cellpadding="5" cellspacing="0">
   <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td   colspan="7"> <strong>Sprint 1</strong> </td>
-  </tr>
-
-   <tr>
-    <td   colspan="2"> <strong>User Story</strong></td>
-    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
   </tr>
   <tr>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>Description</strong></td>
-    <td  > <strong>Estimation (Hours)</strong></td>
-    <td  > <strong>Assigned To</strong></td>
-    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
   </tr>
   <tr>
-    <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >???????? </td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
+    <td rowspan="3">US-027</td>
+    <td rowspan="3">Visualización del Equipo</td>
+    <td>UT-01</td>
+    <td>Agregar Miembros del Equipo</td>
+    <td>Se agregaron todos los miembros del equipo</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
+    <td>UT-02</td>
+    <td>Modificación HTML</td>
+    <td>Modifiqué en un lenguaje nativo, estático</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="4"> ??</td>
-    <td rowspan="4"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-03</td>
+    <td>Agregar fotos de los miembros</td>
+    <td>Se agregaron las fotos de los miembros</td>
+    <td>1</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="4">US-029</td>
+    <td rowspan="4">Sección de Contacto</td>
+    <td>UT-04</td>
+    <td>Agregar el footer "Contact Us"</td>
+    <td>Se agregaron los datos específicos para contactarnos</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-05</td>
+    <td>Agregar formulario de contacto</td>
+    <td>Se implementó el formulario para enviar mensajes de contacto</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>In-Process</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-06</td>
+    <td>Validación de campos del formulario</td>
+    <td>Se añadió validación a los campos del formulario de contacto</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>To-Do</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-07</td>
+    <td>Estilo del formulario</td>
+    <td>Se estilizó el formulario según el diseño aprobado</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>To-Do</td>
   </tr>
   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="2">US-026</td>
+    <td rowspan="2">Visualización de Testimonios</td>
+    <td>UT-08</td>
+    <td>Visualizar testimonios</td>
+    <td>Se implementó una barra iterativa para mostrar testimonios</td>
+    <td>2</td>
+    <td>Juan Paul Llamccaya Arone</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-09</td>
+    <td>Diseñar la sección de testimonios</td>
+    <td>Se diseñó la sección de testimonios según las directrices</td>
+    <td>2</td>
+    <td>Juan Paul Llamccaya Arone</td>
+    <td>In-Process</td>
   </tr>
   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="2">US-028</td>
+    <td rowspan="2">Visualización de Galería</td>
+    <td>UT-10</td>
+    <td>Visualizar Galería</td>
+    <td>Se muestran las fotos de la galería</td>
+    <td>2</td>
+    <td>Raúl Ronaldo Quispe Erasmo</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-11</td>
+    <td>Organización de las fotos</td>
+    <td>Se organizó la disposición de las fotos en la galería</td>
+    <td>3</td>
+    <td>Raúl Ronaldo Quispe Erasmo</td>
+    <td>In-Process</td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td rowspan="2">US-032</td>
+    <td rowspan="2">Visualización de Idioma</td>
+    <td>UT-12</td>
+    <td>Visualizar Botón de Idioma</td>
+    <td>Cambiar idioma con el botón</td>
+    <td>2</td>
+    <td>Manuel Alexis Vargas Quispe</td>
+    <td>Done</td>
   </tr>
   <tr>
-    <td rowspan="1"> ??</td>
-    <td rowspan="1"> ?? ??</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td>UT-13</td>
+    <td>Guardar Preferencia de Idioma</td>
+    <td>Se guarda la preferencia de idioma del usuario</td>
+    <td>3</td>
+    <td>Manuel Alexis Vargas Quispe</td>
+    <td>In-Process</td>
   </tr>
 </table>
 
@@ -3560,19 +3525,19 @@ En esta sección registramos y explicamos el avance en términos de producto y t
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/??/??</td>
+            <td>2024/09/13</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>??:?? ?M</td>
+            <td>14:35 PM</td>
         </tr>
         <tr>
             <td>Location</td>
-            <td>Meet meeting</td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td>Prepared by</td>
-            <td>?? ??</td>
+            <td>José Diego Huamani Sánchez</td>
         </tr>
         <tr>
             <td>Atendees (to planning meeting)</td>
@@ -3583,13 +3548,13 @@ En esta sección registramos y explicamos el avance en términos de producto y t
         <tr>
             <td>Sprint 2 Review Summary</td>
             <td>
-                ??
+                Mejorar las cards aplicando conceptos más profundos del desiño UX/UI para esquematizar un software de calidad.
             </td>
         </tr>
         <tr>
             <td>Sprint 2 Retrospective Summary</td>
             <td>
-                ??
+                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
             </td>
         </tr>
         <tr>
@@ -3598,19 +3563,19 @@ En esta sección registramos y explicamos el avance en términos de producto y t
         <tr>
             <td>Sprint 2 Goal</td>
             <td>
-                Finalizar y mejorar las interfaces y secciones del Frontend.
+                Implementar el desarrollo de la primera versión del web application, incluyendo su despliegue para que sea visualizado por cualquier persona en cualquier dispositivo.
             </td>
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
             <td>
-                ??
+                17
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                ??
+                15
             </td>
         </tr>
     </tbody>
@@ -3801,84 +3766,44 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 
   <tr>
-    <td rowspan="16" align="center"> LINK </td>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCareApp </td>
+    <td align="center">main</td>
+    <td align="center"> e62b38a7ddf19edeb60c5ae21b2fa0db87c4a9fa</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
   
   <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center">develop</td>
+    <td align="center"> e62b38a7ddf19edeb60c5ae21b2fa0db87c4a9fa</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
 
   <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center">plant-management</td>
+    <td align="center"> 36859f07556163d328c49e8a45cf53508a13ac17</td>
+    <td align="center"> feat(service): add service</td>
+    <td align="center"> feat(service): add service</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
   
   <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center">public</td>
+    <td align="center"> 16d2a4d75d4f4ae015d59a742944c12cc666aa1f</td>
+    <td align="center"> feat(public): add public components</td>
+    <td align="center"> feat(public): add public components</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
 
   <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
+    <td align="center">shared</td>
+    <td align="center"> 4c608e03c5d3653e66756310517111bd6bdcdb14</td>
+    <td align="center"> feat(shared): add shared components</td>
+    <td align="center"> feat(shared): add shared components</td>
+    <td align="center"> 2024/09/25</td>
   </tr>
 </table>
 
@@ -3919,7 +3844,7 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 <h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
-|**`REPOSITORIO FRONTEND`**|>|[LINK](LINK)|
+|**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
 |-----|----|----|
 
 <h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
@@ -3933,6 +3858,8 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 <h3 id="conclutionAndRecomendation">Conclusiones y recomendaciones</h3>
 
+*TB1*
+
 * La creación de los problem statements y suposiciones mostró una notable correspondencia con el comportamiento de nuestros segmentos objetivo, tanto jardineros o agricultores como personas interesadas en aprender del rubro del cultivo de plantas. Esto fue posible gracias a un análisis detallado previo a las entrevistas, en el que basamos nuestra comprensión en conocimiento, experiencia e investigación. Después de las primeras entrevistas, logramos ajustar nuestras abstracciones para hacerlas más realistas y, al finalizar las entrevistas de validación, confirmamos que las redacciones de los problem statements y assumptions se alineaban completamente con lo previsto.
 
 * Los hypothesis statements, desarrollados en conjunto con los criterios de éxito del proceso Lean UX, reflejaron en gran medida la realidad durante las entrevistas de validación. Sin embargo, un desafío recurrente fue que algunos de estos statements eran demasiado específicos, lo que dificultaba su validación. En algunos casos, estas preguntas específicas parecían influir en las respuestas de los entrevistados sobre aspectos que no recordaban o desconocían. Para mejorar, sugerimos que en futuras investigaciones se elaboren hypothesis statements más centrados en cómo interactúan los usuarios con la aplicación, en lugar de centrarse tanto en características específicas.
@@ -3940,6 +3867,12 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 * Creemos firmemente que las fases más cruciales en el desarrollo de productos digitales consisten en realizar entrevistas exhaustivas para conocer a nuestros segmentos clave y validar el producto. Además, es esencial incluir todas las actividades relacionadas con el diseño de la aplicación, como la creación de mockups, wireframes, diagramas C4 y diagramas de bases de datos. Estos elementos forman parte central del desarrollo tanto del informe como del proyecto, y son esenciales para la documentación y la implementación.
 
 * Implementar Domain Driven Design en el desarrollo tanto del frontend como del backend nos facilita crear proyectos más escalables, organizados, y resistentes a los cambios. Al gestionar una aplicación con una complejidad considerable, esta metodología permite realizar modificaciones de manera eficiente. Asimismo, facilita la colaboración al permitir que los cambios en el código se manejen de manera más fluida, utilizando herramientas como GitHub para ramas, commits, etc.
+
+*TP*
+
+* Aplicar Domain Driven Design en el desarrollo Frontend y backend permite un proyecto más escalable tolerante al cambio, ordenado y fácil de manejar cuando estamos manipulando una aplicación con ciera complejidad. Asimismo, permite delegar y realizar cambios en el código de manera más fácil en lo que se refiere en el trabajo colaborativo.
+
+* En correspondencia a las respuesta, de lo cual obtuvimos en las entrevistas por parte de nuestros dos segmentos, recomendamos amplicamente que en futuros productos de software nos incluyan la posibilidad de que el usuario seleccione un idioma en especifico para que pueda obtener buenas referencias y pueda ser entendible en cada idioma materno.
 
 <h3 id="teamVideo">Video About-the-Team</h3>
 
