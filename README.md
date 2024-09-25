@@ -827,7 +827,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>00:00 minutos hasta 10:44 minutos.</li>
         </ul>
     </li>
@@ -850,7 +850,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_luis.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>10:45 minutos hasta 14:01 minutos.</li>
         </ul>
     </li>
@@ -873,7 +873,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>14:02 minutos hasta 16:59 minutos.</li>
         </ul>
     </li>
@@ -896,7 +896,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>17:00 minutos hasta 21:09 minutos.</li>
         </ul>
     </li>
@@ -919,7 +919,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>21:10 minutos hasta 25:02 minutos.</li>
         </ul>
     </li>
@@ -942,7 +942,7 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
     <li><strong>Registro en Video:</strong> 
         <ul>
             <img src="src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee">https://upcedupe-my.sharepoint.com/personal/u202113256_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202113256%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2Fupc%2Dpre%2D202402%2Dsi729%2Dsv54%2DAgriCorp%2Dneedfinding%2Dsprint%2D1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E911637ae%2D9c5a%2D4f50%2D98d3%2Dcada9a0112ee</a>
+            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
             <li>25:03 minutos hasta 32:46 minutos.</li>
         </ul>
     </li>
@@ -976,11 +976,11 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
 |**`Giovanni Ramos`**|
 |Giovani es un entusiasta de los huertos caseros, influenciado por sus padres, aunque aún es inexperto en agricultura. Encuentra difícil labrar la tierra y considera tedioso buscar información en línea sobre cómo hacer germinar plantas específicas, lo que consume mucho de su tiempo. Desea una aplicación que le facilite la gestión de sus plantas, brindándole información concisa sobre cada tipo de planta y nuevas técnicas para optimizar la creación de huertos. Su interés se centra en soluciones prácticas y accesibles que mejoren su experiencia en la agricultura casera.|
 
-<h3 id="needfinding">2.3. Needfinding<h4>
+<h3 id="needfinding">2.3. Needfinding</h3>
 
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
 
-<h4 id="userPersonas">2.3.1. User Personas<h4>
+<h4 id="userPersonas">2.3.1. User Personas</h4>
 
 Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UxPressia.
 
@@ -992,7 +992,7 @@ Esta sección del informe presenta perfiles ficticios basados en grupos de inter
 |---|
 |<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana" style="width:100%">|
 
-<h4 id="userTaskMatrix">2.3.2. User Task Matrix<h4>
+<h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
 En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos grupos y hemos analizado la importancia de cada una de estas actividades para cada grupo:
 
@@ -1078,7 +1078,7 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
     </tbody>
 </table>
 
-<h4 id="userJourneyMapping">2.3.3. User Journey Mapping<h4>
+<h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
 
 En esta sección, se detallan los mapas de viaje del usuario para cada persona del usuario, personas interesadas en agricultura y persona con experiencia en cuidado de plantas.
 
@@ -2368,7 +2368,7 @@ A continuación se muestra las entidades mas principales en formato markdown con
 | Email               | string   |
 | password            | string   |
 | Rol                 | string   |
-| Métodos             | Descripción                            |
+| Métodos             | Descripción |
 |---------------------|----------------------------------------|
 | login(username, password) | Verifica las credenciales del usuario. Devuelve true si la autenticación es exitosa. |
 | register(username, password) | Registra un nuevo usuario con el nombre de usuario y la contraseña proporcionados. |
@@ -2381,7 +2381,7 @@ A continuación se muestra las entidades mas principales en formato markdown con
 | correo              | string   |
 | ImagenPerfil        | string   |
 | Rol                 | string   |
-| Métodos             | Descripción                            |
+| Métodos             | Descripción |
 |---------------------|----------------------------------------|
 | editarNombre()   | Edita el nombre del Perfil |
 | editarcorreo() | Edita el correo |
