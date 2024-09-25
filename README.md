@@ -3059,3 +3059,59 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 * <p>Tune, N. (2018). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. <a href="https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578">https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578</a></p>
 
 <h2 id="anexos">ANEXOS</h2>
+
+<table>
+<tr>
+<th colspan="17">LINKS DE TODOS LOS CAPÍTULOS</th>
+</tr>
+<tr>
+<td Cowspan="2">CAPITULOS</td>
+<td>ENLACE</td>
+<td>¿De qué trata?</td>
+</tr>
+<tr>
+<td Rowspan="2">CHAPTER 1</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 2</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 3</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 4</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td Rowspan="2">Chapter 5</td>
+<td>http1</td>
+<td>se trata de...</td>
+</tr>
+<tr>
+<td>http2</td>
+<td>se trata de...</td>
+</tr>
+</table>
