@@ -3205,19 +3205,19 @@ En esta sección registramos y explicamos el avance en términos de producto y t
         </tr>
         <tr>
             <td>Date</td>
-            <td>2024/??/??</td>
+            <td>2024/09/13</td>
         </tr>
         <tr>
             <td>Time</td>
-            <td>??:?? ?M</td>
+            <td>14:35 PM</td>
         </tr>
         <tr>
             <td>Location</td>
-            <td>Meet meeting</td>
+            <td>Google Meet</td>
         </tr>
         <tr>
             <td>Prepared by</td>
-            <td>?? ??</td>
+            <td>José Diego Huamani Sánchez</td>
         </tr>
         <tr>
             <td>Atendees (to planning meeting)</td>
@@ -3228,13 +3228,13 @@ En esta sección registramos y explicamos el avance en términos de producto y t
         <tr>
             <td>Sprint 2 Review Summary</td>
             <td>
-                ??
+                Mejorar las cards aplicando conceptos más profundos del desiño UX/UI para esquematizar un software de calidad.
             </td>
         </tr>
         <tr>
             <td>Sprint 2 Retrospective Summary</td>
             <td>
-                ??
+                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
             </td>
         </tr>
         <tr>
@@ -3243,19 +3243,19 @@ En esta sección registramos y explicamos el avance en términos de producto y t
         <tr>
             <td>Sprint 2 Goal</td>
             <td>
-                Finalizar y mejorar las interfaces y secciones del Frontend.
+                Implementar el desarrollo de la primera versión del web application, incluyendo su despliegue para que sea visualizado por cualquier persona en cualquier dispositivo.
             </td>
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
             <td>
-                ??
+                17
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                ??
+                15
             </td>
         </tr>
     </tbody>
@@ -3447,7 +3447,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
   <tr>
     <td rowspan="16" align="center"> LINK </td>
-    <td align="center">??</td>
+    <td align="center">main</td>
     <td align="center"> ????</td>
     <td align="center"> ...</td>
     <td align="center"> ...</td>
@@ -3455,7 +3455,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
   
   <tr>
-    <td align="center">??</td>
+    <td align="center">develop</td>
     <td align="center"> ????</td>
     <td align="center"> ...</td>
     <td align="center"> ...</td>
@@ -3463,7 +3463,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 
   <tr>
-    <td align="center">??</td>
+    <td align="center">plant-management</td>
     <td align="center"> ????</td>
     <td align="center"> ...</td>
     <td align="center"> ...</td>
@@ -3471,7 +3471,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
   
   <tr>
-    <td align="center">??</td>
+    <td align="center">public</td>
     <td align="center"> ????</td>
     <td align="center"> ...</td>
     <td align="center"> ...</td>
@@ -3479,47 +3479,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 
   <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
-    <td align="center"> ????</td>
-    <td align="center"> ...</td>
-    <td align="center"> ...</td>
-    <td align="center"> 2024/??/??</td>
-  </tr>
-
-  <tr>
-    <td align="center">??</td>
+    <td align="center">shared</td>
     <td align="center"> ????</td>
     <td align="center"> ...</td>
     <td align="center"> ...</td>
