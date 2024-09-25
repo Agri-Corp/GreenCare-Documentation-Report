@@ -292,7 +292,15 @@
         </td>
         <td>
             <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
-            Al momento de indagar información acerca de la importancia de las áreas verdes en nuestro hogares, expandió mi concepto en cómo se puede llevar a cabo una aplicación que brinde orientación y gestión al cuidado de las plantas. Ligando con los labores que realicé, me permitió elaborar la misión y visión del proyecto, elaborar el Lean UX Process, tener la capacidad analítica de pensar acerca de que datos se alojarán (implementación del diagram de Base Datos).
+            Al momento de indagar información acerca de la importancia de las áreas verdes en nuestro hogares, expandió mi concepto en cómo se puede llevar a cabo una aplicación que brinde orientación y gestión al cuidado de las plantas. Ligando con los labores que realicé, me permitió elaborar la misión y visión del proyecto, elaborar el Lean UX Process, tener la capacidad analítica de pensar acerca de que datos se alojarán (implementación del diagram de Base Datos).<br>
+            <strong>Llamccaya Arone, Juan Paul<br>TB1:<br></strong>
+            Al investigar sobre la relevancia de los espacios verdes en nuestros hogares, amplié mi perspectiva sobre cómo podría desarrollarse una aplicación que ofrezca asesoramiento y gestión para el cuidado de las plantas. Esto me ayudó a definir la misión y visión del proyecto, basándome en las tareas que llevé a cabo.<br>
+            <strong>Vargas Quispe, Manuel Alexis<br>TB1:<br></strong>
+            Al explorar la importancia de las áreas verdes en nuestros hogares, amplié mi comprensión sobre la posibilidad de crear una aplicación que brinde apoyo y gestión en el cuidado de las plantas. Esta experiencia me facilitó la formulación de la misión y visión del proyecto.<br>
+            <strong>Lagos Aguilar, Luis Eduardo<br>TB1:<br></strong>
+            Al buscar información sobre el valor de los espacios verdes en casa, mi concepto se amplió al considerar la creación de una aplicación que ofrezca guía y gestión para el cuidado de las plantas. Esto se conectó con las actividades que realicé, lo que me permitió desarrollar la misión y visión del proyecto.<br>
+            <strong>Quispe Erasmo, Raul Ronaldo<br>TB1:<br></strong>
+            Durante mi investigación sobre la importancia de las áreas verdes en los hogares, amplié mi visión sobre cómo podría implementarse una aplicación que brinde orientación y gestión para cuidar plantas. Esto, a su vez, me ayudó a definir la misión y visión del proyecto, en relación con las tareas que había realizado.
         </td>
         <td>
             TB1: <br>
@@ -303,13 +311,19 @@
     </tr>
     <tr>
         <td>
-            Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes
-            especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en
-            ingeniería.
+            Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.
         </td>
         <td>
         <strong>Huamani Sánchez, José Diego<br>TB1:<br></strong>
-        Realicé entrevistas al segmento de jardineros que, en sí, ya cuentan con cierta experiencia en el rubro; por lo que, dicha información brindada, me sirvió para alinear al equipo en el desarrollo del Product Backlog del Proyecto así como definir de manera más clara el propósito general que nuestro se enfocará. 
+        Realicé entrevistas al segmento de jardineros que, en sí, ya cuentan con cierta experiencia en el rubro; por lo que, dicha información brindada, me sirvió para alinear al equipo en el desarrollo del Product Backlog del Proyecto así como definir de manera más clara el propósito general que nuestro se enfocará.<br>
+        <strong>Llamccaya Arone, Juan Paul<br>TB1:<br></strong>
+        Entrevisté a un jardinero con experiencia, y la información que me proporcionó fue fundamental para alinear al equipo en el desarrollo del Product Backlog del proyecto y para clarificar el propósito general que perseguimos.<br>
+        <strong>Vargas Quispe, Manuel Alexis<br>TB1:<br></strong>
+        Realicé una entrevista a un jardinero que no tiene mucha experiencia, y lo que compartió me ayudó a entender mejor sus necesidades. Esto fue clave para alinear al equipo en el desarrollo del Product Backlog y establecer el propósito general del proyecto.<br>
+        <strong>Lagos Aguilar, Luis Eduardo<br>TB1:<br></strong>
+        Hice una entrevista con un jardinero inexperto, y sus opiniones me brindaron una nueva visión. Esta retroalimentación fue crucial para alinear al equipo en la elaboración del Product Backlog y definir con claridad el enfoque general que queremos seguir.<br>
+        <strong>Quispe Erasmo, Raul Ronaldo<br>TB1:<br></strong>
+        Conversé con un jardinero inexperto, y sus comentarios me ofrecieron una perspectiva valiosa. Esta información fue útil para alinear al equipo en la creación del Product Backlog y definir de manera más clara el objetivo general de nuestro proyecto.
         </td>
         <td>
             TB1: <br>
