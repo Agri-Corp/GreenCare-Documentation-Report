@@ -3533,8 +3533,31 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="executionEvidenceSprint1">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
+Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pantalla de home, garden, life cycle,plans y settings. Link de la aplicación:
+<br>
 
+* Vista de Home de la aplicación:
+<br>
+<img src="./src/images/.png" alt="" style="width:auto; height:120px text-align:center"/>
 
+* Vista de Garden:
+<br>
+
+* Vista de Life Cycle:
+
+<img src="./src/images/Lifecycle.jpeg" alt="lifecycle" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+* Vista de Plans:
+
+<img src="./src/images/Plans.jpeg"  alt="Plans" style="width:auto; height:120px text-align:center"/>
+<br>
+
+* Vista de Settings:
+
+<img src="./src/images/Settings.jpeg"  alt="Settings" style="width:auto; height:120px text-align:center"/>
+<br>
 
 <h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
