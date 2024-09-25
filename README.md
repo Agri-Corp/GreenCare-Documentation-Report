@@ -2844,6 +2844,176 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 1</strong> </td>
+  </tr>
+
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3"> ??</td>
+    <td rowspan="3"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >???????? </td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ?</td>
+    <td  > ?? ??</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ?</td>
+    <td  > ?? ??</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="4"> ??</td>
+    <td rowspan="4"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+   <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <td rowspan="3"> ??</td>
+    <td rowspan="3"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="1"> ??</td>
+    <td rowspan="1"> ?? ??</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+</table>
+
 <h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
 <table>
@@ -2940,7 +3110,6 @@ feat:add navbar</td>
     <td align="center"> feat: add team section with responsive design and Changa typography</td>
     <td align="center"> 2024/09/04</td>
   </tr>
-
 </table>
 
 <h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
@@ -3019,16 +3188,344 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 
 <h4 href="sprint1">5.2.2. Sprint 2</h4>
 
-
+En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint 2.
 
 <h4 href="sprintPlanning1">5.2.2.1. Sprint Planning 2</h4>
 
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/??/??</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>??:?? ?M</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Meet meeting</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>?? ??</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                ??
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                ??
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Goal</td>
+            <td>
+                Finalizar y mejorar las interfaces y secciones del Frontend.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                ??
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                ??
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 href="sprintBacklog1">5.2.2.2. Sprint Backlog 2</h4>
 
+<table>
+  <tr>
+    <td> <strong>Sprint #</strong></td>
+    <td   colspan="7"> <strong>Sprint 2</strong> </td>
+  </tr>
+
+   <tr>
+    <td   colspan="2"> <strong>User Story</strong></td>
+    <td   colspan="6"> <strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>ID</strong> </td>
+    <td  > <strong>Title</strong></td>
+    <td  > <strong>Description</strong></td>
+    <td  > <strong>Estimation (Hours)</strong></td>
+    <td  > <strong>Assigned To</strong></td>
+    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3"> ??</td>
+    <td rowspan="3"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >???????? </td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ?</td>
+    <td  > ?? ??</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ?</td>
+    <td  > ?? ??</td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="4"> ??</td>
+    <td rowspan="4"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  >????????</td>
+    <td  >? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+   <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="2"> ??</td>
+    <td rowspan="2"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <td rowspan="3"> ??</td>
+    <td rowspan="3"> ??????</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+  <tr>
+    <td rowspan="1"> ??</td>
+    <td rowspan="1"> ?? ??</td>
+    <td  > ??</td>
+    <td  > ?? ??</td>
+    <td  > ????????</td>
+    <td  > ? </td>
+    <td  > ?? ?? </td>
+    <td  > Done </td>
+  </tr>
+</table>
+
 <h4 href="developmentEvidenceSprint1">5.2.2.3. Development Evidence for Sprint Review</h4>
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
 
+  <tr>
+    <td rowspan="16" align="center"> LINK </td>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+  
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+  
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+
+  <tr>
+    <td align="center">??</td>
+    <td align="center"> ????</td>
+    <td align="center"> ...</td>
+    <td align="center"> ...</td>
+    <td align="center"> 2024/??/??</td>
+  </tr>
+</table>
 
 <h4 href="testSuiteEvidenceSprint1">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
 
@@ -3041,11 +3538,13 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 
 <h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
-
+|**`REPOSITORIO FRONTEND`**|>|[LINK](LINK)|
+|-----|----|----|
 
 <h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
 
-
+|**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
+|-----|----|----|
 
 <h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
 
