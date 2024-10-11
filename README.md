@@ -110,165 +110,183 @@
 
 ## Contenido
 
-<a href="">CAPÍTULO 1: INTRODUCCIÓN</a>
+<a href="#introduction">CAPÍTULO 1: INTRODUCCIÓN</a>
 
-<a href="">1.1. Startup Profile</a>
+<a href="#startupProfile">1.1. Startup Profile</a>
 
-&nbsp; &nbsp;<a href="">1.1.1. Descripción de la Startup</a>
+&nbsp; &nbsp;<a href="#descriptionStartup">1.1.1. Descripción de la Startup</a>
 
-&nbsp; &nbsp;<a href="">1.1.2. Perfiles de Integrantes del equipo</a>
+&nbsp; &nbsp;<a href="#teamProfile">1.1.2. Perfiles de Integrantes del equipo</a>
 
-<a href="">1.2. Solution Profile</a>
+<a href="#solutionProfile">1.2. Solution Profile</a>
 
-&nbsp; &nbsp;<a href="">1.2.1. Antecedentes y problemática</a>
+&nbsp; &nbsp;<a href="#Antecedents">1.2.1. Antecedentes y problemática</a>
 
-&nbsp; &nbsp;<a href="">1.2.2. Lean UX Process</a>
+&nbsp; &nbsp;<a href="#leanUXProcess">1.2.2. Lean UX Process</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.1. Lean UX Problem Statement</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#problemStatement">1.2.2.1. Lean UX Problem Statement</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.2. Lean UX Assumptions</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#assumptions">1.2.2.2. Lean UX Assumptions</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.3. Lean UX Hypothesis Statements</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.4. Lean UX Canvas</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="UXCanvas">1.2.2.4. Lean UX Canvas</a>
 
-<a href="">1.3. Segmentos objetivos</a>
+<a href="objectiveSegment">1.3. Segmentos objetivos</a>
 
-<a href="">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</a>
+<a href="#requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</a>
 
-<a href="">2.1. Competidores</a>
+<a href="#competitors">2.1. Competidores</a>
 
-&nbsp; &nbsp;<a href="">2.1.1. Análisis Competitivo</a>
+&nbsp; &nbsp;<a href="#competitiveAnalysis">2.1.1. Análisis Competitivo</a>
 
-&nbsp; &nbsp;<a href="">2.1.2. Estrategias y tácticas frente a competidores</a>
+&nbsp; &nbsp;<a href="#competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</a>
 
-<a href="">2.2. Entrevistas</a>
+<a href="#interviews">2.2. Entrevistas</a>
 
-&nbsp; &nbsp;<a href="">2.2.1. Diseño de enetrevistas</a>
+&nbsp; &nbsp;<a href="#interviewDesign">2.2.1. Diseño de enetrevistas</a>
 
-&nbsp; &nbsp;<a href="">2.2.2. Registro de entrevistas</a>
+&nbsp; &nbsp;<a href="#registerInterview">2.2.2. Registro de entrevistas</a>
 
-&nbsp; &nbsp;<a href="">2.2.3. Análisis de entrevistas</a>
+&nbsp; &nbsp;<a href="#analysisInterview">2.2.3. Análisis de entrevistas</a>
 
-<a href="">2.3. Needfinding</a>
+<a href="#needfinding">2.3. Needfinding</a>
 
-&nbsp; &nbsp;<a href="">2.3.1. User Personas</a>
+&nbsp; &nbsp;<a href="#userPersonas">2.3.1. User Personas</a>
 
-&nbsp; &nbsp;<a href="">2.3.2. User Task Matrix</a>
+&nbsp; &nbsp;<a href="#userTaskMatrix">2.3.2. User Task Matrix</a>
 
-&nbsp; &nbsp;<a href="">2.3.3. User Journey Mapping</a>
+&nbsp; &nbsp;<a href="#userJourneyMapping">2.3.3. User Journey Mapping</a>
 
-&nbsp; &nbsp;<a href="">2.3.4. Empathy Mapping</a>
+&nbsp; &nbsp;<a href="#empathyMap">2.3.4. Empathy Mapping</a>
 
-&nbsp; &nbsp;<a href="">2.3.5. As-is Scenario Mapping</a>
+&nbsp; &nbsp;<a href="asIsScenario">2.3.5. As-is Scenario Mapping</a>
 
-<a href="">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</a>
+<a href="#requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</a>
 
-<a href="">3.1. To-Be Scenario Mapping</a>
+<a href="#toBeScenario">3.1. To-Be Scenario Mapping</a>
 
-<a href="">3.2. User Stories</a>
+<a href="#userStories">3.2. User Stories</a>
 
-<a href="">3.3. Impact Mapping</a>
+<a href="#impactMapping">3.3. Impact Mapping</a>
 
-<a href="">3.4. Product Backlog</a>
+<a href="#productBacklog">3.4. Product Backlog</a>
 
-<a href="">CAPÍTULO 4: PRODUCT DESIGN</a>
+<a href="#productDesign">CAPÍTULO 4: PRODUCT DESIGN</a>
 
-<a href="">4.1. Style Guidelines</a>
+<a href="#styleGuidelines">4.1. Style Guidelines</a>
 
-&nbsp; &nbsp;<a href="">4.1.1. General Style Guidelines</a>
+&nbsp; &nbsp;<a href="#generalStyleGuidelines">4.1.1. General Style Guidelines</a>
 
-&nbsp; &nbsp;<a href="">4.1.2. Web Style Guidelines</a>
+&nbsp; &nbsp;<a href="#webStyleGuidelines">4.1.2. Web Style Guidelines</a>
 
-<a href="">4.2. Information Architecture</a>
+<a href="#infoArchitecture">4.2. Information Architecture</a>
 
-&nbsp; &nbsp;<a href="">4.2.1. Organization Systems</a>
+&nbsp; &nbsp;<a href="#orgSystem">4.2.1. Organization Systems</a>
 
-&nbsp; &nbsp;<a href="">4.2.2. Labeling Systems</a>
+&nbsp; &nbsp;<a href="#labelSystem">4.2.2. Labeling Systems</a>
 
-&nbsp; &nbsp;<a href="">4.2.3. SEO Tags and Meta Tags</a>
+&nbsp; &nbsp;<a href="#seoTags">4.2.3. SEO Tags and Meta Tags</a>
 
-&nbsp; &nbsp;<a href="">4.2.4. Searching Systems</a>
+&nbsp; &nbsp;<a href="#searchSystem">4.2.4. Searching Systems</a>
 
-&nbsp; &nbsp;<a href="">4.2.5. Navigation System</a>
+&nbsp; &nbsp;<a href="#navigationSystem">4.2.5. Navigation System</a>
 
-<a href="">4.3. Landing Page UI Design</a>
+<a href="#landingDesign">4.3. Landing Page UI Design</a>
 
-&nbsp; &nbsp;<a href="">4.3.1. Landing Page Wireframe</a>
+&nbsp; &nbsp;<a href="#landingWireframe">4.3.1. Landing Page Wireframe</a>
 
-&nbsp; &nbsp;<a href="">4.3.2. Landing Page Mock-up</a>
+&nbsp; &nbsp;<a href="#landingMockUp">4.3.2. Landing Page Mock-up</a>
 
-<a href="">4.4. Web Applications UX/UI Design</a>
+<a href="#webAppDesign">4.4. Web Applications UX/UI Design</a>
 
-&nbsp; &nbsp;<a href="">4.4.1. Web Applications Wireframes</a>
+&nbsp; &nbsp;<a href="#webAppWireframes">4.4.1. Web Applications Wireframes</a>
 
-&nbsp; &nbsp;<a href="">4.4.2. Web Applications Wireflow Diagrams</a>
+&nbsp; &nbsp;<a href="#webAppWireflow">4.4.2. Web Applications Wireflow Diagrams</a>
 
-&nbsp; &nbsp;<a href="">4.4.3. Web Applications Mock-ups</a>
+&nbsp; &nbsp;<a href="#webAppMockups">4.4.3. Web Applications Mock-ups</a>
 
-&nbsp; &nbsp;<a href="">4.4.4. Web Applications User Flow Diagrams</a>
+&nbsp; &nbsp;<a href="#webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</a>
 
-<a href="">4.5. Web Applications Prototyping</a>
+<a href="#webAppPrototyping">4.5. Web Applications Prototyping</a>
 
-<a href="">4.6. Domain-Driven Software Architecture</a>
+<a href="#DDD">4.6. Domain-Driven Software Architecture</a>
 
-&nbsp; &nbsp;<a href="">4.6.1. Software Architecture Context Diagrams</a>
+&nbsp; &nbsp;<a href="#contextDiagram">4.6.1. Software Architecture Context Diagrams</a>
 
-&nbsp; &nbsp;<a href="">4.6.2. Software Architecture Container Diagrams</a>
+&nbsp; &nbsp;<a href="#containerDiagram">4.6.2. Software Architecture Container Diagrams</a>
 
-&nbsp; &nbsp;<a href="">4.6.3. Software Architecture Components Diagrams</a>
+&nbsp; &nbsp;<a href="#componentDiagram">4.6.3. Software Architecture Components Diagrams</a>
 
-<a href="">4.7. Software Object-Oriented Design</a>
+<a href="#softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</a>
 
-&nbsp; &nbsp;<a href="">4.7.1. Class Diagrams</a>
+&nbsp; &nbsp;<a href="#classDiagram">4.7.1. Class Diagrams</a>
 
 &nbsp; &nbsp;<a href="">4.7.2. Class Dictionary</a>
 
-<a href="">4.8. Database Design</a>
+<a href="#dbDesign">4.8. Database Design</a>
 
-&nbsp; &nbsp;<a href="">4.8.1. Database Diagram</a>
+&nbsp; &nbsp;<a href="#dbDiagram">4.8.1. Database Diagram</a>
 
-<a href="">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</a>
+<a href="#productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</a>
 
-<a href="">5.1. Software Configuration Management</a>
+<a href="#softwareConfig">5.1. Software Configuration Management</a>
 
-&nbsp; &nbsp;<a href="">5.1.1. Software Development Environment Configuration</a>
+&nbsp; &nbsp;<a href="#softwareDevelopment">5.1.1. Software Development Environment Configuration</a>
 
-&nbsp; &nbsp;<a href="">5.1.2. Source Code Management</a>
+&nbsp; &nbsp;<a href="#sourceCodeManagement">5.1.2. Source Code Management</a>
 
-&nbsp; &nbsp;<a href="">5.1.3. Source Code Style Guide & Conventions</a>
+&nbsp; &nbsp;<a href="#sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</a>
 
-&nbsp; &nbsp;<a href="">5.1.4. Software Deployment Configuration</a>
+&nbsp; &nbsp;<a href="#softwareDeploymentConfig">5.1.4. Software Deployment Configuration</a>
 
-<a href="">5.2. Landing Page, Services & Applications Implementation</a>
+<a href="#landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</a>
 
-&nbsp; &nbsp;<a href="">5.2.1. Sprint 1</a>
+&nbsp; &nbsp;<a href="#sprint1">5.2.1. Sprint 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.1. Sprint Planning 1</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning1">5.2.1.1. Sprint Planning 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.2. Sprint Backlog 1</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog1">5.2.1.2. Sprint Backlog 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.3. Development Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.4. Testing Suite Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.5. Execution Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.6. Services Documentation Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.7. Software Deployment Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.8. Team Collaboration Insights during Sprint</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</a>
 
-<a href="">CONCLUSIONES</a>
+&nbsp; &nbsp;<a href="#sprint2">5.2.1. Sprint 2</a>
 
-<a href="">Conclusiones y recomendaciones</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning2">5.2.2.1. Sprint Planning 1</a>
 
-<a href="">Video About-the-Team</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog2">5.2.2.2. Sprint Backlog 1</a>
 
-<a href="">BIBLIOGRAFÍA</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</a>
 
-<a href="">ANEXOS</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</a>
+
+<a href="conclution">CONCLUSIONES</a>
+
+<a href="#conclutionAndRecomendation">Conclusiones y recomendaciones</a>
+
+<a href="#teamVideo">Video About-the-Team</a>
+
+<a href="#bibliography">BIBLIOGRAFÍA</a>
+
+<a href="#anexos">ANEXOS</a>
 
 ## Student Outcome
 
@@ -1144,7 +1162,10 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
     <tr>
       <td>EPIC-001</td>
       <td>Autenticación de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder autenticar mis credenciales, <strong>para</strong> acceder a la aplicación y gestionar mis plantas.</td>
+      <td>
+        <strong>Como</strong> usuario,
+        <strong>Quiero</strong> poder autenticar mis credenciales,
+        <strong>´Para</strong> acceder a la aplicación y gestionar mis plantas.</td>
       <td>N/A</td>
       <td>N/A</td>
     </tr>
@@ -1289,130 +1310,123 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 <table>
     <thead>
         <tr>
-            <th>Epic / Story ID</th>
-            <th>Título </th>
-            <th>Descripción</th>
-            <th>Criterios de Aceptación</th>
-            <th>Relacionado con (Epic ID)</th>
+            <th style="text-align:center">Epic / Story ID</th>
+            <th style="text-align:center">Título</th>
+            <th style="text-align: center">Descripción</th>
+            <th style="text-align: center">Criterios de Aceptación</th>
+            <th style="text-align: center">Relacionado con (Epic ID)</th>
         </tr>
     </thead>
-    <body  >
-        <tr style="text-align:center">
-            <td>US-001</td>
-            <td>Registro de Usuario</td>
-            <!-- Descripción -->
+    <tbody>
+        <tr>
+            <td style="text-align:center">US-001</td>
+            <td style="text-align:center">Registro de Usuario</td>
             <td> 
-            <strong>Como</strong> usuario, 
-            <strong>quiero</strong> registrarme en la plataforma 
-            <strong>para</strong>, ppoder gestionar mis plantas.
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> registrarme en la plataforma<br>
+                <strong>Para</strong> poder gestionar mis plantas.
             </td>
-            <!-- ---------- -->
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01: Registro exitoso.</h5>
-            <strong>Dado</strong> un usuario completa el formulario de registro, 
-            <strong>cuando</strong> envía el formulario, 
-            <strong>Entonces</strong>  se crea una cuenta nueva.
-            <strong>Y</strong> se envía un correo de confirmación.
-            <h5>Escenario 02: Registro fallido</h5>
-            <strong>Dado</strong> que un usuario no completa correctamente el formulario,
-            <strong>cuando</strong>  lo envía, Entonces se muestra un mensaje de error
-            <strong>Entonces</strong> se muestra un mensaje de error y se solicita corrección de los datos.
+                <h4>Escenario 01: Registro exitoso.</h4>
+                    <strong>Dado</strong> que un usuario completa el formulario de registro,<br>
+                    <strong>Cuando</strong> envía el formulario,<br>
+                    <strong>Entonces</strong> se crea una cuenta nueva.<br>
+                    <strong>Y</strong> se envía un correo de confirmación.<br>
+                <h4>Escenario 02: Registro fallido</h4>
+                    <strong>Dado</strong> que un usuario no completa correctamente el formulario,<br>
+                    <strong>Cuando</strong> lo envía,<br>
+                    <strong>Entonces</strong> se muestra un mensaje de error y se solicita corrección de los datos.
+            </td>
+            <td style="text-align:center">EPIC-001</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">US-002 </td>
+            <td style="text-align:center">Inicio de Sesión</td>
+            <td>
+                <strong>Como</strong> usuario, 
+                <strong>Quiero</strong> iniciar sesión en la plataforma
+                <strong>Para</strong> acceder a mis datos y gestionar mis plantas.
+            </td>
+            <td>
+                <h4>Escenario 01:Inicio de sesión exitoso</h4>
+                    <strong>Dado</strong> que un usuario ha registrado una cuenta,
+                    <strong>Cuando</strong> introduce sus credenciales correctamente, 
+                    <strong>Entonces</strong> se le permite acceder a su cuenta.
+                <h4>Escenario 02: Inicio de sesión fallido</h4>
+                    <strong>Dado</strong> que un usuario introduce credenciales incorrectas, 
+                    <strong>Cuando</strong> intenta iniciar sesión, 
+                    <strong>Entonces</strong>se muestra un mensaje de error indicando que las credenciales no son válidas.
+            </td>
+            <td style="text-align:center">EPIC-001 </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">US-003</td>
+            <td style="text-align:center">Recuperación de Contraseña</td>
+            <td>
+                <strong>Como</strong> usuario,
+                <strong>quiero</strong> recuperar mi contraseña olvidada 
+                <strong>para</strong> poder acceder a mi cuenta nuevamente.
+            </td>
+            <td> 
+                <h4>Escenario 1: Solicitud de recuperación de contraseña</h4>
+                    <strong>Dado</strong> que un usuario ha olvidado su contraseña,
+                    <strong>Cuando</strong> solicita recuperarla, 
+                    <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.
+                <h4>Escenario 2:  Error al solicitar recuperación</h4>
+                    <strong>Dado</strong> que un usuario no encuentra su cuenta asociada al correo, 
+                    <strong>Cuando</strong> intenta solicitar recuperación, 
+                    <strong>Entonces</strong>  se muestra un mensaje de error.
+            </td>
+            <td style="text-align:center"> EPIC-001</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>US-004</td>
+            <td>Actualizar información del perfil del usuario</td>
+            <td>
+                <strong>Como</strong> usuario,
+                <strong>Quiero</strong> actualizar la información de mi perfil
+                <strong>Para</strong> corregir algunos detalles que por defecto se generaron al momento de crear la cuenta.
+            </td>
+            <td>
+                <h4>Esceneario 01: Actualización de información</h4>
+                    <strong>Dado</strong> que un usuario accede a la aplicación,
+                    <strong>Cuando</strong> selecciona el ícono de su <q>perfil</q>
+                    <strong>Y</strong> selecciona el ícono del <q>lapiz</q>
+                    <strong>Entonces</strong> podrá modificar la información de su perfil.
             </td>
             <td>EPIC-001</td>
         </tr>
         <tr style="text-align:center">
-            <td>US-002 </td>
-            <td>Inicio de Sesión</td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong> usuario, 
-            <strong>quiero</strong>iniciar sesión en la plataforma
-            <strong>para</strong>  acceder a mis datos y gestionar mis plantas.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td>
-            <h5>Escenario 01:Inicio de sesión exitoso</h5>
-            <strong>Dado</strong> Uque un usuario ha registrado una cuenta,
-            <strong>Cuando</strong> introduce sus credenciales correctamente, 
-            <strong>Entonces</strong> se le permite acceder a su cuenta.
-            <h5>Escenario 02: Inicio de sesión fallido</h5>
-            <strong>Dado</strong> que un usuario introduce credenciales incorrectas, 
-            <strong>Cuando</strong> intenta iniciar sesión, 
-            <strong>Entonces</strong>se muestra un mensaje de error indicando que las credenciales no son válidas.
-            </td>
-            <td>EPIC-001 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US-003</td>
-             <td>Recuperación de Contraseña</td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong> usuario,
-            <strong>quiero</strong> recuperar mi contraseña olvidada 
-            <strong>para</strong> poder acceder a mi cuenta nuevamente.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td> 
-            <h5>Escenario 1: Solicitud de recuperación de contraseña</h5>
-            <strong>Dado</strong> que un usuario ha olvidado su contraseña,
-            <strong>Cuando</strong> solicita recuperarla, 
-            <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.
-            <h5>Escenario 2:  Error al solicitar recuperación</h5>
-            <strong>Dado</strong> que un usuario no encuentra su cuenta asociada al correo, 
-            <strong>Cuando</strong> intenta solicitar recuperación, 
-            <strong>Entonces</strong>  se muestra un mensaje de error.
-            </td>
-            <td> EPIC-001</td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US-004 </td>
-            <td> Modificación de Datos Personales </td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong>  usuario,
-            <strong>quiero</strong> modificar mis datos personales 
-            <strong>para</strong> mantener mi información actualizada.</td>
-            <!-- Criterios de Aceptación -->
-            <td>
-            <h5>Escenario 01: Modificación de datos exitosa</h5>
-            <strong>Dado </strong> que un usuario accede a la configuración de su cuenta,
-            <strong>Cuando</strong> modifica sus datos,
-            <strong>Entonces</strong> se guardan los cambios realizados.
-            </td>
-            <td>EPIC-001 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-005</td>
-            <td> Creación de Plantas</td>
+            <td>US-005</td>
+            <td>Creación de Plantas</td>
             <!-- Descripción -->
             <td> 
-            <strong>Como</strong> usuario,
-            <strong>quiero</strong>  crear una planta en mi jardín  
-            <strong>para</strong> comenzar a seguir su ciclo de vida.
+                <strong> Como </strong> usuario,
+                <strong> quiero </strong> recibir una notificación cuando registro una planta
+                <strong> para </strong>  estar seguro de que se ha registrado correctamente.
             </td>
              <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 1: Creación de planta exitosa</h5>
-            <strong>Dado</strong> que un usuario accede a la sección de jardín,
-            <strong>Cuando</strong> crea una planta,  
-            <strong>Entonces</strong>  se añade una nueva planta a su jardín.
+                <h5> Escenario 01:Notificación de registro exitosa</h5>
+                <strong> Dado </strong> que un usuario registra una planta,
+                <strong> Cuando </strong> da en el botón de registro,
+                <strong> Entonces </strong>  se visualiza una notificación indicando que la planta ha sido registrada con éxito.
             </td>
-            <td>EPIC-002 </td>
+            <td> EPIC-003</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-006 </td>
+            <td>US-006</td>
             <td>Visualización del Jardín </td>
            <!-- Descripción -->
             <td> 
-            <strong>Como</strong> usuario 
-            <strong> quiero </strong>ver todas las plantas en mi jardín
-            <strong>para</strong> tener una visión general de las plantas que estoy gestionando. 
+            <strong>Como</strong> usuario
+            <strong>Quiero </strong> ver todas las plantas en mi jardín
+            <strong>Para</strong> tener una visión general de las plantas que estoy gestionando.
             </td>
             <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Visualización exitosa del jardín</h5>
-            <strong>Dado</strong>que un usuario accede a la sección de jardín,
+            <strong>Dado</strong> que un usuario accede a la sección de jardín,
             <strong>Cuando</strong> tiene plantas añadidas, 
             <strong>Entonces</strong> se muestran todas las plantas en una lista.
             <h5>Escenario 02: Jardín vacío</h5>
@@ -1423,13 +1437,13 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td>EPIC-002 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-007 </td>
-            <td> Búsqueda de Plantas	</td>
+            <td>US-007</td>
+            <td>Búsqueda de Plantas</td>
            <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario,
-            <strong>quiero</strong> buscar plantas en mi jardín
-            <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.
+            <strong>Quiero</strong> buscar plantas en mi jardín
+            <strong>Para</strong> encontrar rápidamente la planta que necesito gestionar.
             </td>
             <!-- Criterios de Aceptación -->
             <td> 
@@ -1445,116 +1459,82 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td>EPIC-003 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-008 </td>
-            <td> Selección de Plantas </td>
-           <!-- Descripción -->
+            <td>US-008 </td>
+            <td>Añadir Detalles de las Plantas</td>
             <td> 
             <strong>Como</strong> usuario,
-            <strong>quiero</strong> seleccionar una planta específica
-            <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.
+            <strong>Quiero</strong> ver todos los detalles completos de una planta seleccionada
+            <strong>Para</strong> comprender su ciclo de vida y gestionar el cuidado en base a sus necesidades.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01: Selección de planta exitosa</h5>
-            <strong>Dado</strong> que un usuario ha encontrado la planta deseada,
-            <strong>Cuando</strong> la selecciona
-            <strong>Entonces</strong> se muestra su ciclo de vida detallado.
+            <h5>Escenario 01: Seleccionar la plantas</h5>
+            <strong>Dado</strong> que un usuario busca la planta deseada,
+            <strong>Cuando</strong> ingresa el nombre de la planta en el buscador,
+            <strong>Y</strong> presiona la tecla <q>Enter</q>,
+            <strong>Entonces</strong> se mostrará la planta indagada con cada uno de sus detalles característicos.
             </td>
-            <td>EPIC-002 </td>
+            <td>EPIC-010</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-009 </td>
-            <td> Inicio de Ciclo de Vida </td>
-           <!-- Descripción -->
-            <td> 
-            <strong>Como</strong> usuario,
-            <strong>quiero</strong> iniciar el ciclo de vida de una planta
-            <strong>para</strong> empezar a registrar sus actividades y cuidados.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td> 
-            <h5>Escenario 01: Inicio exitoso del ciclo de vida </h5>
-            <strong>Dado</strong> que un usuario ha añadido una planta nueva,
-            <strong>Cuando</strong> inicia su ciclo de vida,
-            <strong>Entonces</strong> l ciclo comienza y se pueden añadir actividades.
-            </td>
-            <td>EPIC-003 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-010 </td>
+            <td>US-009</td>
             <td>Finalización de Ciclo de Vida </td>
            <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario
-            <strong>quiero</strong>finalizar el ciclo de vida de una planta
-            <strong>para</strong>  marcarla como completada y guardar su historial.
+            <strong>Quiero</strong> finalizar el ciclo de vida de una planta
+            <strong>Para</strong> marcarla como completada y guardar su historial.
             </td>
             <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01:Finalización exitosa del ciclo de vida </h5>
-            <strong>Dado</strong>que un usuario ha completado el ciclo de vida de una planta,
+            <h5>Escenario 01: Finalización exitosa del ciclo de vida </h5>
+            <strong>Dado</strong> que un usuario ha completado el ciclo de vida de una planta,
             <strong>Cuando</strong> selecciona finalizar, 
-            <strong>Entonces</strong> e se guarda y se marca como completada.
+            <strong>Entonces</strong> se guarda y se marca como completada.
             </td>
             <td>EPIC-003 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-011 </td>
-            <td> Visualización de Actividades	</td>
+            <td>US-010</td>
+            <td>Visualizar actividades de cuidado de plantas</td>
            <!-- Descripción -->
             <td> 
-            <strong>Como</strong>  usuario,
-            <strong>quiero</strong> las actividades diarias pendientes
-            <strong>para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.
+            <strong>Como</strong> usuario,
+            <strong>Quiero</strong> visualizar cada una de las actividades diarias pendientes
+            <strong>Para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.
             </td>
             <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01:  Visualización de actividades pendientes </h5>
+            <h5>Escenario 01: Visualización de actividades pendientes </h5>
             <strong>Dado</strong> que un usuario accede a la sección de actividades,
-            <strong>Cuando</strong>  tiene actividades pendientes, 
+            <strong>Cuando</strong> tiene actividades pendientes, 
             <strong>Entonces</strong> se muestran en la lista de actividades.
             <h5>Escenario 02: Sin actividades pendientes </h5>
             <strong>Dado</strong> que un usuario accede a la sección de actividades,
-            <strong>Cuando</strong>  no hay actividades pendientes, 
+            <strong>Cuando</strong> no hay actividades pendientes, 
             <strong>Entonces</strong> se muestra un mensaje indicando que no hay tareas por realizar.
             </td>
             <td>EPIC-003 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-012 </td>
-            <td> Completar Actividades</td>
-            <td> 
-              <strong>Como</strong> usuario 
-              <strong>quiero</strong> marcar actividades como completadas
-              <strong>para</strong> mantener un registro de los cuidados realizados.</td>
-            <td>
-              <h5>Escenario 01:  Completar una actividad </h5> 
-              <strong>Dado</strong> que un usuario tiene una actividad pendiente,
-              <strong>Cuando</strong> la marca como completada, 
-              <strong>Entonces</strong> esta se registra como realizada en el ciclo de vida.
-              </td>
-            <td> EPIC-003</td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-013 </td>
+            <td>US-011</td>
             <td>Seleccionar Planes de Usuario</td>
             <td> 
               <strong>Como</strong> usuario,
-              <strong>quiero</strong> seleccionar entre planes gratuitos y premium
-              <strong>para</strong> elegir el que mejor se adapte a mis necesidades</td>
+              <strong>Quiero</strong> seleccionar entre planes gratuitos y/o premium
+              <strong>Para</strong> elegir el que mejor se adapte a mis necesidades.</td>
             <td>
               <h5>Escenario 01: Selección exitosa de un plan</h5>
               <strong>Dado</strong> que un usuario accede a la página de planes, 
               <strong>Cuando</strong> elige un plan y realiza el pago,
-              <strong>Entonces</strong> le aparecera la pantalla de Iniciar Sesion. 
+              <strong>Entonces</strong> le aparecera la pantalla de "Iniciar Sesion". 
               <h5>Escenario 02: Error al seleccionar plan</h5> 
               <strong>Dado</strong> que un usuario intenta seleccionar un plan sin completar los detalles de pago, 
-              <strong>Cuando</strong>  lo hace,
-              <strong>Entonces</strong> se muestra un mensaje de error. </td>
+              <strong>Cuando</strong> le de click al botón de <q>enviar</q>,
+              <strong>Entonces</strong> se muestra un mensaje de error.</td>
             <td> EPIC-004</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-014 </td>
+            <td>US-012</td>
             <td>Visualización de Beneficios Premium</td>
             <td> 
               <strong>Como</strong> usuario premium,
@@ -1562,102 +1542,47 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
               <strong>para</strong> aprovechar al máximo mi suscripción.</td>
             <td> 
               <h5>Escenario 01: Visualización de beneficios premium</h5>
-              <strong>Dado</strong> que un usuario premium accede a la sección de beneficios,
-              <strong>Cuando</strong> consulta los beneficios,
-              <strong>Entonces</strong> se muestran todas las ventajas disponibles. 
+              <strong>Dado</strong> que un usuario <em>premium</em> accede a la sección de configuración,
+              <strong>Cuando</strong> presione el botón de <q>Ver detalles</q>,
+              <strong>Entonces</strong> se mostrarán todas los beneficios que tiene por el plan adquirido.
             <td>EPIC-004</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-015 </td>
-            <td>Funcionalidades Premium</td>
-            <td> 
-              <strong>Como</strong> usuario premium,
-              <strong>quiero</strong> acceder a funcionalidades exclusivas
-              <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
-            <td> 
-              <h5>Escenario 01: Acceso a funcionalidades premium</h5>
-              <strong>Dado</strong> que un usuario premium accede a funciones avanzadas, 
-              <strong>Cuando</strong> utiliza estas funciones,
-              <strong>Entonces</strong> tienen acceso completo a todas las características premium.
-              <h5>Escenario 02: </h5>
-            <td>EPIC-004</td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-016 </td>
-            <td>Actualización de Información de Perfil</td>
-            <td>
-            <strong>Como</strong> usuario,<strong>quiero </strong>actualizar mi información de perfil <strong>para</strong> reflejar cambios en mis datos personales.
-            </td>
-            <td>
-            <h5>Esceneario 01:  Actualización exitosa de información</h5>
-            <strong>Dado</strong> que un usuario accede a su perfil, <strong>Cuando</strong> actualiza su información,  <strong>Entonces</strong>  los cambios se guardan y se reflejan en su perfil.
-            </td>
-            <td>EPIC-001 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-017 </td>
+            <td>US-013</td>
             <td>Visualización de Perfil</td>
             <td>
-            <strong>Como</strong> usuario,<strong>quiero </strong>ver mi perfil con mi nombre, foto y rol  <strong>para</strong> verificar que mi información es correcta.
+                <strong>Como</strong> usuario
+                <strong>Quiero </strong> ver mi perfil con mi nombre, foto y rol
+                <strong>Para</strong> verificar que mi información es correcta.
             </td>
             <td>
-            <h5>Esceneario 1:Visualización correcta de perfil</h5>
-            <strong>Dado</strong> que un usuario accede a su perfil, <strong>Cuando</strong> visualiza su información, <strong>Entonces</strong> se muestra correctamente su nombre, foto y rol.
+                <h4>Esceneario 1: Visualización del perfil</h4>
+                    <strong>Dado</strong> que un usuario ingresa a la aplicación,
+                    <strong>Cuando</strong> ingresa con sus credenciales,
+                    <strong>Y</strong> selecciona el ícono de su <q>Perfil</q>,
+                    <strong>Entonces</strong> se mostrará correctamente el nombre, foto y rol con el que fue asignado.
             </td>
-            <td>EPIC-008 </td>
+            <td>EPIC-008</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-018 </td>
-            <td>Visualizar mis Plantas en el Jardín</td>
-            <td>
-            <strong>Como</strong> usuario <strong>quiero </strong> ver un resumen de todas las plantas en mi jardín<strong>para</strong> tener una visión general de su estado y cuidados.
-            </td>
-            <td>
-            <h5>Esceneario 1:Visualización exitosa de plantas en el jardín</h5>
-            <strong>Dado</strong> que un usuario accede a la sección de jardín, <strong>Cuando</strong> visualiza dicha sección,<strong>Entonces</strong>  se muestran todas las plantas con su información básica.
-            <h5>Esceneario 2: Jardín sin plantas</h5>
-            <strong>Dado</strong>que un usuario accede a la sección de jardín sin plantas añadidas, <strong>Cuando</strong> lo hace, <strong>Entonces</strong> se muestra un mensaje indicando que no hay plantas en el jardín.
-            </td>
-            <td>EPIC-003 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US-019</td>
-            <td>Visualización Detallada de Planta</td>
-            <!-- Descripción -->
+            <td>US-014</td>
+            <td>Finalización de Actividades</td>
             <td>
             <strong>Como</strong> usuario, 
-            <strong>quiero</strong> ver los detalles completos de una planta seleccionada
-            <strong>para</strong> entender mejor sus necesidades y ciclo de vida.
+            <strong>Quiero</strong> marcar una actividad como finalizada 
+            <strong>Para</strong> llevar un registro de todos los cuidados que se han llevado a cabo.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 1: Visualización exitosa de detalles de planta</h5>
-            <strong>Dado</strong> que un usuario selecciona una planta, 
-            <strong>Cuando</strong> accede a la visualización detallada,
-            <strong>Entonces</strong>se muestran la dificultad, nombre y tiempo de vida.
-            </td>
-            <td> EPIC-010</td>
-        </tr>
-         <tr style="text-align:center">
-            <td>US-020</td>
-            <td>Finalización de Actividades </td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong> usuario, 
-            <strong>quiero</strong> marcar una actividad como finalizada 
-            <strong>para</strong> llevar un registro de lo que ya he realizado.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td> 
-            <h5>Escenario 1: Marcar actividad como finalizada</h5>
-            <strong>Dado</strong>  que un usuario completa una actividad, 
-            <strong>Cuando</strong> la marca como finalizada, 
-            <strong>Entonces</strong> esta se mueve a la sección de actividades completadas.
+            <h5>Escenario 1: Marcar actividades finalizadas</h5>
+            <strong>Dado</strong> que el usuario completó sus actividades pendientes, 
+            <strong>Cuando</strong> presiona el <q>checkbox</q> de esa tarea
+            <strong>Y</strong> este tenga el signo de un check,
+            <strong>Entonces</strong> se catalogará como actividad culminada.
             </td>
             <td> EPIC-003</td>
         </tr> 
         <tr style="text-align:center">
-            <td>US-021</td>
+            <td>US-015</td>
             <td>Actualización de Información de Planta </td>
             <!-- Descripción -->
             <td>
@@ -1675,7 +1600,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-002</td>
         </tr> 
         <tr style="text-align:center">
-            <td>US-022</td>
+            <td>US-016</td>
             <td>Creación de Etiquetas para Plantas</td>
             <!-- Descripción -->
             <td>
@@ -1691,21 +1616,9 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <strong>Entonces</strong> se asigna a la planta seleccionada.
             </td>
             <td> EPIC-002</td>
-        </tr>    
-        <tr style="text-align:center">
-            <td> US-023 </td>
-            <td>Visualización de Etiquetas </td>
-            <td> 
-            <strong> Como </strong> usuario,
-            <strong> quiero </strong> ver las etiquetas asociadas a cada planta <strong> para </strong> identificar fácilmente sus características y cuidados necesarios. </td>
-            <td> 
-            <h5>Escenario 01: Visualización correcta de etiquetas</h5>
-            <strong> Dado </strong>  que un usuario accede a los detalles de una planta,
-            <strong> Cuando </strong> visualiza las etiquetas,<strong> Entonces </strong>  se muestran todas las etiquetas asociadas a esa planta.</td>
-            <td> EPIC-002</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-024 </td>
+            <td> US-017 </td>
             <td> Eliminación de Etiquetas</td>
             <td> 
                 <strong> Como </strong> usuario, 
@@ -1720,24 +1633,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             </td>
             <td>EPIC-002</td>
         </tr>
-        <tr style="text-align:center">
-            <td> US-025 </td>
-            <td>  Visualización de Notificación de Registro </td>
-            <td> 
-                <strong> Como </strong> usuario,
-                <strong> quiero </strong> visualizar una notificación cuando registro una planta
-                <strong> para </strong>  estar seguro de que se ha registrado correctamente.
-            </td>
-            <td> 
-                <h5> Escenario 01:Notificación de registro exitosa</h5>
-                <strong> Dado </strong> que un usuario registra una planta,
-                <strong> Cuando </strong> da en el botón de registro,
-                <strong> Entonces </strong>  se visualiza una notificación indicando que la planta ha sido registrada con éxito.
-            </td>
-            <td> EPIC-003</td>
-        </tr>
           <tr style="text-align:center">
-            <td> US-026 </td>
+            <td> US-018 </td>
             <td> Visualización del Equipo </td>
             <td> 
                 <strong> Como </strong> visitante del Landing Page, 
@@ -1753,7 +1650,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-012</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-027 </td>
+            <td> US-019 </td>
             <td>  Visualización de Testimonios </td>
             <td> 
                 <strong> Como </strong>  visitante del Landing Page, 
@@ -1769,7 +1666,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
               <td> EPIC-012</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-028</td>
+            <td> US-020</td>
             <td> Visualización de Galería </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1785,7 +1682,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td>EPIC-012 </td>
         </tr>
       <tr style="text-align:center">
-            <td> US-029 </td>
+            <td> US-021 </td>
             <td> Navegación del Encabezado </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1801,8 +1698,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-012</td>
         </tr>
            <tr style="text-align:center">
-            <td> US-030	 </td>
-            <td> Sección de Contacto	 </td>
+            <td>US-022</td>
+            <td>Sección de Contactos</td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
                 <strong>Quiero</strong> ppoder contactar al equipo de Agricorp, 
@@ -1818,7 +1715,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         </tr>
         </tr>
            <tr style="text-align:center">
-            <td> US-031	 </td>
+            <td> US-023</td>
             <td> Visualización de Planes Detallados	 </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1838,7 +1735,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-013</td>
         </tr>
              <tr style="text-align:center">
-            <td> US-032	 </td>
+            <td> US-024	 </td>
             <td> Visualización de Idioma	 </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1856,27 +1753,9 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
               <strong>Entonces</strong>  todo el contenido de la página debe cambiar a inglés.</td>
             </td>
             <td> EPIC-012</td>
-        </tr>
-            </tr>
-             <tr style="text-align:center">
-            <td> US-033	 </td>
-            <td> Visualización de Testimonios </td>
-            <td> 
-                <strong>Como</strong> visitante del Landing Page, 
-                <strong>Quiero</strong>  visualizar los testimonios de usuarios, 
-                <strong>Para</strong>  enfocarme en la sección Testimonials.
-            </td>
-            <td> 
-                <h5>Escenario 01:  Visualización de testimonios en el panel de administración</h5>
-                <strong>Dado</strong> que un usuario accede al panel de administración de testimonios, 
-                <strong>Cuando</strong> navega en el landing page en el apartado de testimonios,
-                <strong>Entonces</strong>   debe poder visualizar los testimonios y comentarios.
-            </td>
-            <td> EPIC-012</td>
-        </tr>
-            <tr style="text-align:center">
+        <tr style="text-align:center">
             <td> TS-001	 </td>
-            <td> Landing Page Responsiva </td>
+            <td>Landing Page Responsiva</td>
             <td> 
                 <strong>Como</strong> visitante del sitio web,
                 <strong>Quiero</strong>   que la landing page sea responsiva, 
@@ -1891,7 +1770,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-014</td>
         </tr>
             <tr style="text-align:center">
-            <td> TS-002	 </td>
+            <td>TS-002</td>
             <td> Integración API RESTful</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
@@ -1907,7 +1786,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-015</td>
         </tr>
         <tr style="text-align:center">
-            <td> TS-003	 </td>
+            <td>TS-003</td>
             <td> Configuración del Entorno de Desarrollo</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
@@ -1931,8 +1810,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> Pruebas de Compatibilidad</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
-                <strong>Quiero</strong>  realizar pruebas de compatibilidad en navegadores
-                <strong>Para</strong>   asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.
+                <strong>Quiero</strong> realizar pruebas de compatibilidad en navegadores
+                <strong>Para</strong> asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.
             </td>
             <td> 
                 <h5>Escenario 01: Pruebas en diferentes navegadores</h5>
@@ -1943,7 +1822,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-017</td>
         </tr>
          <tr style="text-align:center">
-            <td> TS-005	 </td>
+            <td> TS-005</td>
             <td> Implementación de Angular Material</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
@@ -1963,8 +1842,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-019</td>
         </tr>
          <tr style="text-align:center">
-            <td> TS-006	 </td>
-            <td> Seguridad en API RESTful</td>
+            <td>TS-006</td>
+            <td>Seguridad en API RESTful</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
                 <strong>Quiero</strong>  implementar medidas de seguridad en la API RESTful,
@@ -1978,7 +1857,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             </td>
             <td> EPIC-020</td>
         </tr>
-    </body>
+    </tbody>
 </table>
 
 
@@ -2701,19 +2580,18 @@ En este apartado se presenta el diagrama de componentes.
     <img src="src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
-<h3 id="WebApplicationsPrototyping">4.7. Software Object-Oriented Design
+<h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design
 </h3>
 
 En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
 
-<h4>4.7.1. Class Diagrams</h4>
+<h4 id="classDiagram">4.7.1. Class Diagrams</h4>
 
 <p align="center">
-
-![Diagrama_Clases](<./src/images/Software Object-Oriented Design.png>)
+<img src="./src/images/Software Object-Oriented Design. (2).png" alt="Diagram about Agricorp System "/>
 </p>
 
-<h4>4.7.2. Class Dictionary</h4>
+<h4 id="classDictionary">4.7.2. Class Dictionary</h4>
 A continuación se muestra las entidades mas principales en formato markdown con las clases, atributos y métodos correspondientes:
 
 ### Usuario
@@ -2792,11 +2670,11 @@ A continuación se muestra las entidades mas principales en formato markdown con
 <img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto;"/>`
 </p>
 
-<h2 href="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
+<h2 id="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
 
-<h3 href="softwareConfig">5.1. Software Configuration Management</h3>
+<h3 id="softwareConfig">5.1. Software Configuration Management</h3>
 
-<h4 href="softwareDevelopment">5.1.1. Software Development Environment Configuration</h4>
+<h4 id="softwareDevelopment">5.1.1. Software Development Environment Configuration</h4>
 
 En seguida, se preocederá describir cada uno de los productos de software que han sido utilizados en el proyecto. Este apartado servirá de suma utilidad para posibilitar que los actuales y futuros desarrolladores puedan contribuir durante el ciclo de vida del proyecto.
 
@@ -2959,7 +2837,7 @@ Para el caso de prueba del software, se empleo las herramienta de desarrollador 
 
 <br>
 
-<h4 href="sourceCodeManagement">5.1.2. Source Code Management</h4>
+<h4 id="sourceCodeManagement">5.1.2. Source Code Management</h4>
 
 El manejo y la organización de las diversas modificaciones que se llevaran durante todo el ciclo de vida que tendrá nuestra startup, se registrará mediante repositorios de Github.
 
@@ -3011,7 +2889,7 @@ Para la documentación del formato de versiones, se aplicará <q>Semantic Versio
 
 * <strong>Z</strong>: indica tanto los parches como las correciones de carácter menor que se aplicaron a la versión del proyecto. Aquí se incluyen cada uno de los commits realizados desde el <q>hotfix branch</q> que se acaba haciendo merge a la rama <q>main</q>
 
-<h4 href="sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</h4>
+<h4 id="sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</h4>
 
 Para lo que respecta el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que estos contienen convenciones que se deben tomar en cuenta al momento de trabajar con dichas tecnologías. Para informanos acerca de las buenas prácticas de uso, accederemos mediante el siguiente el enlace: <a href="https://google.github.io/styleguide/htmlcssguide.html">https://google.github.io/styleguide/htmlcssguide.html</a>. Entre algunas de estas convenciones mencionaremos las siguientes:
 
@@ -3101,7 +2979,7 @@ Por último y no menos importante, para el uso del framework de Spring Boot, uti
 * Brinda ciertos conjuntos de <q>Endpoints</q> para monitorear y gestionar cada uno de las métricas que cuenta nuestra aplicación.
 
 
-<h4 href="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
+<h4 id="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
 Como mencionamos previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Además, para la publicación y despliegue de la página, aprovecharemos GitHub Pages.
 
@@ -3122,19 +3000,19 @@ En relación con el desarrollo de la página de inicio de GreenCare, hemos utili
 |**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="src/images/flow.jpg" alt="GitFlow" style="width:100%;">|
 |**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="src/images/pages.jpg" alt="Github Pages" style="width:100%;">|
 
-<h3 href="landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</h3>
+<h3 id="landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</h3>
 
-<h4 href="sprint1">5.2.1. Sprint 1</h4>
+<h4 id="sprint1">5.2.1. Sprint 1</h4>
 
 En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint.
 
-<h4 href="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
+<h4 id="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
 
 <table>
     <thead>
         <tr>
             <th>Sprint #</th>
-            <th>Sprint 1</th>
+            <th>Sprint 2</th>
         </tr>
     </thead>
     <tbody>
@@ -3199,7 +3077,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     </tbody>
 </table>
 
-<h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
+<h4 id="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -3336,7 +3214,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 </table>
 
-<h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
+<h4 id="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
 <table>
   <tr>
@@ -3344,101 +3222,97 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <td  align ="center" > <strong>Branch</strong></td>
     <td  align ="center" > <strong>Commit ID</strong></td>
     <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
     <td  align ="center" > <strong>Commit on (date)</strong></td>
   </tr>
 
   <tr>
-    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
+    <td rowspan="16" align="center">https://github.com/Agri-Corp/GreenCare-landing.git </td>
     <td align="center">main</td>
-    <td align="center"> d9badaf</td>
-    <td align="center"> fix(routing): ...</td>
-    <td align="center"> fix(routing): resolve routing issue in team section</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">d9badaf</td>
+    <td align="center">fix(routing): resolve routing issue in team section</td>
+    <td align="center">Resolve routing issue in team section</td>
+    <td align="center">2024/09/05</td>
   </tr>
   
   <tr>
     <td align="center">develop</td>
-    <td align="center"> 729393f</td>
-    <td align="center"> merge ...</td>
-    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">729393f</td>
+    <td align="center">Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center">Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center">2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/Contact-us-Section</td>
-    <td align="center"> 06b8784</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add Contact-Us Section</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">06b8784</td>
+    <td align="center">feat: add Contact-Us Section</td>
+    <td align="center">Add Contact-Us Section</td>
+    <td align="center">2024/09/04</td>
   </tr>
   
   <tr>
     <td align="center">feature/Footer-Section</td>
-    <td align="center"> acc2f13</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add GreenCare footer section</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">acc2f13</td>
+    <td align="center">feat: add GreenCare footer section</td>
+    <td align="center">Add GreenCare footer section</td>
+    <td align="center">2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/Testimonials-section</td>
-    <td align="center"> f5dd711</td>
-    <td align="center"> 
-feat: ...</td>
-    <td align="center"> 
-feat: Add Testimonials Section</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">f5dd711</td>
+    <td align="center">feat: Add Testimonials Section<</td>
+    <td align="center">Add Testimonials Section</td>
+    <td align="center">2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/gallery-section</td>
-    <td align="center"> fb83c21</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add 6 images and modifiy index and css</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">fb83c21</td>
+    <td align="center">feat: add 6 images and modifiy index and css</td>
+    <td align="center">Add 6 images and modifiy index and css</td>
+    <td align="center">2024/09/04</td>
   </tr>
 
   <tr>
     <td align="center">feature/home-setcion</td>
-    <td align="center"> 42cf53c</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat:add home-setcion</td>
-    <td align="center"> 2024/09/03</td>
+    <td align="center">42cf53c</td>
+    <td align="center">feat: add home-setcion</td>
+    <td align="center">Add home-setcion</td>
+    <td align="center">2024/09/03</td>
   </tr>
 
   <tr>
     <td align="center">feature/navbar</td>
-    <td align="center"> 85dff78</td>
-    <td align="center"> 
-feat: ...</td>
-    <td align="center"> 
-feat:add navbar</td>
-    <td align="center"> 2024/09/03</td>
+    <td align="center">85dff78</td>
+    <td align="center">feat: add navbar</td>
+    <td align="center">Add navbar</td>
+    <td align="center">2024/09/03</td>
   </tr>
 
   <tr>
     <td align="center">feature/plans-section</td>
-    <td align="center"> 99cdad7</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">99cdad7</td>
+    <td align="center">feat: add plan section with responsive design and Changa typography</td>
+    <td align="center">Add plan section with responsive design and Changa typography</td>
+    <td align="center">2024/09/04</td>
   </tr>
 
   <tr>
     <td align="center">feature/team-section</td>
-    <td align="center"> 468787c</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add team section with responsive design and Changa typography</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">468787c</td>
+    <td align="center">feat: add team section with responsive design and Changa typography</td>
+    <td align="center">Add team section with responsive design and Changa typography</td>
+    <td align="center">2024/09/04</td>
   </tr>
 </table>
 
-<h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
+<h4 id="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
-En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de las <q>features</q> programadas para la construcción del mismo - teniendo como enfoque adicional en hecho que sea adaptativo a las diferentes dimensiones de los dispositivos que cada uno de los usuarios vaya a interactuar -.
+En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de los <q>features</q> programados para la construcción del mismo - teniendo como enfoque adicional el hecho que sea adaptativo a las diferentes dimensiones de los dispositivos en los que cada uno de los usuarios vaya a interactuar -.
 
-<h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
+<h4 id="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
 Durante el Sprint 1, se logró un avance notable en la implementación de las principales funcionalidades de la página de inicio del sitio web. El equipo completó satisfactoriamente todas las historias de usuario planificadas, incluyendo la creación de un resumen claro sobre las características y beneficios del sitio, la integración de un acceso destacado a la información detallada de precios, la incorporación de un resumen conciso al final de la página, la adición de un llamado a la acción visible para dirigir a los usuarios hacia la aplicación principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto de fácil acceso en la página. El equipo trabajó de manera colaborativa para asegurar que las características implementadas cumplieran con los requisitos establecidos, mejorando la experiencia del usuario. Capturas de pantalla:
 
@@ -3483,36 +3357,44 @@ Durante el Sprint 1, se logró un avance notable en la implementación de las pr
 <img src="./src/images/Footer-GreenCare.png" alt="GreenCare-Footer-Section-Landing" style="width:auto; height:120px text-align:center"/>
 
 
-<h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
+<h4 id="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
 En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "GreenCare". En esta página de inicio, encontrarás varias secciones creadas para nuestro Landing Page.
 
-|**`REPOSITORIO LANDING PAGE`**|>|[https://github.com/Agri-Corp/GreenCare-landing.git](https://github.com/Agri-Corp/GreenCare-landing.git)|
-|-----|----|----|
+<table>
+    <thead>
+        <tr>
+            <th>Landing Page Repository</th>           
+            <td><a href="https://github.com/Agri-Corp/GreenCare-landing.git">https://github.com/Agri-Corp/GreenCare-landing.git</a></td>
+        </tr>
+    </thead>
+</table>
 
-<h4 href="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
+
+
+<h4 id="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
 Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones.
 
 |**`LANDING PAGE DESPLEGADO`**|>|[https://agri-corp.github.io/GreenCare-landing/](https://agri-corp.github.io/GreenCare-landing/)|
 |-----|----|----|
 
-<h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
+<h4 id="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
 <p align="center">
 <img src="./src/images/Collaboration_Insights_Sprint1.png" style="width:auto; height: 250px"/>
 </p>
 
 <p align="center">
-<img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:auto; height: 400px"/>
+<img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:450px; height: 400px"/>
 </p>
 
 
-<h4 href="sprint1">5.2.2. Sprint 2</h4>
+<h4 id="sprint2">5.2.2. Sprint 2</h4>
 
 En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint 2.
 
-<h4 href="sprintPlanning1">5.2.2.1. Sprint Planning 2</h4>
+<h4 id="sprintPlanning2">5.2.2.1. Sprint Planning 2</h4>
 
 <table>
     <thead>
@@ -3583,7 +3465,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     </tbody>
 </table>
 
-<h4 href="sprintBacklog1">5.2.2.2. Sprint Backlog 2</h4>
+<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 2</h4>
 
 <table>
   <tr>
@@ -3755,7 +3637,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 </table>
 
-<h4 href="developmentEvidenceSprint1">5.2.2.3. Development Evidence for Sprint Review</h4>
+<h4 id="developmentEvidenceSprint2">5.2.2.2. Development Evidence for Sprint Review</h4>
 
 <table>
   <tr>
@@ -3809,11 +3691,11 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 </table>
 
-<h4 href="testSuiteEvidenceSprint1">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+<h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
 
 
 
-<h4 href="executionEvidenceSprint1">5.2.2.5. Execution Evidence for Sprint Review</h4>
+<h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
 Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pantalla de home, garden, life cycle,plans y settings. Link de la aplicación:
 <br>
@@ -3844,17 +3726,17 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 <img src="./src/images/Settings.jpeg"  alt="Settings" style="width:auto; height:120px text-align:center"/>
 <br>
 
-<h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+<h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
 |**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
 |-----|----|----|
 
-<h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+<h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
 
 |**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
 |-----|----|----|
 
-<h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+<h4 id="teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</h4>
 
 <h2 id="conclution">CONCLUSIONES</h2>
 
