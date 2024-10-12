@@ -833,146 +833,494 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás resúmenes de las entrevistas en cuadros:
+Para cada uno de nuestros segmentos objetivos, se llevó a cabo las respectivas entrevistas, en donde
+conoceremos cada una de sus opiniones con respecto al nivel de <em>expertise</em> sobre el cuidado de
+las plantas.
 
-<ul><strong>Entrevistado 1:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: José Luis Huamani</li>
-            <li>Edad: 57 años</li>
-            <li>Distrito de residencia: Chorrillos</li>
-        </ul>
-    </li>
-    <br>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>00:00 minutos hasta 10:44 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>José Luis Huamani, de 57 años, se describe como cauteloso y alegre. Valora pasar tiempo con su familia y se dedica con esmero al cuidado de sus plantas, enfrentando desafíos con soluciones prácticas y creativas. Su paciencia y optimismo son evidentes en su enfoque hacia el cuidado de las plantas y su disfrute personal en esta actividad.</li>
-            <li>José Luis no tiene preferencia por marcas específicas de productos para plantas, enfocándose en que sean de buena calidad y libres de químicos. Usa recursos en línea, como navegadores comunes, para buscar información sobre jardinería, dado su enfoque reflexivo. Interactúa con sus plantas principalmente a través de métodos manuales, como el uso de jabón y abono, en lugar de herramientas tecnológicas. Utiliza dispositivos estándar como computadoras y teléfonos móviles para gestionar el cuidado de sus plantas.</li>
-        </ul>
-    </li>
-</ul>
+**Segmento 1: Agricultores y jardineros**
 
-<ul><strong>Entrevistado 2:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Luis Alberto Martínez Gutiérrez</li>
-            <li>Edad: 28 años</li>
-            <li>Distrito de residencia: Pequeño pueblo en la sierra de Apurímac, en la comunidad de San Pedro</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_luis.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>10:45 minutos hasta 14:01 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Luis Alberto está profundamente motivado por el esfuerzo y dedicación de sus padres en el campo. Vive en un pequeño pueblo en la sierra de Apurímac y trabaja en el campo familiar. Su interés en la agricultura está impulsado por el deseo de mejorar los métodos de cultivo y aplicar tecnología para hacerlo de manera más sostenible.</li>
-            <li>Luis se basa en la influencia de su experiencia familiar y educativa, enfocándose en la agricultura orgánica y urbana y buscando integrar técnicas modernas como el cultivo hidropónico para optimizar la producción. Aunque no menciona marcas específicas, su interés en soluciones innovadoras y sostenibles es evidente. Utiliza libros de texto, materiales en línea, y participa en seminarios y talleres para aprender sobre agricultura, además de seguir plataformas digitales y aplicaciones móviles para mantenerse actualizado. Interactúa con la agricultura a través de la experiencia práctica en el campo familiar y enfrenta desafíos como el control de plagas y la falta de agua, respaldado por su formación académica. Es probable que use navegadores comunes como Google Chrome o Mozilla Firefox y dispositivos estándar como computadoras y teléfonos móviles para acceder a recursos digitales y mejorar la eficiencia en la agricultura.</li>
-        </ul>
-    </li>
-</ul>
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>José Luis</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Huamani Suica</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>57</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Chorrillos - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>00:00 min - 10:44 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>10:44 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<ul><strong>Entrevistado 3:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Ricardo Torres Quispe</li>
-            <li>Edad: 24 años</li>
-            <li>Distrito de residencia: Andahuaylas, en la sierra de Apurímac</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>14:02 minutos hasta 16:59 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Ricardo Torres Quispe está motivado por la idea de que la agricultura puede ser una fuente de ingresos sostenible para su familia y comunidad. Vive en Andahuaylas con sus padres y hermana menor, y trabaja medio tiempo en una tienda de insumos agrícolas. Su objetivo es aplicar nuevas tecnologías para hacer la agricultura más eficiente y rentable, reflejando una actitud proactiva y orientada a la innovación.</li>
-            <li>Ricardo Torres no menciona marcas específicas, pero está enfocado en la agricultura convencional con un énfasis en mejorar la productividad y la eficiencia mediante tecnología. Su motivación proviene del deseo de optimizar la calidad de los cultivos en su región sin necesidad de expandir el área cultivada. Su aprendizaje se basa en libros, videos educativos, talleres y conferencias, y utiliza aplicaciones móviles y plataformas digitales como Facebook, Instagram y YouTube para mantenerse actualizado sobre técnicas avanzadas y modernas. Interactúa con la agricultura a través de su trabajo en el campo familiar y enfrenta desafíos como la falta de agua y plagas resistentes. Es probable que use navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre tecnología agrícola.</li>
-        </ul>
-    </li>
-</ul>
+<br>
 
-<ul><strong>Entrevistado 4:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Lucia Melendez</li>
-            <li>Edad: 20 años</li>
-            <li>Distrito de residencia: Villa María</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>17:00 minutos hasta 21:09 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Lucia Melendez, de 20 años, es una estudiante de diseño de interiores que vive con sus padres y su hermano en Villa María. Se muestra interesada en la agricultura principalmente debido a su carrera, ya que aprecia la decoración con plantas y desea incorporarlas en su hogar. Su falta de experiencia en el cuidado de plantas se evidencia en los problemas que ha tenido, pero su curiosidad por aprender más es notable.</li>
-            <li>Lucia Melendez está comenzando a aprender sobre agricultura sin experiencia previa en marcas o recursos específicos. Su interés principal es la agricultura orgánica y está abierta a técnicas avanzadas como el cultivo hidropónico, aunque aún no utiliza plataformas digitales para informarse. Actualmente, cuida las plantas de manera básica y enfrenta dificultades como el riego excesivo. Se infiere que, si empieza a buscar información en línea, usará navegadores comunes y dispositivos estándar como computadoras o teléfonos móviles.</li>
-        </ul>
-    </li>
-</ul>
+<p style="text-align:center">
+    <img src="src/images/entrevista_jose.png" alt="Entrevista#1 - Jose Luis Huamani" style="width:400px"/>
+</p>
 
-<ul><strong>Entrevistado 5:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Marcelo Sebastian Ramirez Ramirez</li>
-            <li>Edad: 19 años</li>
-            <li>Distrito de residencia: Chorrillos</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>21:10 minutos hasta 25:02 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Marcelo Sebastian Ramirez, de 19 años y estudiante de ingeniería de software, se muestra motivado por un deseo de llevar un estilo de vida más sostenible y saludable. Vive con su madre y hermana en Chorrillos y está soltero. Su interés en la agricultura surge del deseo de cultivar sus propios alimentos y contribuir al medio ambiente, reflejando una actitud proactiva y consciente.</li>
-            <li>Marcelo está interesado en la agricultura urbana y orgánica, buscando integrar prácticas sostenibles en su hogar. Aunque tiene conocimientos básicos en el cuidado de plantas, planea expandir su aprendizaje a través de tutoriales en línea y libros, siguiendo canales de YouTube y redes sociales de expertos en agricultura. Utiliza plataformas digitales para informarse sobre técnicas avanzadas como la hidroponía y enfrenta desafíos como el riego y el control de plagas. Se infiere que usa navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre agricultura.</li>
-        </ul>
-    </li>
-</ul>
+**Resumen:**
+<p style="text-align: justify">
+    José Luis Huamani, de 57 años, se describe como cauteloso y alegre. Valora pasar tiempo con su 
+    familia y se dedica con esmero al cuidado de sus plantas, enfrentando desafíos con soluciones 
+    prácticas y creativas. Su paciencia y optimismo son evidentes en su enfoque hacia el cuidado de 
+    las plantas y su disfrute personal en esta actividad. No tiene preferencia por marcas 
+    específicas de productos para plantas, enfocándose en que sean de buena calidad y libres de 
+    químicos. Usa recursos en línea, como navegadores comunes, para buscar información sobre 
+    jardinería, dado su enfoque reflexivo. Interactúa con sus plantas principalmente a través de 
+    métodos manuales, como el uso de jabón y abono, en lugar de herramientas tecnológicas. Utiliza 
+    dispositivos estándar como computadoras y teléfonos móviles para gestionar el cuidado de sus 
+    plantas.
+</p>
 
-<ul><strong>Entrevistado 6:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Giovanni Ramos</li>
-            <li>Edad: 20 años</li>
-            <li>Distrito de residencia: Santa Anita</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>25:03 minutos hasta 32:46 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Giovani Ramos es una persona inexperta en agricultura pero con un interés genuino en crear huertos en las áreas verdes de su casa. Su motivación proviene de la influencia de sus padres, lo que refleja una actitud positiva hacia el cultivo casero. Sin embargo, enfrenta dificultades con el labrado de la tierra y se siente frustrado por la falta de información clara y accesible sobre cómo hacer germinar plantas específicas.</li>
-            <li>Giovani enfrenta dificultades como la búsqueda de información sobre plantas, lo cual considera tedioso. No menciona marcas específicas para huertos, pero su principal influencia es familiar. Está interesado en una aplicación que facilite la gestión de huertos y proporcione información concisa sobre el cuidado de plantas, lo que refleja su disposición a utilizar tecnología para mejorar su experiencia. Aunque no se especifica el navegador o los dispositivos que usa, es probable que utilice herramientas estándar como navegadores comunes y dispositivos móviles para acceder a información sobre agricultura.</li>
-        </ul>
-    </li>
-</ul>
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Marcelo Sebastian</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Ramirez Ramirez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>19</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Chorrillos - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>21:10 min hasta 25:02 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:50 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_marcelo.png" alt="Entrevista#5 -  Marcelo Ramirez" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Marcelo Sebastian Ramirez, de 19 años y estudiante de ingeniería de software, se muestra motivado 
+    por un deseo de llevar un estilo de vida más sostenible y saludable. Vive con su madre y hermana en
+    Chorrillos y está soltero. Su interés en la agricultura surge del deseo de cultivar sus propios 
+    alimentos y contribuir al medio ambiente, reflejando una actitud proactiva y consciente. Nos 
+    comenta que está interesado en la agricultura urbana y orgánica, buscando integrar prácticas 
+    sostenibles en su hogar. Aunque tiene conocimientos básicos en el cuidado de plantas, planea 
+    expandir su aprendizaje a través de tutoriales en línea y libros, siguiendo canales de YouTube y 
+    redes sociales de expertos en agricultura. Utiliza plataformas digitales para informarse sobre 
+    técnicas avanzadas como la hidroponía y enfrenta desafíos como el riego y el control de plagas. 
+    Se infiere que usa navegadores comunes y dispositivos estándar como computadoras y teléfonos 
+    móviles para acceder a información sobre agricultura.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Giovanni</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Ramos</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Santa Anita - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>25:03 min hasta 32:46 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>07:43 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_giovanni.png" alt="Entrevista#6 - Giovanni Ramos" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Giovani Ramos es una persona inexperta en agricultura pero con un interés genuino en crear huertos 
+    en las áreas verdes de su casa. Su motivación proviene de la influencia de sus padres, lo que 
+    refleja una actitud positiva hacia el cultivo casero. Sin embargo, enfrenta dificultades con el 
+    labrado de la tierra y se siente frustrado por la falta de información clara y accesible sobre 
+    cómo hacer germinar plantas específicas. Giovani enfrenta dificultades como la búsqueda de 
+    información sobre plantas, lo cual considera tedioso. No menciona marcas específicas para huertos, 
+    pero su principal influencia es familiar. Está interesado en una aplicación que facilite la gestión 
+    de huertos y proporcione información concisa sobre el cuidado de plantas, lo que refleja su
+    disposición a utilizar tecnología para mejorar su experiencia. Aunque no se especifica el 
+    navegador o los dispositivos que usa, es probable que utilice herramientas estándar como 
+    navegadores comunes y dispositivos móviles para acceder a información sobre agricultura.
+</p>
+
+<br>
+
+**Segmento 2: Personas interesadas en la agricultura**
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Luis Alberto</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Martínez Gutiérrez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Comunidad San Pedro - Apurimac, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>10:45 min - 14:01 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:46 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_luis.png" alt="Entrevista#2 - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Luis Alberto está profundamente motivado por el esfuerzo y dedicación de sus padres en el campo. 
+    Vive en un pequeño pueblo en la sierra de Apurímac y trabaja en el campo familiar. Su interés en la
+    agricultura está impulsado por el deseo de mejorar los métodos de cultivo y aplicar tecnología para
+    hacerlo de manera más sostenible. Principalmente, él se basa en la influencia de su experiencia 
+    familiar y educativa, enfocándose en la agricultura orgánica y urbana y buscando integrar 
+    técnicas modernas como el cultivo hidropónico para optimizar la producción. Aunque no menciona 
+    marcas específicas, su interés en soluciones innovadoras y sostenibles es evidente. Utiliza libros 
+    de texto, materiales en línea, y participa en seminarios y talleres para aprender sobre 
+    agricultura, además de seguir plataformas digitales y aplicaciones móviles para mantenerse 
+    actualizado. Interactúa con la agricultura a través de la experiencia práctica en el campo 
+    familiar y enfrenta desafíos como el control de plagas y la falta de agua, respaldado por su 
+    formación académica. Es probable que use navegadores comunes como Google Chrome o Mozilla Firefox y
+    dispositivos estándar como computadoras y teléfonos móviles para acceder a recursos digitales y 
+    mejorar la eficiencia en la agricultura.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Ricardo</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Torres Quispe</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Andahuaylas - Apurimac, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>14:02 min - 16:59 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>02:57 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_ricardo.png" alt="Entrevista#3 - Ricardo Torres" style="width:400px;"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Ricardo Torres Quispe está motivado por la idea de que la agricultura puede ser una fuente de 
+    ingresos sostenible para su familia y comunidad. Vive en Andahuaylas con sus padres y hermana 
+    menor, y trabaja medio tiempo en una tienda de insumos agrícolas. Su objetivo es aplicar nuevas 
+    tecnologías para hacer la agricultura más eficiente y rentable, reflejando una actitud proactiva 
+    y orientada a la innovación. Cuando se le consulto acerca de alguna marca de producto de jardineria, 
+    no nos mencionó ninguna; sin embargo, él está enfocado en la agricultura convencional con un 
+    énfasis en mejorar la productividad y la eficiencia mediante tecnología. Su motivación proviene 
+    del deseo de optimizar la calidad de los cultivos en su región sin necesidad de expandir el área 
+    cultivada. Su aprendizaje se basa en libros, videos educativos, talleres y conferencias, y utiliza 
+    aplicaciones móviles y plataformas digitales como Facebook, Instagram y YouTube para mantenerse 
+    actualizado sobre técnicas avanzadas y modernas. Interactúa con la agricultura a través de su 
+    trabajo en el campo familiar y enfrenta desafíos como la falta de agua y plagas resistentes. Es 
+    probable que use navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles 
+    para acceder a información sobre tecnología agrícola.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #6</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Lucia</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Melendez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Villa Maria del Triunfo - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>17:00 min - 21:09 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>04:09 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_lucia.png" alt="Entrevista#4 - Lucia Melendez" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Lucia Melendez, de 20 años, es una estudiante de diseño de interiores que vive con sus padres y su 
+    hermano en Villa María. Se muestra interesada en la agricultura principalmente debido a su carrera, 
+    ya que aprecia la decoración con plantas y desea incorporarlas en su hogar. Su falta de experiencia 
+    en el cuidado de plantas se evidencia en los problemas que ha tenido, pero su curiosidad por 
+    aprender más es notable. Un detalle muy interesante que nos mencionó, es que está comenzando a 
+    aprender sobre la agricultura. Su interés por la agricultura orgánica y ciertos conocimientos en 
+    técnicas avanzadas como el cultivo hidropónico, aunque aún no utiliza plataformas digitales para 
+    informarse. Actualmente, cuida las plantas de manera básica y enfrenta dificultades como el riego 
+    excesivo. Se infiere que, si empieza a buscar información en línea, usará navegadores comunes y 
+    dispositivos estándar como computadoras o teléfonos móviles.
+</p>
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
@@ -1004,13 +1352,15 @@ En esta sección el equipo explica y presenta los artefactos resultantes del pro
 
 Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UxPressia.
 
-|**`USER PERSONA: Jorge Samir Condor Vera`**|
-|---|
-|<img src="src/images/USER_JorgeSamirCondorVera.png" alt="Jorge" style="width:100%">|
+**User Persona:** Jardinero/Agricultor
 
-|**`USER PERSONA: Ana Paola Diaz Benavides`**|
-|---|
-|<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana" style="width:100%">|
+<img src="src/images/USER_JorgeSamirCondorVera.png" alt="Jardinero Jorge Condor" style="width:100%">
+
+<br>
+
+**User Persona:** Persona interesada en la agricultura
+
+<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana Benavides - Aprendiz" style="width:100%">
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
@@ -1019,81 +1369,81 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 <table>
     <thead>
         <tr>
-            <th>Segmento objetivo</th>
-            <th colspan="2">Jorge Samir Condor Vera - Experto en el cuidado de plantas</th>
-            <th colspan="2">Ana Paola Diaz Benavides - Persona interesada en la agricultura</th>
+            <th style="text-align:center">Segmento objetivo</th>
+            <th style="text-align:center" colspan="2">Jorge Samir Condor Vera - Experto en el cuidado de plantas</th>
+            <th style="text-align:center" colspan="2">Ana Paola Diaz Benavides - Persona interesada en la agricultura</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Tareas</th>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
+            <th style="text-align:center">Tareas</th>
+            <th style="text-align:center">Frecuencia</th>
+            <th style="text-align:center">Importancia</th>
+            <th style="text-align:center">Frecuencia</th>
+            <th style="text-align:center">Importancia</th>
         </tr>
         <tr>
             <td>Investigación de Nuevas Tecnologías Agrícolas.</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>
         <tr>
             <td>Leer consejos de un agricultor o jardinero confiable.</td>
-            <td>A veces</td>
-            <td>Media</td>
-            <td>Siempre</td>
-            <td>Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
         </tr>   
         <tr>
             <td>Aplicación de Técnicas de Riego</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>Rara vez</td>
-            <td>Baja</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">Rara vez</td>
+            <td style="text-align:center">Baja</td>
         </tr>  
-        <tr>
+        <tr> style="text-align:center"
             <td>Monitoreo de Condiciones Climáticas</td>
-            <td>A menudo</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>  
         <tr>
             <td>Revisión de Nuevas Técnicas</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>  
         <tr>
             <td>Supervisión del Crecimiento</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A menudo</td>
-            <td>Alta</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Alta</td>
         </tr>  
         <tr>
             <td>Diagnóstico de Enfermedades y Plagas</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>  
         <tr>
             <td>Almacenamiento y Conservación de Productos</td>
-            <td>A menudo</td>
-            <td>Media</td>
-            <td>Rara vez</td>
-            <td>Baja</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
+            <td style="text-align:center">Rara vez</td>
+            <td style="text-align:center">Baja</td>
         </tr>  
         <tr>
             <td>Conocimiento sobre el manejo de Cosecha</td>
-            <td>A menudo</td>
-            <td>Alta</td>
-            <td>Rara vez</td>
-            <td>Baja</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">Rara vez</td>
+            <td style="text-align:center">Baja</td>
         </tr>      
     </tbody>
 </table>
@@ -1102,37 +1452,48 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 
 En esta sección, se detallan los mapas de viaje del usuario para cada persona del usuario, personas interesadas en agricultura y persona con experiencia en cuidado de plantas.
 
-|**`USER JOURNEY MAPPING: Personas interesadas en agricultura`**|
-|---|
-|<img src="src/images/journey_mapping_ana.png" alt="as-Personas Interesadas en Agricultura" style="width:100%">|
+<br>
 
-|**`USER JOURNEY MAPPING: Persona con experiencia en cuidado de plantas`**|
-|---|
-|<img src="src/images/journey_mapping_jorge.png" alt="as-Persona con experiencia en cuidado de plantas" style="width:100%">|
+**Segmento Objeivo:** Personas interesadas en la agricultura
+
+<img src="src/images/journey_mapping_ana.png" alt="as-Personas Interesadas en Agricultura" style="width:100%"/>
+
+<br>
+
+**Segmento Objetivo:** Jardineros/Agricultors
+
+<img src="src/images/journey_mapping_jorge.png" alt="as-Persona con experiencia en cuidado de plantas" style="width:100%"/>
+
+<br>
 
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
 Esta sección presenta el mapeo de empatía para los segmentos de personas interesadas en agricultura y persona con experiencia en cuidado de plantas, ofreciendo una visión detallada de las necesidades, preocupaciones y beneficios desde la perspectiva del usuario.
 
-|**`EMPATHY MAPPING: Personas interesadas en agricultura`**|
-|---|
-|<img src="src/images/empathy_mapping_ana.png" alt="empathy-mapping Personas interesadas en agricultura" style="width:100%">|
+**Segmento Objeivo:** Personas interesadas en la agricultura
 
-|**`EMPATHY MAPPING: Persona con experiencia en cuidado de plantas`**|
-|---|
-|<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Persona con experiencia en cuidado de plantas" style="width:100%">|
+<img src="src/images/empathy_mapping_ana.png" alt="empathy-mapping Personas interesadas en agricultura" style="width:100%"/>
+
+<br>
+
+**Segmento Objetivo:** Jardineros/Agricultors
+
+<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Persona con experiencia en cuidado de plantas" style="width:100%"/>
+
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
 
 En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User Persona, destacando el proceso de preparación, lluvia de ideas individual, revisión y identificación de fases. Se incluyen las filas Phases, Doing, Thinking y Feeling, con áreas positivas, negativas y blank areas para usuarios. El objetivo es proporcionar una visualización detallada del proceso actual y áreas de mejora para cada persona del usuario.
 
-|**`AS-IS SCENARIO MAPPING: Personas interesadas en agricultura`**|
-|---|
-|<img src="src/images/as-is_ana.jpg" alt="as-is Personas interesadas en agricultura" style="width:100%">|
+**Segmento objetivo:** Persona interesada en la agricultura
 
-|**`AS-IS SCENARIO MAPPING: Persona con experiencia en cuidado de plantas`**|
-|---|
-|<img src="src/images/as-is_jorge.jpg" alt="as-is Persona con experiencia en cuidado de plantas" style="width:100%">|
+<img src="src/images/as-is_ana.jpg" alt="as-is Personas interesadas en agricultura" style="width:100%"/>
+
+<br>
+
+**Segmento objetivo:** Jardineros/Agricultores
+
+<img src="src/images/as-is_jorge.jpg" alt="as-is Persona con experiencia en cuidado de plantas" style="width:100%"/>
 
 <h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
@@ -1149,163 +1510,185 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 <h3 id="userStories">3.2. User Stories</h3>
 
 <table>
-  <thead>
-    <tr>
-      <th>Epic / Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EPIC-001</td>
-      <td>Autenticación de Usuario</td>
-      <td>
-        <strong>Como</strong> usuario,
-        <strong>Quiero</strong> poder autenticar mis credenciales,
-        <strong>´Para</strong> acceder a la aplicación y gestionar mis plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-002</td>
-      <td>Creación de Cuentas de Usuario</td>
-      <td><strong>Como</strong> nuevo usuario, <strong>quiero</strong> poder registrar una cuenta ingresando mi nombre, correo electrónico y contraseña, <strong>para</strong> acceder a la aplicación.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-003</td>
-      <td>Gestión del Jardín</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder visualizar, buscar y seleccionar plantas para mi jardín, <strong>para</strong> gestionar mi huerto de manera eficiente.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-004</td>
-      <td>Ciclo de Vida de la Planta</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver y gestionar el ciclo de vida de mis plantas, <strong>para</strong> mantener un seguimiento adecuado de su crecimiento.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-005</td>
-      <td>Funcionalidades Premium</td>
-      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a recomendaciones y anotaciones avanzadas, <strong>para</strong> optimizar el cuidado de mis plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-006</td>
-      <td>Planes de Suscripción</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar un plan de suscripción, <strong>para</strong> acceder a funcionalidades básicas o avanzadas según mi necesidad.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-007</td>
-      <td>Configuración de la Cuenta</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder cambiar mi nombre y correo electrónico, <strong>para</strong> mantener actualizada mi información personal en la aplicación.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-008</td>
-      <td>Perfil de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver mi información de perfil y acceder a opciones de navegación, <strong>para</strong> gestionar mi cuenta de manera conveniente.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-009</td>
-      <td>Navegación entre Secciones</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> navegar entre las secciones de la aplicación desde la barra lateral, <strong>para</strong> acceder fácilmente a las distintas funcionalidades.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-010</td>
-      <td>Visualizar de Actividades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un mis actividades diarias y pendientes, <strong>para</strong> mantenerme al tanto del cuidado de mis plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-011</td>
-      <td>Visualización de la Landing Page	</td>
-      <td><strong>Como</strong> visitante del sitio web, <strong>quiero</strong> poder visualizar la landing page,<strong>para</strong> conocer los servicios, planes y propósito de Agricorp.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-     <tr>
-      <td>EPIC-012</td>
-      <td>Gestión de Planes en el landing Page	</td>
-      <td><strong>Como</strong> usuario interesado, quiero poder ver y elegir entre diferentes planes de servicio,<strong>quiero</strong>  poder ver y elegir entre diferentes planes de servicio,<strong>para</strong> seleccionar el que mejor se adapte a mis necesidades de gestión de plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-     <tr>
-      <td>EPIC-013</td>
-      <td>Funcionalidades de la Landing Page</td>
-      <td><strong>Como</strong> visitante del sitio web,<strong>quiero</strong>  navegar entre las diferentes secciones de la landing page,<strong> para</strong> acceder a toda la información relevante de Agricorp, incluyendo equipo, testimonios, galería, planes, contacto, misión y visión.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-  <td>EPIC-014</td>
-  <td>Desarrollo de la Aplicación Web</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> crear una aplicación web funcional y responsiva utilizando Angular,<strong> para</strong> ofrecer una experiencia de usuario optimizada.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-015</td>
-  <td>Integración de Servicios Web (API RESTful)</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> integrar servicios web mediante una API RESTful,<strong> para</strong> permitir la comunicación eficiente entre el frontend y el backend.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-016</td>
-  <td>Configuración del Entorno de Desarrollo</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> configurar el entorno de desarrollo con WebStorm y IntelliJ IDEA,<strong> para</strong> facilitar la implementación eficiente del proyecto.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-017</td>
-  <td>Pruebas de Software</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> realizar pruebas exhaustivas del software utilizando herramientas de prueba en navegadores,<strong> para</strong> garantizar la calidad del producto.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-018</td>
-  <td>Despliegue y Mantenimiento</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> desplegar y mantener la aplicación web utilizando GitHub Pages y Netlify,<strong> para</strong> asegurar que los usuarios tengan acceso a la última versión.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-019</td>
-  <td>Optimización de la Interfaz de Usuario</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> optimizar la interfaz de usuario utilizando Angular Material,<strong> para</strong> mejorar la accesibilidad y la experiencia de usuario.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-020</td>
-  <td>Implementación de Seguridad en la API</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> implementar medidas de seguridad en la API RESTful,<strong> para</strong> proteger los datos y garantizar la integridad de las comunicaciones.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-
-  </tbody>
+    <thead scope="col">
+        <tr>
+            <th style="text-align: center">Epic ID</th>
+            <th style="text-align: center">Título</th>
+            <th style="text-align: center">Descripción</th>
+        </tr>
+    </thead>
+    <tbody scope="row">
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 1</strong>
+            </td>
+            <td style="text-align: center">
+                Diseño de interfaz del Landing Page
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> visualizar elementos agradables<br>
+                <strong>Para</strong> entender de manera intuitiva el propósito del startup.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 2</strong>
+            </td>
+            <td style="text-align: center">
+                Usabilidad en diferentes dispostivos
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> que el contenido sea adaptativo a los diferentes dispostivos<br>
+                <strong>Para</strong> poder visualizarlo en cualquier momento y lugar.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 3</strong>
+            </td>
+            <td style="text-align: center">
+                Acceso a la aplicación
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> acceder a la aplicación con mis credenciales<br>
+                <strong>Para</strong> poder empezar a utilizarla.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 4</strong>
+            </td>
+            <td style="text-align: center">
+                Accesibilidad del Landing Page
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> que la página sea inclusivo<br>
+                <strong>Para</strong> que personas con alguna discapacidad también puedan utilizarlo. 
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 5<strong>
+            </td>
+            <td style="text-align: center">
+                Internacionalización
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> poder apreciar el contenido en mi idioma de origen<br>
+                <strong>Para</strong> tener una mejor experiencia en la interacción.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 6</strong>
+            </td>
+            <td style="text-align: center">
+                Registro de cuentas para nuevos usuarios
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> registrarme en la aplicación de manera sencilla y rápida <br>
+                <strong>Para</strong> poder habilitar mi perfil y empezar a interactuar con el entorno.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 7</strong>
+            </td>
+            <td style="text-align: center">
+                Autenticación de usuarios
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> quiero un sistema de autenticación<br>
+                <strong>Para</strong> proteger la información y el acceso a mi cuenta.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 8</strong>
+            </td>
+            <td style="text-align: center">
+                Gestión de plantas
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> buscar y seleccionar diferentes tipos de plantas<br>
+                <strong>Para</strong> poder visualizar sus detalles e informaciones.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 9</strong>
+            </td>
+            <td style="text-align: center">
+                Administrar ciclo de vida de las plantas
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> adminsitrar el ciclo de vida de mis plantas<br>
+                <strong>Para</strong> mantenerme al tanto de su crecimiento.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 10</strong>
+            </td>
+            <td style="text-align: center">
+                Planes de suscripción
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> visualizar los diferentes planes de suscripción<br>
+                <strong>Para</strong> poder adquirir las funcionalidades extras que me ofrecen.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 11</strong>
+            </td>
+            <td style="text-align: center">
+                Configuración del perfil de usuario
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> poder actualizar los datos registrados en mi perfil<br>
+                <strong>Para</strong> mantener así actualizada mi información.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 12</strong>
+            </td>
+            <td style="text-align: center">
+                Gestionar actividades de cuidados de las plantas
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> organizar y anotar mis actividades diarias<br>
+                <strong>Para</strong> estar al tanto de todos los pendientes necesarios para el cuidado de mis plantas.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 13</strong>
+            </td>
+            <td style="text-align: center">
+                Desarrollo del Backend de la API para la aplicación web
+            </td>
+            <td>
+                <strong>Como</strong> desarrollador,<br>
+                <strong>Quiero</strong> implementar un backend API RESTful<br>
+                <strong>Para</strong> permitir la comunicación entre el Frontend y el Backend.
+            </td>
+        </tr>
+    </tbody>
 </table>
-
 
 <table>
     <thead>
@@ -1399,13 +1782,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-005</td>
             <td>Creación de Plantas</td>
-            <!-- Descripción -->
             <td> 
                 <strong> Como </strong> usuario,
                 <strong> quiero </strong> recibir una notificación cuando registro una planta
                 <strong> para </strong>  estar seguro de que se ha registrado correctamente.
             </td>
-             <!-- Criterios de Aceptación -->
             <td> 
                 <h5> Escenario 01:Notificación de registro exitosa</h5>
                 <strong> Dado </strong> que un usuario registra una planta,
@@ -1417,13 +1798,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-006</td>
             <td>Visualización del Jardín </td>
-           <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario
             <strong>Quiero </strong> ver todas las plantas en mi jardín
             <strong>Para</strong> tener una visión general de las plantas que estoy gestionando.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Visualización exitosa del jardín</h5>
             <strong>Dado</strong> que un usuario accede a la sección de jardín,
@@ -1439,13 +1818,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-007</td>
             <td>Búsqueda de Plantas</td>
-           <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario,
             <strong>Quiero</strong> buscar plantas en mi jardín
             <strong>Para</strong> encontrar rápidamente la planta que necesito gestionar.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Búsqueda exitosa de planta </h5>
             <strong>Dado</strong>que un usuario accede a la sección de jardín,
@@ -1478,13 +1855,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-009</td>
             <td>Finalización de Ciclo de Vida </td>
-           <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario
             <strong>Quiero</strong> finalizar el ciclo de vida de una planta
             <strong>Para</strong> marcarla como completada y guardar su historial.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Finalización exitosa del ciclo de vida </h5>
             <strong>Dado</strong> que un usuario ha completado el ciclo de vida de una planta,
@@ -1496,13 +1871,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-010</td>
             <td>Visualizar actividades de cuidado de plantas</td>
-           <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario,
             <strong>Quiero</strong> visualizar cada una de las actividades diarias pendientes
             <strong>Para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Visualización de actividades pendientes </h5>
             <strong>Dado</strong> que un usuario accede a la sección de actividades,
@@ -1584,13 +1957,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-015</td>
             <td>Actualización de Información de Planta </td>
-            <!-- Descripción -->
             <td>
             <strong>Como</strong> usuario, 
             <strong>quiero</strong> actualizar la información de una planta 
             <strong>para</strong> reflejar cambios en su estado o cuidados.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 1:Actualización exitosa de información de planta</h5>
             <strong>Dado</strong> que un usuario accede a los detalles de una planta,
@@ -1602,13 +1973,11 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         <tr style="text-align:center">
             <td>US-016</td>
             <td>Creación de Etiquetas para Plantas</td>
-            <!-- Descripción -->
             <td>
             <strong>Como</strong> usuario de 
             <strong>quiero</strong> qcrear etiquetas para mis plantas
             <strong>para</strong>  identificar fácilmente sus características y necesidades.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 1: Creación exitosa de etiqueta</h5>
             <strong>Dado</strong> que un usuario accede a la sección de etiquetas, 
@@ -1734,9 +2103,9 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             </td>
             <td> EPIC-013</td>
         </tr>
-             <tr style="text-align:center">
-            <td> US-024	 </td>
-            <td> Visualización de Idioma	 </td>
+            <tr style="text-align:center">
+            <td>US-024</td>
+            <td>Visualización de Idioma</td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
                 <strong>Quiero</strong> poder cambiar el idioma del sitio,
@@ -1859,8 +2228,6 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         </tr>
     </tbody>
 </table>
-
-
 
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
 
