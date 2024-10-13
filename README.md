@@ -2222,7 +2222,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
                 <h5>Escenario 01:Implementación de autenticación</h5>
                 <strong>Dado</strong> qque se envían datos sensibles a través de la API,
                 <strong>Cuando</strong>  se implementan medidas de seguridad como autenticación y cifrado,
-                <strong>Entonces</strong>   la API debe proteger los datos de accesos no autorizados.
+                <strong>Entonces</strong> la API debe proteger los datos de accesos no autorizados.
             </td>
             <td> EPIC-020</td>
         </tr>
@@ -3737,7 +3737,7 @@ Para la implementación de nuestra página, optamos por utilizar GitHub Pages. E
 <h4 id="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
 Para lo que concierne durante todo el desarrollo de este Sprint 1, cada uno de los miembros del equipo
-colaboró
+colaboró de manera continua para llevar a cabo una buena presentación en este primer entregable. Para conocer el aporte de cada uno generó, lo podemos apreciar con más detalle en la siguiente presentación.
 
 Colaboraciones de cada miembro del equipo:
 
@@ -3895,10 +3895,10 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td rowspan="3"> ??</td>
     <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >???????? </td>
-    <td  >? </td>
+    <td> ??</td>
+    <td> ?? ??</td>
+    <td>???????? </td>
+    <td>? </td>
     <td  > ?? ?? </td>
     <td  > Done </td>
   </tr>
@@ -3921,20 +3921,20 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   <tr>
     <td rowspan="4"> ??</td>
     <td rowspan="4"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td> ??</td>
+    <td> ?? ??</td>
+    <td>????????</td>
+    <td>? </td>
+    <td> ?? ?? </td>
+    <td> Done </td>
   </tr>
   <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
+    <td> ??</td>
+    <td> ?? ??</td>
+    <td>????????</td>
+    <td>? </td>
+    <td> ?? ?? </td>
+    <td> Done </td>
   </tr>
   <tr>
     <td  > ??</td>
@@ -4098,7 +4098,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
 
-
+Para este sprint, nos centramos en la culminación de este nuevo entregable - que viene a ser el desarrollo del Web Applicaction -, por lo que al centralizar ese aspecto y actualizar la funcionalidad del Landing Page, no llevamos una prueba de testeo para este sprint; pero no se descarta que para en un Sprint no muy lejano se valide cada funcionalidad antes de poder presentarselo a nuestros clientes y stakeholders.
 
 <h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
@@ -4136,16 +4136,92 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 <h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
-
-|**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - Web Application</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCareApp">https://github.com/Agri-Corp/GreenCareApp</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
 
-|**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Despliegue - Web Application</strong>
+            </td>           
+            <td>
+                <a href="https://agricorp-upc-2024.web.app/home">https://agricorp-upc-2024.web.app/home</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+
+En este Sprint 2, cada uno de los miembros del equipo utilizó cada concepto aprendido, ya sea de manera autodidacta como propia del curso, para modelar el diseño creado en nuestro MockUp para el apartado de la aplicación web. Es por que, mediante la siguiente tabla, se detallará cada una de las responsabilidad que se tuvo prevista para llegar al deadline definido en este Sprint.
+
+Colaboraciones de cada miembro del equipo:
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center">Alumno</th>
+            <th style="text-align:center">Actividad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">Raul Ronaldo Quispe Erasmo</td>
+            <td>
+                Implementación de las sección de planes de suscripción
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Luis Eduardo Lagos Aguilar</td>
+            <td>
+                Implementación de la sección del <q>LifeCycle</q> y configuración del db.json a cada uno de los componentes de la aplicación.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Manuel Alexis Vargas Quispe</td>
+            <td>
+                Implementación de la sección deñ Jardín así como el <q>search component</q> para la búsqueda de las plantas
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Juan Paul Llamccaya Arone</td>
+            <td>
+                Implementación de la sección de configuración
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">José Diego Huamani Sánchez</td>
+            <td>
+                Implementación del home section del Web Application así como el despliegue del mismo.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Commits:**
+
+<p align="center">
+<img src="" alt="Commits-Workflow-Sprint2" style="width:auto; height: 250px"/>
+</p>
+
+<p align="center">
+<img src="" alt="Collaboration-Insights-Sprint2" style="width:450px; height: 400px"/>
+</p>
 
 <h2 id="conclution">CONCLUSIONES</h2>
 
@@ -4167,7 +4243,34 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 * En correspondencia a las respuesta, de lo cual obtuvimos en las entrevistas por parte de nuestros dos segmentos, recomendamos amplicamente que en futuros productos de software nos incluyan la posibilidad de que el usuario seleccione un idioma en especifico para que pueda obtener buenas referencias y pueda ser entendible en cada idioma materno.
 
+<br>
+
 <h3 id="teamVideo">Video About-the-Team</h3>
+
+**TB1:**
+
+<p align="center">
+    <img src="./src/images/TB1-Expo-Video-AgriCorp.jfif" alt="TB1-Exposition-Video-AgriCorp" style="width:450px"/>
+</p>
+
+<br>
+
+<p align="center">
+    <strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXb8FcCQyBhJlyl1TgL_ZDwBpdK3oJpPfhjJ3WK9kViKJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P9tmnW">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXb8FcCQyBhJlyl1TgL_ZDwBpdK3oJpPfhjJ3WK9kViKJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P9tmnW</a>
+</p>
+
+<br>
+
+**TP1:**
+
+<p align="center">
+    <img src="./src/images/TP-Expo-Video-AgriCorp.jfif" alt="TP-Exposition-Video-AgriCorp" style="width:450px"/>
+</p>
+<br>
+
+<p align="center">
+    <strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EW9rZ2N5zsdIgfDPqQx2HqkBCimIcAtRyZeAW4qh68rHew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hpzD76">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EW9rZ2N5zsdIgfDPqQx2HqkBCimIcAtRyZeAW4qh68rHew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hpzD76</a>
+</p>
 
 <h2 id="bibliography">BIBLIOGRAFÍA</h2>
 
