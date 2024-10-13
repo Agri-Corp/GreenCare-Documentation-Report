@@ -2959,75 +2959,51 @@ En esta sección, presentamos el diagrama de clases y la implementación de dive
 </p>
 
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
-A continuación se muestra las entidades mas principales en formato markdown con las clases, atributos y métodos correspondientes:
+Para una mejor comprensión acerca del propósito de creación que cada uno de los objetos objeto con sus 
+diferentes propiedaeds y métodos, se detallará cada uno a continuación:
 
-### Usuario
+<br>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| id                  | intenger |
-| name                | string   |
-| Email               | string   |
-| password            | string   |
-| Rol                 | string   |
-| Métodos             | Descripción |
-|---------------------|----------------------------------------|
-| login(username, password) | Verifica las credenciales del usuario. Devuelve true si la autenticación es exitosa. |
-| register(username, password) | Registra un nuevo usuario con el nombre de usuario y la contraseña proporcionados. |
+* Usuario
 
-### Perfil
+<p style="text-align:justify">
+    Está clase estará conservando cada uno de los datos de los usuarios que se registraron dentro de la 
+    aplicación. Por tal motivo, será nuestra clase padre en la cual podemos garatizarán la gran mayoría de 
+    las abstracciones y herencias para construir otras entidades y extender la funcionalidad.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| nombre              | string   |
-| correo              | string   |
-| ImagenPerfil        | string   |
-| Rol                 | string   |
-| Métodos             | Descripción |
-|---------------------|----------------------------------------|
-| editarNombre()   | Edita el nombre del Perfil |
-| editarcorreo() | Edita el correo |
-| actualizarimagepperfil() | Actualiza la imagen. |
+* Perfil
 
-### Home
+<p style="text-align:justify">
+    Como una de las primeras clases hijas, la clase <q>Perfil</q> extenderá la mayoría de las propiedades de 
+    la clase Usuario para luego crear sus propios métodos, lo cual le permitirá definir su propio comportamiento
+    al momento de interactuar con la data del usuario recibida. Sin lugar a duda, un claro ejemplo de Polimorfismo
+    para fomentar la reutilización de código.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| ID                  | int      |
-| ProcesoID           | string   |
-| UsuarioID           | string   |
+* Garden
 
-### Garden
+<p style="text-align:justify">
+    Esta clase es útil para que el usuario pueda indagar los diferentes tipos de plantas en las cuales
+    desearía verificar cada uno de sus detalles para así tener un alcance general acerca de que medidas
+    necesarias requiere el cuidado de dicha planta.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| Plan_name           | boolean  |
-| Plan_time           | char     |
-| About_plan          | boolean  |
+* LifeCycle
 
-### LifeCycle
+<p style="text-align:justify">
+    Esta clase es la que medirá los diferentes índices acerca del cuidado que se está llevando con respecto
+    a las plantas. En gran medida, alertará al usuario ante cualquier riesgo que pueda encontrarse para así 
+    antenderla lo más pronto posible.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| Plant_Search        | boolean  |
-| Status_activites    | char     |
-| Métodos             | Descripción                            |
-|---------------------|----------------------------------------|
-| GenerateActivites().     |Genera las Actividades
-| EndCycle()    | Opciòn de terminar el ciclo |
-| StartCycle()  | Opciòn de iniciar el ciclo |
+* Settings
 
-### Settings
-
-| Atributos           | Tipos    |
-|---------------------|----------|
-| id               | string   |
-| name         | string   |
-| Email         | string   |
-| Métodos             | Descripción                            |
-|---------------------|----------------------------------------|
-| AddInformation()      | Añade Informacion                 |
-| SaveInformation()      | Guarda Informaciòn                 |
+<p style="text-align:justify">
+    Esta clase servirá para modificar los datos que por <em>default</em> se crearon para el perfil del usuario.
+    En gran parte, esto es una ventaja, por la principal razón que mantenemos actualizada la información
+    ante cualquier posible cambio que presente el usuario en cualquier momento.
+</p>
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
