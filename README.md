@@ -3355,7 +3355,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <thead>
         <tr>
             <th>Sprint #</th>
-            <th>Sprint 2</th>
+            <th>Sprint 1</th>
         </tr>
     </thead>
     <tbody>
@@ -3705,33 +3705,95 @@ Durante el Sprint 1, se logró un avance notable en la implementación de las pr
 En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "GreenCare". En esta página de inicio, encontrarás varias secciones creadas para nuestro Landing Page.
 
 <table>
-    <thead>
+    <tbody>
         <tr>
-            <th>Landing Page Repository</th>           
-            <td><a href="https://github.com/Agri-Corp/GreenCare-landing.git">https://github.com/Agri-Corp/GreenCare-landing.git</a></td>
+            <td style="text-align: center">
+                <strong>Repositorio - Landing Page</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCare-landing.git">https://github.com/Agri-Corp/GreenCare-landing.git</a>
+            </td>
         </tr>
-    </thead>
+    </tbody>
 </table>
-
-
 
 <h4 id="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
 Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones.
 
-|**`LANDING PAGE DESPLEGADO`**|>|[https://agri-corp.github.io/GreenCare-landing/](https://agri-corp.github.io/GreenCare-landing/)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Despliegue - Landing Page</strong>
+            </td>
+            <td>
+                <a href="https://agri-corp.github.io/GreenCare-landing/">https://agri-corp.github.io/GreenCare-landing/</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
+Para lo que concierne durante todo el desarrollo de este Sprint 1, cada uno de los miembros del equipo
+colaboró
+
+Colaboraciones de cada miembro del equipo:
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center">Alumno</th>
+            <th style="text-align:center">Actividad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">Raul Ronaldo Quispe Erasmo</td>
+            <td>
+                Implementación de las sección de galerías de fotos de los diversos tipos de plantas
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Luis Eduardo Lagos Aguilar</td>
+            <td>
+                Implementación de la vista de los planes de suscripción y la sección de los miembros
+                del equipo
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Manuel Alexis Vargas Quispe</td>
+            <td>
+                Implementación del navbar y la vista del sección del hero
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Juan Paul Llamccaya Arone</td>
+            <td>
+                Implementación de la sección de testimonios de usuarios
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">José Diego Huamani Sánchez</td>
+            <td>
+                Implementación de la sección de contactos y del footer
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Commits:**
+
 <p align="center">
-<img src="./src/images/Collaboration_Insights_Sprint1.png" style="width:auto; height: 250px"/>
+<img src="./src/images/Network-Commits-Sprint1-LandingPage.png" style="width:auto; height: 250px"/>
 </p>
 
 <p align="center">
 <img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:450px; height: 400px"/>
 </p>
-
 
 <h4 id="sprint2">5.2.2. Sprint 2</h4>
 
@@ -4041,17 +4103,18 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 <h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
 Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pantalla de home, garden, life cycle,plans y settings. Link de la aplicación:
-<br>
 
 * Vista de Home de la aplicación:
-<br>
 
 <img src="./src/images/Home_op.jpeg" alt="home" style="width:auto; height:120px text-align:center"/>
 
-* Vista de Garden:
 <br>
 
+* Vista de Garden:
+
 <img src="./src/images/Garden.jpeg" alt="garden" style="width:auto; height:120px text-align:center"/>
+
+<br>
 
 * Vista de Life Cycle:
 
@@ -4062,14 +4125,17 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 * Vista de Plans:
 
 <img src="./src/images/Plans.jpeg"  alt="Plans" style="width:auto; height:120px text-align:center"/>
+
 <br>
 
 * Vista de Settings:
 
 <img src="./src/images/Settings.jpeg"  alt="Settings" style="width:auto; height:120px text-align:center"/>
+
 <br>
 
 <h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
 
 |**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
 |-----|----|----|
