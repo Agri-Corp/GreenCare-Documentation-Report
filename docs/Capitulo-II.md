@@ -109,6 +109,47 @@ Realizar un análisis competitivo es lo primordial para identificar competidores
 
 <h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
 
+Nuestras principales estrategias y tácticas que lanzaríamos como startup, estarían:
+
+
+##### Fortalezas de los competidores:
+- **Plantix**: Amplia base de conocimientos agrícolas y diagnóstico preciso, orientado a agricultores con grandes superficies.
+- **Gardening**: Proporciona alertas en tiempo real sobre condiciones climáticas que afectan a los cultivos, lo que permite a los usuarios tomar decisiones rápidas.
+- **Info Jardín**: Brinda guías exhaustivas sobre el cuidado de plantas y mantenimiento del jardín, apoyado en recomendaciones detalladas de expertos.
+
+##### Nuestras fortalezas:
+- **Interfaz intuitiva**: Agricorp ofrece una aplicación web fácil de usar que permite a los usuarios gestionar el cuidado de sus plantas mediante recordatorios y seguimiento personalizado.
+- **Orientación a principiantes**: A diferencia de algunos competidores que se enfocan en usuarios avanzados, Agricorp se dirige también a usuarios con poco conocimiento sobre el cuidado de plantas.
+- **Soporte completo**: Agricorp proporciona información específica para cada tipo de planta, cubriendo desde la preparación del suelo hasta la prevención de enfermedades.
+
+##### Estrategias para superar a nuestros competidores:
+- **Innovación continua**: Actualización constante de funcionalidades basadas en la retroalimentación de los usuarios. Introduciremos recomendaciones personalizadas según la ubicación y el tipo de planta del usuario.
+- **Alianzas estratégicas**: Colaboraciones con viveros locales y tiendas especializadas para ofrecer beneficios a los usuarios de Agricorp, como descuentos o asesoramiento exclusivo.
+- **Educación del usuario**: Desarrollaremos contenidos educativos accesibles (tutoriales, artículos y vídeos) que faciliten el aprendizaje sobre el cuidado de las plantas, destacando la simplicidad de la plataforma.
+
+##### Tácticas para superar a nuestros competidores:
+- **Soporte en tiempo real**: Implementaremos un sistema de asistencia que permita a los usuarios recibir respuestas rápidas a sus preguntas, asegurando una experiencia sin interrupciones.
+- **Plataforma omnicanal**: Ampliar la disponibilidad de Agricorp tanto en dispositivos móviles como en la web, permitiendo el acceso desde cualquier lugar.
+
+##### Estrategias para diferenciarnos:
+- **Enfoque comunitario**: Fomentaremos la creación de una comunidad de usuarios donde puedan compartir consejos, experiencias y desafíos sobre el cuidado de plantas.
+- **Personalización avanzada**: Utilizaremos datos como las preferencias del usuario para personalizar las recomendaciones de cuidado de plantas.
+
+##### Tácticas para diferenciarnos:
+- **Promociones exclusivas**: Ofrecer promociones a través de nuestras alianzas con viveros locales para incentivar la compra de insumos y herramientas de jardinería.
+
+##### Oportunidades:
+- **Crecimiento del mercado de jardinería doméstica**: Agricorp puede aprovechar el creciente interés en el cuidado de plantas en entornos urbanos mediante campañas de marketing en redes sociales y blogs especializados.
+- **Tecnología emergente**: El análisis de datos para mejorar las recomendaciones abre nuevas oportunidades para diferenciar nuestro producto.
+
+##### Amenazas:
+- **Competencia directa**: El aumento de aplicaciones dedicadas al cuidado de plantas y la jardinería podría disminuir la cuota de mercado.
+- **Falta de actualización tecnológica**: El riesgo de no mantener la plataforma actualizada con las nuevas tendencias tecnológicas.
+
+##### Estrategias para contrarrestar nuestras amenazas:
+- **Actualización tecnológica constante**: Implementar un plan de mejoras tecnológicas periódicas para garantizar que Agricorp esté siempre a la vanguardia de la innovación.
+- **Atención al cliente proactiva**: Ofrecer un servicio de atención al cliente de alta calidad para minimizar el impacto de cualquier problema técnico o de uso.
+
 <h3 id="interviews">2.2. Entrevistas</h4>
 
 En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
