@@ -357,25 +357,41 @@ Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás r
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
-|**`SEGMENTO OBJETIVO: Personas con Experiencia en Cuidado de Plantas`**|
-|---|
-|**`José Luis Huamani`**|
-|José Luis, de 57 años y docente de computación e informática, reside en Chorrillos y disfruta del cuidado de sus plantas como una actividad recreativa. Su experiencia incluye métodos prácticos para manejar problemas como plagas y cuidado de plantas, utilizando soluciones caseras como el uso de jabón para desinfectar hojas. Aunque no se menciona el uso específico de tecnología para jardinería, es probable que recurra a recursos en línea para mejorar sus técnicas. Prefiere productos para plantas de buena calidad y sin químicos dañinos, y aconseja ajustar las plantas al espacio y condiciones climáticas disponibles.|
-|**`Luis Alberto Martínez Gutiérrez`**|
-|Luis, de 28 años, estudia Ingeniería Agrícola y trabaja en el campo familiar. Su enfoque está en la agricultura orgánica y urbana, buscando integrar técnicas modernas y sostenibles como el cultivo hidropónico. Utiliza libros, materiales en línea, y participa en seminarios y talleres para aprender, además de seguir plataformas digitales como Facebook, Instagram y YouTube. Luis enfrenta desafíos como el control de plagas y la falta de agua, y es probable que use navegadores comunes y dispositivos estándar para consultar recursos sobre tecnología agrícola.|
-|**`Ricardo Torres Quispe`**|
-|Ricardo, de 24 años y estudiante de Agronomía, está enfocado en la agricultura convencional con un enfoque en mejorar la productividad y eficiencia mediante tecnología. Utiliza libros de texto, videos educativos, y participa en talleres para aprender. Sigue plataformas digitales como Facebook, Instagram y YouTube para mantenerse informado sobre técnicas modernas y avanzadas. Ricardo enfrenta problemas como la falta de agua y plagas resistentes, y utiliza navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre agricultura.|
+#### Segmento 1: Expertos en el cuidado de plantas
 
-<br>
+Las entrevistas con expertos en el cuidado de plantas revelaron detalles significativos acerca de sus hábitos y preferencias.
 
-|**`SEGMENTO OBJETIVO: Personas Jóvenes Interesadas en Agricultura Sostenible`**|
-|---|
-|**`Lucia Melendez`**|
-|Lucia, de 20 años y estudiante de diseño de interiores, está en las primeras etapas de aprendizaje sobre agricultura. Se interesa en la agricultura orgánica y está abierta a explorar técnicas avanzadas como el cultivo hidropónico. Aunque actualmente no utiliza plataformas digitales para informarse, sigue canales de YouTube y redes sociales para obtener conocimientos básicos. Enfrenta dificultades con el cuidado de plantas, como el riego excesivo, y busca mejorar su manejo mediante la educación adicional.|
-|**`Marcelo Sebastian Ramirez Ramirez`**|
-|Marcelo, de 19 años y estudiante de ingeniería de software, está motivado por un estilo de vida más sostenible y saludable. Se interesa en la agricultura urbana y orgánica, y busca integrar estas prácticas en su entorno doméstico. Utiliza plataformas digitales como YouTube y redes sociales para aprender sobre técnicas avanzadas como la hidroponía y enfrenta problemas con el riego y el control de plagas. Aunque su conocimiento es básico, está dispuesto a explorar más recursos tecnológicos en el futuro.|
-|**`Giovanni Ramos`**|
-|Giovani es un entusiasta de los huertos caseros, influenciado por sus padres, aunque aún es inexperto en agricultura. Encuentra difícil labrar la tierra y considera tedioso buscar información en línea sobre cómo hacer germinar plantas específicas, lo que consume mucho de su tiempo. Desea una aplicación que le facilite la gestión de sus plantas, brindándole información concisa sobre cada tipo de planta y nuevas técnicas para optimizar la creación de huertos. Su interés se centra en soluciones prácticas y accesibles que mejoren su experiencia en la agricultura casera.|
+**Principales desafíos:**
+- El 80% de los expertos mencionó que su mayor desafío es el control de plagas sin recurrir a productos químicos agresivos.
+- Otro 60% indicó que la variabilidad climática les obliga a adaptar sus métodos con frecuencia, especialmente aquellos que cultivan plantas en exteriores.
+
+**Técnicas efectivas:**
+- El 70% mencionó la rotación de cultivos y el uso de abonos orgánicos como técnicas clave.
+- El 60% también destacó el uso de sistemas de riego automatizado para mantener un control óptimo del agua.
+
+**Marcas y productos preferidos:**
+- El 85% de los entrevistados mencionó que prefieren marcas que promuevan productos orgánicos o sostenibles. Entre las marcas más mencionadas se destacan **BioGrow** y **EcoPlant**.
+
+**Objetivos principales:**
+- El 75% de los expertos indicó que su objetivo principal es mantener una colección diversa de plantas saludables, mientras que el 60% destacó la importancia de experimentar con nuevas técnicas de cultivo.
+
+
+#### Segmento 2: Personas interesadas en la agricultura
+
+Las entrevistas con personas interesadas en la agricultura proporcionaron información sobre sus aspiraciones y el tipo de apoyo que necesitan.
+
+**Motivaciones e intereses:**
+- El 65% de los entrevistados indicó que su principal motivación es conocer el mundo de la jardinería.
+- El 55% está particularmente interesado en la agricultura urbana, mientras que el 40% se inclina hacia la agricultura orgánica.
+
+**Conocimientos previos:**
+- Un 60% tiene conocimientos básicos sobre el cultivo de vegetales y frutas, pero le gustaría aprender más sobre el uso de técnicas avanzadas, como el riego por goteo y la hidroponía.
+
+**Recursos utilizados:**
+- El 50% mencionó haber utilizado cursos en línea como su principal fuente de aprendizaje, mientras que el 40% sigue blogs y canales de YouTube relacionados con la agricultura sostenible.
+
+**Interés en técnicas avanzadas:**
+- El 70% expresó interés en aprender más sobre el cultivo hidropónico y la permacultura, y el 60% está dispuesto a adoptar tecnologías avanzadas, como el monitoreo de cultivos con drones o sensores.
 
 <h3 id="needfinding">2.3. Needfinding</h3>
 
