@@ -262,9 +262,9 @@
 
 &nbsp; &nbsp;<a href="#sprint2">5.2.1. Sprint 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning2">5.2.2.1. Sprint Planning 1</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning2">5.2.2.1. Sprint Planning 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog2">5.2.2.2. Sprint Backlog 1</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog2">5.2.2.2. Sprint Backlog 2</a>
 
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</a>
 
@@ -277,6 +277,34 @@
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</a>
 
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</a>
+
+&nbsp; &nbsp;<a href="#sprint3">5.2.3. Sprint 3</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning3">5.2.3.1. Sprint Planning 3</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog3">5.2.3.2. Sprint Backlog 3</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</a>
+
+<a href="#validationInterviews">5.3. Validations Interviews/a>
+
+&nbsp; &nbsp;<a href="#validationDesign">5.3.1. Diseño de Entrevistas</a>
+
+&nbsp; &nbsp;<a href="#validationInterviews">5.3.2. Registro de entrevistas</a>
+
+&nbsp; &nbsp;<a href="#heuristicsEvaluation">5.3.3. Evaluaciones según Heurísticas</a>
+
+<a href="#videoAboutProduct">5.4. Video About The Product</a>
 
 <a href="conclution">CONCLUSIONES</a>
 
@@ -768,6 +796,44 @@ Realizar un análisis competitivo es lo primordial para identificar competidores
 </table>
 
 <h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
+
+Nuestras principales estrategias y tácticas que lanzaríamos como startup, estarían:
+##### Fortalezas de los competidores:
+- **Plantix**: Amplia base de conocimientos agrícolas y diagnóstico preciso, orientado a agricultores con grandes superficies.
+- **Gardening**: Proporciona alertas en tiempo real sobre condiciones climáticas que afectan a los cultivos, lo que permite a los usuarios tomar decisiones rápidas.
+- **Info Jardín**: Brinda guías exhaustivas sobre el cuidado de plantas y mantenimiento del jardín, apoyado en recomendaciones detalladas de expertos.
+
+##### Nuestras fortalezas:
+- **Interfaz intuitiva**: Agricorp ofrece una aplicación web fácil de usar que permite a los usuarios gestionar el cuidado de sus plantas mediante recordatorios y seguimiento personalizado.
+- **Orientación a principiantes**: A diferencia de algunos competidores que se enfocan en usuarios avanzados, Agricorp se dirige también a usuarios con poco conocimiento sobre el cuidado de plantas.
+- **Soporte completo**: Agricorp proporciona información específica para cada tipo de planta, cubriendo desde la preparación del suelo hasta la prevención de enfermedades.
+
+##### Estrategias para superar a nuestros competidores:
+- **Innovación continua**: Actualización constante de funcionalidades basadas en la retroalimentación de los usuarios. Introduciremos recomendaciones personalizadas según la ubicación y el tipo de planta del usuario.
+- **Alianzas estratégicas**: Colaboraciones con viveros locales y tiendas especializadas para ofrecer beneficios a los usuarios de Agricorp, como descuentos o asesoramiento exclusivo.
+- **Educación del usuario**: Desarrollaremos contenidos educativos accesibles (tutoriales, artículos y vídeos) que faciliten el aprendizaje sobre el cuidado de las plantas, destacando la simplicidad de la plataforma.
+##### Tácticas para superar a nuestros competidores:
+- **Soporte en tiempo real**: Implementaremos un sistema de asistencia que permita a los usuarios recibir respuestas rápidas a sus preguntas, asegurando una experiencia sin interrupciones.
+- **Plataforma omnicanal**: Ampliar la disponibilidad de Agricorp tanto en dispositivos móviles como en la web, permitiendo el acceso desde cualquier lugar.
+
+##### Estrategias para diferenciarnos:
+- **Enfoque comunitario**: Fomentaremos la creación de una comunidad de usuarios donde puedan compartir consejos, experiencias y desafíos sobre el cuidado de plantas.
+- **Personalización avanzada**: Utilizaremos datos como las preferencias del usuario para personalizar las recomendaciones de cuidado de plantas.
+
+##### Tácticas para diferenciarnos:
+- **Promociones exclusivas**: Ofrecer promociones a través de nuestras alianzas con viveros locales para incentivar la compra de insumos y herramientas de jardinería.
+
+##### Oportunidades:
+- **Crecimiento del mercado de jardinería doméstica**: Agricorp puede aprovechar el creciente interés en el cuidado de plantas en entornos urbanos mediante campañas de marketing en redes sociales y blogs especializados.
+- **Tecnología emergente**: El análisis de datos para mejorar las recomendaciones abre nuevas oportunidades para diferenciar nuestro producto.
+
+##### Amenazas:
+- **Competencia directa**: El aumento de aplicaciones dedicadas al cuidado de plantas y la jardinería podría disminuir la cuota de mercado.
+- **Falta de actualización tecnológica**: El riesgo de no mantener la plataforma actualizada con las nuevas tendencias tecnológicas.
+
+##### Estrategias para contrarrestar nuestras amenazas:
+- **Actualización tecnológica constante**: Implementar un plan de mejoras tecnológicas periódicas para garantizar que Agricorp esté siempre a la vanguardia de la innovación.
+- **Atención al cliente proactiva**: Ofrecer un servicio de atención al cliente de alta calidad para minimizar el impacto de cualquier problema técnico o de uso.
 
 <h3 id="interviews">2.2. Entrevistas</h4>
 
@@ -1324,25 +1390,31 @@ las plantas.
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
-|**`SEGMENTO OBJETIVO: Personas con Experiencia en Cuidado de Plantas`**|
-|---|
-|**`José Luis Huamani`**|
-|José Luis, de 57 años y docente de computación e informática, reside en Chorrillos y disfruta del cuidado de sus plantas como una actividad recreativa. Su experiencia incluye métodos prácticos para manejar problemas como plagas y cuidado de plantas, utilizando soluciones caseras como el uso de jabón para desinfectar hojas. Aunque no se menciona el uso específico de tecnología para jardinería, es probable que recurra a recursos en línea para mejorar sus técnicas. Prefiere productos para plantas de buena calidad y sin químicos dañinos, y aconseja ajustar las plantas al espacio y condiciones climáticas disponibles.|
-|**`Luis Alberto Martínez Gutiérrez`**|
-|Luis, de 28 años, estudia Ingeniería Agrícola y trabaja en el campo familiar. Su enfoque está en la agricultura orgánica y urbana, buscando integrar técnicas modernas y sostenibles como el cultivo hidropónico. Utiliza libros, materiales en línea, y participa en seminarios y talleres para aprender, además de seguir plataformas digitales como Facebook, Instagram y YouTube. Luis enfrenta desafíos como el control de plagas y la falta de agua, y es probable que use navegadores comunes y dispositivos estándar para consultar recursos sobre tecnología agrícola.|
-|**`Ricardo Torres Quispe`**|
-|Ricardo, de 24 años y estudiante de Agronomía, está enfocado en la agricultura convencional con un enfoque en mejorar la productividad y eficiencia mediante tecnología. Utiliza libros de texto, videos educativos, y participa en talleres para aprender. Sigue plataformas digitales como Facebook, Instagram y YouTube para mantenerse informado sobre técnicas modernas y avanzadas. Ricardo enfrenta problemas como la falta de agua y plagas resistentes, y utiliza navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre agricultura.|
+#### Segmento 1: Expertos en el cuidado de plantas
 
-<br>
+Las entrevistas con expertos en el cuidado de plantas revelaron detalles significativos acerca de sus hábitos y preferencias.
 
-|**`SEGMENTO OBJETIVO: Personas Jóvenes Interesadas en Agricultura Sostenible`**|
-|---|
-|**`Lucia Melendez`**|
-|Lucia, de 20 años y estudiante de diseño de interiores, está en las primeras etapas de aprendizaje sobre agricultura. Se interesa en la agricultura orgánica y está abierta a explorar técnicas avanzadas como el cultivo hidropónico. Aunque actualmente no utiliza plataformas digitales para informarse, sigue canales de YouTube y redes sociales para obtener conocimientos básicos. Enfrenta dificultades con el cuidado de plantas, como el riego excesivo, y busca mejorar su manejo mediante la educación adicional.|
-|**`Marcelo Sebastian Ramirez Ramirez`**|
-|Marcelo, de 19 años y estudiante de ingeniería de software, está motivado por un estilo de vida más sostenible y saludable. Se interesa en la agricultura urbana y orgánica, y busca integrar estas prácticas en su entorno doméstico. Utiliza plataformas digitales como YouTube y redes sociales para aprender sobre técnicas avanzadas como la hidroponía y enfrenta problemas con el riego y el control de plagas. Aunque su conocimiento es básico, está dispuesto a explorar más recursos tecnológicos en el futuro.|
-|**`Giovanni Ramos`**|
-|Giovani es un entusiasta de los huertos caseros, influenciado por sus padres, aunque aún es inexperto en agricultura. Encuentra difícil labrar la tierra y considera tedioso buscar información en línea sobre cómo hacer germinar plantas específicas, lo que consume mucho de su tiempo. Desea una aplicación que le facilite la gestión de sus plantas, brindándole información concisa sobre cada tipo de planta y nuevas técnicas para optimizar la creación de huertos. Su interés se centra en soluciones prácticas y accesibles que mejoren su experiencia en la agricultura casera.|
+**Principales desafíos:**
+- El 80% de los expertos mencionó que su mayor desafío es el control de plagas sin recurrir a productos químicos agresivos.
+- Otro 60% indicó que la variabilidad climática les obliga a adaptar sus métodos con frecuencia, especialmente aquellos que cultivan plantas en exteriores.
+**Técnicas efectivas:**
+- El 70% mencionó la rotación de cultivos y el uso de abonos orgánicos como técnicas clave.
+- El 60% también destacó el uso de sistemas de riego automatizado para mantener un control óptimo del agua.
+**Marcas y productos preferidos:**
+- El 85% de los entrevistados mencionó que prefieren marcas que promuevan productos orgánicos o sostenibles. Entre las marcas más mencionadas se destacan **BioGrow** y **EcoPlant**.
+**Objetivos principales:**
+- El 75% de los expertos indicó que su objetivo principal es mantener una colección diversa de plantas saludables, mientras que el 60% destacó la importancia de experimentar con nuevas técnicas de cultivo.
+#### Segmento 2: Personas interesadas en la agricultura
+Las entrevistas con personas interesadas en la agricultura proporcionaron información sobre sus aspiraciones y el tipo de apoyo que necesitan.
+**Motivaciones e intereses:**
+- El 65% de los entrevistados indicó que su principal motivación es conocer el mundo de la jardinería.
+- El 55% está particularmente interesado en la agricultura urbana, mientras que el 40% se inclina hacia la agricultura orgánica.
+**Conocimientos previos:**
+- Un 60% tiene conocimientos básicos sobre el cultivo de vegetales y frutas, pero le gustaría aprender más sobre el uso de técnicas avanzadas, como el riego por goteo y la hidroponía.
+**Recursos utilizados:**
+- El 50% mencionó haber utilizado cursos en línea como su principal fuente de aprendizaje, mientras que el 40% sigue blogs y canales de YouTube relacionados con la agricultura sostenible.
+**Interés en técnicas avanzadas:**
+- El 70% expresó interés en aprender más sobre el cultivo hidropónico y la permacultura, y el 60% está dispuesto a adoptar tecnologías avanzadas, como el monitoreo de cultivos con drones o sensores.
 
 <h3 id="needfinding">2.3. Needfinding</h3>
 
@@ -3873,173 +3945,174 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 <h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 2</h4>
 
 <table>
-  <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td   colspan="7"> <strong>Sprint 2</strong> </td>
-  </tr>
-
-   <tr>
-    <td   colspan="2"> <strong>User Story</strong></td>
-    <td   colspan="6"> <strong>Work-item/Task</strong></td>
-  </tr>
-  <tr>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>Description</strong></td>
-    <td  > <strong>Estimation (Hours)</strong></td>
-    <td  > <strong>Assigned To</strong></td>
-    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
-  </tr>
-  <tr>
-    <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td> ??</td>
-    <td> ?? ??</td>
-    <td>???????? </td>
-    <td>? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="4"> ??</td>
-    <td rowspan="4"> ??????</td>
-    <td> ??</td>
-    <td> ?? ??</td>
-    <td>????????</td>
-    <td>? </td>
-    <td> ?? ?? </td>
-    <td> Done </td>
-  </tr>
-  <tr>
-    <td> ??</td>
-    <td> ?? ??</td>
-    <td>????????</td>
-    <td>? </td>
-    <td> ?? ?? </td>
-    <td> Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="1"> ??</td>
-    <td rowspan="1"> ?? ??</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th>Work-item/Task</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US001</td>
+            <td>Shared Components</td>
+            <td>UT-014</td>
+            <td>Creación de componentes compartidos</td>
+            <td>Desarrollo de componentes reutilizables para varias secciones de la aplicación</td>
+            <td>3</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-015</td>
+            <td>Integración de componentes compartidos</td>
+            <td>Integración de los componentes compartidos en el branch 'develop'</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US002</td>
+            <td>Public Components</td>
+            <td>UT-016</td>
+            <td>Creación de componentes públicos</td>
+            <td>Desarrollo de componentes accesibles para los usuarios no registrados</td>
+            <td>3</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-017</td>
+            <td>Integración de componentes públicos</td>
+            <td>Integración de los componentes públicos en el branch 'develop'</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US003</td>
+            <td>Servicio de Datos</td>
+            <td>UT-018</td>
+            <td>Creación de servicio de datos</td>
+            <td>Implementación del servicio para la obtención y actualización de datos</td>
+            <td>3</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-019</td>
+            <td>Documentación del servicio de datos</td>
+            <td>Documentación del funcionamiento y uso del servicio de datos</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US004</td>
+            <td>Configuración</td>
+            <td>UT-020</td>
+            <td>Creación de componente Settings</td>
+            <td>Permite a los usuarios cambiar su nombre, correo, y cerrar sesión</td>
+            <td>3</td>
+            <td>Juan Paul Llamccaya Arone</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-021</td>
+            <td>Estilos del componente Settings</td>
+            <td>Aplicación de estilos al componente de configuración según el prototipo</td>
+            <td>1</td>
+            <td>Juan Paul Llamccaya Arone</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US005</td>
+            <td>Planes</td>
+            <td>UT-022</td>
+            <td>Creación de componente Plans</td>
+            <td>Desarrollo de la página de planes, mostrando las opciones gratuitas y premium</td>
+            <td>2</td>
+            <td>Raul Ronaldo Quispe Erasmo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-023</td>
+            <td>Estilos del componente Plans</td>
+            <td>Personalización de los estilos del componente de planes según el diseño</td>
+            <td>1</td>
+            <td>Raul Ronaldo Quispe Erasmo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US006</td>
+            <td>Garden</td>
+            <td>UT-024</td>
+            <td>Creación de componente Garden</td>
+            <td>Muestra las plantas disponibles con opciones de búsqueda y visualización de detalles</td>
+            <td>3</td>
+            <td>Manuel Alexis Vargas Quispe</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-025</td>
+            <td>Estilos del componente Garden</td>
+            <td>Ajuste de estilos para el componente Garden en base al diseño</td>
+            <td>1</td>
+            <td>Manuel Alexis Vargas Quispe</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US007</td>
+            <td>Home</td>
+            <td>UT-026</td>
+            <td>Creación del componente Home</td>
+            <td>Muestra la vista predeterminada con actividades diarias de cuidado de plantas</td>
+            <td>2</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-027</td>
+            <td>Estilos del componente Home</td>
+            <td>Personalización de los estilos del componente Home para una visualización coherente</td>
+            <td>1</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-028</td>
+            <td>Ajustes finales</td>
+            <td>Corrección de errores y ajustes de integración</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
 </table>
 
 <h4 id="developmentEvidenceSprint2">5.2.2.2. Development Evidence for Sprint Review</h4>
@@ -4098,9 +4171,13 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 
 <h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
 
-Para este sprint, nos centramos en la culminación de este nuevo entregable - que viene a ser el desarrollo del Web Applicaction -, por lo que al centralizar ese aspecto y actualizar la funcionalidad del Landing Page, no llevamos una prueba de testeo para este sprint; pero no se descarta que para en un Sprint no muy lejano se valide cada funcionalidad antes de poder presentarselo a nuestros clientes y stakeholders.
+Para este sprint, nos centramos en la culminación de este nuevo entregable - que viene a ser el 
+desarrollo del Web Applicaction -, por lo que al centralizar ese aspecto y actualizar la funcionalidad 
+del Landing Page, no llevamos una prueba de testeo para este sprint; pero no se descarta que para en 
+un Sprint no muy lejano se valide cada funcionalidad antes de poder presentarselo a nuestros clientes 
+y stakeholders.
 
-<h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
+<h4 id="testSuiteEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
 Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pantalla de home, garden, life cycle,plans y settings. Link de la aplicación:
 
@@ -4216,11 +4293,394 @@ Colaboraciones de cada miembro del equipo:
 **Commits:**
 
 <p align="center">
-<img src="" alt="Commits-Workflow-Sprint2" style="width:auto; height: 250px"/>
+<img src="./src/images/Commits-Collaboration-Insights=Sprint2.png" alt="Commits-Workflow-Sprint2" style="width:auto; height: 250px"/>
 </p>
 
 <p align="center">
-<img src="" alt="Collaboration-Insights-Sprint2" style="width:450px; height: 400px"/>
+<img src="./src/images/WorkFlow-Sprint2.png alt="Collaboration-Insights-Sprint2" style="width:450px; height: 400px"/>
+</p>
+
+<h4 id="sprint3">5.2.3. Sprint 3</h4>
+
+<h4 id="sprintPlanning3">5.2.3.1. Sprint Planning 3</h4>
+
+<h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 3</h4>
+
+
+<h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
+
+<h4 id="testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</h4>
+
+Para este Sprint 3, nos hemos centrado en la creación de cada uno de los *Endpoints* que utilizará cada
+uno de los servicios en nuestra aplicación de Angular. Por loq que, por priorizar cada uno de los features
+programados, para este entregable no hemos desarrollados pruebas de testing.
+
+<h4 id="servicesDocumentationSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
+
+<h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - RESTful API</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCare-API">https://github.com/Agri-Corp/GreenCare-API</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Despliegue - RESTful API</strong>
+            </td>           
+            <td>
+                <a href=""></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</h4>
+
+En este Sprint 3, se mostrarán cada uno de los *insights* que corresponden al entregable grupal desarrollado en Github.
+
+Para el caso del Web Application, se incluyeron las vistas principales y algunos ajustes de diseño UI que en sí quedaban
+pendientes del Sprint anterior; por otra parte, ose mejoró la funcionalidad de cambiar el idioma en la aplicaición ya que
+habían algunas secciones que no las traduccia correctamente.
+
+**Link del Repositorio del Web Application:**
+<a href="https://github.com/Agri-Corp/GreenCareApp">https://github.com/Agri-Corp/GreenCareApp</a>
+
+Para visualizar el esfuerzo desarrollado por cada uno de los miembros del equipo, se adjunta el indicardor de commits
+acerca de todos los cambios llevados a cabo.
+
+<p align="center">
+    <img src="./src/images/Contributors-Sprint3-FrontEnd.png" alt="ScreenShoot de los commits del Repositorio del Web App" style="width:450px; height: auto;"/>
+</p>
+
+Adicional a ello, se muestra el *Gitflow* sobre las diversas ramas en las cuales hemos trabajado para la implementación
+de cada una de las features.
+
+<p align="center">
+    <img src="./src/images/Gitflow-Sprint3.png" alt="ScreenShoot del Gitfowdel Sprint 3" style="width:500px; height: auto;"/>
+</p>
+
+<h2 id="validationInterviews">5.3. Validation Interviews</h2>
+
+Tras el avance en cuanto al desarrollo del Landing Page, Frontend Application y Restful API sobre el producto GreenCare,
+se paso a llevar a cabo cada una de las entrevistas de validación para cada uno de nuestros segmentos objetivos para que
+puedan apreciar en primera instancia el software funcional.
+
+<h3 id="#validationDesign">5.3.1. Diseño de Entrevistas</h3>
+
+1. ¿Qué aspectos de nuestro Landing Page así como nuestra aplicación son los que más te ha llamado la atención? <br>
+
+2. ¿Qué observaciones o detalles visuales son los que te gustaría ver una mejoría? <br>
+
+3. Para ti ¿Cómo impactaría el sistema de planes de suscripción en nuestra aplicacion? ¿Consideras que debería ser algo relevante? <br>
+
+4. ¿Cómo te gustaría validar la información de cuenta dentro de la aplicación? <br>
+
+5. Dentro de la sección de "Jardin", ¿Que persepciones tienes para darle una mejoría a la visualización? <br>
+
+6. ¿En comparaciones con otras aplicaciones del rubro, que tanto futuro o progreso le vez a nuestra aplicación? <br>
+
+7. ¿Que tan relevante consideras el aspecto de seguridad de registrarse o ingresar a una cuenta? <br>
+
+8. ¿Cúantas plantas te gustaría que se puedieran agregar dentro de la aplicación? En base a nuestro desarrollo, cúal sería la mejor forma de validar e informar los detalles de tus plantas registradas? <br>
+
+<h3 id="#validationInterviews">5.3.2. Registro de Entrevistas</h3>
+
+**Entrevista de Validación #1**
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Ricardo</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Torres Quispe</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Andahuaylas, en la sierra de Apurímac</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>00:00 min - 03:40 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:40 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1">
+                    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="./src/images/ValidationInterview2.jfif" alt="Entrevista#2 Validación - Ricardo Torres Quispe" style="width:400px"/>
+</p>
+
+**Resumen de la Entrevista:**
+
+<p style="text-align: justify">
+    La claridad de las secciones en la página principal de la aplicación es uno de los aspectos más destacados, especialmente en “Actividades de Hoy,” “Jardín,” y “Ciclo de Vida.” La manera en que se organiza y presenta la información clave, como los nombres de las plantas y su tiempo de vida, resulta útil y fácil de entender. Sin embargo, se sugieren algunas mejoras visuales, como hacer la barra de ciclo de vida de las plantas más llamativa y visible. Además, en la sección “Today Activities” sería beneficioso incluir íconos o colores que indiquen la urgencia de las tareas pendientes.
+    El sistema de planes de suscripción se percibe como útil, especialmente el plan premium que ofrece recomendaciones personalizadas y un ciclo de vida ilimitado. Esto es valioso para quienes buscan un cuidado a largo plazo de sus plantas, aunque es importante que la versión gratuita mantenga suficientes funcionalidades para atraer y mantener a nuevos usuarios. En cuanto a la validación de la información de la cuenta, se prefiere un proceso sencillo, como a través del correo electrónico, y se valora la existencia de un formulario en “Settings” para actualizar datos de manera fácil.
+    Respecto a la sección de "Jardín," las cartas de las plantas podrían mejorarse mostrando un resumen más detallado, como el tiempo de vida restante o recomendaciones rápidas. También se propone agregar un filtro adicional en la barra de búsqueda para que los usuarios puedan ver solo las plantas disponibles en la versión gratuita. En términos de potencial, se considera que la aplicación tiene un gran futuro debido a las funcionalidades únicas, como las recomendaciones y el ciclo de vida de las plantas. Si se sigue desarrollando con un equilibrio adecuado entre opciones para usuarios
+    gratuitos y premium, podría atraer a un público amplio. La seguridad al registrarse o iniciar sesión 
+    es relevante, ya que los usuarios desean proteger la información de sus plantas y ciclos de vida. 
+    Métodos simples y seguros, como el registro por correo electrónico con verificación opcional, son 
+    vistos como suficientes. En cuanto al número de plantas que se pueden agregar, 6 parece adecuado para 
+    la versión gratuita. También se valora recibir notificaciones de tareas pendientes y tener detalles 
+    claros sobre el cuidado de las plantas, especialmente en la sección “Lyfe Cycle.”
+</p>
+
+**Entrevista de Validación #2**
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Lucia</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Melendez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Villa Maria del Triunfo</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>03:40 min - 09:51 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>06:11 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1">
+                    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="./src/images/ValidationInterview-3.png" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+</p>
+
+**Resumen de la Entrevista:**
+
+<p style="text-align: justify">
+    En una reciente entrevista sobre la aplicación de gestión de plantas, se destacaron aspectos clave 
+    de la experiencia de usuario. La claridad en los planes de costos fue bien valorada, ya que evita 
+    contacto adicional con soporte. Se sugirió añadir un asistente virtual para responder dudas 
+    rápidamente y personalizar recomendaciones, además de mejorar la visualización en la sección “
+    Jardín” con imágenes más claras y grandes. El sistema de suscripción es adecuado y cumple su 
+    función. Para validar la información de cuenta, se propuso descargar un reporte, y en términos 
+    de seguridad, la verificación por correo es vista como suficiente. Finalmente, se sugirió 
+    categorizar las plantas en comestibles y decorativas, con reportes semanales para mantener 
+    informado al usuario.
+</p>
+
+**Entrevista de Validación #3**
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Luis Alberto</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Martínez Gutiérrez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Comunidad San Pedro - Apurimac, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>09:53 min - 13:02 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:09 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1">
+                    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="./src/images/ValidationInterview2.jfif" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+</p>
+
+**Resumen de la Entrevista:**
+
+<p style="text-align: justify">
+    Los aspectos más atractivos de la aplicación incluyen la claridad con la que se explican su propósito,
+    misión y visión, así como las animaciones interactivas en los recuadros, que aportan dinamismo a la 
+    experiencia del usuario. Sin embargo, algunos textos podrían beneficiarse de un mayor tamaño, y sería 
+    útil que los botones fueran más visibles para facilitar su identificación. En cuanto al sistema de 
+    suscripción, se considera importante que no limite las funciones básicas, aunque se reconoce el valor de
+    ofrecer detalles y recomendaciones adicionales en el plan premium. La validación de la información 
+    de cuenta debería ser sencilla, idealmente a través de correo electrónico, con la opción de usar el 
+    teléfono para soporte adicional en caso de necesidad. Para mejorar la sección de "Jardín," se sugiere 
+    mostrar una lista de plantas con fotos grandes y claras, permitiendo a los usuarios visualizar 
+    rápidamente el estado y las tareas pendientes de cada planta. La aplicación tiene un gran potencial, 
+    especialmente para personas fuera de las ciudades, siempre y cuando siga siendo accesible y fácil de 
+    usar para aquellos en zonas rurales. La seguridad de los datos es importante, pero no debe complicar 
+    el acceso a la cuenta. Finalmente, sería ideal poder agregar unas 10 plantas desde el principio, con 
+    notificaciones que informen sobre el estado y el progreso de cada una.
+</p>
+
+<h3 id="#heuristicsEvaluation">5.3.3. Evaluaciones según Heurísticas</h3>
+
+Gracias a todas los veredictos que argumentaron nuestros entrevistado, adjuntando a ello cada una de nuestras percepciones y experencias,
+analizaremos las heurísticas del diseño de nuestra aplicación.
+
+**1. Cuidado Intuitivo y Natural:**
+Los términos y visuales usados, como iconos de gotas de agua para riego o soles para luz, son fácilmente reconocibles y se relacionan con el entorno natural, ayudando a los usuarios a comprender las funciones sin esfuerzo.
+
+**2. Control Personalizado del Jardín:**
+Los usuarios tienen la libertad de ajustar las configuraciones de cuidado de sus plantas según las necesidades específicas, con acceso fácil a funciones avanzadas si desean más control sobre el mantenimiento.
+
+**3. Cohesión en el Diseño de Cuidado:**
+Las acciones y funciones de la aplicación son consistentes con las expectativas del usuario, haciendo que las tareas, como programar recordatorios o verificar la salud de las plantas, sean simples y comprensibles.
+
+**4. Manejo Preventivo del Cuidado de Plantas:**
+La aplicación proporciona advertencias y recomendaciones para prevenir errores, como regar en exceso o exponer las plantas a condiciones adversas, asegurando que los usuarios puedan cuidar eficazmente su jardín.
+
+**5. Información Claramente Identificable:**
+Las funciones y recomendaciones importantes se muestran de manera prominente, minimizando la necesidad de que los usuarios recuerden detalles complejos sobre el cuidado de las plantas.
+
+**6. Adaptabilidad y Eficiencia en el Cuidado:**
+El sistema se adapta a diferentes tipos de usuarios, permitiendo que tanto los principiantes como los jardineros expertos gestionen sus plantas de manera eficiente. Las opciones avanzadas están disponibles sin comprometer la simplicidad para los nuevos usuarios.
+
+**7. Educación y Asesoramiento Práctico:**
+La aplicación proporciona consejos útiles y guías paso a paso para el cuidado de diferentes tipos de plantas, ayudando a los usuarios a mejorar sus habilidades de jardinería. Las secciones educativas están diseñadas para ser fáciles de entender y accesibles, independientemente del nivel de experiencia del usuario.
+
+
+**8. Diseño Inspirador y Agradable:**
+La aplicación utiliza elementos visuales atractivos y colores que evocan la naturaleza, haciendo que la experiencia de uso sea placentera y motivando a los usuarios a pasar más tiempo gestionando sus plantas. Un diseño cuidado y armonioso fomenta una conexión emocional con el proceso de jardinería.
+
+<h2 id="videoAboutProduct">5.4. Video About-The-Product</h2>
+
+En esta sección se mostrará el *Video-About-the-Product* el cuál incluirá cada uno de los detalles más relevantes del porqué nos deben preferir como una de las mejores opciones para el cuidado de las plantas.
+
+Se adjuntan los enlaces de los videos para que puedan interactuar con ellos en nuestras diversas plataformas de streaming:
+
+* **Microsoft Stream:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-_LpCraslt9mfUHQBTepVjbADjP5q1WXrSZla2Q?e=yqwESE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-_LpCraslt9mfUHQBTepVjbADjP5q1WXrSZla2Q?e=yqwESE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+* **Youtube:** <a href="https://youtu.be/tIN8O864GKA">https://youtu.be/tIN8O864GKA</a>
+
+**Duración:** 00:25
+
+**Screenshot del video:** 
+<p align="center">
+    <img src="./src/images/VIdeo=About-The-Product-Banner.png" alt="Video-About-The-Product, Greencare" style="width: auto; height:300px"/>
 </p>
 
 <h2 id="conclution">CONCLUSIONES</h2>
@@ -4242,6 +4702,15 @@ Colaboraciones de cada miembro del equipo:
 * Aplicar Domain Driven Design en el desarrollo Frontend y backend permite un proyecto más escalable tolerante al cambio, ordenado y fácil de manejar cuando estamos manipulando una aplicación con ciera complejidad. Asimismo, permite delegar y realizar cambios en el código de manera más fácil en lo que se refiere en el trabajo colaborativo.
 
 * En correspondencia a las respuesta, de lo cual obtuvimos en las entrevistas por parte de nuestros dos segmentos, recomendamos amplicamente que en futuros productos de software nos incluyan la posibilidad de que el usuario seleccione un idioma en especifico para que pueda obtener buenas referencias y pueda ser entendible en cada idioma materno.
+
+*TB2*
+
+* Para lo que respecta al bounded context de security, se recomienda para los futuros developers abordar para el siguiente sprint los siguientes **features** que no pudieron desarrollarse dentro de todo el ciclo de vida del proyecto y que, gracias a ello, brindará una mejor experiencia en la interacción que tendrá el usuario dentro con la aplicación así como garantizar la confidencialidad de su información brindada.
+
+    * Enviar correos electrónicos a la bandeja de entrada del usuario para notificar la creación exitosa de su cuenta.
+    * Realizar validaciones en cada uno los formularios dentro de la aplicación de Angular para detallar las denegaciones o impedimentos.
+    * Realizar funciones o **Store Procedures** en vez de consultas dinámicas para mitigar los riesgos de ataques de <q>SQL Injection</q>.
+    * Realizar pruebas de estrés para determinar las capacidades máximas que puede soportar nuestra aplicación para así realizar mantenimientos y/o escalamientos en base a las necesidades futuras.
 
 <br>
 
@@ -4309,59 +4778,3 @@ Colaboraciones de cada miembro del equipo:
 * <p>Tune, N. (2018). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. <a href="https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578">https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578</a></p>
 
 <h2 id="anexos">ANEXOS</h2>
-
-<table>
-<tr>
-<th colspan="17">LINKS DE TODOS LOS CAPÍTULOS</th>
-</tr>
-<tr>
-<td Cowspan="2">CAPITULOS</td>
-<td>ENLACE</td>
-<td>¿De qué trata?</td>
-</tr>
-<tr>
-<td Rowspan="2">CHAPTER 1</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 2</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 3</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 4</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 5</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-</table>
