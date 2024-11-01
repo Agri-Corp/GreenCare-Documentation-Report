@@ -4380,6 +4380,82 @@ Colaboraciones de cada miembro del equipo:
 
 <h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
 
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center">https://github.com/Agri-Corp/GreenCare-API</td>
+    <td align="center">main</td>
+    <td align="center"> 4d443daccc3a3ab89937922cbd90524137d4fc73</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/08/14</td>
+  </tr>
+  
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">03c9bce1069d0a01c1822d155c0194f28ac65462</td>
+    <td align="center"> feat: laying the foundation for the backend</td>
+    <td align="center"> feat: laying the foundation for the backend</td>
+    <td align="center"> 2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">b4540d72740465ff59d228ae98db25f00383b1da</td>
+    <td align="center">fix: moving folder locations</td>
+    <td align="center">fix: moving folder locations</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+  
+  <tr>
+    <td align="center">feature/service</td>
+    <td align="center">b73224de6a048a6d75584ddab015a97292a687a3</td>
+    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
+    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
+    <td align="center"> 2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/model</td>
+    <td align="center">872efc6054de70094026d05b064c602f66d2aa82</td>
+    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
+    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/repository</td>
+    <td align="center">0d8c71fe1a09d26ea6d42c56b8ac75c372832235</td>
+    <td align="center">feat: add the reposity Core to administrate the Plants</td>
+    <td align="center">feat: add the reposity Core to administrate the Plants</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">619f5015362137cd6a1d6ada51627d3b29518cd5</td>
+    <td align="center">Merge branch 'feature/repository' into develop</td>
+    <td align="center">Merge branch 'feature/repository' into develop</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">172edc2c286945a9b9978ce593e4a05a7c5b599b</td>
+    <td align="center">Update PlantsController.java</td>
+    <td align="center">Update PlantsController.java</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+</table>
+
 <h4 id="testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</h4>
 
 Para este Sprint 3, nos hemos centrado en la creación de cada uno de los *Endpoints* que utilizará cada
@@ -4387,6 +4463,14 @@ uno de los servicios en nuestra aplicación de Angular. Por loq que, por prioriz
 programados, para este entregable no hemos desarrollados pruebas de testing.
 
 <h4 id="servicesDocumentationSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
+
+Despues de culminar satisfactoriamente el sprint 3, logramos implementar el primer endpoint que va en relación a la consulta de cada una de las plantas que el usuario va a ir agregando dentro de la aplicación.
+
+* Vista del Endpoint Plants:
+
+<img src="./src/images/Execution-Sprint3-Backend.jfif" alt="home" style="width:auto; height:120px text-align:center"/>
+
+<br>
 
 <h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
 
