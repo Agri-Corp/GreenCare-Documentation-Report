@@ -110,165 +110,211 @@
 
 ## Contenido
 
-<a href="">CAPÍTULO 1: INTRODUCCIÓN</a>
+<a href="#introduction">CAPÍTULO 1: INTRODUCCIÓN</a>
 
-<a href="">1.1. Startup Profile</a>
+<a href="#startupProfile">1.1. Startup Profile</a>
 
-&nbsp; &nbsp;<a href="">1.1.1. Descripción de la Startup</a>
+&nbsp; &nbsp;<a href="#descriptionStartup">1.1.1. Descripción de la Startup</a>
 
-&nbsp; &nbsp;<a href="">1.1.2. Perfiles de Integrantes del equipo</a>
+&nbsp; &nbsp;<a href="#teamProfile">1.1.2. Perfiles de Integrantes del equipo</a>
 
-<a href="">1.2. Solution Profile</a>
+<a href="#solutionProfile">1.2. Solution Profile</a>
 
-&nbsp; &nbsp;<a href="">1.2.1. Antecedentes y problemática</a>
+&nbsp; &nbsp;<a href="#Antecedents">1.2.1. Antecedentes y problemática</a>
 
-&nbsp; &nbsp;<a href="">1.2.2. Lean UX Process</a>
+&nbsp; &nbsp;<a href="#leanUXProcess">1.2.2. Lean UX Process</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.1. Lean UX Problem Statement</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#problemStatement">1.2.2.1. Lean UX Problem Statement</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.2. Lean UX Assumptions</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#assumptions">1.2.2.2. Lean UX Assumptions</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.3. Lean UX Hypothesis Statements</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">1.2.2.4. Lean UX Canvas</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="UXCanvas">1.2.2.4. Lean UX Canvas</a>
 
-<a href="">1.3. Segmentos objetivos</a>
+<a href="objectiveSegment">1.3. Segmentos objetivos</a>
 
-<a href="">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</a>
+<a href="#requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</a>
 
-<a href="">2.1. Competidores</a>
+<a href="#competitors">2.1. Competidores</a>
 
-&nbsp; &nbsp;<a href="">2.1.1. Análisis Competitivo</a>
+&nbsp; &nbsp;<a href="#competitiveAnalysis">2.1.1. Análisis Competitivo</a>
 
-&nbsp; &nbsp;<a href="">2.1.2. Estrategias y tácticas frente a competidores</a>
+&nbsp; &nbsp;<a href="#competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</a>
 
-<a href="">2.2. Entrevistas</a>
+<a href="#interviews">2.2. Entrevistas</a>
 
-&nbsp; &nbsp;<a href="">2.2.1. Diseño de enetrevistas</a>
+&nbsp; &nbsp;<a href="#interviewDesign">2.2.1. Diseño de enetrevistas</a>
 
-&nbsp; &nbsp;<a href="">2.2.2. Registro de entrevistas</a>
+&nbsp; &nbsp;<a href="#registerInterview">2.2.2. Registro de entrevistas</a>
 
-&nbsp; &nbsp;<a href="">2.2.3. Análisis de entrevistas</a>
+&nbsp; &nbsp;<a href="#analysisInterview">2.2.3. Análisis de entrevistas</a>
 
-<a href="">2.3. Needfinding</a>
+<a href="#needfinding">2.3. Needfinding</a>
 
-&nbsp; &nbsp;<a href="">2.3.1. User Personas</a>
+&nbsp; &nbsp;<a href="#userPersonas">2.3.1. User Personas</a>
 
-&nbsp; &nbsp;<a href="">2.3.2. User Task Matrix</a>
+&nbsp; &nbsp;<a href="#userTaskMatrix">2.3.2. User Task Matrix</a>
 
-&nbsp; &nbsp;<a href="">2.3.3. User Journey Mapping</a>
+&nbsp; &nbsp;<a href="#userJourneyMapping">2.3.3. User Journey Mapping</a>
 
-&nbsp; &nbsp;<a href="">2.3.4. Empathy Mapping</a>
+&nbsp; &nbsp;<a href="#empathyMap">2.3.4. Empathy Mapping</a>
 
-&nbsp; &nbsp;<a href="">2.3.5. As-is Scenario Mapping</a>
+&nbsp; &nbsp;<a href="asIsScenario">2.3.5. As-is Scenario Mapping</a>
 
-<a href="">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</a>
+<a href="#requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</a>
 
-<a href="">3.1. To-Be Scenario Mapping</a>
+<a href="#toBeScenario">3.1. To-Be Scenario Mapping</a>
 
-<a href="">3.2. User Stories</a>
+<a href="#userStories">3.2. User Stories</a>
 
-<a href="">3.3. Impact Mapping</a>
+<a href="#impactMapping">3.3. Impact Mapping</a>
 
-<a href="">3.4. Product Backlog</a>
+<a href="#productBacklog">3.4. Product Backlog</a>
 
-<a href="">CAPÍTULO 4: PRODUCT DESIGN</a>
+<a href="#productDesign">CAPÍTULO 4: PRODUCT DESIGN</a>
 
-<a href="">4.1. Style Guidelines</a>
+<a href="#styleGuidelines">4.1. Style Guidelines</a>
 
-&nbsp; &nbsp;<a href="">4.1.1. General Style Guidelines</a>
+&nbsp; &nbsp;<a href="#generalStyleGuidelines">4.1.1. General Style Guidelines</a>
 
-&nbsp; &nbsp;<a href="">4.1.2. Web Style Guidelines</a>
+&nbsp; &nbsp;<a href="#webStyleGuidelines">4.1.2. Web Style Guidelines</a>
 
-<a href="">4.2. Information Architecture</a>
+<a href="#infoArchitecture">4.2. Information Architecture</a>
 
-&nbsp; &nbsp;<a href="">4.2.1. Organization Systems</a>
+&nbsp; &nbsp;<a href="#orgSystem">4.2.1. Organization Systems</a>
 
-&nbsp; &nbsp;<a href="">4.2.2. Labeling Systems</a>
+&nbsp; &nbsp;<a href="#labelSystem">4.2.2. Labeling Systems</a>
 
-&nbsp; &nbsp;<a href="">4.2.3. SEO Tags and Meta Tags</a>
+&nbsp; &nbsp;<a href="#seoTags">4.2.3. SEO Tags and Meta Tags</a>
 
-&nbsp; &nbsp;<a href="">4.2.4. Searching Systems</a>
+&nbsp; &nbsp;<a href="#searchSystem">4.2.4. Searching Systems</a>
 
-&nbsp; &nbsp;<a href="">4.2.5. Navigation System</a>
+&nbsp; &nbsp;<a href="#navigationSystem">4.2.5. Navigation System</a>
 
-<a href="">4.3. Landing Page UI Design</a>
+<a href="#landingDesign">4.3. Landing Page UI Design</a>
 
-&nbsp; &nbsp;<a href="">4.3.1. Landing Page Wireframe</a>
+&nbsp; &nbsp;<a href="#landingWireframe">4.3.1. Landing Page Wireframe</a>
 
-&nbsp; &nbsp;<a href="">4.3.2. Landing Page Mock-up</a>
+&nbsp; &nbsp;<a href="#landingMockUp">4.3.2. Landing Page Mock-up</a>
 
-<a href="">4.4. Web Applications UX/UI Design</a>
+<a href="#webAppDesign">4.4. Web Applications UX/UI Design</a>
 
-&nbsp; &nbsp;<a href="">4.4.1. Web Applications Wireframes</a>
+&nbsp; &nbsp;<a href="#webAppWireframes">4.4.1. Web Applications Wireframes</a>
 
-&nbsp; &nbsp;<a href="">4.4.2. Web Applications Wireflow Diagrams</a>
+&nbsp; &nbsp;<a href="#webAppWireflow">4.4.2. Web Applications Wireflow Diagrams</a>
 
-&nbsp; &nbsp;<a href="">4.4.3. Web Applications Mock-ups</a>
+&nbsp; &nbsp;<a href="#webAppMockups">4.4.3. Web Applications Mock-ups</a>
 
-&nbsp; &nbsp;<a href="">4.4.4. Web Applications User Flow Diagrams</a>
+&nbsp; &nbsp;<a href="#webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</a>
 
-<a href="">4.5. Web Applications Prototyping</a>
+<a href="#webAppPrototyping">4.5. Web Applications Prototyping</a>
 
-<a href="">4.6. Domain-Driven Software Architecture</a>
+<a href="#DDD">4.6. Domain-Driven Software Architecture</a>
 
-&nbsp; &nbsp;<a href="">4.6.1. Software Architecture Context Diagrams</a>
+&nbsp; &nbsp;<a href="#contextDiagram">4.6.1. Software Architecture Context Diagrams</a>
 
-&nbsp; &nbsp;<a href="">4.6.2. Software Architecture Container Diagrams</a>
+&nbsp; &nbsp;<a href="#containerDiagram">4.6.2. Software Architecture Container Diagrams</a>
 
-&nbsp; &nbsp;<a href="">4.6.3. Software Architecture Components Diagrams</a>
+&nbsp; &nbsp;<a href="#componentDiagram">4.6.3. Software Architecture Components Diagrams</a>
 
-<a href="">4.7. Software Object-Oriented Design</a>
+<a href="#softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</a>
 
-&nbsp; &nbsp;<a href="">4.7.1. Class Diagrams</a>
+&nbsp; &nbsp;<a href="#classDiagram">4.7.1. Class Diagrams</a>
 
 &nbsp; &nbsp;<a href="">4.7.2. Class Dictionary</a>
 
-<a href="">4.8. Database Design</a>
+<a href="#dbDesign">4.8. Database Design</a>
 
-&nbsp; &nbsp;<a href="">4.8.1. Database Diagram</a>
+&nbsp; &nbsp;<a href="#dbDiagram">4.8.1. Database Diagram</a>
 
-<a href="">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</a>
+<a href="#productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</a>
 
-<a href="">5.1. Software Configuration Management</a>
+<a href="#softwareConfig">5.1. Software Configuration Management</a>
 
-&nbsp; &nbsp;<a href="">5.1.1. Software Development Environment Configuration</a>
+&nbsp; &nbsp;<a href="#softwareDevelopment">5.1.1. Software Development Environment Configuration</a>
 
-&nbsp; &nbsp;<a href="">5.1.2. Source Code Management</a>
+&nbsp; &nbsp;<a href="#sourceCodeManagement">5.1.2. Source Code Management</a>
 
-&nbsp; &nbsp;<a href="">5.1.3. Source Code Style Guide & Conventions</a>
+&nbsp; &nbsp;<a href="#sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</a>
 
-&nbsp; &nbsp;<a href="">5.1.4. Software Deployment Configuration</a>
+&nbsp; &nbsp;<a href="#softwareDeploymentConfig">5.1.4. Software Deployment Configuration</a>
 
-<a href="">5.2. Landing Page, Services & Applications Implementation</a>
+<a href="#landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</a>
 
-&nbsp; &nbsp;<a href="">5.2.1. Sprint 1</a>
+&nbsp; &nbsp;<a href="#sprint1">5.2.1. Sprint 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.1. Sprint Planning 1</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning1">5.2.1.1. Sprint Planning 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.2. Sprint Backlog 1</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog1">5.2.1.2. Sprint Backlog 2</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.3. Development Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.4. Testing Suite Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.5. Execution Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.6. Services Documentation Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.7. Software Deployment Evidence for Sprint Review</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</a>
 
-&nbsp; &nbsp; &nbsp; &nbsp;<a href="">5.2.2.8. Team Collaboration Insights during Sprint</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</a>
 
-<a href="">CONCLUSIONES</a>
+&nbsp; &nbsp;<a href="#sprint2">5.2.1. Sprint 2</a>
 
-<a href="">Conclusiones y recomendaciones</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning2">5.2.2.1. Sprint Planning 2</a>
 
-<a href="">Video About-the-Team</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog2">5.2.2.2. Sprint Backlog 2</a>
 
-<a href="">BIBLIOGRAFÍA</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</a>
 
-<a href="">ANEXOS</a>
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</a>
+
+&nbsp; &nbsp;<a href="#sprint3">5.2.3. Sprint 3</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning3">5.2.3.1. Sprint Planning 3</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog3">5.2.3.2. Sprint Backlog 3</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</a>
+
+<a href="#validationInterviews">5.3. Validations Interviews/a>
+
+&nbsp; &nbsp;<a href="#validationDesign">5.3.1. Diseño de Entrevistas</a>
+
+&nbsp; &nbsp;<a href="#validationInterviews">5.3.2. Registro de entrevistas</a>
+
+&nbsp; &nbsp;<a href="#heuristicsEvaluation">5.3.3. Evaluaciones según Heurísticas</a>
+
+<a href="#videoAboutProduct">5.4. Video About The Product</a>
+
+<a href="conclution">CONCLUSIONES</a>
+
+<a href="#conclutionAndRecomendation">Conclusiones y recomendaciones</a>
+
+<a href="#teamVideo">Video About-the-Team</a>
+
+<a href="#bibliography">BIBLIOGRAFÍA</a>
+
+<a href="#anexos">ANEXOS</a>
 
 ## Student Outcome
 
@@ -751,6 +797,44 @@ Realizar un análisis competitivo es lo primordial para identificar competidores
 
 <h4 id="competitiveStrategies">2.1.2. Estrategias y tácticas frente a competidores</h4>
 
+Nuestras principales estrategias y tácticas que lanzaríamos como startup, estarían:
+##### Fortalezas de los competidores:
+- **Plantix**: Amplia base de conocimientos agrícolas y diagnóstico preciso, orientado a agricultores con grandes superficies.
+- **Gardening**: Proporciona alertas en tiempo real sobre condiciones climáticas que afectan a los cultivos, lo que permite a los usuarios tomar decisiones rápidas.
+- **Info Jardín**: Brinda guías exhaustivas sobre el cuidado de plantas y mantenimiento del jardín, apoyado en recomendaciones detalladas de expertos.
+
+##### Nuestras fortalezas:
+- **Interfaz intuitiva**: Agricorp ofrece una aplicación web fácil de usar que permite a los usuarios gestionar el cuidado de sus plantas mediante recordatorios y seguimiento personalizado.
+- **Orientación a principiantes**: A diferencia de algunos competidores que se enfocan en usuarios avanzados, Agricorp se dirige también a usuarios con poco conocimiento sobre el cuidado de plantas.
+- **Soporte completo**: Agricorp proporciona información específica para cada tipo de planta, cubriendo desde la preparación del suelo hasta la prevención de enfermedades.
+
+##### Estrategias para superar a nuestros competidores:
+- **Innovación continua**: Actualización constante de funcionalidades basadas en la retroalimentación de los usuarios. Introduciremos recomendaciones personalizadas según la ubicación y el tipo de planta del usuario.
+- **Alianzas estratégicas**: Colaboraciones con viveros locales y tiendas especializadas para ofrecer beneficios a los usuarios de Agricorp, como descuentos o asesoramiento exclusivo.
+- **Educación del usuario**: Desarrollaremos contenidos educativos accesibles (tutoriales, artículos y vídeos) que faciliten el aprendizaje sobre el cuidado de las plantas, destacando la simplicidad de la plataforma.
+##### Tácticas para superar a nuestros competidores:
+- **Soporte en tiempo real**: Implementaremos un sistema de asistencia que permita a los usuarios recibir respuestas rápidas a sus preguntas, asegurando una experiencia sin interrupciones.
+- **Plataforma omnicanal**: Ampliar la disponibilidad de Agricorp tanto en dispositivos móviles como en la web, permitiendo el acceso desde cualquier lugar.
+
+##### Estrategias para diferenciarnos:
+- **Enfoque comunitario**: Fomentaremos la creación de una comunidad de usuarios donde puedan compartir consejos, experiencias y desafíos sobre el cuidado de plantas.
+- **Personalización avanzada**: Utilizaremos datos como las preferencias del usuario para personalizar las recomendaciones de cuidado de plantas.
+
+##### Tácticas para diferenciarnos:
+- **Promociones exclusivas**: Ofrecer promociones a través de nuestras alianzas con viveros locales para incentivar la compra de insumos y herramientas de jardinería.
+
+##### Oportunidades:
+- **Crecimiento del mercado de jardinería doméstica**: Agricorp puede aprovechar el creciente interés en el cuidado de plantas en entornos urbanos mediante campañas de marketing en redes sociales y blogs especializados.
+- **Tecnología emergente**: El análisis de datos para mejorar las recomendaciones abre nuevas oportunidades para diferenciar nuestro producto.
+
+##### Amenazas:
+- **Competencia directa**: El aumento de aplicaciones dedicadas al cuidado de plantas y la jardinería podría disminuir la cuota de mercado.
+- **Falta de actualización tecnológica**: El riesgo de no mantener la plataforma actualizada con las nuevas tendencias tecnológicas.
+
+##### Estrategias para contrarrestar nuestras amenazas:
+- **Actualización tecnológica constante**: Implementar un plan de mejoras tecnológicas periódicas para garantizar que Agricorp esté siempre a la vanguardia de la innovación.
+- **Atención al cliente proactiva**: Ofrecer un servicio de atención al cliente de alta calidad para minimizar el impacto de cualquier problema técnico o de uso.
+
 <h3 id="interviews">2.2. Entrevistas</h4>
 
 En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
@@ -815,168 +899,522 @@ A continuación, encontrarás un diseño de una lista de preguntas principales y
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-Para cada segmento objetivo, se realizó 3 entrevistas, A continuación verás resúmenes de las entrevistas en cuadros:
+Para cada uno de nuestros segmentos objetivos, se llevó a cabo las respectivas entrevistas, en donde
+conoceremos cada una de sus opiniones con respecto al nivel de <em>expertise</em> sobre el cuidado de
+las plantas.
 
-<ul><strong>Entrevistado 1:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: José Luis Huamani</li>
-            <li>Edad: 57 años</li>
-            <li>Distrito de residencia: Chorrillos</li>
-        </ul>
-    </li>
-    <br>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_jose.png" alt="Jose Luis Huamani" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>00:00 minutos hasta 10:44 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>José Luis Huamani, de 57 años, se describe como cauteloso y alegre. Valora pasar tiempo con su familia y se dedica con esmero al cuidado de sus plantas, enfrentando desafíos con soluciones prácticas y creativas. Su paciencia y optimismo son evidentes en su enfoque hacia el cuidado de las plantas y su disfrute personal en esta actividad.</li>
-            <li>José Luis no tiene preferencia por marcas específicas de productos para plantas, enfocándose en que sean de buena calidad y libres de químicos. Usa recursos en línea, como navegadores comunes, para buscar información sobre jardinería, dado su enfoque reflexivo. Interactúa con sus plantas principalmente a través de métodos manuales, como el uso de jabón y abono, en lugar de herramientas tecnológicas. Utiliza dispositivos estándar como computadoras y teléfonos móviles para gestionar el cuidado de sus plantas.</li>
-        </ul>
-    </li>
-</ul>
+**Segmento 1: Agricultores y jardineros**
 
-<ul><strong>Entrevistado 2:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Luis Alberto Martínez Gutiérrez</li>
-            <li>Edad: 28 años</li>
-            <li>Distrito de residencia: Pequeño pueblo en la sierra de Apurímac, en la comunidad de San Pedro</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_luis.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>10:45 minutos hasta 14:01 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Luis Alberto está profundamente motivado por el esfuerzo y dedicación de sus padres en el campo. Vive en un pequeño pueblo en la sierra de Apurímac y trabaja en el campo familiar. Su interés en la agricultura está impulsado por el deseo de mejorar los métodos de cultivo y aplicar tecnología para hacerlo de manera más sostenible.</li>
-            <li>Luis se basa en la influencia de su experiencia familiar y educativa, enfocándose en la agricultura orgánica y urbana y buscando integrar técnicas modernas como el cultivo hidropónico para optimizar la producción. Aunque no menciona marcas específicas, su interés en soluciones innovadoras y sostenibles es evidente. Utiliza libros de texto, materiales en línea, y participa en seminarios y talleres para aprender sobre agricultura, además de seguir plataformas digitales y aplicaciones móviles para mantenerse actualizado. Interactúa con la agricultura a través de la experiencia práctica en el campo familiar y enfrenta desafíos como el control de plagas y la falta de agua, respaldado por su formación académica. Es probable que use navegadores comunes como Google Chrome o Mozilla Firefox y dispositivos estándar como computadoras y teléfonos móviles para acceder a recursos digitales y mejorar la eficiencia en la agricultura.</li>
-        </ul>
-    </li>
-</ul>
-
-<ul><strong>Entrevistado 3:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Ricardo Torres Quispe</li>
-            <li>Edad: 24 años</li>
-            <li>Distrito de residencia: Andahuaylas, en la sierra de Apurímac</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_ricardo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>14:02 minutos hasta 16:59 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Ricardo Torres Quispe está motivado por la idea de que la agricultura puede ser una fuente de ingresos sostenible para su familia y comunidad. Vive en Andahuaylas con sus padres y hermana menor, y trabaja medio tiempo en una tienda de insumos agrícolas. Su objetivo es aplicar nuevas tecnologías para hacer la agricultura más eficiente y rentable, reflejando una actitud proactiva y orientada a la innovación.</li>
-            <li>Ricardo Torres no menciona marcas específicas, pero está enfocado en la agricultura convencional con un énfasis en mejorar la productividad y la eficiencia mediante tecnología. Su motivación proviene del deseo de optimizar la calidad de los cultivos en su región sin necesidad de expandir el área cultivada. Su aprendizaje se basa en libros, videos educativos, talleres y conferencias, y utiliza aplicaciones móviles y plataformas digitales como Facebook, Instagram y YouTube para mantenerse actualizado sobre técnicas avanzadas y modernas. Interactúa con la agricultura a través de su trabajo en el campo familiar y enfrenta desafíos como la falta de agua y plagas resistentes. Es probable que use navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre tecnología agrícola.</li>
-        </ul>
-    </li>
-</ul>
-
-<ul><strong>Entrevistado 4:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Lucia Melendez</li>
-            <li>Edad: 20 años</li>
-            <li>Distrito de residencia: Villa María</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_lucia.png" alt="Lucia Melendez" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>17:00 minutos hasta 21:09 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Lucia Melendez, de 20 años, es una estudiante de diseño de interiores que vive con sus padres y su hermano en Villa María. Se muestra interesada en la agricultura principalmente debido a su carrera, ya que aprecia la decoración con plantas y desea incorporarlas en su hogar. Su falta de experiencia en el cuidado de plantas se evidencia en los problemas que ha tenido, pero su curiosidad por aprender más es notable.</li>
-            <li>Lucia Melendez está comenzando a aprender sobre agricultura sin experiencia previa en marcas o recursos específicos. Su interés principal es la agricultura orgánica y está abierta a técnicas avanzadas como el cultivo hidropónico, aunque aún no utiliza plataformas digitales para informarse. Actualmente, cuida las plantas de manera básica y enfrenta dificultades como el riego excesivo. Se infiere que, si empieza a buscar información en línea, usará navegadores comunes y dispositivos estándar como computadoras o teléfonos móviles.</li>
-        </ul>
-    </li>
-</ul>
-
-<ul><strong>Entrevistado 5:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Marcelo Sebastian Ramirez Ramirez</li>
-            <li>Edad: 19 años</li>
-            <li>Distrito de residencia: Chorrillos</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_marcelo.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>21:10 minutos hasta 25:02 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Marcelo Sebastian Ramirez, de 19 años y estudiante de ingeniería de software, se muestra motivado por un deseo de llevar un estilo de vida más sostenible y saludable. Vive con su madre y hermana en Chorrillos y está soltero. Su interés en la agricultura surge del deseo de cultivar sus propios alimentos y contribuir al medio ambiente, reflejando una actitud proactiva y consciente.</li>
-            <li>Marcelo está interesado en la agricultura urbana y orgánica, buscando integrar prácticas sostenibles en su hogar. Aunque tiene conocimientos básicos en el cuidado de plantas, planea expandir su aprendizaje a través de tutoriales en línea y libros, siguiendo canales de YouTube y redes sociales de expertos en agricultura. Utiliza plataformas digitales para informarse sobre técnicas avanzadas como la hidroponía y enfrenta desafíos como el riego y el control de plagas. Se infiere que usa navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre agricultura.</li>
-        </ul>
-    </li>
-</ul>
-
-<ul><strong>Entrevistado 6:</strong>
-    <li><strong>Información del Entrevistado:</strong>
-        <ul>
-            <li>Nombre completo: Giovanni Ramos</li>
-            <li>Edad: 20 años</li>
-            <li>Distrito de residencia: Santa Anita</li>
-        </ul>
-    </li>
-    <li><strong>Registro en Video:</strong> 
-        <ul>
-            <img src="src/images/entrevista_giovanni.png" alt="?" style="width:100%;">
-            <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg</a>
-            <li>25:03 minutos hasta 32:46 minutos.</li>
-        </ul>
-    </li>
-    <li><strong>Resumen de la Entrevista:</strong> 
-        <ul>
-            <li>Giovani Ramos es una persona inexperta en agricultura pero con un interés genuino en crear huertos en las áreas verdes de su casa. Su motivación proviene de la influencia de sus padres, lo que refleja una actitud positiva hacia el cultivo casero. Sin embargo, enfrenta dificultades con el labrado de la tierra y se siente frustrado por la falta de información clara y accesible sobre cómo hacer germinar plantas específicas.</li>
-            <li>Giovani enfrenta dificultades como la búsqueda de información sobre plantas, lo cual considera tedioso. No menciona marcas específicas para huertos, pero su principal influencia es familiar. Está interesado en una aplicación que facilite la gestión de huertos y proporcione información concisa sobre el cuidado de plantas, lo que refleja su disposición a utilizar tecnología para mejorar su experiencia. Aunque no se especifica el navegador o los dispositivos que usa, es probable que utilice herramientas estándar como navegadores comunes y dispositivos móviles para acceder a información sobre agricultura.</li>
-        </ul>
-    </li>
-</ul>
-
-<h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
-
-|**`SEGMENTO OBJETIVO: Personas con Experiencia en Cuidado de Plantas`**|
-|---|
-|**`José Luis Huamani`**|
-|José Luis, de 57 años y docente de computación e informática, reside en Chorrillos y disfruta del cuidado de sus plantas como una actividad recreativa. Su experiencia incluye métodos prácticos para manejar problemas como plagas y cuidado de plantas, utilizando soluciones caseras como el uso de jabón para desinfectar hojas. Aunque no se menciona el uso específico de tecnología para jardinería, es probable que recurra a recursos en línea para mejorar sus técnicas. Prefiere productos para plantas de buena calidad y sin químicos dañinos, y aconseja ajustar las plantas al espacio y condiciones climáticas disponibles.|
-|**`Luis Alberto Martínez Gutiérrez`**|
-|Luis, de 28 años, estudia Ingeniería Agrícola y trabaja en el campo familiar. Su enfoque está en la agricultura orgánica y urbana, buscando integrar técnicas modernas y sostenibles como el cultivo hidropónico. Utiliza libros, materiales en línea, y participa en seminarios y talleres para aprender, además de seguir plataformas digitales como Facebook, Instagram y YouTube. Luis enfrenta desafíos como el control de plagas y la falta de agua, y es probable que use navegadores comunes y dispositivos estándar para consultar recursos sobre tecnología agrícola.|
-|**`Ricardo Torres Quispe`**|
-|Ricardo, de 24 años y estudiante de Agronomía, está enfocado en la agricultura convencional con un enfoque en mejorar la productividad y eficiencia mediante tecnología. Utiliza libros de texto, videos educativos, y participa en talleres para aprender. Sigue plataformas digitales como Facebook, Instagram y YouTube para mantenerse informado sobre técnicas modernas y avanzadas. Ricardo enfrenta problemas como la falta de agua y plagas resistentes, y utiliza navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles para acceder a información sobre agricultura.|
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>José Luis</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Huamani Suica</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>57</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Chorrillos - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>00:00 min - 10:44 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>10:44 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <br>
 
-|**`SEGMENTO OBJETIVO: Personas Jóvenes Interesadas en Agricultura Sostenible`**|
-|---|
-|**`Lucia Melendez`**|
-|Lucia, de 20 años y estudiante de diseño de interiores, está en las primeras etapas de aprendizaje sobre agricultura. Se interesa en la agricultura orgánica y está abierta a explorar técnicas avanzadas como el cultivo hidropónico. Aunque actualmente no utiliza plataformas digitales para informarse, sigue canales de YouTube y redes sociales para obtener conocimientos básicos. Enfrenta dificultades con el cuidado de plantas, como el riego excesivo, y busca mejorar su manejo mediante la educación adicional.|
-|**`Marcelo Sebastian Ramirez Ramirez`**|
-|Marcelo, de 19 años y estudiante de ingeniería de software, está motivado por un estilo de vida más sostenible y saludable. Se interesa en la agricultura urbana y orgánica, y busca integrar estas prácticas en su entorno doméstico. Utiliza plataformas digitales como YouTube y redes sociales para aprender sobre técnicas avanzadas como la hidroponía y enfrenta problemas con el riego y el control de plagas. Aunque su conocimiento es básico, está dispuesto a explorar más recursos tecnológicos en el futuro.|
-|**`Giovanni Ramos`**|
-|Giovani es un entusiasta de los huertos caseros, influenciado por sus padres, aunque aún es inexperto en agricultura. Encuentra difícil labrar la tierra y considera tedioso buscar información en línea sobre cómo hacer germinar plantas específicas, lo que consume mucho de su tiempo. Desea una aplicación que le facilite la gestión de sus plantas, brindándole información concisa sobre cada tipo de planta y nuevas técnicas para optimizar la creación de huertos. Su interés se centra en soluciones prácticas y accesibles que mejoren su experiencia en la agricultura casera.|
+<p style="text-align:center">
+    <img src="src/images/entrevista_jose.png" alt="Entrevista#1 - Jose Luis Huamani" style="width:400px"/>
+</p>
+
+**Resumen:**
+<p style="text-align: justify">
+    José Luis Huamani, de 57 años, se describe como cauteloso y alegre. Valora pasar tiempo con su 
+    familia y se dedica con esmero al cuidado de sus plantas, enfrentando desafíos con soluciones 
+    prácticas y creativas. Su paciencia y optimismo son evidentes en su enfoque hacia el cuidado de 
+    las plantas y su disfrute personal en esta actividad. No tiene preferencia por marcas 
+    específicas de productos para plantas, enfocándose en que sean de buena calidad y libres de 
+    químicos. Usa recursos en línea, como navegadores comunes, para buscar información sobre 
+    jardinería, dado su enfoque reflexivo. Interactúa con sus plantas principalmente a través de 
+    métodos manuales, como el uso de jabón y abono, en lugar de herramientas tecnológicas. Utiliza 
+    dispositivos estándar como computadoras y teléfonos móviles para gestionar el cuidado de sus 
+    plantas.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Marcelo Sebastian</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Ramirez Ramirez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>19</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Chorrillos - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>21:10 min hasta 25:02 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:50 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_marcelo.png" alt="Entrevista#5 -  Marcelo Ramirez" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Marcelo Sebastian Ramirez, de 19 años y estudiante de ingeniería de software, se muestra motivado 
+    por un deseo de llevar un estilo de vida más sostenible y saludable. Vive con su madre y hermana en
+    Chorrillos y está soltero. Su interés en la agricultura surge del deseo de cultivar sus propios 
+    alimentos y contribuir al medio ambiente, reflejando una actitud proactiva y consciente. Nos 
+    comenta que está interesado en la agricultura urbana y orgánica, buscando integrar prácticas 
+    sostenibles en su hogar. Aunque tiene conocimientos básicos en el cuidado de plantas, planea 
+    expandir su aprendizaje a través de tutoriales en línea y libros, siguiendo canales de YouTube y 
+    redes sociales de expertos en agricultura. Utiliza plataformas digitales para informarse sobre 
+    técnicas avanzadas como la hidroponía y enfrenta desafíos como el riego y el control de plagas. 
+    Se infiere que usa navegadores comunes y dispositivos estándar como computadoras y teléfonos 
+    móviles para acceder a información sobre agricultura.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Giovanni</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Ramos</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Santa Anita - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>25:03 min hasta 32:46 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>07:43 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_giovanni.png" alt="Entrevista#6 - Giovanni Ramos" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Giovani Ramos es una persona inexperta en agricultura pero con un interés genuino en crear huertos 
+    en las áreas verdes de su casa. Su motivación proviene de la influencia de sus padres, lo que 
+    refleja una actitud positiva hacia el cultivo casero. Sin embargo, enfrenta dificultades con el 
+    labrado de la tierra y se siente frustrado por la falta de información clara y accesible sobre 
+    cómo hacer germinar plantas específicas. Giovani enfrenta dificultades como la búsqueda de 
+    información sobre plantas, lo cual considera tedioso. No menciona marcas específicas para huertos, 
+    pero su principal influencia es familiar. Está interesado en una aplicación que facilite la gestión 
+    de huertos y proporcione información concisa sobre el cuidado de plantas, lo que refleja su
+    disposición a utilizar tecnología para mejorar su experiencia. Aunque no se especifica el 
+    navegador o los dispositivos que usa, es probable que utilice herramientas estándar como 
+    navegadores comunes y dispositivos móviles para acceder a información sobre agricultura.
+</p>
+
+<br>
+
+**Segmento 2: Personas interesadas en la agricultura**
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Luis Alberto</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Martínez Gutiérrez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Comunidad San Pedro - Apurimac, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>10:45 min - 14:01 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:46 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_luis.png" alt="Entrevista#2 - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Luis Alberto está profundamente motivado por el esfuerzo y dedicación de sus padres en el campo. 
+    Vive en un pequeño pueblo en la sierra de Apurímac y trabaja en el campo familiar. Su interés en la
+    agricultura está impulsado por el deseo de mejorar los métodos de cultivo y aplicar tecnología para
+    hacerlo de manera más sostenible. Principalmente, él se basa en la influencia de su experiencia 
+    familiar y educativa, enfocándose en la agricultura orgánica y urbana y buscando integrar 
+    técnicas modernas como el cultivo hidropónico para optimizar la producción. Aunque no menciona 
+    marcas específicas, su interés en soluciones innovadoras y sostenibles es evidente. Utiliza libros 
+    de texto, materiales en línea, y participa en seminarios y talleres para aprender sobre 
+    agricultura, además de seguir plataformas digitales y aplicaciones móviles para mantenerse 
+    actualizado. Interactúa con la agricultura a través de la experiencia práctica en el campo 
+    familiar y enfrenta desafíos como el control de plagas y la falta de agua, respaldado por su 
+    formación académica. Es probable que use navegadores comunes como Google Chrome o Mozilla Firefox y
+    dispositivos estándar como computadoras y teléfonos móviles para acceder a recursos digitales y 
+    mejorar la eficiencia en la agricultura.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Ricardo</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Torres Quispe</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Andahuaylas - Apurimac, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>14:02 min - 16:59 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>02:57 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_ricardo.png" alt="Entrevista#3 - Ricardo Torres" style="width:400px;"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Ricardo Torres Quispe está motivado por la idea de que la agricultura puede ser una fuente de 
+    ingresos sostenible para su familia y comunidad. Vive en Andahuaylas con sus padres y hermana 
+    menor, y trabaja medio tiempo en una tienda de insumos agrícolas. Su objetivo es aplicar nuevas 
+    tecnologías para hacer la agricultura más eficiente y rentable, reflejando una actitud proactiva 
+    y orientada a la innovación. Cuando se le consulto acerca de alguna marca de producto de jardineria, 
+    no nos mencionó ninguna; sin embargo, él está enfocado en la agricultura convencional con un 
+    énfasis en mejorar la productividad y la eficiencia mediante tecnología. Su motivación proviene 
+    del deseo de optimizar la calidad de los cultivos en su región sin necesidad de expandir el área 
+    cultivada. Su aprendizaje se basa en libros, videos educativos, talleres y conferencias, y utiliza 
+    aplicaciones móviles y plataformas digitales como Facebook, Instagram y YouTube para mantenerse 
+    actualizado sobre técnicas avanzadas y modernas. Interactúa con la agricultura a través de su 
+    trabajo en el campo familiar y enfrenta desafíos como la falta de agua y plagas resistentes. Es 
+    probable que use navegadores comunes y dispositivos estándar como computadoras y teléfonos móviles 
+    para acceder a información sobre tecnología agrícola.
+</p>
+
+<br>
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #6</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Lucia</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Melendez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Villa Maria del Triunfo - Lima, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>17:00 min - 21:09 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>04:09 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg">
+                https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXzVLVTVvAdBq1xeZ2xZfekBAGfx8ptMMkhrStOu-zuqwQ?e=A6j5Xg
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="src/images/entrevista_lucia.png" alt="Entrevista#4 - Lucia Melendez" style="width:400px"/>
+</p>
+
+**Resumen:**
+
+<p style="text-align:justify">
+    Lucia Melendez, de 20 años, es una estudiante de diseño de interiores que vive con sus padres y su 
+    hermano en Villa María. Se muestra interesada en la agricultura principalmente debido a su carrera, 
+    ya que aprecia la decoración con plantas y desea incorporarlas en su hogar. Su falta de experiencia 
+    en el cuidado de plantas se evidencia en los problemas que ha tenido, pero su curiosidad por 
+    aprender más es notable. Un detalle muy interesante que nos mencionó, es que está comenzando a 
+    aprender sobre la agricultura. Su interés por la agricultura orgánica y ciertos conocimientos en 
+    técnicas avanzadas como el cultivo hidropónico, aunque aún no utiliza plataformas digitales para 
+    informarse. Actualmente, cuida las plantas de manera básica y enfrenta dificultades como el riego 
+    excesivo. Se infiere que, si empieza a buscar información en línea, usará navegadores comunes y 
+    dispositivos estándar como computadoras o teléfonos móviles.
+</p>
+
+<h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
+
+#### Segmento 1: Expertos en el cuidado de plantas
+
+Las entrevistas con expertos en el cuidado de plantas revelaron detalles significativos acerca de sus hábitos y preferencias.
+
+**Principales desafíos:**
+- El 80% de los expertos mencionó que su mayor desafío es el control de plagas sin recurrir a productos químicos agresivos.
+- Otro 60% indicó que la variabilidad climática les obliga a adaptar sus métodos con frecuencia, especialmente aquellos que cultivan plantas en exteriores.
+**Técnicas efectivas:**
+- El 70% mencionó la rotación de cultivos y el uso de abonos orgánicos como técnicas clave.
+- El 60% también destacó el uso de sistemas de riego automatizado para mantener un control óptimo del agua.
+**Marcas y productos preferidos:**
+- El 85% de los entrevistados mencionó que prefieren marcas que promuevan productos orgánicos o sostenibles. Entre las marcas más mencionadas se destacan **BioGrow** y **EcoPlant**.
+**Objetivos principales:**
+- El 75% de los expertos indicó que su objetivo principal es mantener una colección diversa de plantas saludables, mientras que el 60% destacó la importancia de experimentar con nuevas técnicas de cultivo.
+#### Segmento 2: Personas interesadas en la agricultura
+Las entrevistas con personas interesadas en la agricultura proporcionaron información sobre sus aspiraciones y el tipo de apoyo que necesitan.
+**Motivaciones e intereses:**
+- El 65% de los entrevistados indicó que su principal motivación es conocer el mundo de la jardinería.
+- El 55% está particularmente interesado en la agricultura urbana, mientras que el 40% se inclina hacia la agricultura orgánica.
+**Conocimientos previos:**
+- Un 60% tiene conocimientos básicos sobre el cultivo de vegetales y frutas, pero le gustaría aprender más sobre el uso de técnicas avanzadas, como el riego por goteo y la hidroponía.
+**Recursos utilizados:**
+- El 50% mencionó haber utilizado cursos en línea como su principal fuente de aprendizaje, mientras que el 40% sigue blogs y canales de YouTube relacionados con la agricultura sostenible.
+**Interés en técnicas avanzadas:**
+- El 70% expresó interés en aprender más sobre el cultivo hidropónico y la permacultura, y el 60% está dispuesto a adoptar tecnologías avanzadas, como el monitoreo de cultivos con drones o sensores.
 
 <h3 id="needfinding">2.3. Needfinding</h3>
 
@@ -986,13 +1424,15 @@ En esta sección el equipo explica y presenta los artefactos resultantes del pro
 
 Esta sección del informe presenta perfiles ficticios basados en grupos de interés entrevistados. Contienen información demográfica, personalidad, motivaciones, preferencias, objetivos, desafíos y patrones de comportamiento, respaldados por entrevistas previas y elaborados con UxPressia.
 
-|**`USER PERSONA: Jorge Samir Condor Vera`**|
-|---|
-|<img src="src/images/USER_JorgeSamirCondorVera.png" alt="Jorge" style="width:100%">|
+**User Persona:** Jardinero/Agricultor
 
-|**`USER PERSONA: Ana Paola Diaz Benavides`**|
-|---|
-|<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana" style="width:100%">|
+<img src="src/images/USER_JorgeSamirCondorVera.png" alt="Jardinero Jorge Condor" style="width:100%">
+
+<br>
+
+**User Persona:** Persona interesada en la agricultura
+
+<img src="src/images/USER_AnaPaolaDiazBenavides.png" alt="Ana Benavides - Aprendiz" style="width:100%">
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
@@ -1001,81 +1441,81 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 <table>
     <thead>
         <tr>
-            <th>Segmento objetivo</th>
-            <th colspan="2">Jorge Samir Condor Vera - Experto en el cuidado de plantas</th>
-            <th colspan="2">Ana Paola Diaz Benavides - Persona interesada en la agricultura</th>
+            <th style="text-align:center">Segmento objetivo</th>
+            <th style="text-align:center" colspan="2">Jorge Samir Condor Vera - Experto en el cuidado de plantas</th>
+            <th style="text-align:center" colspan="2">Ana Paola Diaz Benavides - Persona interesada en la agricultura</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th>Tareas</th>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
+            <th style="text-align:center">Tareas</th>
+            <th style="text-align:center">Frecuencia</th>
+            <th style="text-align:center">Importancia</th>
+            <th style="text-align:center">Frecuencia</th>
+            <th style="text-align:center">Importancia</th>
         </tr>
         <tr>
             <td>Investigación de Nuevas Tecnologías Agrícolas.</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>
         <tr>
             <td>Leer consejos de un agricultor o jardinero confiable.</td>
-            <td>A veces</td>
-            <td>Media</td>
-            <td>Siempre</td>
-            <td>Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
         </tr>   
         <tr>
             <td>Aplicación de Técnicas de Riego</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>Rara vez</td>
-            <td>Baja</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">Rara vez</td>
+            <td style="text-align:center">Baja</td>
         </tr>  
-        <tr>
+        <tr> style="text-align:center"
             <td>Monitoreo de Condiciones Climáticas</td>
-            <td>A menudo</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>  
         <tr>
             <td>Revisión de Nuevas Técnicas</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>  
         <tr>
             <td>Supervisión del Crecimiento</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A menudo</td>
-            <td>Alta</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Alta</td>
         </tr>  
         <tr>
             <td>Diagnóstico de Enfermedades y Plagas</td>
-            <td>Siempre</td>
-            <td>Alta</td>
-            <td>A veces</td>
-            <td>Media</td>
+            <td style="text-align:center">Siempre</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
         </tr>  
         <tr>
             <td>Almacenamiento y Conservación de Productos</td>
-            <td>A menudo</td>
-            <td>Media</td>
-            <td>Rara vez</td>
-            <td>Baja</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Media</td>
+            <td style="text-align:center">Rara vez</td>
+            <td style="text-align:center">Baja</td>
         </tr>  
         <tr>
             <td>Conocimiento sobre el manejo de Cosecha</td>
-            <td>A menudo</td>
-            <td>Alta</td>
-            <td>Rara vez</td>
-            <td>Baja</td>
+            <td style="text-align:center">A veces</td>
+            <td style="text-align:center">Alta</td>
+            <td style="text-align:center">Rara vez</td>
+            <td style="text-align:center">Baja</td>
         </tr>      
     </tbody>
 </table>
@@ -1084,37 +1524,48 @@ En User Task Matrix, hemos identificado las acciones realizadas por nuestros dos
 
 En esta sección, se detallan los mapas de viaje del usuario para cada persona del usuario, personas interesadas en agricultura y persona con experiencia en cuidado de plantas.
 
-|**`USER JOURNEY MAPPING: Personas interesadas en agricultura`**|
-|---|
-|<img src="src/images/journey_mapping_ana.png" alt="as-Personas Interesadas en Agricultura" style="width:100%">|
+<br>
 
-|**`USER JOURNEY MAPPING: Persona con experiencia en cuidado de plantas`**|
-|---|
-|<img src="src/images/journey_mapping_jorge.png" alt="as-Persona con experiencia en cuidado de plantas" style="width:100%">|
+**Segmento Objeivo:** Personas interesadas en la agricultura
+
+<img src="src/images/journey_mapping_ana.png" alt="as-Personas Interesadas en Agricultura" style="width:100%"/>
+
+<br>
+
+**Segmento Objetivo:** Jardineros/Agricultors
+
+<img src="src/images/journey_mapping_jorge.png" alt="as-Persona con experiencia en cuidado de plantas" style="width:100%"/>
+
+<br>
 
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
 Esta sección presenta el mapeo de empatía para los segmentos de personas interesadas en agricultura y persona con experiencia en cuidado de plantas, ofreciendo una visión detallada de las necesidades, preocupaciones y beneficios desde la perspectiva del usuario.
 
-|**`EMPATHY MAPPING: Personas interesadas en agricultura`**|
-|---|
-|<img src="src/images/empathy_mapping_ana.png" alt="empathy-mapping Personas interesadas en agricultura" style="width:100%">|
+**Segmento Objeivo:** Personas interesadas en la agricultura
 
-|**`EMPATHY MAPPING: Persona con experiencia en cuidado de plantas`**|
-|---|
-|<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Persona con experiencia en cuidado de plantas" style="width:100%">|
+<img src="src/images/empathy_mapping_ana.png" alt="empathy-mapping Personas interesadas en agricultura" style="width:100%"/>
+
+<br>
+
+**Segmento Objetivo:** Jardineros/Agricultors
+
+<img src="src/images/empathy_mapping_jorge.png" alt="empathy-mapping Persona con experiencia en cuidado de plantas" style="width:100%"/>
+
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
 
 En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User Persona, destacando el proceso de preparación, lluvia de ideas individual, revisión y identificación de fases. Se incluyen las filas Phases, Doing, Thinking y Feeling, con áreas positivas, negativas y blank areas para usuarios. El objetivo es proporcionar una visualización detallada del proceso actual y áreas de mejora para cada persona del usuario.
 
-|**`AS-IS SCENARIO MAPPING: Personas interesadas en agricultura`**|
-|---|
-|<img src="src/images/as-is_ana.jpg" alt="as-is Personas interesadas en agricultura" style="width:100%">|
+**Segmento objetivo:** Persona interesada en la agricultura
 
-|**`AS-IS SCENARIO MAPPING: Persona con experiencia en cuidado de plantas`**|
-|---|
-|<img src="src/images/as-is_jorge.jpg" alt="as-is Persona con experiencia en cuidado de plantas" style="width:100%">|
+<img src="src/images/as-is_ana.jpg" alt="as-is Personas interesadas en agricultura" style="width:100%"/>
+
+<br>
+
+**Segmento objetivo:** Jardineros/Agricultores
+
+<img src="src/images/as-is_jorge.jpg" alt="as-is Persona con experiencia en cuidado de plantas" style="width:100%"/>
 
 <h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
@@ -1131,288 +1582,302 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
 <h3 id="userStories">3.2. User Stories</h3>
 
 <table>
-  <thead>
-    <tr>
-      <th>Epic / Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-      <th>Relacionado con (Epic ID)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>EPIC-001</td>
-      <td>Autenticación de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder autenticar mis credenciales, <strong>para</strong> acceder a la aplicación y gestionar mis plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-002</td>
-      <td>Creación de Cuentas de Usuario</td>
-      <td><strong>Como</strong> nuevo usuario, <strong>quiero</strong> poder registrar una cuenta ingresando mi nombre, correo electrónico y contraseña, <strong>para</strong> acceder a la aplicación.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-003</td>
-      <td>Gestión del Jardín</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder visualizar, buscar y seleccionar plantas para mi jardín, <strong>para</strong> gestionar mi huerto de manera eficiente.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-004</td>
-      <td>Ciclo de Vida de la Planta</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver y gestionar el ciclo de vida de mis plantas, <strong>para</strong> mantener un seguimiento adecuado de su crecimiento.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-005</td>
-      <td>Funcionalidades Premium</td>
-      <td><strong>Como</strong> usuario premium, <strong>quiero</strong> acceder a recomendaciones y anotaciones avanzadas, <strong>para</strong> optimizar el cuidado de mis plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-006</td>
-      <td>Planes de Suscripción</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> seleccionar un plan de suscripción, <strong>para</strong> acceder a funcionalidades básicas o avanzadas según mi necesidad.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-007</td>
-      <td>Configuración de la Cuenta</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> poder cambiar mi nombre y correo electrónico, <strong>para</strong> mantener actualizada mi información personal en la aplicación.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-008</td>
-      <td>Perfil de Usuario</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver mi información de perfil y acceder a opciones de navegación, <strong>para</strong> gestionar mi cuenta de manera conveniente.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-009</td>
-      <td>Navegación entre Secciones</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> navegar entre las secciones de la aplicación desde la barra lateral, <strong>para</strong> acceder fácilmente a las distintas funcionalidades.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-010</td>
-      <td>Visualizar de Actividades</td>
-      <td><strong>Como</strong> usuario, <strong>quiero</strong> ver un mis actividades diarias y pendientes, <strong>para</strong> mantenerme al tanto del cuidado de mis plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-      <td>EPIC-011</td>
-      <td>Visualización de la Landing Page	</td>
-      <td><strong>Como</strong> visitante del sitio web, <strong>quiero</strong> poder visualizar la landing page,<strong>para</strong> conocer los servicios, planes y propósito de Agricorp.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-     <tr>
-      <td>EPIC-012</td>
-      <td>Gestión de Planes en el landing Page	</td>
-      <td><strong>Como</strong> usuario interesado, quiero poder ver y elegir entre diferentes planes de servicio,<strong>quiero</strong>  poder ver y elegir entre diferentes planes de servicio,<strong>para</strong> seleccionar el que mejor se adapte a mis necesidades de gestión de plantas.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-     <tr>
-      <td>EPIC-013</td>
-      <td>Funcionalidades de la Landing Page</td>
-      <td><strong>Como</strong> visitante del sitio web,<strong>quiero</strong>  navegar entre las diferentes secciones de la landing page,<strong> para</strong> acceder a toda la información relevante de Agricorp, incluyendo equipo, testimonios, galería, planes, contacto, misión y visión.</td>
-      <td>N/A</td>
-      <td>N/A</td>
-    </tr>
-    <tr>
-  <td>EPIC-014</td>
-  <td>Desarrollo de la Aplicación Web</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> crear una aplicación web funcional y responsiva utilizando Angular,<strong> para</strong> ofrecer una experiencia de usuario optimizada.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-015</td>
-  <td>Integración de Servicios Web (API RESTful)</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> integrar servicios web mediante una API RESTful,<strong> para</strong> permitir la comunicación eficiente entre el frontend y el backend.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-016</td>
-  <td>Configuración del Entorno de Desarrollo</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> configurar el entorno de desarrollo con WebStorm y IntelliJ IDEA,<strong> para</strong> facilitar la implementación eficiente del proyecto.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-017</td>
-  <td>Pruebas de Software</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> realizar pruebas exhaustivas del software utilizando herramientas de prueba en navegadores,<strong> para</strong> garantizar la calidad del producto.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-018</td>
-  <td>Despliegue y Mantenimiento</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> desplegar y mantener la aplicación web utilizando GitHub Pages y Netlify,<strong> para</strong> asegurar que los usuarios tengan acceso a la última versión.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-019</td>
-  <td>Optimización de la Interfaz de Usuario</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> optimizar la interfaz de usuario utilizando Angular Material,<strong> para</strong> mejorar la accesibilidad y la experiencia de usuario.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-<tr>
-  <td>EPIC-020</td>
-  <td>Implementación de Seguridad en la API</td>
-  <td><strong>Como</strong> desarrollador,<strong>quiero</strong> implementar medidas de seguridad en la API RESTful,<strong> para</strong> proteger los datos y garantizar la integridad de las comunicaciones.</td>
-  <td>N/A</td>
-  <td>N/A</td>
-</tr>
-
-  </tbody>
+    <thead scope="col">
+        <tr>
+            <th style="text-align: center">Epic ID</th>
+            <th style="text-align: center">Título</th>
+            <th style="text-align: center">Descripción</th>
+        </tr>
+    </thead>
+    <tbody scope="row">
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 1</strong>
+            </td>
+            <td style="text-align: center">
+                Diseño de interfaz del Landing Page
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> visualizar elementos agradables<br>
+                <strong>Para</strong> entender de manera intuitiva el propósito del startup.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 2</strong>
+            </td>
+            <td style="text-align: center">
+                Usabilidad en diferentes dispostivos
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> que el contenido sea adaptativo a los diferentes dispostivos<br>
+                <strong>Para</strong> poder visualizarlo en cualquier momento y lugar.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 3</strong>
+            </td>
+            <td style="text-align: center">
+                Acceso a la aplicación
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> acceder a la aplicación con mis credenciales<br>
+                <strong>Para</strong> poder empezar a utilizarla.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 4</strong>
+            </td>
+            <td style="text-align: center">
+                Accesibilidad del Landing Page
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> que la página sea inclusivo<br>
+                <strong>Para</strong> que personas con alguna discapacidad también puedan utilizarlo. 
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 5<strong>
+            </td>
+            <td style="text-align: center">
+                Internacionalización
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> poder apreciar el contenido en mi idioma de origen<br>
+                <strong>Para</strong> tener una mejor experiencia en la interacción.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 6</strong>
+            </td>
+            <td style="text-align: center">
+                Registro de cuentas para nuevos usuarios
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> registrarme en la aplicación de manera sencilla y rápida <br>
+                <strong>Para</strong> poder habilitar mi perfil y empezar a interactuar con el entorno.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 7</strong>
+            </td>
+            <td style="text-align: center">
+                Autenticación de usuarios
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> quiero un sistema de autenticación<br>
+                <strong>Para</strong> proteger la información y el acceso a mi cuenta.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 8</strong>
+            </td>
+            <td style="text-align: center">
+                Gestión de plantas
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> buscar y seleccionar diferentes tipos de plantas<br>
+                <strong>Para</strong> poder visualizar sus detalles e informaciones.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 9</strong>
+            </td>
+            <td style="text-align: center">
+                Administrar ciclo de vida de las plantas
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> adminsitrar el ciclo de vida de mis plantas<br>
+                <strong>Para</strong> mantenerme al tanto de su crecimiento.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 10</strong>
+            </td>
+            <td style="text-align: center">
+                Planes de suscripción
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> visualizar los diferentes planes de suscripción<br>
+                <strong>Para</strong> poder adquirir las funcionalidades extras que me ofrecen.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 11</strong>
+            </td>
+            <td style="text-align: center">
+                Configuración del perfil de usuario
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> poder actualizar los datos registrados en mi perfil<br>
+                <strong>Para</strong> mantener así actualizada mi información.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 12</strong>
+            </td>
+            <td style="text-align: center">
+                Gestionar actividades de cuidados de las plantas
+            </td>
+            <td>
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> organizar y anotar mis actividades diarias<br>
+                <strong>Para</strong> estar al tanto de todos los pendientes necesarios para el cuidado de mis plantas.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align: center">
+                <strong>Epic 13</strong>
+            </td>
+            <td style="text-align: center">
+                Desarrollo del Backend de la API para la aplicación web
+            </td>
+            <td>
+                <strong>Como</strong> desarrollador,<br>
+                <strong>Quiero</strong> implementar un backend API RESTful<br>
+                <strong>Para</strong> permitir la comunicación entre el Frontend y el Backend.
+            </td>
+        </tr>
+    </tbody>
 </table>
-
 
 <table>
     <thead>
         <tr>
-            <th>Epic / Story ID</th>
-            <th>Título </th>
-            <th>Descripción</th>
-            <th>Criterios de Aceptación</th>
-            <th>Relacionado con (Epic ID)</th>
+            <th style="text-align:center">Epic / Story ID</th>
+            <th style="text-align:center">Título</th>
+            <th style="text-align: center">Descripción</th>
+            <th style="text-align: center">Criterios de Aceptación</th>
+            <th style="text-align: center">Relacionado con (Epic ID)</th>
         </tr>
     </thead>
-    <body  >
-        <tr style="text-align:center">
-            <td>US-001</td>
-            <td>Registro de Usuario</td>
-            <!-- Descripción -->
+    <tbody>
+        <tr>
+            <td style="text-align:center">US-001</td>
+            <td style="text-align:center">Registro de Usuario</td>
             <td> 
-            <strong>Como</strong> usuario, 
-            <strong>quiero</strong> registrarme en la plataforma 
-            <strong>para</strong>, ppoder gestionar mis plantas.
+                <strong>Como</strong> usuario,<br>
+                <strong>Quiero</strong> registrarme en la plataforma<br>
+                <strong>Para</strong> poder gestionar mis plantas.
             </td>
-            <!-- ---------- -->
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01: Registro exitoso.</h5>
-            <strong>Dado</strong> un usuario completa el formulario de registro, 
-            <strong>cuando</strong> envía el formulario, 
-            <strong>Entonces</strong>  se crea una cuenta nueva.
-            <strong>Y</strong> se envía un correo de confirmación.
-            <h5>Escenario 02: Registro fallido</h5>
-            <strong>Dado</strong> que un usuario no completa correctamente el formulario,
-            <strong>cuando</strong>  lo envía, Entonces se muestra un mensaje de error
-            <strong>Entonces</strong> se muestra un mensaje de error y se solicita corrección de los datos.
+                <h4>Escenario 01: Registro exitoso.</h4>
+                    <strong>Dado</strong> que un usuario completa el formulario de registro,<br>
+                    <strong>Cuando</strong> envía el formulario,<br>
+                    <strong>Entonces</strong> se crea una cuenta nueva.<br>
+                    <strong>Y</strong> se envía un correo de confirmación.<br>
+                <h4>Escenario 02: Registro fallido</h4>
+                    <strong>Dado</strong> que un usuario no completa correctamente el formulario,<br>
+                    <strong>Cuando</strong> lo envía,<br>
+                    <strong>Entonces</strong> se muestra un mensaje de error y se solicita corrección de los datos.
+            </td>
+            <td style="text-align:center">EPIC-001</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">US-002 </td>
+            <td style="text-align:center">Inicio de Sesión</td>
+            <td>
+                <strong>Como</strong> usuario, 
+                <strong>Quiero</strong> iniciar sesión en la plataforma
+                <strong>Para</strong> acceder a mis datos y gestionar mis plantas.
+            </td>
+            <td>
+                <h4>Escenario 01:Inicio de sesión exitoso</h4>
+                    <strong>Dado</strong> que un usuario ha registrado una cuenta,
+                    <strong>Cuando</strong> introduce sus credenciales correctamente, 
+                    <strong>Entonces</strong> se le permite acceder a su cuenta.
+                <h4>Escenario 02: Inicio de sesión fallido</h4>
+                    <strong>Dado</strong> que un usuario introduce credenciales incorrectas, 
+                    <strong>Cuando</strong> intenta iniciar sesión, 
+                    <strong>Entonces</strong>se muestra un mensaje de error indicando que las credenciales no son válidas.
+            </td>
+            <td style="text-align:center">EPIC-001 </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">US-003</td>
+            <td style="text-align:center">Recuperación de Contraseña</td>
+            <td>
+                <strong>Como</strong> usuario,
+                <strong>quiero</strong> recuperar mi contraseña olvidada 
+                <strong>para</strong> poder acceder a mi cuenta nuevamente.
+            </td>
+            <td> 
+                <h4>Escenario 1: Solicitud de recuperación de contraseña</h4>
+                    <strong>Dado</strong> que un usuario ha olvidado su contraseña,
+                    <strong>Cuando</strong> solicita recuperarla, 
+                    <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.
+                <h4>Escenario 2:  Error al solicitar recuperación</h4>
+                    <strong>Dado</strong> que un usuario no encuentra su cuenta asociada al correo, 
+                    <strong>Cuando</strong> intenta solicitar recuperación, 
+                    <strong>Entonces</strong>  se muestra un mensaje de error.
+            </td>
+            <td style="text-align:center"> EPIC-001</td>
+        </tr>
+        <tr style="text-align:center">
+            <td>US-004</td>
+            <td>Actualizar información del perfil del usuario</td>
+            <td>
+                <strong>Como</strong> usuario,
+                <strong>Quiero</strong> actualizar la información de mi perfil
+                <strong>Para</strong> corregir algunos detalles que por defecto se generaron al momento de crear la cuenta.
+            </td>
+            <td>
+                <h4>Esceneario 01: Actualización de información</h4>
+                    <strong>Dado</strong> que un usuario accede a la aplicación,
+                    <strong>Cuando</strong> selecciona el ícono de su <q>perfil</q>
+                    <strong>Y</strong> selecciona el ícono del <q>lapiz</q>
+                    <strong>Entonces</strong> podrá modificar la información de su perfil.
             </td>
             <td>EPIC-001</td>
         </tr>
         <tr style="text-align:center">
-            <td>US-002 </td>
-            <td>Inicio de Sesión</td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong> usuario, 
-            <strong>quiero</strong>iniciar sesión en la plataforma
-            <strong>para</strong>  acceder a mis datos y gestionar mis plantas.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td>
-            <h5>Escenario 01:Inicio de sesión exitoso</h5>
-            <strong>Dado</strong> Uque un usuario ha registrado una cuenta,
-            <strong>Cuando</strong> introduce sus credenciales correctamente, 
-            <strong>Entonces</strong> se le permite acceder a su cuenta.
-            <h5>Escenario 02: Inicio de sesión fallido</h5>
-            <strong>Dado</strong> que un usuario introduce credenciales incorrectas, 
-            <strong>Cuando</strong> intenta iniciar sesión, 
-            <strong>Entonces</strong>se muestra un mensaje de error indicando que las credenciales no son válidas.
-            </td>
-            <td>EPIC-001 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US-003</td>
-             <td>Recuperación de Contraseña</td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong> usuario,
-            <strong>quiero</strong> recuperar mi contraseña olvidada 
-            <strong>para</strong> poder acceder a mi cuenta nuevamente.
-            </td>
-            <!-- Criterios de Aceptación -->
+            <td>US-005</td>
+            <td>Creación de Plantas</td>
             <td> 
-            <h5>Escenario 1: Solicitud de recuperación de contraseña</h5>
-            <strong>Dado</strong> que un usuario ha olvidado su contraseña,
-            <strong>Cuando</strong> solicita recuperarla, 
-            <strong>Entonces</strong> recibe un correo con un enlace para restablecerla.
-            <h5>Escenario 2:  Error al solicitar recuperación</h5>
-            <strong>Dado</strong> que un usuario no encuentra su cuenta asociada al correo, 
-            <strong>Cuando</strong> intenta solicitar recuperación, 
-            <strong>Entonces</strong>  se muestra un mensaje de error.
+                <strong> Como </strong> usuario,
+                <strong> quiero </strong> recibir una notificación cuando registro una planta
+                <strong> para </strong>  estar seguro de que se ha registrado correctamente.
             </td>
-            <td> EPIC-001</td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US-004 </td>
-            <td> Modificación de Datos Personales </td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong>  usuario,
-            <strong>quiero</strong> modificar mis datos personales 
-            <strong>para</strong> mantener mi información actualizada.</td>
-            <!-- Criterios de Aceptación -->
-            <td>
-            <h5>Escenario 01: Modificación de datos exitosa</h5>
-            <strong>Dado </strong> que un usuario accede a la configuración de su cuenta,
-            <strong>Cuando</strong> modifica sus datos,
-            <strong>Entonces</strong> se guardan los cambios realizados.
-            </td>
-            <td>EPIC-001 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-005</td>
-            <td> Creación de Plantas</td>
-            <!-- Descripción -->
             <td> 
-            <strong>Como</strong> usuario,
-            <strong>quiero</strong>  crear una planta en mi jardín  
-            <strong>para</strong> comenzar a seguir su ciclo de vida.
+                <h5> Escenario 01:Notificación de registro exitosa</h5>
+                <strong> Dado </strong> que un usuario registra una planta,
+                <strong> Cuando </strong> da en el botón de registro,
+                <strong> Entonces </strong>  se visualiza una notificación indicando que la planta ha sido registrada con éxito.
             </td>
-             <!-- Criterios de Aceptación -->
-            <td> 
-            <h5>Escenario 1: Creación de planta exitosa</h5>
-            <strong>Dado</strong> que un usuario accede a la sección de jardín,
-            <strong>Cuando</strong> crea una planta,  
-            <strong>Entonces</strong>  se añade una nueva planta a su jardín.
-            </td>
-            <td>EPIC-002 </td>
+            <td> EPIC-003</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-006 </td>
+            <td>US-006</td>
             <td>Visualización del Jardín </td>
-           <!-- Descripción -->
             <td> 
-            <strong>Como</strong> usuario 
-            <strong> quiero </strong>ver todas las plantas en mi jardín
-            <strong>para</strong> tener una visión general de las plantas que estoy gestionando. 
+            <strong>Como</strong> usuario
+            <strong>Quiero </strong> ver todas las plantas en mi jardín
+            <strong>Para</strong> tener una visión general de las plantas que estoy gestionando.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Visualización exitosa del jardín</h5>
-            <strong>Dado</strong>que un usuario accede a la sección de jardín,
+            <strong>Dado</strong> que un usuario accede a la sección de jardín,
             <strong>Cuando</strong> tiene plantas añadidas, 
             <strong>Entonces</strong> se muestran todas las plantas en una lista.
             <h5>Escenario 02: Jardín vacío</h5>
@@ -1423,15 +1888,13 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td>EPIC-002 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-007 </td>
-            <td> Búsqueda de Plantas	</td>
-           <!-- Descripción -->
+            <td>US-007</td>
+            <td>Búsqueda de Plantas</td>
             <td> 
             <strong>Como</strong> usuario,
-            <strong>quiero</strong> buscar plantas en mi jardín
-            <strong>para</strong> encontrar rápidamente la planta que necesito gestionar.
+            <strong>Quiero</strong> buscar plantas en mi jardín
+            <strong>Para</strong> encontrar rápidamente la planta que necesito gestionar.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 01: Búsqueda exitosa de planta </h5>
             <strong>Dado</strong>que un usuario accede a la sección de jardín,
@@ -1445,116 +1908,78 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td>EPIC-003 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-008 </td>
-            <td> Selección de Plantas </td>
-           <!-- Descripción -->
+            <td>US-008 </td>
+            <td>Añadir Detalles de las Plantas</td>
             <td> 
             <strong>Como</strong> usuario,
-            <strong>quiero</strong> seleccionar una planta específica
-            <strong>para</strong> ver su ciclo de vida y gestionar sus actividades.
+            <strong>Quiero</strong> ver todos los detalles completos de una planta seleccionada
+            <strong>Para</strong> comprender su ciclo de vida y gestionar el cuidado en base a sus necesidades.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01: Selección de planta exitosa</h5>
-            <strong>Dado</strong> que un usuario ha encontrado la planta deseada,
-            <strong>Cuando</strong> la selecciona
-            <strong>Entonces</strong> se muestra su ciclo de vida detallado.
+            <h5>Escenario 01: Seleccionar la plantas</h5>
+            <strong>Dado</strong> que un usuario busca la planta deseada,
+            <strong>Cuando</strong> ingresa el nombre de la planta en el buscador,
+            <strong>Y</strong> presiona la tecla <q>Enter</q>,
+            <strong>Entonces</strong> se mostrará la planta indagada con cada uno de sus detalles característicos.
             </td>
-            <td>EPIC-002 </td>
+            <td>EPIC-010</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-009 </td>
-            <td> Inicio de Ciclo de Vida </td>
-           <!-- Descripción -->
-            <td> 
-            <strong>Como</strong> usuario,
-            <strong>quiero</strong> iniciar el ciclo de vida de una planta
-            <strong>para</strong> empezar a registrar sus actividades y cuidados.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td> 
-            <h5>Escenario 01: Inicio exitoso del ciclo de vida </h5>
-            <strong>Dado</strong> que un usuario ha añadido una planta nueva,
-            <strong>Cuando</strong> inicia su ciclo de vida,
-            <strong>Entonces</strong> l ciclo comienza y se pueden añadir actividades.
-            </td>
-            <td>EPIC-003 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-010 </td>
+            <td>US-009</td>
             <td>Finalización de Ciclo de Vida </td>
-           <!-- Descripción -->
             <td> 
             <strong>Como</strong> usuario
-            <strong>quiero</strong>finalizar el ciclo de vida de una planta
-            <strong>para</strong>  marcarla como completada y guardar su historial.
+            <strong>Quiero</strong> finalizar el ciclo de vida de una planta
+            <strong>Para</strong> marcarla como completada y guardar su historial.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01:Finalización exitosa del ciclo de vida </h5>
-            <strong>Dado</strong>que un usuario ha completado el ciclo de vida de una planta,
+            <h5>Escenario 01: Finalización exitosa del ciclo de vida </h5>
+            <strong>Dado</strong> que un usuario ha completado el ciclo de vida de una planta,
             <strong>Cuando</strong> selecciona finalizar, 
-            <strong>Entonces</strong> e se guarda y se marca como completada.
+            <strong>Entonces</strong> se guarda y se marca como completada.
             </td>
             <td>EPIC-003 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-011 </td>
-            <td> Visualización de Actividades	</td>
-           <!-- Descripción -->
+            <td>US-010</td>
+            <td>Visualizar actividades de cuidado de plantas</td>
             <td> 
-            <strong>Como</strong>  usuario,
-            <strong>quiero</strong> las actividades diarias pendientes
-            <strong>para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.
+            <strong>Como</strong> usuario,
+            <strong>Quiero</strong> visualizar cada una de las actividades diarias pendientes
+            <strong>Para</strong> asegurarme de que estoy al tanto de las tareas de cuidado de mis plantas.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 01:  Visualización de actividades pendientes </h5>
+            <h5>Escenario 01: Visualización de actividades pendientes </h5>
             <strong>Dado</strong> que un usuario accede a la sección de actividades,
-            <strong>Cuando</strong>  tiene actividades pendientes, 
+            <strong>Cuando</strong> tiene actividades pendientes, 
             <strong>Entonces</strong> se muestran en la lista de actividades.
             <h5>Escenario 02: Sin actividades pendientes </h5>
             <strong>Dado</strong> que un usuario accede a la sección de actividades,
-            <strong>Cuando</strong>  no hay actividades pendientes, 
+            <strong>Cuando</strong> no hay actividades pendientes, 
             <strong>Entonces</strong> se muestra un mensaje indicando que no hay tareas por realizar.
             </td>
             <td>EPIC-003 </td>
         </tr>
         <tr style="text-align:center">
-            <td> US-012 </td>
-            <td> Completar Actividades</td>
-            <td> 
-              <strong>Como</strong> usuario 
-              <strong>quiero</strong> marcar actividades como completadas
-              <strong>para</strong> mantener un registro de los cuidados realizados.</td>
-            <td>
-              <h5>Escenario 01:  Completar una actividad </h5> 
-              <strong>Dado</strong> que un usuario tiene una actividad pendiente,
-              <strong>Cuando</strong> la marca como completada, 
-              <strong>Entonces</strong> esta se registra como realizada en el ciclo de vida.
-              </td>
-            <td> EPIC-003</td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-013 </td>
+            <td>US-011</td>
             <td>Seleccionar Planes de Usuario</td>
             <td> 
               <strong>Como</strong> usuario,
-              <strong>quiero</strong> seleccionar entre planes gratuitos y premium
-              <strong>para</strong> elegir el que mejor se adapte a mis necesidades</td>
+              <strong>Quiero</strong> seleccionar entre planes gratuitos y/o premium
+              <strong>Para</strong> elegir el que mejor se adapte a mis necesidades.</td>
             <td>
               <h5>Escenario 01: Selección exitosa de un plan</h5>
               <strong>Dado</strong> que un usuario accede a la página de planes, 
               <strong>Cuando</strong> elige un plan y realiza el pago,
-              <strong>Entonces</strong> le aparecera la pantalla de Iniciar Sesion. 
+              <strong>Entonces</strong> le aparecera la pantalla de "Iniciar Sesion". 
               <h5>Escenario 02: Error al seleccionar plan</h5> 
               <strong>Dado</strong> que un usuario intenta seleccionar un plan sin completar los detalles de pago, 
-              <strong>Cuando</strong>  lo hace,
-              <strong>Entonces</strong> se muestra un mensaje de error. </td>
+              <strong>Cuando</strong> le de click al botón de <q>enviar</q>,
+              <strong>Entonces</strong> se muestra un mensaje de error.</td>
             <td> EPIC-004</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-014 </td>
+            <td>US-012</td>
             <td>Visualización de Beneficios Premium</td>
             <td> 
               <strong>Como</strong> usuario premium,
@@ -1562,110 +1987,53 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
               <strong>para</strong> aprovechar al máximo mi suscripción.</td>
             <td> 
               <h5>Escenario 01: Visualización de beneficios premium</h5>
-              <strong>Dado</strong> que un usuario premium accede a la sección de beneficios,
-              <strong>Cuando</strong> consulta los beneficios,
-              <strong>Entonces</strong> se muestran todas las ventajas disponibles. 
+              <strong>Dado</strong> que un usuario <em>premium</em> accede a la sección de configuración,
+              <strong>Cuando</strong> presione el botón de <q>Ver detalles</q>,
+              <strong>Entonces</strong> se mostrarán todas los beneficios que tiene por el plan adquirido.
             <td>EPIC-004</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-015 </td>
-            <td>Funcionalidades Premium</td>
-            <td> 
-              <strong>Como</strong> usuario premium,
-              <strong>quiero</strong> acceder a funcionalidades exclusivas
-              <strong>para</strong> gestionar mis plantas de manera avanzada.</td>
-            <td> 
-              <h5>Escenario 01: Acceso a funcionalidades premium</h5>
-              <strong>Dado</strong> que un usuario premium accede a funciones avanzadas, 
-              <strong>Cuando</strong> utiliza estas funciones,
-              <strong>Entonces</strong> tienen acceso completo a todas las características premium.
-              <h5>Escenario 02: </h5>
-            <td>EPIC-004</td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-016 </td>
-            <td>Actualización de Información de Perfil</td>
-            <td>
-            <strong>Como</strong> usuario,<strong>quiero </strong>actualizar mi información de perfil <strong>para</strong> reflejar cambios en mis datos personales.
-            </td>
-            <td>
-            <h5>Esceneario 01:  Actualización exitosa de información</h5>
-            <strong>Dado</strong> que un usuario accede a su perfil, <strong>Cuando</strong> actualiza su información,  <strong>Entonces</strong>  los cambios se guardan y se reflejan en su perfil.
-            </td>
-            <td>EPIC-001 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td> US-017 </td>
+            <td>US-013</td>
             <td>Visualización de Perfil</td>
             <td>
-            <strong>Como</strong> usuario,<strong>quiero </strong>ver mi perfil con mi nombre, foto y rol  <strong>para</strong> verificar que mi información es correcta.
+                <strong>Como</strong> usuario
+                <strong>Quiero </strong> ver mi perfil con mi nombre, foto y rol
+                <strong>Para</strong> verificar que mi información es correcta.
             </td>
             <td>
-            <h5>Esceneario 1:Visualización correcta de perfil</h5>
-            <strong>Dado</strong> que un usuario accede a su perfil, <strong>Cuando</strong> visualiza su información, <strong>Entonces</strong> se muestra correctamente su nombre, foto y rol.
+                <h4>Esceneario 1: Visualización del perfil</h4>
+                    <strong>Dado</strong> que un usuario ingresa a la aplicación,
+                    <strong>Cuando</strong> ingresa con sus credenciales,
+                    <strong>Y</strong> selecciona el ícono de su <q>Perfil</q>,
+                    <strong>Entonces</strong> se mostrará correctamente el nombre, foto y rol con el que fue asignado.
             </td>
-            <td>EPIC-008 </td>
+            <td>EPIC-008</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-018 </td>
-            <td>Visualizar mis Plantas en el Jardín</td>
-            <td>
-            <strong>Como</strong> usuario <strong>quiero </strong> ver un resumen de todas las plantas en mi jardín<strong>para</strong> tener una visión general de su estado y cuidados.
-            </td>
-            <td>
-            <h5>Esceneario 1:Visualización exitosa de plantas en el jardín</h5>
-            <strong>Dado</strong> que un usuario accede a la sección de jardín, <strong>Cuando</strong> visualiza dicha sección,<strong>Entonces</strong>  se muestran todas las plantas con su información básica.
-            <h5>Esceneario 2: Jardín sin plantas</h5>
-            <strong>Dado</strong>que un usuario accede a la sección de jardín sin plantas añadidas, <strong>Cuando</strong> lo hace, <strong>Entonces</strong> se muestra un mensaje indicando que no hay plantas en el jardín.
-            </td>
-            <td>EPIC-003 </td>
-        </tr>
-        <tr style="text-align:center">
-            <td>US-019</td>
-            <td>Visualización Detallada de Planta</td>
-            <!-- Descripción -->
+            <td>US-014</td>
+            <td>Finalización de Actividades</td>
             <td>
             <strong>Como</strong> usuario, 
-            <strong>quiero</strong> ver los detalles completos de una planta seleccionada
-            <strong>para</strong> entender mejor sus necesidades y ciclo de vida.
+            <strong>Quiero</strong> marcar una actividad como finalizada 
+            <strong>Para</strong> llevar un registro de todos los cuidados que se han llevado a cabo.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
-            <h5>Escenario 1: Visualización exitosa de detalles de planta</h5>
-            <strong>Dado</strong> que un usuario selecciona una planta, 
-            <strong>Cuando</strong> accede a la visualización detallada,
-            <strong>Entonces</strong>se muestran la dificultad, nombre y tiempo de vida.
-            </td>
-            <td> EPIC-010</td>
-        </tr>
-         <tr style="text-align:center">
-            <td>US-020</td>
-            <td>Finalización de Actividades </td>
-            <!-- Descripción -->
-            <td>
-            <strong>Como</strong> usuario, 
-            <strong>quiero</strong> marcar una actividad como finalizada 
-            <strong>para</strong> llevar un registro de lo que ya he realizado.
-            </td>
-            <!-- Criterios de Aceptación -->
-            <td> 
-            <h5>Escenario 1: Marcar actividad como finalizada</h5>
-            <strong>Dado</strong>  que un usuario completa una actividad, 
-            <strong>Cuando</strong> la marca como finalizada, 
-            <strong>Entonces</strong> esta se mueve a la sección de actividades completadas.
+            <h5>Escenario 1: Marcar actividades finalizadas</h5>
+            <strong>Dado</strong> que el usuario completó sus actividades pendientes, 
+            <strong>Cuando</strong> presiona el <q>checkbox</q> de esa tarea
+            <strong>Y</strong> este tenga el signo de un check,
+            <strong>Entonces</strong> se catalogará como actividad culminada.
             </td>
             <td> EPIC-003</td>
         </tr> 
         <tr style="text-align:center">
-            <td>US-021</td>
+            <td>US-015</td>
             <td>Actualización de Información de Planta </td>
-            <!-- Descripción -->
             <td>
             <strong>Como</strong> usuario, 
             <strong>quiero</strong> actualizar la información de una planta 
             <strong>para</strong> reflejar cambios en su estado o cuidados.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 1:Actualización exitosa de información de planta</h5>
             <strong>Dado</strong> que un usuario accede a los detalles de una planta,
@@ -1675,15 +2043,13 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-002</td>
         </tr> 
         <tr style="text-align:center">
-            <td>US-022</td>
+            <td>US-016</td>
             <td>Creación de Etiquetas para Plantas</td>
-            <!-- Descripción -->
             <td>
             <strong>Como</strong> usuario de 
             <strong>quiero</strong> qcrear etiquetas para mis plantas
             <strong>para</strong>  identificar fácilmente sus características y necesidades.
             </td>
-            <!-- Criterios de Aceptación -->
             <td> 
             <h5>Escenario 1: Creación exitosa de etiqueta</h5>
             <strong>Dado</strong> que un usuario accede a la sección de etiquetas, 
@@ -1691,21 +2057,9 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <strong>Entonces</strong> se asigna a la planta seleccionada.
             </td>
             <td> EPIC-002</td>
-        </tr>    
-        <tr style="text-align:center">
-            <td> US-023 </td>
-            <td>Visualización de Etiquetas </td>
-            <td> 
-            <strong> Como </strong> usuario,
-            <strong> quiero </strong> ver las etiquetas asociadas a cada planta <strong> para </strong> identificar fácilmente sus características y cuidados necesarios. </td>
-            <td> 
-            <h5>Escenario 01: Visualización correcta de etiquetas</h5>
-            <strong> Dado </strong>  que un usuario accede a los detalles de una planta,
-            <strong> Cuando </strong> visualiza las etiquetas,<strong> Entonces </strong>  se muestran todas las etiquetas asociadas a esa planta.</td>
-            <td> EPIC-002</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-024 </td>
+            <td> US-017 </td>
             <td> Eliminación de Etiquetas</td>
             <td> 
                 <strong> Como </strong> usuario, 
@@ -1720,24 +2074,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             </td>
             <td>EPIC-002</td>
         </tr>
-        <tr style="text-align:center">
-            <td> US-025 </td>
-            <td>  Visualización de Notificación de Registro </td>
-            <td> 
-                <strong> Como </strong> usuario,
-                <strong> quiero </strong> visualizar una notificación cuando registro una planta
-                <strong> para </strong>  estar seguro de que se ha registrado correctamente.
-            </td>
-            <td> 
-                <h5> Escenario 01:Notificación de registro exitosa</h5>
-                <strong> Dado </strong> que un usuario registra una planta,
-                <strong> Cuando </strong> da en el botón de registro,
-                <strong> Entonces </strong>  se visualiza una notificación indicando que la planta ha sido registrada con éxito.
-            </td>
-            <td> EPIC-003</td>
-        </tr>
           <tr style="text-align:center">
-            <td> US-026 </td>
+            <td> US-018 </td>
             <td> Visualización del Equipo </td>
             <td> 
                 <strong> Como </strong> visitante del Landing Page, 
@@ -1753,7 +2091,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-012</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-027 </td>
+            <td> US-019 </td>
             <td>  Visualización de Testimonios </td>
             <td> 
                 <strong> Como </strong>  visitante del Landing Page, 
@@ -1769,7 +2107,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
               <td> EPIC-012</td>
         </tr>
         <tr style="text-align:center">
-            <td> US-028</td>
+            <td> US-020</td>
             <td> Visualización de Galería </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1785,7 +2123,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td>EPIC-012 </td>
         </tr>
       <tr style="text-align:center">
-            <td> US-029 </td>
+            <td> US-021 </td>
             <td> Navegación del Encabezado </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1801,8 +2139,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-012</td>
         </tr>
            <tr style="text-align:center">
-            <td> US-030	 </td>
-            <td> Sección de Contacto	 </td>
+            <td>US-022</td>
+            <td>Sección de Contactos</td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
                 <strong>Quiero</strong> ppoder contactar al equipo de Agricorp, 
@@ -1818,7 +2156,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
         </tr>
         </tr>
            <tr style="text-align:center">
-            <td> US-031	 </td>
+            <td> US-023</td>
             <td> Visualización de Planes Detallados	 </td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
@@ -1837,9 +2175,9 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             </td>
             <td> EPIC-013</td>
         </tr>
-             <tr style="text-align:center">
-            <td> US-032	 </td>
-            <td> Visualización de Idioma	 </td>
+            <tr style="text-align:center">
+            <td>US-024</td>
+            <td>Visualización de Idioma</td>
             <td> 
                 <strong>Como</strong> visitante del Landing Page, 
                 <strong>Quiero</strong> poder cambiar el idioma del sitio,
@@ -1856,27 +2194,9 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
               <strong>Entonces</strong>  todo el contenido de la página debe cambiar a inglés.</td>
             </td>
             <td> EPIC-012</td>
-        </tr>
-            </tr>
-             <tr style="text-align:center">
-            <td> US-033	 </td>
-            <td> Visualización de Testimonios </td>
-            <td> 
-                <strong>Como</strong> visitante del Landing Page, 
-                <strong>Quiero</strong>  visualizar los testimonios de usuarios, 
-                <strong>Para</strong>  enfocarme en la sección Testimonials.
-            </td>
-            <td> 
-                <h5>Escenario 01:  Visualización de testimonios en el panel de administración</h5>
-                <strong>Dado</strong> que un usuario accede al panel de administración de testimonios, 
-                <strong>Cuando</strong> navega en el landing page en el apartado de testimonios,
-                <strong>Entonces</strong>   debe poder visualizar los testimonios y comentarios.
-            </td>
-            <td> EPIC-012</td>
-        </tr>
-            <tr style="text-align:center">
+        <tr style="text-align:center">
             <td> TS-001	 </td>
-            <td> Landing Page Responsiva </td>
+            <td>Landing Page Responsiva</td>
             <td> 
                 <strong>Como</strong> visitante del sitio web,
                 <strong>Quiero</strong>   que la landing page sea responsiva, 
@@ -1891,7 +2211,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-014</td>
         </tr>
             <tr style="text-align:center">
-            <td> TS-002	 </td>
+            <td>TS-002</td>
             <td> Integración API RESTful</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
@@ -1907,7 +2227,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-015</td>
         </tr>
         <tr style="text-align:center">
-            <td> TS-003	 </td>
+            <td>TS-003</td>
             <td> Configuración del Entorno de Desarrollo</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
@@ -1931,8 +2251,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> Pruebas de Compatibilidad</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
-                <strong>Quiero</strong>  realizar pruebas de compatibilidad en navegadores
-                <strong>Para</strong>   asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.
+                <strong>Quiero</strong> realizar pruebas de compatibilidad en navegadores
+                <strong>Para</strong> asegurarme de que la aplicación funcione correctamente en Chrome, Edge y Firefox.
             </td>
             <td> 
                 <h5>Escenario 01: Pruebas en diferentes navegadores</h5>
@@ -1943,7 +2263,7 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-017</td>
         </tr>
          <tr style="text-align:center">
-            <td> TS-005	 </td>
+            <td> TS-005</td>
             <td> Implementación de Angular Material</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
@@ -1963,8 +2283,8 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
             <td> EPIC-019</td>
         </tr>
          <tr style="text-align:center">
-            <td> TS-006	 </td>
-            <td> Seguridad en API RESTful</td>
+            <td>TS-006</td>
+            <td>Seguridad en API RESTful</td>
             <td> 
                 <strong>Como</strong> desarrollador, 
                 <strong>Quiero</strong>  implementar medidas de seguridad en la API RESTful,
@@ -1974,14 +2294,12 @@ En esta sección, el equipo presenta los As-Is Scenario Mapping para cada User P
                 <h5>Escenario 01:Implementación de autenticación</h5>
                 <strong>Dado</strong> qque se envían datos sensibles a través de la API,
                 <strong>Cuando</strong>  se implementan medidas de seguridad como autenticación y cifrado,
-                <strong>Entonces</strong>   la API debe proteger los datos de accesos no autorizados.
+                <strong>Entonces</strong> la API debe proteger los datos de accesos no autorizados.
             </td>
             <td> EPIC-020</td>
         </tr>
-    </body>
+    </tbody>
 </table>
-
-
 
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
 
@@ -2701,88 +3019,63 @@ En este apartado se presenta el diagrama de componentes.
     <img src="src/images/Untitled%20-%20Componente%20Seguridad.jpg" alt="Prototipo_Photo" width="500px"/>
 </p>
 
-<h3 id="WebApplicationsPrototyping">4.7. Software Object-Oriented Design
+<h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design
 </h3>
 
 En esta sección, presentamos el diagrama de clases y la implementación de diversos patrones de diseño para optimizar la estructura y la eficiencia del sistema.
 
-<h4>4.7.1. Class Diagrams</h4>
+<h4 id="classDiagram">4.7.1. Class Diagrams</h4>
 
 <p align="center">
-
-![Diagrama_Clases](<./src/images/Software Object-Oriented Design.png>)
+<img src="./src/images/Software Object-Oriented Design. (2).png" alt="Diagram about Agricorp System "/>
 </p>
 
-<h4>4.7.2. Class Dictionary</h4>
-A continuación se muestra las entidades mas principales en formato markdown con las clases, atributos y métodos correspondientes:
+<h4 id="classDictionary">4.7.2. Class Dictionary</h4>
+Para una mejor comprensión acerca del propósito de creación que cada uno de los objetos objeto con sus 
+diferentes propiedaeds y métodos, se detallará cada uno a continuación:
 
-### Usuario
+<br>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| id                  | intenger |
-| name                | string   |
-| Email               | string   |
-| password            | string   |
-| Rol                 | string   |
-| Métodos             | Descripción |
-|---------------------|----------------------------------------|
-| login(username, password) | Verifica las credenciales del usuario. Devuelve true si la autenticación es exitosa. |
-| register(username, password) | Registra un nuevo usuario con el nombre de usuario y la contraseña proporcionados. |
+* Usuario
 
-### Perfil
+<p style="text-align:justify">
+    Está clase estará conservando cada uno de los datos de los usuarios que se registraron dentro de la 
+    aplicación. Por tal motivo, será nuestra clase padre en la cual podemos garatizarán la gran mayoría de 
+    las abstracciones y herencias para construir otras entidades y extender la funcionalidad.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| nombre              | string   |
-| correo              | string   |
-| ImagenPerfil        | string   |
-| Rol                 | string   |
-| Métodos             | Descripción |
-|---------------------|----------------------------------------|
-| editarNombre()   | Edita el nombre del Perfil |
-| editarcorreo() | Edita el correo |
-| actualizarimagepperfil() | Actualiza la imagen. |
+* Perfil
 
-### Home
+<p style="text-align:justify">
+    Como una de las primeras clases hijas, la clase <q>Perfil</q> extenderá la mayoría de las propiedades de 
+    la clase Usuario para luego crear sus propios métodos, lo cual le permitirá definir su propio comportamiento
+    al momento de interactuar con la data del usuario recibida. Sin lugar a duda, un claro ejemplo de Polimorfismo
+    para fomentar la reutilización de código.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| ID                  | int      |
-| ProcesoID           | string   |
-| UsuarioID           | string   |
+* Garden
 
-### Garden
+<p style="text-align:justify">
+    Esta clase es útil para que el usuario pueda indagar los diferentes tipos de plantas en las cuales
+    desearía verificar cada uno de sus detalles para así tener un alcance general acerca de que medidas
+    necesarias requiere el cuidado de dicha planta.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| Plan_name           | boolean  |
-| Plan_time           | char     |
-| About_plan          | boolean  |
+* LifeCycle
 
-### LifeCycle
+<p style="text-align:justify">
+    Esta clase es la que medirá los diferentes índices acerca del cuidado que se está llevando con respecto
+    a las plantas. En gran medida, alertará al usuario ante cualquier riesgo que pueda encontrarse para así 
+    antenderla lo más pronto posible.
+</p>
 
-| Atributos           | Tipos    |
-|---------------------|----------|
-| Plant_Search        | boolean  |
-| Status_activites    | char     |
-| Métodos             | Descripción                            |
-|---------------------|----------------------------------------|
-| GenerateActivites().     |Genera las Actividades
-| EndCycle()    | Opciòn de terminar el ciclo |
-| StartCycle()  | Opciòn de iniciar el ciclo |
+* Settings
 
-### Settings
-
-| Atributos           | Tipos    |
-|---------------------|----------|
-| id               | string   |
-| name         | string   |
-| Email         | string   |
-| Métodos             | Descripción                            |
-|---------------------|----------------------------------------|
-| AddInformation()      | Añade Informacion                 |
-| SaveInformation()      | Guarda Informaciòn                 |
+<p style="text-align:justify">
+    Esta clase servirá para modificar los datos que por <em>default</em> se crearon para el perfil del usuario.
+    En gran parte, esto es una ventaja, por la principal razón que mantenemos actualizada la información
+    ante cualquier posible cambio que presente el usuario en cualquier momento.
+</p>
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
@@ -2792,11 +3085,11 @@ A continuación se muestra las entidades mas principales en formato markdown con
 <img src="src/images/DB_GreenCare_UPC_Open_Source-2024-09-01_09-54.png" alt="GreenCare Database Diagram Photo" style="width:500px; height:auto;"/>`
 </p>
 
-<h2 href="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
+<h2 id="productImplementation">CAPÍTULO 5: PRODUCT IMPLEMENTATION, VALIDATION & DEPLOYMENT</h2>
 
-<h3 href="softwareConfig">5.1. Software Configuration Management</h3>
+<h3 id="softwareConfig">5.1. Software Configuration Management</h3>
 
-<h4 href="softwareDevelopment">5.1.1. Software Development Environment Configuration</h4>
+<h4 id="softwareDevelopment">5.1.1. Software Development Environment Configuration</h4>
 
 En seguida, se preocederá describir cada uno de los productos de software que han sido utilizados en el proyecto. Este apartado servirá de suma utilidad para posibilitar que los actuales y futuros desarrolladores puedan contribuir durante el ciclo de vida del proyecto.
 
@@ -2959,7 +3252,7 @@ Para el caso de prueba del software, se empleo las herramienta de desarrollador 
 
 <br>
 
-<h4 href="sourceCodeManagement">5.1.2. Source Code Management</h4>
+<h4 id="sourceCodeManagement">5.1.2. Source Code Management</h4>
 
 El manejo y la organización de las diversas modificaciones que se llevaran durante todo el ciclo de vida que tendrá nuestra startup, se registrará mediante repositorios de Github.
 
@@ -3011,7 +3304,7 @@ Para la documentación del formato de versiones, se aplicará <q>Semantic Versio
 
 * <strong>Z</strong>: indica tanto los parches como las correciones de carácter menor que se aplicaron a la versión del proyecto. Aquí se incluyen cada uno de los commits realizados desde el <q>hotfix branch</q> que se acaba haciendo merge a la rama <q>main</q>
 
-<h4 href="sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</h4>
+<h4 id="sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</h4>
 
 Para lo que respecta el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que estos contienen convenciones que se deben tomar en cuenta al momento de trabajar con dichas tecnologías. Para informanos acerca de las buenas prácticas de uso, accederemos mediante el siguiente el enlace: <a href="https://google.github.io/styleguide/htmlcssguide.html">https://google.github.io/styleguide/htmlcssguide.html</a>. Entre algunas de estas convenciones mencionaremos las siguientes:
 
@@ -3101,7 +3394,7 @@ Por último y no menos importante, para el uso del framework de Spring Boot, uti
 * Brinda ciertos conjuntos de <q>Endpoints</q> para monitorear y gestionar cada uno de las métricas que cuenta nuestra aplicación.
 
 
-<h4 href="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
+<h4 id="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
 Como mencionamos previamente, la gestión de nuestro código fuente se realizará a través de GitHub. Además, para la publicación y despliegue de la página, aprovecharemos GitHub Pages.
 
@@ -3122,13 +3415,13 @@ En relación con el desarrollo de la página de inicio de GreenCare, hemos utili
 |**Git Flow**|Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto al desarrollo del Landing Page.|<img src="src/images/flow.jpg" alt="GitFlow" style="width:100%;">|
 |**Git Hub Pages**|Servicio de Github que nos permitió alojar nuestra lading page.|<img src="src/images/pages.jpg" alt="Github Pages" style="width:100%;">|
 
-<h3 href="landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</h3>
+<h3 id="landingPageImplementation">5.2. Landing Page, Services & Applications Implementation</h3>
 
-<h4 href="sprint1">5.2.1. Sprint 1</h4>
+<h4 id="sprint1">5.2.1. Sprint 1</h4>
 
 En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint.
 
-<h4 href="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
+<h4 id="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
 
 <table>
     <thead>
@@ -3199,7 +3492,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     </tbody>
 </table>
 
-<h4 href="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
+<h4 id="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -3336,7 +3629,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 </table>
 
-<h4 href="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
+<h4 id="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
 <table>
   <tr>
@@ -3344,101 +3637,97 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     <td  align ="center" > <strong>Branch</strong></td>
     <td  align ="center" > <strong>Commit ID</strong></td>
     <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit Message body</strong></td>
     <td  align ="center" > <strong>Commit on (date)</strong></td>
   </tr>
 
   <tr>
-    <td rowspan="16" align="center"> https://github.com/Agri-Corp/GreenCare-landing.git </td>
+    <td rowspan="16" align="center">https://github.com/Agri-Corp/GreenCare-landing.git </td>
     <td align="center">main</td>
-    <td align="center"> d9badaf</td>
-    <td align="center"> fix(routing): ...</td>
-    <td align="center"> fix(routing): resolve routing issue in team section</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">d9badaf</td>
+    <td align="center">fix(routing): resolve routing issue in team section</td>
+    <td align="center">Resolve routing issue in team section</td>
+    <td align="center">2024/09/05</td>
   </tr>
   
   <tr>
     <td align="center">develop</td>
-    <td align="center"> 729393f</td>
-    <td align="center"> merge ...</td>
-    <td align="center"> Merge branch 'feature/Footer-Section' into develop</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">729393f</td>
+    <td align="center">Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center">Merge branch 'feature/Footer-Section' into develop</td>
+    <td align="center">2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/Contact-us-Section</td>
-    <td align="center"> 06b8784</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add Contact-Us Section</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">06b8784</td>
+    <td align="center">feat: add Contact-Us Section</td>
+    <td align="center">Add Contact-Us Section</td>
+    <td align="center">2024/09/04</td>
   </tr>
   
   <tr>
     <td align="center">feature/Footer-Section</td>
-    <td align="center"> acc2f13</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add GreenCare footer section</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">acc2f13</td>
+    <td align="center">feat: add GreenCare footer section</td>
+    <td align="center">Add GreenCare footer section</td>
+    <td align="center">2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/Testimonials-section</td>
-    <td align="center"> f5dd711</td>
-    <td align="center"> 
-feat: ...</td>
-    <td align="center"> 
-feat: Add Testimonials Section</td>
-    <td align="center"> 2024/09/05</td>
+    <td align="center">f5dd711</td>
+    <td align="center">feat: Add Testimonials Section<</td>
+    <td align="center">Add Testimonials Section</td>
+    <td align="center">2024/09/05</td>
   </tr>
 
   <tr>
     <td align="center">feature/gallery-section</td>
-    <td align="center"> fb83c21</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add 6 images and modifiy index and css</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">fb83c21</td>
+    <td align="center">feat: add 6 images and modifiy index and css</td>
+    <td align="center">Add 6 images and modifiy index and css</td>
+    <td align="center">2024/09/04</td>
   </tr>
 
   <tr>
     <td align="center">feature/home-setcion</td>
-    <td align="center"> 42cf53c</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat:add home-setcion</td>
-    <td align="center"> 2024/09/03</td>
+    <td align="center">42cf53c</td>
+    <td align="center">feat: add home-setcion</td>
+    <td align="center">Add home-setcion</td>
+    <td align="center">2024/09/03</td>
   </tr>
 
   <tr>
     <td align="center">feature/navbar</td>
-    <td align="center"> 85dff78</td>
-    <td align="center"> 
-feat: ...</td>
-    <td align="center"> 
-feat:add navbar</td>
-    <td align="center"> 2024/09/03</td>
+    <td align="center">85dff78</td>
+    <td align="center">feat: add navbar</td>
+    <td align="center">Add navbar</td>
+    <td align="center">2024/09/03</td>
   </tr>
 
   <tr>
     <td align="center">feature/plans-section</td>
-    <td align="center"> 99cdad7</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add plan section with responsive design and Changa typography</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">99cdad7</td>
+    <td align="center">feat: add plan section with responsive design and Changa typography</td>
+    <td align="center">Add plan section with responsive design and Changa typography</td>
+    <td align="center">2024/09/04</td>
   </tr>
 
   <tr>
     <td align="center">feature/team-section</td>
-    <td align="center"> 468787c</td>
-    <td align="center"> feat: ...</td>
-    <td align="center"> feat: add team section with responsive design and Changa typography</td>
-    <td align="center"> 2024/09/04</td>
+    <td align="center">468787c</td>
+    <td align="center">feat: add team section with responsive design and Changa typography</td>
+    <td align="center">Add team section with responsive design and Changa typography</td>
+    <td align="center">2024/09/04</td>
   </tr>
 </table>
 
-<h4 href="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
+<h4 id="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
-En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de las <q>features</q> programadas para la construcción del mismo - teniendo como enfoque adicional en hecho que sea adaptativo a las diferentes dimensiones de los dispositivos que cada uno de los usuarios vaya a interactuar -.
+En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de los <q>features</q> programados para la construcción del mismo - teniendo como enfoque adicional el hecho que sea adaptativo a las diferentes dimensiones de los dispositivos en los que cada uno de los usuarios vaya a interactuar -.
 
-<h4 href="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
+<h4 id="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
 Durante el Sprint 1, se logró un avance notable en la implementación de las principales funcionalidades de la página de inicio del sitio web. El equipo completó satisfactoriamente todas las historias de usuario planificadas, incluyendo la creación de un resumen claro sobre las características y beneficios del sitio, la integración de un acceso destacado a la información detallada de precios, la incorporación de un resumen conciso al final de la página, la adición de un llamado a la acción visible para dirigir a los usuarios hacia la aplicación principal, la presentación de contenido informativo claro y detallado, y la integración de información de contacto de fácil acceso en la página. El equipo trabajó de manera colaborativa para asegurar que las características implementadas cumplieran con los requisitos establecidos, mejorando la experiencia del usuario. Capturas de pantalla:
 
@@ -3483,36 +3772,106 @@ Durante el Sprint 1, se logró un avance notable en la implementación de las pr
 <img src="./src/images/Footer-GreenCare.png" alt="GreenCare-Footer-Section-Landing" style="width:auto; height:120px text-align:center"/>
 
 
-<h4 href="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
+<h4 id="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
 En el primer sprint, hemos diseñado, programado y puesto en funcionamiento la página de inicio para presentar la aplicación web "GreenCare". En esta página de inicio, encontrarás varias secciones creadas para nuestro Landing Page.
 
-|**`REPOSITORIO LANDING PAGE`**|>|[https://github.com/Agri-Corp/GreenCare-landing.git](https://github.com/Agri-Corp/GreenCare-landing.git)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - Landing Page</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCare-landing.git">https://github.com/Agri-Corp/GreenCare-landing.git</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<h4 href="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
+<h4 id="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
 Para la implementación de nuestra página, optamos por utilizar GitHub Pages. En este proceso, creamos un repositorio en GitHub donde gestionamos el control de versiones.
 
-|**`LANDING PAGE DESPLEGADO`**|>|[https://agri-corp.github.io/GreenCare-landing/](https://agri-corp.github.io/GreenCare-landing/)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Despliegue - Landing Page</strong>
+            </td>
+            <td>
+                <a href="https://agri-corp.github.io/GreenCare-landing/">https://agri-corp.github.io/GreenCare-landing/</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<h4 href="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
+<h4 id="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
+
+Para lo que concierne durante todo el desarrollo de este Sprint 1, cada uno de los miembros del equipo
+colaboró de manera continua para llevar a cabo una buena presentación en este primer entregable. Para conocer el aporte de cada uno generó, lo podemos apreciar con más detalle en la siguiente presentación.
+
+Colaboraciones de cada miembro del equipo:
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center">Alumno</th>
+            <th style="text-align:center">Actividad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">Raul Ronaldo Quispe Erasmo</td>
+            <td>
+                Implementación de las sección de galerías de fotos de los diversos tipos de plantas
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Luis Eduardo Lagos Aguilar</td>
+            <td>
+                Implementación de la vista de los planes de suscripción y la sección de los miembros
+                del equipo
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Manuel Alexis Vargas Quispe</td>
+            <td>
+                Implementación del navbar y la vista del sección del hero
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Juan Paul Llamccaya Arone</td>
+            <td>
+                Implementación de la sección de testimonios de usuarios
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">José Diego Huamani Sánchez</td>
+            <td>
+                Implementación de la sección de contactos y del footer
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Commits:**
 
 <p align="center">
-<img src="./src/images/Collaboration_Insights_Sprint1.png" style="width:auto; height: 250px"/>
+<img src="./src/images/Network-Commits-Sprint1-LandingPage.png" style="width:auto; height: 250px"/>
 </p>
 
 <p align="center">
-<img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:auto; height: 400px"/>
+<img src="./src/images/Collaboration_Graphic_Insights_1.png" style="width:450px; height: 400px"/>
 </p>
 
-
-<h4 href="sprint1">5.2.2. Sprint 2</h4>
+<h4 id="sprint2">5.2.2. Sprint 2</h4>
 
 En esta sección registramos y explicamos el avance en términos de producto y trabajo colaborativo para el Sprint 2.
 
-<h4 href="sprintPlanning1">5.2.2.1. Sprint Planning 2</h4>
+<h4 id="sprintPlanning2">5.2.2.1. Sprint Planning 2</h4>
 
 <table>
     <thead>
@@ -3583,179 +3942,180 @@ En esta sección registramos y explicamos el avance en términos de producto y t
     </tbody>
 </table>
 
-<h4 href="sprintBacklog1">5.2.2.2. Sprint Backlog 2</h4>
+<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 2</h4>
 
 <table>
-  <tr>
-    <td> <strong>Sprint #</strong></td>
-    <td   colspan="7"> <strong>Sprint 2</strong> </td>
-  </tr>
-
-   <tr>
-    <td   colspan="2"> <strong>User Story</strong></td>
-    <td   colspan="6"> <strong>Work-item/Task</strong></td>
-  </tr>
-  <tr>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>ID</strong> </td>
-    <td  > <strong>Title</strong></td>
-    <td  > <strong>Description</strong></td>
-    <td  > <strong>Estimation (Hours)</strong></td>
-    <td  > <strong>Assigned To</strong></td>
-    <td  > <strong> Status (To-do/In-Process/To-Review/Done) </strong></td>
-  </tr>
-  <tr>
-    <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >???????? </td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ?</td>
-    <td  > ?? ??</td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="4"> ??</td>
-    <td rowspan="4"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  >????????</td>
-    <td  >? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-   <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="2"> ??</td>
-    <td rowspan="2"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <td rowspan="3"> ??</td>
-    <td rowspan="3"> ??????</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
-  <tr>
-    <td rowspan="1"> ??</td>
-    <td rowspan="1"> ?? ??</td>
-    <td  > ??</td>
-    <td  > ?? ??</td>
-    <td  > ????????</td>
-    <td  > ? </td>
-    <td  > ?? ?? </td>
-    <td  > Done </td>
-  </tr>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+        <tr>
+            <th>User Story</th>
+            <th>Work-item/Task</th>
+            <th>ID</th>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Estimation (Hours)</th>
+            <th>Assigned To</th>
+            <th>Status</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>US001</td>
+            <td>Shared Components</td>
+            <td>UT-014</td>
+            <td>Creación de componentes compartidos</td>
+            <td>Desarrollo de componentes reutilizables para varias secciones de la aplicación</td>
+            <td>3</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-015</td>
+            <td>Integración de componentes compartidos</td>
+            <td>Integración de los componentes compartidos en el branch 'develop'</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US002</td>
+            <td>Public Components</td>
+            <td>UT-016</td>
+            <td>Creación de componentes públicos</td>
+            <td>Desarrollo de componentes accesibles para los usuarios no registrados</td>
+            <td>3</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-017</td>
+            <td>Integración de componentes públicos</td>
+            <td>Integración de los componentes públicos en el branch 'develop'</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US003</td>
+            <td>Servicio de Datos</td>
+            <td>UT-018</td>
+            <td>Creación de servicio de datos</td>
+            <td>Implementación del servicio para la obtención y actualización de datos</td>
+            <td>3</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-019</td>
+            <td>Documentación del servicio de datos</td>
+            <td>Documentación del funcionamiento y uso del servicio de datos</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US004</td>
+            <td>Configuración</td>
+            <td>UT-020</td>
+            <td>Creación de componente Settings</td>
+            <td>Permite a los usuarios cambiar su nombre, correo, y cerrar sesión</td>
+            <td>3</td>
+            <td>Juan Paul Llamccaya Arone</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-021</td>
+            <td>Estilos del componente Settings</td>
+            <td>Aplicación de estilos al componente de configuración según el prototipo</td>
+            <td>1</td>
+            <td>Juan Paul Llamccaya Arone</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US005</td>
+            <td>Planes</td>
+            <td>UT-022</td>
+            <td>Creación de componente Plans</td>
+            <td>Desarrollo de la página de planes, mostrando las opciones gratuitas y premium</td>
+            <td>2</td>
+            <td>Raul Ronaldo Quispe Erasmo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-023</td>
+            <td>Estilos del componente Plans</td>
+            <td>Personalización de los estilos del componente de planes según el diseño</td>
+            <td>1</td>
+            <td>Raul Ronaldo Quispe Erasmo</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US006</td>
+            <td>Garden</td>
+            <td>UT-024</td>
+            <td>Creación de componente Garden</td>
+            <td>Muestra las plantas disponibles con opciones de búsqueda y visualización de detalles</td>
+            <td>3</td>
+            <td>Manuel Alexis Vargas Quispe</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-025</td>
+            <td>Estilos del componente Garden</td>
+            <td>Ajuste de estilos para el componente Garden en base al diseño</td>
+            <td>1</td>
+            <td>Manuel Alexis Vargas Quispe</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US007</td>
+            <td>Home</td>
+            <td>UT-026</td>
+            <td>Creación del componente Home</td>
+            <td>Muestra la vista predeterminada con actividades diarias de cuidado de plantas</td>
+            <td>2</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-027</td>
+            <td>Estilos del componente Home</td>
+            <td>Personalización de los estilos del componente Home para una visualización coherente</td>
+            <td>1</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td>UT-028</td>
+            <td>Ajustes finales</td>
+            <td>Corrección de errores y ajustes de integración</td>
+            <td>2</td>
+            <td>Luis Eduardo Lagos Aguilar</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
 </table>
 
-<h4 href="developmentEvidenceSprint1">5.2.2.3. Development Evidence for Sprint Review</h4>
+<h4 id="developmentEvidenceSprint2">5.2.2.2. Development Evidence for Sprint Review</h4>
 
 <table>
   <tr>
@@ -3809,24 +4169,29 @@ En esta sección registramos y explicamos el avance en términos de producto y t
   </tr>
 </table>
 
-<h4 href="testSuiteEvidenceSprint1">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+<h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
 
+Para este sprint, nos centramos en la culminación de este nuevo entregable - que viene a ser el 
+desarrollo del Web Applicaction -, por lo que al centralizar ese aspecto y actualizar la funcionalidad 
+del Landing Page, no llevamos una prueba de testeo para este sprint; pero no se descarta que para en 
+un Sprint no muy lejano se valide cada funcionalidad antes de poder presentarselo a nuestros clientes 
+y stakeholders.
 
-
-<h4 href="executionEvidenceSprint1">5.2.2.5. Execution Evidence for Sprint Review</h4>
+<h4 id="testSuiteEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
 Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pantalla de home, garden, life cycle,plans y settings. Link de la aplicación:
-<br>
 
 * Vista de Home de la aplicación:
-<br>
 
 <img src="./src/images/Home_op.jpeg" alt="home" style="width:auto; height:120px text-align:center"/>
 
-* Vista de Garden:
 <br>
 
+* Vista de Garden:
+
 <img src="./src/images/Garden.jpeg" alt="garden" style="width:auto; height:120px text-align:center"/>
+
+<br>
 
 * Vista de Life Cycle:
 
@@ -3837,24 +4202,641 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 * Vista de Plans:
 
 <img src="./src/images/Plans.jpeg"  alt="Plans" style="width:auto; height:120px text-align:center"/>
+
 <br>
 
 * Vista de Settings:
 
 <img src="./src/images/Settings.jpeg"  alt="Settings" style="width:auto; height:120px text-align:center"/>
+
 <br>
 
-<h4 href="servicesDocumentationSprint1">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+<h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
 
-|**`REPOSITORIO FRONTEND`**|>|[https://github.com/Agri-Corp/GreenCareApp](https://github.com/Agri-Corp/GreenCareApp)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - Web Application</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCareApp">https://github.com/Agri-Corp/GreenCareApp</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<h4 href="softwareDeploymentEvidenceSprint1">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+<h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
 
-|**`FRONTEND DESPLEGADO`**|>|[LINK](LINK)|
-|-----|----|----|
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Despliegue - Web Application</strong>
+            </td>           
+            <td>
+                <a href="https://agricorp-upc-2024.web.app/home">https://agricorp-upc-2024.web.app/home</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<h4 href="teamCollaborationInsights">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+<h4 id="teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+
+En este Sprint 2, cada uno de los miembros del equipo utilizó cada concepto aprendido, ya sea de manera autodidacta como propia del curso, para modelar el diseño creado en nuestro MockUp para el apartado de la aplicación web. Es por que, mediante la siguiente tabla, se detallará cada una de las responsabilidad que se tuvo prevista para llegar al deadline definido en este Sprint.
+
+Colaboraciones de cada miembro del equipo:
+
+<table>
+    <thead>
+        <tr>
+            <th style="text-align:center">Alumno</th>
+            <th style="text-align:center">Actividad</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">Raul Ronaldo Quispe Erasmo</td>
+            <td>
+                Implementación de las sección de planes de suscripción
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Luis Eduardo Lagos Aguilar</td>
+            <td>
+                Implementación de la sección del <q>LifeCycle</q> y configuración del db.json a cada uno de los componentes de la aplicación.
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Manuel Alexis Vargas Quispe</td>
+            <td>
+                Implementación de la sección deñ Jardín así como el <q>search component</q> para la búsqueda de las plantas
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">Juan Paul Llamccaya Arone</td>
+            <td>
+                Implementación de la sección de configuración
+            </td>
+        </tr>
+        <tr>
+            <td style="text-align:center">José Diego Huamani Sánchez</td>
+            <td>
+                Implementación del home section del Web Application así como el despliegue del mismo.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+**Commits:**
+
+<p align="center">
+<img src="./src/images/Commits-Collaboration-Insights=Sprint2.png" alt="Commits-Workflow-Sprint2" style="width:auto; height: 250px"/>
+</p>
+
+<p align="center">
+<img src="./src/images/WorkFlow-Sprint2.png" alt="Collaboration-Insights-Sprint2" style="width:500px; height: auto;"/>
+</p>
+
+<h4 id="sprint3">5.2.3. Sprint 3</h4>
+
+<h4 id="sprintPlanning3">5.2.3.1. Sprint Planning 3</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/10/16</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>18:07 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Agregar los páginas restantes que no pudieron presentarse en el anterior Sprint, tales como la sección
+                del <em>Login</em> y <em>Register</em> asi como mejorar algunos aspectos UI que no eran agradables para
+                todos los stakeholders.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>
+                Implementar el desarrollo de la primera versión del RESTFul API, incluyendo 
+                el despliegue del mismo para visualizar cada uno de los endpoints levantados.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                15
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 3</h4>
+
+<h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center">https://github.com/Agri-Corp/GreenCare-API</td>
+    <td align="center">main</td>
+    <td align="center"> 4d443daccc3a3ab89937922cbd90524137d4fc73</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/08/14</td>
+  </tr>
+  
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">03c9bce1069d0a01c1822d155c0194f28ac65462</td>
+    <td align="center"> feat: laying the foundation for the backend</td>
+    <td align="center"> feat: laying the foundation for the backend</td>
+    <td align="center"> 2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">b4540d72740465ff59d228ae98db25f00383b1da</td>
+    <td align="center">fix: moving folder locations</td>
+    <td align="center">fix: moving folder locations</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+  
+  <tr>
+    <td align="center">feature/service</td>
+    <td align="center">b73224de6a048a6d75584ddab015a97292a687a3</td>
+    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
+    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
+    <td align="center"> 2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/model</td>
+    <td align="center">872efc6054de70094026d05b064c602f66d2aa82</td>
+    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
+    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/repository</td>
+    <td align="center">0d8c71fe1a09d26ea6d42c56b8ac75c372832235</td>
+    <td align="center">feat: add the reposity Core to administrate the Plants</td>
+    <td align="center">feat: add the reposity Core to administrate the Plants</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">619f5015362137cd6a1d6ada51627d3b29518cd5</td>
+    <td align="center">Merge branch 'feature/repository' into develop</td>
+    <td align="center">Merge branch 'feature/repository' into develop</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">172edc2c286945a9b9978ce593e4a05a7c5b599b</td>
+    <td align="center">Update PlantsController.java</td>
+    <td align="center">Update PlantsController.java</td>
+    <td align="center">2024/11/01</td>
+  </tr>
+</table>
+
+<h4 id="testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</h4>
+
+Para este Sprint 3, nos hemos centrado en la creación de cada uno de los *Endpoints* que utilizará cada
+uno de los servicios en nuestra aplicación de Angular. Por loq que, por priorizar cada uno de los features
+programados, para este entregable no hemos desarrollados pruebas de testing.
+
+<h4 id="servicesDocumentationSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
+
+Despues de culminar satisfactoriamente el sprint 3, logramos implementar el primer endpoint que va en relación a la consulta de cada una de las plantas que el usuario va a ir agregando dentro de la aplicación.
+
+* Vista del Endpoint Plants:
+
+<img src="./src/images/Execution-Sprint3-Backend.jfif" alt="home" style="width:auto; height:120px text-align:center"/>
+
+<br>
+
+<h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - RESTful API</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCare-API">https://github.com/Agri-Corp/GreenCare-API</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Despliegue - RESTful API</strong>
+            </td>           
+            <td>
+                <a href=""></a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</h4>
+
+En este Sprint 3, se mostrarán cada uno de los *insights* que corresponden al entregable grupal desarrollado en Github.
+
+Para el caso del Web Application, se incluyeron las vistas principales y algunos ajustes de diseño UI que en sí quedaban
+pendientes del Sprint anterior; por otra parte, ose mejoró la funcionalidad de cambiar el idioma en la aplicaición ya que
+habían algunas secciones que no las traduccia correctamente.
+
+**Link del Repositorio del Web Application:**
+<a href="https://github.com/Agri-Corp/GreenCareApp">https://github.com/Agri-Corp/GreenCareApp</a>
+
+Para visualizar el esfuerzo desarrollado por cada uno de los miembros del equipo, se adjunta el indicardor de commits
+acerca de todos los cambios llevados a cabo.
+
+<p align="center">
+    <img src="./src/images/Contributors-Sprint3-FrontEnd.png" alt="ScreenShoot de los commits del Repositorio del Web App" style="width:450px; height: auto;"/>
+</p>
+
+Adicional a ello, se muestra el *Gitflow* sobre las diversas ramas en las cuales hemos trabajado para la implementación
+de cada una de las features.
+
+<p align="center">
+    <img src="./src/images/Gitflow-Sprint3.png" alt="ScreenShoot del Gitfowdel Sprint 3" style="width:500px; height: auto;"/>
+</p>
+
+<h2 id="validationInterviews">5.3. Validation Interviews</h2>
+
+Tras el avance en cuanto al desarrollo del Landing Page, Frontend Application y Restful API sobre el producto GreenCare,
+se paso a llevar a cabo cada una de las entrevistas de validación para cada uno de nuestros segmentos objetivos para que
+puedan apreciar en primera instancia el software funcional.
+
+<h3 id="#validationDesign">5.3.1. Diseño de Entrevistas</h3>
+
+1. ¿Qué aspectos de nuestro Landing Page así como nuestra aplicación son los que más te ha llamado la atención? <br>
+
+2. ¿Qué observaciones o detalles visuales son los que te gustaría ver una mejoría? <br>
+
+3. Para ti ¿Cómo impactaría el sistema de planes de suscripción en nuestra aplicacion? ¿Consideras que debería ser algo relevante? <br>
+
+4. ¿Cómo te gustaría validar la información de cuenta dentro de la aplicación? <br>
+
+5. Dentro de la sección de "Jardin", ¿Que persepciones tienes para darle una mejoría a la visualización? <br>
+
+6. ¿En comparaciones con otras aplicaciones del rubro, que tanto futuro o progreso le vez a nuestra aplicación? <br>
+
+7. ¿Que tan relevante consideras el aspecto de seguridad de registrarse o ingresar a una cuenta? <br>
+
+8. ¿Cúantas plantas te gustaría que se puedieran agregar dentro de la aplicación? En base a nuestro desarrollo, cúal sería la mejor forma de validar e informar los detalles de tus plantas registradas? <br>
+
+<h3 id="#validationInterviews">5.3.2. Registro de Entrevistas</h3>
+
+**Entrevista de Validación #1**
+
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Ricardo</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Torres Quispe</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>24</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Andahuaylas, en la sierra de Apurímac</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>00:00 min - 03:40 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:40 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1">
+                    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="./src/images/ValidationInterview2.jfif" alt="Entrevista#2 Validación - Ricardo Torres Quispe" style="width:400px"/>
+</p>
+
+**Resumen de la Entrevista:**
+
+<p style="text-align: justify">
+    La claridad de las secciones en la página principal de la aplicación es uno de los aspectos más destacados, especialmente en “Actividades de Hoy,” “Jardín,” y “Ciclo de Vida.” La manera en que se organiza y presenta la información clave, como los nombres de las plantas y su tiempo de vida, resulta útil y fácil de entender. Sin embargo, se sugieren algunas mejoras visuales, como hacer la barra de ciclo de vida de las plantas más llamativa y visible. Además, en la sección “Today Activities” sería beneficioso incluir íconos o colores que indiquen la urgencia de las tareas pendientes.
+    El sistema de planes de suscripción se percibe como útil, especialmente el plan premium que ofrece recomendaciones personalizadas y un ciclo de vida ilimitado. Esto es valioso para quienes buscan un cuidado a largo plazo de sus plantas, aunque es importante que la versión gratuita mantenga suficientes funcionalidades para atraer y mantener a nuevos usuarios. En cuanto a la validación de la información de la cuenta, se prefiere un proceso sencillo, como a través del correo electrónico, y se valora la existencia de un formulario en “Settings” para actualizar datos de manera fácil.
+    Respecto a la sección de "Jardín," las cartas de las plantas podrían mejorarse mostrando un resumen más detallado, como el tiempo de vida restante o recomendaciones rápidas. También se propone agregar un filtro adicional en la barra de búsqueda para que los usuarios puedan ver solo las plantas disponibles en la versión gratuita. En términos de potencial, se considera que la aplicación tiene un gran futuro debido a las funcionalidades únicas, como las recomendaciones y el ciclo de vida de las plantas. Si se sigue desarrollando con un equilibrio adecuado entre opciones para usuarios
+    gratuitos y premium, podría atraer a un público amplio. La seguridad al registrarse o iniciar sesión 
+    es relevante, ya que los usuarios desean proteger la información de sus plantas y ciclos de vida. 
+    Métodos simples y seguros, como el registro por correo electrónico con verificación opcional, son 
+    vistos como suficientes. En cuanto al número de plantas que se pueden agregar, 6 parece adecuado para 
+    la versión gratuita. También se valora recibir notificaciones de tareas pendientes y tener detalles 
+    claros sobre el cuidado de las plantas, especialmente en la sección “Lyfe Cycle.”
+</p>
+
+**Entrevista de Validación #2**
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Lucia</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Melendez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>20</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Villa Maria del Triunfo</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>03:40 min - 09:51 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>06:11 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1">
+                    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="./src/images/ValidationInterview-3.png" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+</p>
+
+**Resumen de la Entrevista:**
+
+<p style="text-align: justify">
+    En una reciente entrevista sobre la aplicación de gestión de plantas, se destacaron aspectos clave 
+    de la experiencia de usuario. La claridad en los planes de costos fue bien valorada, ya que evita 
+    contacto adicional con soporte. Se sugirió añadir un asistente virtual para responder dudas 
+    rápidamente y personalizar recomendaciones, además de mejorar la visualización en la sección “
+    Jardín” con imágenes más claras y grandes. El sistema de suscripción es adecuado y cumple su 
+    función. Para validar la información de cuenta, se propuso descargar un reporte, y en términos 
+    de seguridad, la verificación por correo es vista como suficiente. Finalmente, se sugirió 
+    categorizar las plantas en comestibles y decorativas, con reportes semanales para mantener 
+    informado al usuario.
+</p>
+
+**Entrevista de Validación #3**
+<table>
+    <thead>
+        <tr>
+            <th scope="row" colspan="2">Entrevista #4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Nombres</strong>
+            </td>
+            <td>Luis Alberto</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Apellidos</strong>
+                <td>Martínez Gutiérrez</td>
+            </td>
+        </tr>
+       <tr>
+            <td style="text-align:center">
+                <strong>Edad</strong>
+            </td>
+            <td>28</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Distrito</strong>
+            </td>
+            <td>Comunidad San Pedro - Apurimac, Perú</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Timing</strong>
+            </td>
+            <td>09:53 min - 13:02 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>Duración</strong>
+            </td>
+            <td>03:09 min</td>
+        </tr>
+        <tr>
+            <td style="text-align:center">
+                <strong>URL</strong>
+            </td>
+            <td>
+                <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1">
+                    https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EZBvfk_JGOBEiRqn_KkZ9UQB_j4syrjuxbBtCqhBdxGdOA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=xoCxq1
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<br>
+
+<p style="text-align:center">
+    <img src="./src/images/ValidationInterview1.jfif" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+</p>
+
+**Resumen de la Entrevista:**
+
+<p style="text-align: justify">
+    Los aspectos más atractivos de la aplicación incluyen la claridad con la que se explican su propósito,
+    misión y visión, así como las animaciones interactivas en los recuadros, que aportan dinamismo a la 
+    experiencia del usuario. Sin embargo, algunos textos podrían beneficiarse de un mayor tamaño, y sería 
+    útil que los botones fueran más visibles para facilitar su identificación. En cuanto al sistema de 
+    suscripción, se considera importante que no limite las funciones básicas, aunque se reconoce el valor de
+    ofrecer detalles y recomendaciones adicionales en el plan premium. La validación de la información 
+    de cuenta debería ser sencilla, idealmente a través de correo electrónico, con la opción de usar el 
+    teléfono para soporte adicional en caso de necesidad. Para mejorar la sección de "Jardín," se sugiere 
+    mostrar una lista de plantas con fotos grandes y claras, permitiendo a los usuarios visualizar 
+    rápidamente el estado y las tareas pendientes de cada planta. La aplicación tiene un gran potencial, 
+    especialmente para personas fuera de las ciudades, siempre y cuando siga siendo accesible y fácil de 
+    usar para aquellos en zonas rurales. La seguridad de los datos es importante, pero no debe complicar 
+    el acceso a la cuenta. Finalmente, sería ideal poder agregar unas 10 plantas desde el principio, con 
+    notificaciones que informen sobre el estado y el progreso de cada una.
+</p>
+
+<h3 id="#heuristicsEvaluation">5.3.3. Evaluaciones según Heurísticas</h3>
+
+Gracias a todas los veredictos que argumentaron nuestros entrevistado, adjuntando a ello cada una de nuestras percepciones y experencias,
+analizaremos las heurísticas del diseño de nuestra aplicación.
+
+**1. Cuidado Intuitivo y Natural:**
+Los términos y visuales usados, como iconos de gotas de agua para riego o soles para luz, son fácilmente reconocibles y se relacionan con el entorno natural, ayudando a los usuarios a comprender las funciones sin esfuerzo.
+
+**2. Control Personalizado del Jardín:**
+Los usuarios tienen la libertad de ajustar las configuraciones de cuidado de sus plantas según las necesidades específicas, con acceso fácil a funciones avanzadas si desean más control sobre el mantenimiento.
+
+**3. Cohesión en el Diseño de Cuidado:**
+Las acciones y funciones de la aplicación son consistentes con las expectativas del usuario, haciendo que las tareas, como programar recordatorios o verificar la salud de las plantas, sean simples y comprensibles.
+
+**4. Manejo Preventivo del Cuidado de Plantas:**
+La aplicación proporciona advertencias y recomendaciones para prevenir errores, como regar en exceso o exponer las plantas a condiciones adversas, asegurando que los usuarios puedan cuidar eficazmente su jardín.
+
+**5. Información Claramente Identificable:**
+Las funciones y recomendaciones importantes se muestran de manera prominente, minimizando la necesidad de que los usuarios recuerden detalles complejos sobre el cuidado de las plantas.
+
+**6. Adaptabilidad y Eficiencia en el Cuidado:**
+El sistema se adapta a diferentes tipos de usuarios, permitiendo que tanto los principiantes como los jardineros expertos gestionen sus plantas de manera eficiente. Las opciones avanzadas están disponibles sin comprometer la simplicidad para los nuevos usuarios.
+
+**7. Educación y Asesoramiento Práctico:**
+La aplicación proporciona consejos útiles y guías paso a paso para el cuidado de diferentes tipos de plantas, ayudando a los usuarios a mejorar sus habilidades de jardinería. Las secciones educativas están diseñadas para ser fáciles de entender y accesibles, independientemente del nivel de experiencia del usuario.
+
+
+**8. Diseño Inspirador y Agradable:**
+La aplicación utiliza elementos visuales atractivos y colores que evocan la naturaleza, haciendo que la experiencia de uso sea placentera y motivando a los usuarios a pasar más tiempo gestionando sus plantas. Un diseño cuidado y armonioso fomenta una conexión emocional con el proceso de jardinería.
+
+<h2 id="videoAboutProduct">5.4. Video About-The-Product</h2>
+
+En esta sección se mostrará el *Video-About-the-Product* el cuál incluirá cada uno de los detalles más relevantes del porqué nos deben preferir como una de las mejores opciones para el cuidado de las plantas.
+
+Se adjuntan los enlaces de los videos para que puedan interactuar con ellos en nuestras diversas plataformas de streaming:
+
+* **Microsoft Stream:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-_LpCraslt9mfUHQBTepVjbADjP5q1WXrSZla2Q?e=yqwESE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-_LpCraslt9mfUHQBTepVjbADjP5q1WXrSZla2Q?e=yqwESE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+* **Youtube:** <a href="https://youtu.be/tIN8O864GKA">https://youtu.be/tIN8O864GKA</a>
+
+**Duración:** 00:25
+
+**Screenshot del video:** 
+<p align="center">
+    <img src="./src/images/VIdeo=About-The-Product-Banner.png" alt="Video-About-The-Product, Greencare" style="width: auto; height:300px"/>
+</p>
 
 <h2 id="conclution">CONCLUSIONES</h2>
 
@@ -3876,7 +4858,43 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 
 * En correspondencia a las respuesta, de lo cual obtuvimos en las entrevistas por parte de nuestros dos segmentos, recomendamos amplicamente que en futuros productos de software nos incluyan la posibilidad de que el usuario seleccione un idioma en especifico para que pueda obtener buenas referencias y pueda ser entendible en cada idioma materno.
 
+*TB2*
+
+* Para lo que respecta al bounded context de security, se recomienda para los futuros developers abordar para el siguiente sprint los siguientes **features** que no pudieron desarrollarse dentro de todo el ciclo de vida del proyecto y que, gracias a ello, brindará una mejor experiencia en la interacción que tendrá el usuario dentro con la aplicación así como garantizar la confidencialidad de su información brindada.
+
+    * Enviar correos electrónicos a la bandeja de entrada del usuario para notificar la creación exitosa de su cuenta.
+    * Realizar validaciones en cada uno los formularios dentro de la aplicación de Angular para detallar las denegaciones o impedimentos.
+    * Realizar funciones o **Store Procedures** en vez de consultas dinámicas para mitigar los riesgos de ataques de <q>SQL Injection</q>.
+    * Realizar pruebas de estrés para determinar las capacidades máximas que puede soportar nuestra aplicación para así realizar mantenimientos y/o escalamientos en base a las necesidades futuras.
+
+<br>
+
 <h3 id="teamVideo">Video About-the-Team</h3>
+
+**TB1:**
+
+<p align="center">
+    <img src="./src/images/TB1-Expo-Video-AgriCorp.jfif" alt="TB1-Exposition-Video-AgriCorp" style="width:450px"/>
+</p>
+
+<br>
+
+<p align="center">
+    <strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXb8FcCQyBhJlyl1TgL_ZDwBpdK3oJpPfhjJ3WK9kViKJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P9tmnW">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EXb8FcCQyBhJlyl1TgL_ZDwBpdK3oJpPfhjJ3WK9kViKJA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=P9tmnW</a>
+</p>
+
+<br>
+
+**TP1:**
+
+<p align="center">
+    <img src="./src/images/TP-Expo-Video-AgriCorp.jfif" alt="TP-Exposition-Video-AgriCorp" style="width:450px"/>
+</p>
+<br>
+
+<p align="center">
+    <strong>URL:</strong> <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EW9rZ2N5zsdIgfDPqQx2HqkBCimIcAtRyZeAW4qh68rHew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hpzD76">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202113256_upc_edu_pe/EW9rZ2N5zsdIgfDPqQx2HqkBCimIcAtRyZeAW4qh68rHew?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hpzD76</a>
+</p>
 
 <h2 id="bibliography">BIBLIOGRAFÍA</h2>
 
@@ -3915,59 +4933,3 @@ Despues de culminar satisfactoriamente el sprint 2, logramos implementar la pant
 * <p>Tune, N. (2018). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD - Medium. Medium. <a href="https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578">https://medium.com/nick-tune-tech-strategy-blog/domain-driven-architecture-diagrams-139a75acb578</a></p>
 
 <h2 id="anexos">ANEXOS</h2>
-
-<table>
-<tr>
-<th colspan="17">LINKS DE TODOS LOS CAPÍTULOS</th>
-</tr>
-<tr>
-<td Cowspan="2">CAPITULOS</td>
-<td>ENLACE</td>
-<td>¿De qué trata?</td>
-</tr>
-<tr>
-<td Rowspan="2">CHAPTER 1</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 2</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 3</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 4</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 5</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-</table>
