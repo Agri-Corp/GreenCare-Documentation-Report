@@ -4297,7 +4297,7 @@ Colaboraciones de cada miembro del equipo:
 </p>
 
 <p align="center">
-<img src="./src/images/WorkFlow-Sprint2.png alt="Collaboration-Insights-Sprint2" style="width:450px; height: 400px"/>
+<img src="./src/images/WorkFlow-Sprint2.png" alt="Collaboration-Insights-Sprint2" style="width:500px; height: auto;"/>
 </p>
 
 <h4 id="sprint3">5.2.3. Sprint 3</h4>
@@ -4684,7 +4684,7 @@ puedan apreciar en primera instancia el software funcional.
 <br>
 
 <p style="text-align:center">
-    <img src="./src/images/ValidationInterview2.jfif" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+    <img src="./src/images/ValidationInterview1.jfif" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
 </p>
 
 **Resumen de la Entrevista:**
