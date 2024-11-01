@@ -4304,8 +4304,79 @@ Colaboraciones de cada miembro del equipo:
 
 <h4 id="sprintPlanning3">5.2.3.1. Sprint Planning 3</h4>
 
-<h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 3</h4>
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/10/16</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>18:07 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                Agregar los páginas restantes que no pudieron presentarse en el anterior Sprint, tales como la sección
+                del <em>Login</em> y <em>Register</em> asi como mejorar algunos aspectos UI que no eran agradables para
+                todos los stakeholders.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Goal</td>
+            <td>
+                Implementar el desarrollo de la primera versión del RESTFul API, incluyendo 
+                el despliegue del mismo para visualizar cada uno de los endpoints levantados.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Velocity</td>
+            <td>
+                15
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
 
+<h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 3</h4>
 
 <h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
 
