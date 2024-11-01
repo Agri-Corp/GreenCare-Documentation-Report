@@ -4216,11 +4216,29 @@ Colaboraciones de cada miembro del equipo:
 **Commits:**
 
 <p align="center">
-<img src="" alt="Commits-Workflow-Sprint2" style="width:auto; height: 250px"/>
+<img src="./src/images/WorkFlow-Sprint2.png" alt="Commits-Workflow-Sprint2" style="width:auto; height: 250px"/>
 </p>
 
 <p align="center">
-<img src="" alt="Collaboration-Insights-Sprint2" style="width:450px; height: 400px"/>
+<img src="./src/images/Commits-Collaboration-Insights=Sprint2.png" alt="Collaboration-Insights-Sprint2" style="width:450px; height: auto;"/>
+</p>
+
+<h2 id="">5.4. Video About-The-Product</h2>
+
+En esta sección se mostrará el *Video-About-the-Product* el cuál incluirá cada uno de los detalles más relevantes del porqué nos deben preferir como una de las mejores opciones para el cuidado de las plantas.
+
+Se adjuntan los enlaces de los videos para que puedan interactuar con ellos en nuestras diversas plataformas de streaming:
+
+* **Microsoft Stream:** <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-_LpCraslt9mfUHQBTepVjbADjP5q1WXrSZla2Q?e=yqwESE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-_LpCraslt9mfUHQBTepVjbADjP5q1WXrSZla2Q?e=yqwESE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+* **Youtube:** <a href="https://youtu.be/tIN8O864GKA">https://youtu.be/tIN8O864GKA</a>
+
+**Duración:** 00:25
+
+**Screenshot del video:** 
+<p align="center">
+    <img src="./src/images/VIdeo=About-The-Product-Banner.png" alt="Video-About-The-Product, Greencare" style="width: auto; height:300px"/>
 </p>
 
 <h2 id="conclution">CONCLUSIONES</h2>
@@ -4242,6 +4260,15 @@ Colaboraciones de cada miembro del equipo:
 * Aplicar Domain Driven Design en el desarrollo Frontend y backend permite un proyecto más escalable tolerante al cambio, ordenado y fácil de manejar cuando estamos manipulando una aplicación con ciera complejidad. Asimismo, permite delegar y realizar cambios en el código de manera más fácil en lo que se refiere en el trabajo colaborativo.
 
 * En correspondencia a las respuesta, de lo cual obtuvimos en las entrevistas por parte de nuestros dos segmentos, recomendamos amplicamente que en futuros productos de software nos incluyan la posibilidad de que el usuario seleccione un idioma en especifico para que pueda obtener buenas referencias y pueda ser entendible en cada idioma materno.
+
+*TB2*
+
+* Para lo que respecta al bounded context de security, se recomienda para los futuros developers abordar para el siguiente sprint los siguientes **features** que no pudieron desarrollarse dentro de todo el ciclo de vida del proyecto y que, gracias a ello, brindará una mejor experiencia en la interacción que tendrá el usuario dentro con la aplicación así como garantizar la confidencialidad de su información brindada.
+
+    * Enviar correos electrónicos a la bandeja de entrada del usuario para notificar la creación exitosa de su cuenta.
+    * Realizar validaciones en cada uno los formularios dentro de la aplicación de Angular para detallar las denegaciones o impedimentos.
+    * Realizar funciones o **Store Procedures** en vez de consultas dinámicas para mitigar los riesgos de ataques de <q>SQL Injection</q>.
+    * Realizar pruebas de estrés para determinar las capacidades máximas que puede soportar nuestra aplicación para así realizar mantenimientos y/o escalamientos en base a las necesidades futuras.
 
 <br>
 
@@ -4310,58 +4337,13 @@ Colaboraciones de cada miembro del equipo:
 
 <h2 id="anexos">ANEXOS</h2>
 
-<table>
-<tr>
-<th colspan="17">LINKS DE TODOS LOS CAPÍTULOS</th>
-</tr>
-<tr>
-<td Cowspan="2">CAPITULOS</td>
-<td>ENLACE</td>
-<td>¿De qué trata?</td>
-</tr>
-<tr>
-<td Rowspan="2">CHAPTER 1</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 2</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 3</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 4</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td Rowspan="2">Chapter 5</td>
-<td>http1</td>
-<td>se trata de...</td>
-</tr>
-<tr>
-<td>http2</td>
-<td>se trata de...</td>
-</tr>
-</table>
+* A
+* A
+* A
+* A
+* A
+* A
+* A
+* A
+* A
+* A
