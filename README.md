@@ -4479,9 +4479,9 @@ de cada una de las features.
 </p>
 asdsadad
 
-<h4 id="sprint3">5.2.3. Sprint 3</h4>
+<h4 id="sprint3">5.2.4. Sprint 4</h4>
 
-<h4 id="sprintPlanning3">5.2.4.1. Sprint Planning 3</h4>
+<h4 id="sprintPlanning3">5.2.4.1. Sprint Planning 4</h4>
 
 <table>
     <thead>
@@ -4517,7 +4517,7 @@ asdsadad
             </td>
         </tr>
         <tr>
-            <td>Sprint 3 Review Summary</td>
+            <td>Sprint 4 Review Summary</td>
             <td>
                 Se segmentó como primer endpoint lo que es <em>plants</em> para poder realizar las primeras interacciones
                 con los metodos HTTTP y asi saber como asociar cada uno de los recursos dentro del API y asi enviar la respuesta que espera el cliente.
@@ -4533,13 +4533,13 @@ asdsadad
             <td colspan="2"><b>Sprint Goal & User Stories</b></td>
         </tr>
         <tr>
-            <td>Sprint 3 Goal</td>
+            <td>Sprint 4 Goal</td>
             <td>
                 Finalizar el desarrollo del backend para luego lograr su respectivo despliegue e integracion con la aplicacion web.
             </td>
         </tr>
         <tr>
-            <td>Sprint 3 Velocity</td>
+            <td>Sprint 4 Velocity</td>
             <td>
                 15
             </td>
@@ -4553,7 +4553,7 @@ asdsadad
     </tbody>
 </table>
 
-<h4 id="sprintBacklog3">5.2.4.2. Sprint Backlog 3</h4>
+<h4 id="sprintBacklog3">5.2.4.2. Sprint Backlog 4</h4>
 
 
 <h4 id="developmentEvidenceSprint3">5.2.4.3. Development Evidence for Sprint Review</h4>
@@ -4704,7 +4704,7 @@ El resultado es un sistema funcional, listo para pruebas y despliegue, que refle
 
 
 <p align="center">
-    <img src="./src/images/WorkFlow_FrontEnd_Sprint4.png" alt="ScreenShoot del git flow - Sprint 4" style="width:450px; height: auto;"/>
+    <img src="./src/images/Workflow_Sprint_4_App_Web.png" alt="ScreenShoot del git flow - Sprint 4" style="width:450px; height: auto;"/>
 </p>
 
 **Link del repositorio - Backend Application:**
@@ -4712,7 +4712,7 @@ El resultado es un sistema funcional, listo para pruebas y despliegue, que refle
 <a href="https://github.com/Agri-Corp/GreenCare-API">https://github.com/Agri-Corp/GreenCare-API</a>
 
 <p align="center">
-    <img src="./src/images/WorkFlow_Backend_Sprint 4.png" alt="ScreenShoot del Gitflow - Sprint 4" style="width:500px; height: auto;"/>
+    <img src="./src/images/Workflow_Sprint_4_Backend.png" alt="ScreenShoot del Gitflow - Sprint 4" style="width:500px; height: auto;"/>
 </p>
 
 <h2 id="validationInterviews">5.3. Validation Interviews</h2>
