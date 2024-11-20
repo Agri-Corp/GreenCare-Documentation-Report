@@ -4337,8 +4337,6 @@ Colaboraciones de cada miembro del equipo:
 
 <h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 3</h4>
 
-<<<<<<< Updated upstream
-=======
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td><strong>Sprint #</strong></td>
@@ -4411,7 +4409,6 @@ Colaboraciones de cada miembro del equipo:
     <td>Done</td>
   </tr>
 </table>
->>>>>>> Stashed changes
 
 <h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
 
@@ -4555,6 +4552,79 @@ asdsadad
 
 <h4 id="sprintBacklog3">5.2.4.2. Sprint Backlog 4</h4>
 
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-027</td>
+    <td rowspan="3">Crear servicio en frontend</td>
+    <td>UT-01</td>
+    <td>Crear endpoint de plants</td>
+    <td>Implementar un servicio en el frontend que gestione las solicitudes HTTP hacia la API RESTful.</td>
+    <td>3</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Configurar entorno de pruebas</td>
+    <td>Creacion del DDD para dividir cada una de las capas del RESTful API</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Implementar endpoint de datos</td>
+    <td>Añadir el endpoint correspondiente en el servicio para consumir los datos del backend.</td>
+    <td>3</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">US-029</td>
+    <td rowspan="4">Crear componentes para mostrar datos</td>
+    <td>UT-01</td>
+    <td>Diseñar componentes en el frontend para presentar los datos obtenidos desde la API</td>
+    <td>Actualizacion de cada uno de los componentes de las plantas</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Manejar errores de la API</td>
+    <td>Implementar manejo de errores en el servicio para capturar y mostrar mensajes en caso de fallos</td>
+    <td>4</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Revisar y documentar integración</td>
+    <td>Revisar el código, realizar mejoras necesarias y documentar cómo funciona la integración</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+</table>
+
 
 <h4 id="developmentEvidenceSprint3">5.2.4.3. Development Evidence for Sprint Review</h4>
 
@@ -4689,6 +4759,33 @@ Si bien las pruebas de testing no fueron desarrolladas en esta fase para prioriz
 </table>
 
 <h4 id="softwareDeploymentEvidenceSprint3">5.2.4.7. Software Deployment Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Despliegue - Landing Page</strong>
+            </td>
+            <td>
+                <a href="https://agri-corp.github.io/GreenCare-landing/">https://agri-corp.github.io/GreenCare-landing/</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Despliegue - Web App</strong>
+            </td>           
+            <td>
+                <a href="https://agricorp-upc-2024.web.app/login">https://agricorp-upc-2024.web.app/login</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 
 <h4 id="teamCollaborationInsights3">5.2.4.8. Team Collaboration Insights during Sprint</h4>
