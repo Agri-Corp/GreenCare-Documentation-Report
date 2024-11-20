@@ -296,6 +296,24 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</a>
 
+&nbsp; &nbsp;<a href="#sprint3">5.2.4. Sprint 4</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintPlanning3">5.2.4.1. Sprint Planning 4</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#sprintBacklog3">5.2.4.2. Sprint Backlog 4</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#developmentEvidenceSprint3">5.2.4.3. Development Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#testSuiteEvidenceSprint3">5.2.4.4. Testing Suite Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#executionEvidenceSprint3">5.2.4.5. Execution Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#servicesDocumentationSprint3">5.2.4.6. Services Documentation Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#softwareDeploymentEvidenceSprint3">5.2.347. Software Deployment Evidence for Sprint Review</a>
+
+&nbsp; &nbsp; &nbsp; &nbsp;<a href="#teamCollaborationInsights3">5.2.4.8. Team Collaboration Insights during Sprint</a>
+
 <a href="#validationInterviews">5.3. Validations Interviews/a>
 
 &nbsp; &nbsp;<a href="#validationDesign">5.3.1. Diseño de Entrevistas</a>
@@ -346,7 +364,14 @@
             TB1: <br>
             La herramienta principal para llevar proyectos de software de calidad se da atravez de una buena comunicación, ya que es el instrumento vital que nos permitirá comprender a cada uno de nuestros segmentos objetivos el cual hemos definido.<br><br>
             Es primordial conocer nuestro segmento y el objetivo que nosotros como Startup tenemos y queremos alcanzar; por lo que, tener esas sendas claras, nos ayudará a comprender mejorar las necesidades para solventar con nuestra solución y ofrecer mejores experiencia para los usuarios.<br><br>
-            Gracias a la herramienta de facil uso dde diseño, el cual viene a ser Figma, nos ha permtido esquematizar de manera consistente cada uno de los componentes que tendrá tanta nuestra Landing Page como Nuestro Web Application. Además, el hecho de facilitar simulaciones de uso interactivas <em>(Prototyping)</em>, nos da un primer alcance de la funcionalidad e interactividad que este tendrá cuando pase a su fase de desarrollo.
+            Gracias a la herramienta de facil uso dde diseño, el cual viene a ser Figma, nos ha permtido esquematizar de manera consistente cada uno de los componentes que tendrá tanta nuestra Landing Page como Nuestro Web Application. Además, el hecho de facilitar simulaciones de uso interactivas <em>(Prototyping)</em>, nos da un primer alcance de la funcionalidad e interactividad que este tendrá cuando pase a su fase de desarrollo. <br><br>
+            TP1: <br>
+            Comunicamos de manera clara cómo se realizaron las actualizaciones al landing page y la primera versión de la aplicación web, asegurándonos de que los avances fueran comprensibles incluso para un público no técnico. Explicamos las herramientas utilizadas y el impacto visual que logramos con las mejoras.<br><br>
+            TB2: <br>
+            al presentar la primera versión del backend, adecuamos nuestra comunicación para distintos niveles jerárquicos, utilizando términos más técnicos para explicar la arquitectura y las APIs a los desarrolladores, mientras resaltábamos la funcionalidad general del sistema para los stakeholders.<br><br>
+            TF: <br>
+            A lo largo del proyecto, comunicamos los avances por fases (TP, TB2 y TF), demostrando cómo cada iteración (front-end, backend, integración final) se sumaba al producto completo. En la TF, explicamos cómo el landing page, la aplicación web y el backend trabajaban conjuntamente, mostrando cómo la aplicación estaba lista para pruebas finales.<br><br>
+            En cada etapa del desarrollo, incluimos un análisis objetivo de nuestros resultados, identificando las áreas donde logramos los objetivos propuestos y señalando los desafíos que enfrentamos, como problemas de integración o ajustes funcionales necesarios para la fase final. Esto garantizó una comunicación transparente y profesional.
         </td>
     </tr>
     <tr>
@@ -363,6 +388,12 @@
             TB1: <br>
             El enfoque de recopilación de información, nos ha demostrado que podemos retroalimentarnos de un tema nuevo con la posibilidad de generar diversos puntos de vistas que nos servirán como <em>bases</em> para la construcción de un proyecto más sólido.<br><br>
             El hecho de construir diferentes plataformas y pensar en diferentes características, mapean de manera objetiva cada una de nuestras capacidades e habilidades que podemos ofrecer para el escalamiento del proyecto.
+            TP: <br>
+            Durante la TP, mi equipo y yo trabajamos en actualizar la landing page y desarrollar la primera versión de la aplicación web. Esto nos permitió comunicar de manera efectiva los objetivos y funcionalidades del proyecto a diversos públicos, incluyendo potenciales usuarios finales y stakeholders no técnicos.<br><br>
+            TB2: <br>
+            Implementamos la primera versión del backend, asegurando que la arquitectura estuviera diseñada para soportar la aplicación. Este proceso involucró documentar y explicar los flujos de datos y las funcionalidades técnicas de manera comprensible para especialistas técnicos y no técnicos, lo que fomenta una comunicación clara y objetiva.<br><br>
+            TF: <br>
+            Consolidamos la actualización de la landing page, la aplicación web y el backend. Al estar en la fase final del proyecto, presentamos resultados que integran todas las funcionalidades, listas para pruebas. Esto incluyó la documentación del proyecto y presentaciones efectivas para públicos con diferentes niveles de especialización.<br><br>
         </td>
     </tr>
 </table>
@@ -3497,7 +3528,7 @@ En esta sección registramos y explicamos el avance en términos de producto y t
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
     <td><strong>Sprint #</strong></td>
-    <td colspan="7"><strong>Sprint 1</strong></td>
+    <td colspan="7"><strong>Sprint 2</strong></td>
   </tr>
   <tr>
     <td colspan="2"><strong>User Story</strong></td>
@@ -4297,164 +4328,89 @@ Colaboraciones de cada miembro del equipo:
 </p>
 
 <p align="center">
-<img src="./src/images/WorkFlow-Sprint2.png" alt="Collaboration-Insights-Sprint2" style="width:500px; height: auto;"/>
+<img src="./src/images/WorkFlow-Sprint2.png alt="Collaboration-Insights-Sprint2" style="width:450px; height: 400px"/>
 </p>
 
 <h4 id="sprint3">5.2.3. Sprint 3</h4>
 
 <h4 id="sprintPlanning3">5.2.3.1. Sprint Planning 3</h4>
 
-<table>
-    <thead>
-        <tr>
-            <th>Sprint #</th>
-            <th>Sprint 3</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td colspan="2"><b>Sprint Planning Background</b></td>
-        </tr>
-        <tr>
-            <td>Date</td>
-            <td>2024/10/16</td>
-        </tr>
-        <tr>
-            <td>Time</td>
-            <td>18:07 PM</td>
-        </tr>
-        <tr>
-            <td>Location</td>
-            <td>Discord</td>
-        </tr>
-        <tr>
-            <td>Prepared by</td>
-            <td>José Diego Huamani Sánchez</td>
-        </tr>
-        <tr>
-            <td>Atendees (to planning meeting)</td>
-            <td>
-                Alexis, Raúl, Juan y Luis 
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 3 Review Summary</td>
-            <td>
-                Agregar los páginas restantes que no pudieron presentarse en el anterior Sprint, tales como la sección
-                del <em>Login</em> y <em>Register</em> asi como mejorar algunos aspectos UI que no eran agradables para
-                todos los stakeholders.
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 3 Retrospective Summary</td>
-            <td>
-                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
-        </tr>
-        <tr>
-            <td>Sprint 3 Goal</td>
-            <td>
-                Implementar el desarrollo de la primera versión del RESTFul API, incluyendo 
-                el despliegue del mismo para visualizar cada uno de los endpoints levantados.
-            </td>
-        </tr>
-        <tr>
-            <td>Sprint 3 Velocity</td>
-            <td>
-                15
-            </td>
-        </tr>
-        <tr>
-            <td>Sum of story points</td>
-            <td>
-                15
-            </td>
-        </tr>
-    </tbody>
-</table>
-
 <h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 3</h4>
 
-<h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
-
-<table>
+<table border="1" cellpadding="5" cellspacing="0">
   <tr>
-    <td align ="center" > <strong>Repository</strong></td>
-    <td  align ="center" > <strong>Branch</strong></td>
-    <td  align ="center" > <strong>Commit ID</strong></td>
-    <td  align ="center" > <strong>Commit message</strong></td>
-    <td  align ="center" > <strong>Commit Masagge body</strong></td>
-    <td  align ="center" > <strong>Commit on (date)</strong></td>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
   </tr>
-
   <tr>
-    <td rowspan="16" align="center">https://github.com/Agri-Corp/GreenCare-API</td>
-    <td align="center">main</td>
-    <td align="center"> 4d443daccc3a3ab89937922cbd90524137d4fc73</td>
-    <td align="center"> initial commit</td>
-    <td align="center"> initial commit</td>
-    <td align="center"> 2024/08/14</td>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
   </tr>
-  
   <tr>
-    <td align="center">develop</td>
-    <td align="center">03c9bce1069d0a01c1822d155c0194f28ac65462</td>
-    <td align="center"> feat: laying the foundation for the backend</td>
-    <td align="center"> feat: laying the foundation for the backend</td>
-    <td align="center"> 2024/11/01</td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
   </tr>
-
   <tr>
-    <td align="center">develop</td>
-    <td align="center">b4540d72740465ff59d228ae98db25f00383b1da</td>
-    <td align="center">fix: moving folder locations</td>
-    <td align="center">fix: moving folder locations</td>
-    <td align="center">2024/11/01</td>
+    <td rowspan="3">US-027</td>
+    <td rowspan="3">Crear servicio en frontend</td>
+    <td>UT-01</td>
+    <td>Crear endpoint de plants</td>
+    <td>Implementar un servicio en el frontend que gestione las solicitudes HTTP hacia la API RESTful.</td>
+    <td>3</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
-  
   <tr>
-    <td align="center">feature/service</td>
-    <td align="center">b73224de6a048a6d75584ddab015a97292a687a3</td>
-    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
-    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
-    <td align="center"> 2024/11/01</td>
+    <td>UT-01</td>
+    <td>Configurar entorno de pruebas</td>
+    <td>Creacion del DDD para dividir cada una de las capas del RESTful API</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
-
   <tr>
-    <td align="center">feature/model</td>
-    <td align="center">872efc6054de70094026d05b064c602f66d2aa82</td>
-    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
-    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
-    <td align="center">2024/11/01</td>
+    <td>UT-01</td>
+    <td>Implementar endpoint de datos</td>
+    <td>Añadir el endpoint correspondiente en el servicio para consumir los datos del backend.</td>
+    <td>3</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
   </tr>
-
   <tr>
-    <td align="center">feature/repository</td>
-    <td align="center">0d8c71fe1a09d26ea6d42c56b8ac75c372832235</td>
-    <td align="center">feat: add the reposity Core to administrate the Plants</td>
-    <td align="center">feat: add the reposity Core to administrate the Plants</td>
-    <td align="center">2024/11/01</td>
+    <td rowspan="4">US-029</td>
+    <td rowspan="4">Crear componentes para mostrar datos</td>
+    <td>UT-01</td>
+    <td>Diseñar componentes en el frontend para presentar los datos obtenidos desde la API</td>
+    <td>Actualizacion de cada uno de los componentes de las plantas</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
   </tr>
-
   <tr>
-    <td align="center">develop</td>
-    <td align="center">619f5015362137cd6a1d6ada51627d3b29518cd5</td>
-    <td align="center">Merge branch 'feature/repository' into develop</td>
-    <td align="center">Merge branch 'feature/repository' into develop</td>
-    <td align="center">2024/11/01</td>
+    <td>UT-01</td>
+    <td>Manejar errores de la API</td>
+    <td>Implementar manejo de errores en el servicio para capturar y mostrar mensajes en caso de fallos</td>
+    <td>4</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
   </tr>
-
   <tr>
-    <td align="center">develop</td>
-    <td align="center">172edc2c286945a9b9978ce593e4a05a7c5b599b</td>
-    <td align="center">Update PlantsController.java</td>
-    <td align="center">Update PlantsController.java</td>
-    <td align="center">2024/11/01</td>
+    <td>UT-01</td>
+    <td>Revisar y documentar integración</td>
+    <td>Revisar el código, realizar mejoras necesarias y documentar cómo funciona la integración</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
   </tr>
 </table>
+
+<h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
 
 <h4 id="testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</h4>
 
@@ -4463,14 +4419,6 @@ uno de los servicios en nuestra aplicación de Angular. Por loq que, por prioriz
 programados, para este entregable no hemos desarrollados pruebas de testing.
 
 <h4 id="servicesDocumentationSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
-
-Despues de culminar satisfactoriamente el sprint 3, logramos implementar el primer endpoint que va en relación a la consulta de cada una de las plantas que el usuario va a ir agregando dentro de la aplicación.
-
-* Vista del Endpoint Plants:
-
-<img src="./src/images/Execution-Sprint3-Backend.jfif" alt="home" style="width:auto; height:120px text-align:center"/>
-
-<br>
 
 <h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
 
@@ -4496,7 +4444,7 @@ Despues de culminar satisfactoriamente el sprint 3, logramos implementar el prim
                 <strong>Despliegue - RESTful API</strong>
             </td>           
             <td>
-                <a href=""></a>
+                <a href="https://github.com/Agri-Corp/GreenCare-API">https://github.com/Agri-Corp/GreenCare-API</a>
             </td>
         </tr>
     </tbody>
@@ -4525,6 +4473,343 @@ de cada una de las features.
 
 <p align="center">
     <img src="./src/images/Gitflow-Sprint3.png" alt="ScreenShoot del Gitfowdel Sprint 3" style="width:500px; height: auto;"/>
+</p>
+asdsadad
+
+<h4 id="sprint3">5.2.4. Sprint 4</h4>
+
+<h4 id="sprintPlanning3">5.2.4.1. Sprint Planning 4</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2024/11/10</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>10:32 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Alexis, Raúl, Juan y Luis 
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Review Summary</td>
+            <td>
+                Se segmentó como primer endpoint lo que es <em>plants</em> para poder realizar las primeras interacciones
+                con los metodos HTTTP y asi saber como asociar cada uno de los recursos dentro del API y asi enviar la respuesta que espera el cliente.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Retrospective Summary</td>
+            <td>
+                Gestionar mejor cada uno de los tiempos y mejorar los aspectos de comunicación ante cualquie imprevisto.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Goal</td>
+            <td>
+                Finalizar el desarrollo del backend para luego lograr su respectivo despliegue e integracion con la aplicacion web.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                15
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                15
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="sprintBacklog3">5.2.4.2. Sprint Backlog 4</h4>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="3">US-027</td>
+    <td rowspan="3">Crear servicio en frontend</td>
+    <td>UT-01</td>
+    <td>Crear endpoint de plants</td>
+    <td>Implementar un servicio en el frontend que gestione las solicitudes HTTP hacia la API RESTful.</td>
+    <td>3</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Configurar entorno de pruebas</td>
+    <td>Creacion del DDD para dividir cada una de las capas del RESTful API</td>
+    <td>2</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Implementar endpoint de datos</td>
+    <td>Añadir el endpoint correspondiente en el servicio para consumir los datos del backend.</td>
+    <td>3</td>
+    <td>Luis Eduardo Lagos Aguilar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="4">US-029</td>
+    <td rowspan="4">Crear componentes para mostrar datos</td>
+    <td>UT-01</td>
+    <td>Diseñar componentes en el frontend para presentar los datos obtenidos desde la API</td>
+    <td>Actualizacion de cada uno de los componentes de las plantas</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Manejar errores de la API</td>
+    <td>Implementar manejo de errores en el servicio para capturar y mostrar mensajes en caso de fallos</td>
+    <td>4</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-01</td>
+    <td>Revisar y documentar integración</td>
+    <td>Revisar el código, realizar mejoras necesarias y documentar cómo funciona la integración</td>
+    <td>3</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+</table>
+
+
+<h4 id="developmentEvidenceSprint3">5.2.4.3. Development Evidence for Sprint Review</h4>
+
+<table>
+  <tr>
+    <td align ="center" > <strong>Repository</strong></td>
+    <td  align ="center" > <strong>Branch</strong></td>
+    <td  align ="center" > <strong>Commit ID</strong></td>
+    <td  align ="center" > <strong>Commit message</strong></td>
+    <td  align ="center" > <strong>Commit Masagge body</strong></td>
+    <td  align ="center" > <strong>Commit on (date)</strong></td>
+  </tr>
+
+  <tr>
+    <td rowspan="16" align="center">https://github.com/Agri-Corp/GreenCare-API</td>
+    <td align="center">main</td>
+    <td align="center"> 4d443daccc3a3ab89937922cbd90524137d4fc73</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> initial commit</td>
+    <td align="center"> 2024/08/17</td>
+  </tr>
+  
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">03c9bce1069d0a01c1822d155c0194f28ac65462</td>
+    <td align="center"> feat: laying the foundation for the backend</td>
+    <td align="center"> feat: laying the foundation for the backend</td>
+    <td align="center"> 2024/11/17</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">b4540d72740465ff59d228ae98db25f00383b1da</td>
+    <td align="center">fix: moving folder locations</td>
+    <td align="center">fix: moving folder locations</td>
+    <td align="center">2024/11/17</td>
+  </tr>
+  
+  <tr>
+    <td align="center">feature/service</td>
+    <td align="center">b73224de6a048a6d75584ddab015a97292a687a3</td>
+    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
+    <td align="center">feat: add "controller" folder next to your code, modify "Agricorp Application"</td>
+    <td align="center"> 2024/11/18</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/model</td>
+    <td align="center">872efc6054de70094026d05b064c602f66d2aa82</td>
+    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
+    <td align="center">feat: adding models folder, its components and modifying the properties and pom.xml</td>
+    <td align="center">2024/11/18</td>
+  </tr>
+
+  <tr>
+    <td align="center">feature/repository</td>
+    <td align="center">0d8c71fe1a09d26ea6d42c56b8ac75c372832235</td>
+    <td align="center">feat: add the reposity Core to administrate the Plants</td>
+    <td align="center">feat: add the reposity Core to administrate the Plants</td>
+    <td align="center">2024/11/18</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">619f5015362137cd6a1d6ada51627d3b29518cd5</td>
+    <td align="center">Merge branch 'feature/repository' into develop</td>
+    <td align="center">Merge branch 'feature/repository' into develop</td>
+    <td align="center">2024/11/19</td>
+  </tr>
+
+  <tr>
+    <td align="center">develop</td>
+    <td align="center">172edc2c286945a9b9978ce593e4a05a7c5b599b</td>
+    <td align="center">Update PlantsController.java</td>
+    <td align="center">Update PlantsController.java</td>
+    <td align="center">2024/11/19</td>
+  </tr>
+</table>
+
+<h4 id="testSuiteEvidenceSprint3">5.2.4.4. Testing Suite Evidence for Sprint Review</h4>
+
+En este último sprint, nos enfocamos en la implementación de los endpoints esenciales que soportan los servicios principales de nuestra aplicación en Angular. Este trabajo fue prioritario para garantizar que cada funcionalidad programada estuviera completamente integrada y alineada con los objetivos del proyecto.
+
+Si bien las pruebas de testing no fueron desarrolladas en esta fase para priorizar la entrega de los features planificados, se ha asegurado una base sólida para el funcionamiento del sistema, dejando sentadas las bases para que las pruebas puedan ser abordadas en fases posteriores de validación.
+
+
+<h4 id="servicesDocumentationSprint3">5.2.4.5. Execution Evidence for Sprint Review</h4> //
+
+
+
+<h4 id="servicesDocumentationSprint3">5.2.4.6. Services Documentation Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - Landing Page</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCare-landing">https://github.com/Agri-Corp/GreenCare-landing</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - Web Application</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCareApp">https://github.com/Agri-Corp/GreenCareApp</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Repositorio - RESTful API</strong>
+            </td>           
+            <td>
+                <a href="https://github.com/Agri-Corp/GreenCare-API">https://github.com/Agri-Corp/GreenCare-API</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="softwareDeploymentEvidenceSprint3">5.2.4.7. Software Deployment Evidence for Sprint Review</h4>
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align:center">
+                <strong>Despliegue - Landing Page</strong>
+            </td>
+            <td>
+                <a href="https://agri-corp.github.io/GreenCare-landing/">https://agri-corp.github.io/GreenCare-landing/</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<table>
+    <tbody>
+        <tr>
+            <td style="text-align: center">
+                <strong>Despliegue - Web App</strong>
+            </td>           
+            <td>
+                <a href="https://agricorp-upc-2024.web.app/login">https://agricorp-upc-2024.web.app/login</a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+<h4 id="teamCollaborationInsights3">5.2.4.8. Team Collaboration Insights during Sprint</h4>
+
+En este Sprint 4, se presentó una solución completa que integra la Web Application y la API RESTful. <br>
+
+La Web App incluye vistas principales con diseño refinado y un sistema de cambio de idioma optimizado, garantizando traducción completa en todas las secciones. La API RESTful asegura comunicación eficiente entre cliente y servidor, con endpoints clave, tiempos de respuesta óptimos y manejo robusto de errores. <br>
+
+El resultado es un sistema funcional, listo para pruebas y despliegue, que refleja un trabajo bien ejecutado y alineado con los objetivos iniciales.
+
+**Link del repositorio - Web Application:**
+<a href="https://github.com/Agri-Corp/GreenCareApp">https://github.com/Agri-Corp/GreenCareApp</a>
+
+
+<p align="center">
+    <img src="./src/images/Workflow_Sprint_4_App_Web.png" alt="ScreenShoot del git flow - Sprint 4" style="width:450px; height: auto;"/>
+</p>
+
+**Link del repositorio - Backend Application:**
+
+<a href="https://github.com/Agri-Corp/GreenCare-API">https://github.com/Agri-Corp/GreenCare-API</a>
+
+<p align="center">
+    <img src="./src/images/Workflow_Sprint_4_Backend.png" alt="ScreenShoot del Gitflow - Sprint 4" style="width:500px; height: auto;"/>
 </p>
 
 <h2 id="validationInterviews">5.3. Validation Interviews</h2>
@@ -4768,7 +5053,7 @@ puedan apreciar en primera instancia el software funcional.
 <br>
 
 <p style="text-align:center">
-    <img src="./src/images/ValidationInterview1.jfif" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
+    <img src="./src/images/ValidationInterview2.jfif" alt="Entrevista#1 Validación - Luis Alberto Martínez Gutiérrez" style="width:400px"/>
 </p>
 
 **Resumen de la Entrevista:**
@@ -4866,6 +5151,10 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/EcJoUZK-
     * Realizar validaciones en cada uno los formularios dentro de la aplicación de Angular para detallar las denegaciones o impedimentos.
     * Realizar funciones o **Store Procedures** en vez de consultas dinámicas para mitigar los riesgos de ataques de <q>SQL Injection</q>.
     * Realizar pruebas de estrés para determinar las capacidades máximas que puede soportar nuestra aplicación para así realizar mantenimientos y/o escalamientos en base a las necesidades futuras.
+
+*TF*
+
+* A lo largo del desarrollo del backend y su integración con el frontend, el equipo enfrentó desafíos como la definición de endpoints, la implementación de una arquitectura escalable y la sincronización de servicios. Superamos problemas técnicos de comunicación entre cliente y servidor, asegurando un flujo de datos eficiente y seguro. Estos obstáculos nos brindaron oportunidades para aprender y fortalecer nuestras habilidades técnicas. Gracias al esfuerzo, trabajo en equipo y planificación, logramos entregar una solución funcional y fluida, demostrando nuestra capacidad para enfrentar desafíos y crecer profesionalmente. 
 
 <br>
 
